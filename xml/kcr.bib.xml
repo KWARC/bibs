@@ -333,7 +333,7 @@
         </bib-name><bib-name role="editor">
           <surname>Tompa</surname>
           <givenname/>
-        </bib-name><bib-data role="venue">Bialystok, Poland</bib-data><bib-data role="eventdate">2016-07-25/2015-07-29</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-key>CICM16</bib-key><bib-data role="label">CICM16</bib-data><bib-extract role="keywords">conference</bib-extract><bib-publisher>Springer</bib-publisher><bib-part role="series">LNCS</bib-part><bib-part role="number">9791</bib-part><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2016</bib-date><bib-extract role="keywords">conference</bib-extract><bib-note role="annotation">in press</bib-note><bib-data role="pubs">mkohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM16,
+        </bib-name><bib-data role="venue">Bialystok, Poland</bib-data><bib-data role="eventdate">2016-07-25/2015-07-29</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-key>CICM16</bib-key><bib-data role="label">CICM16</bib-data><bib-extract role="keywords">conference</bib-extract><bib-publisher>Springer</bib-publisher><bib-part role="series">LNCS</bib-part><bib-part role="number">9791</bib-part><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2016</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">mkohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM16,
     editor = {Michael Kohlhase and Moa Johansson and Bruce Miller and Leonardo de Moura and Frank Tompa},
      venue = {Bialystok, Poland},
  eventdate = {2016-07-25/2015-07-29},
@@ -349,7 +349,6 @@
   soonisbn = {978-3-319-20615-8},
       year = {2016},
   keywords = {conference},
-      note = {in press},
       pubs = {mkohlhase}}
 </bib-data></bib-related>
         
@@ -26886,7 +26885,6 @@ Sandro Wartzack},
         <bib-data role="soonisbn">978-3-319-20615-8</bib-data>
         <bib-date role="publication">2016</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-note role="annotation">in press</bib-note>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM16,
     editor = {Michael Kohlhase and Moa Johansson and Bruce Miller and Leonardo de Moura and Frank Tompa},
@@ -26904,7 +26902,6 @@ Sandro Wartzack},
   soonisbn = {978-3-319-20615-8},
       year = {2016},
   keywords = {conference},
-      note = {in press},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
