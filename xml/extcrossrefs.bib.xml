@@ -17,6 +17,7 @@
           <givenname>Kim</givenname>
         </bib-name>
         <bib-title>Proceedings of the 2013 ACM symposium on document engineering</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2013</bib-date>
         <bib-identifier id="978-1-4503-1789-4" scheme="isbn">ISBN 978-1-4503-1789-4</bib-identifier>
         <bib-data role="location">Florence, Italy</bib-data>
@@ -24,6 +25,7 @@
     editor = {Simone Marinai and Kim Marriott},
      title = {Proceedings of the 2013 {ACM} Symposium on Document Engineering},
  booktitle = {Proceedings of the 2013 {ACM} Symposium on Document Engineering},
+  keywords = {conference},
       year = {2013},
       isbn = {978-1-4503-1789-4},
   location = {Florence, Italy}}
@@ -55,6 +57,7 @@
         <bib-identifier id="978-1-4503-2034-4" scheme="isbn">ISBN 978-1-4503-2034-4</bib-identifier>
         <bib-data role="location">Dublin, Ireland</bib-data>
         <bib-publisher>ACM</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-place>New York, NY, USA</bib-place>
         <bib-data role="self" type="BibTeX">@proceedings{SIGIR13,
     editor = {Gareth J. F. Jones and
@@ -68,6 +71,7 @@
       isbn = {978-1-4503-2034-4},
   location = {Dublin, Ireland},
  publisher = {ACM},
+  keywords = {conference},
    address = {New York, NY, USA}}
 </bib-data>
       </bibentry>
@@ -138,6 +142,7 @@
         <bib-part role="series">LNCS</bib-part>
         <bib-date role="publication">2014</bib-date>
         <bib-part role="volume">8592</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
         <bib-url href="http://dx.doi.org/10.1007/978-3-662-44199-2">Link</bib-url>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier>
@@ -149,6 +154,7 @@
     series = {LNCS},
       year = {2014},
     volume = {8592},
+  keywords = {conference},
  publisher = {Springer},
        url = {http://dx.doi.org/10.1007/978-3-662-44199-2},
        doi = {10.1007/978-3-662-44199-2},
@@ -176,6 +182,7 @@
         <bib-part role="series">LNCS</bib-part>
         <bib-date role="publication">2016</bib-date>
         <bib-part role="volume">9725</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-319-42432-3" id="10.1007/978-3-319-42432-3" scheme="doi">Document</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS16,
@@ -185,6 +192,7 @@
     series = {LNCS},
       year = {2016},
     volume = {9725},
+  keywords = {conference},
  publisher = {Springer},
        doi = {10.1007/978-3-319-42432-3}}
 </bib-data>
@@ -193,6 +201,7 @@
         <bib-date role="publication">2013</bib-date>
         <bib-identifier id="978-3-642-39633-5" scheme="isbn">ISBN 978-3-642-39633-5</bib-identifier>
         <bib-title>Interactive theorem proving</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-part role="volume">7998</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-name role="editor">
@@ -213,6 +222,7 @@
       isbn = {978-3-642-39633-5},
      title = {Interactive Theorem Proving},
  booktitle = {Interactive Theorem Proving},
+  keywords = {conference},
     volume = {7998},
     series = {LNCS},
     editor = {Blazy, Sandrine and Paulin-Mohring, Christine and Pichardie, David},
@@ -232,6 +242,7 @@
         <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
         <bib-date role="publication">2014</bib-date>
         <bib-part role="volume">267</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>IOS Press</bib-publisher>
         <bib-identifier id="978-1-61499-437-4" scheme="isbn">ISBN 978-1-61499-437-4</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{FOIS14,
@@ -243,6 +254,7 @@
     series = {Frontiers in Artificial Intelligence and Applications},
       year = {2014},
     volume = {267},
+  keywords = {conference},
  publisher = {{IOS} Press},
       isbn = {978-1-61499-437-4}}
 </bib-data>
@@ -443,6 +455,7 @@
         <bib-title>Professionelles Wissenmanagement Management, Konferenzbeiträge der 7. Konferenz</bib-title>
         <bib-publisher>GITO Verlag</bib-publisher>
         <bib-date role="publication">2013</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="978-3-95545-016-8" scheme="isbn">ISBN 978-3-95545-016-8</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{ProWM13,
     editor = {Franz Lehner and Nadine Amende and Nora Fteimi},
@@ -450,6 +463,7 @@
      title = {{Professionelles Wissenmanagement Management, Konferenzbeitr{\"a}ge der 7. Konferenz}},
  publisher = {GITO Verlag},
       year = {2013},
+  keywords = {conference},
       isbn = {978-3-95545-016-8}}
 </bib-data>
       </bibentry>
@@ -511,6 +525,7 @@
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">3554</bib-part>
         <bib-date role="publication">2005</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="3-540-26924-X" scheme="isbn">ISBN 3-540-26924-X</bib-identifier>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{DBLP:conf/context/2005,
@@ -526,6 +541,7 @@
     series = {LNCS},
     number = {3554},
       year = {2005},
+  keywords = {conference},
       isbn = {3-540-26924-X},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
@@ -616,6 +632,7 @@
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-place>Heidelberg</bib-place>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-part role="number">6644</bib-part>
         <bib-identifier id="978-3-642-21033-4" scheme="isbn">ISBN 978-3-642-21033-4</bib-identifier>
         <bib-date role="publication">2011</bib-date>
@@ -629,6 +646,7 @@
  publisher = {Springer Verlag},
    address = {Heidelberg},
     series = {LNCS},
+  keywords = {conference},
     number = {6644},
       isbn = {978-3-642-21033-4},
       year = {2011}}
@@ -638,12 +656,14 @@
         <bib-title>6<sup>th</sup> IEEE e-science conference</bib-title>
         <bib-data role="eventdate">2010-12</bib-data>
         <bib-data role="venue">Brisbane, Australia</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2010</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{escience2010,
      title = {6\textsuperscript{th} {IEEE} e-Science conference},
  booktitle = {6\textsuperscript{th} {IEEE} e-Science conference},
  eventdate = {2010-12},
      venue = {Brisbane, Australia},
+  keywords = {conference},
       year = {2010}}
 </bib-data>
       </bibentry>
@@ -653,6 +673,7 @@
         <bib-date role="publication">2011</bib-date>
         <bib-identifier id="978-1-4577-2163-2" scheme="isbn">ISBN 978-1-4577-2163-2</bib-identifier>
         <bib-data role="ee">http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6122900</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{DBLP:conf/eScience/2011,
      title = {IEEE 7th International Conference on E-Science, e-Science
@@ -662,6 +683,7 @@
       year = {2011},
       isbn = {978-1-4577-2163-2},
         ee = {http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6122900},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -721,11 +743,13 @@
         <bib-title>Proceedings of XML Prague 2010</bib-title>
         <bib-url href="http://www.xmlprague.cz/2010/">Link</bib-url>
         <bib-date role="publication">2010</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-part role="pages">317–339</bib-part>
         <bib-data role="self" type="BibTeX">@proceedings{XMLPrague2010,
  booktitle = {Proceedings of XML Prague 2010},
        url = {http://www.xmlprague.cz/2010/},
       year = {2010},
+  keywords = {conference},
      pages = {317–339}}
 </bib-data>
       </bibentry>
@@ -1011,6 +1035,7 @@ and Linking of Structured Knowledge ({CK})},
         <bib-title>Intelligent tutoring systems, 8th international conference, its 2006, jhongli, taiwan, june 26-30, 2006, proceedings</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-part role="number">4053</bib-part>
         <bib-date role="publication">2006</bib-date>
         <bib-identifier id="3-540-35159-0" scheme="isbn">ISBN 3-540-35159-0</bib-identifier>
@@ -1024,6 +1049,7 @@ and Linking of Structured Knowledge ({CK})},
  booktitle = {Intelligent Tutoring Systems},
  publisher = {Springer},
     series = {LNCS},
+  keywords = {conference},
     number = {4053},
       year = {2006},
       isbn = {3-540-35159-0},
@@ -1047,6 +1073,7 @@ and Linking of Structured Knowledge ({CK})},
         <bib-data role="venue">Lake District of the United Kingdom</bib-data>
         <bib-data role="eventdate">2006-06-02/2006-06-05</bib-data>
         <bib-publisher>AAAI Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2006</bib-date>
         <bib-identifier id="978-1-57735-271-6" scheme="isbn">ISBN 978-1-57735-271-6</bib-identifier>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
@@ -1060,6 +1087,7 @@ and Linking of Structured Knowledge ({CK})},
  eventdate = {2006-06-02/2006-06-05},
  booktitle = {KR},
  publisher = {AAAI Press},
+  keywords = {conference},
       year = {2006},
       isbn = {978-1-57735-271-6},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
@@ -1128,6 +1156,7 @@ and Linking of Structured Knowledge ({CK})},
         <bib-part role="number">4732</bib-part>
         <bib-date role="publication">2007</bib-date>
         <bib-identifier id="978-3-540-74590-7" scheme="isbn">ISBN 978-3-540-74590-7</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{DBLP:conf/tphol/2007,
     editor = {Klaus Schneider and
@@ -1141,6 +1170,7 @@ and Linking of Structured Knowledge ({CK})},
     number = {4732},
       year = {2007},
       isbn = {978-3-540-74590-7},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -1159,6 +1189,7 @@ and Linking of Structured Knowledge ({CK})},
           <surname>Pulte</surname>
           <givenname>Helmut</givenname>
         </bib-name>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="month">November</bib-data>
         <bib-url href="http://www.ruhr-uni-bochum.de/wtundwg/">Link</bib-url>
         <bib-data role="self" type="BibTeX">@proceedings{EaPiM,
@@ -1166,6 +1197,7 @@ and Linking of Structured Knowledge ({CK})},
       year = {2006},
  booktitle = {{Conference on Explanation and Proof in Mathematics: Philosophical and Educational Perspectives}},
     editor = {Gila Hanna and Hans Niels Jahnke and Helmut Pulte},
+  keywords = {conference},
      month = {November},
        url = {http://www.ruhr-uni-bochum.de/wtundwg/}}
 </bib-data>
@@ -1323,6 +1355,7 @@ and Linking of Structured Knowledge ({CK})},
         <bib-publisher>IOS Press</bib-publisher>
         <bib-date role="publication">2004</bib-date>
         <bib-identifier id="1-58603-452-9" scheme="isbn">ISBN 1-58603-452-9</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{DBLP:conf/ecai/2004,
     editor = {Ramon L{\'o}pez de M{\'a}ntaras and
@@ -1336,6 +1369,7 @@ and Linking of Structured Knowledge ({CK})},
  publisher = {IOS Press},
       year = {2004},
       isbn = {1-58603-452-9},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -1446,6 +1480,7 @@ and Linking of Structured Knowledge ({CK})},
         </bib-name>
         <bib-place>Stockholm, Sweden</bib-place>
         <bib-publisher>Pitman Publishing, London, England</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ECAI1990</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ECAI90,
      title = {Proceedings of of the 9\textsuperscript{th} European Conference on Artifical Intelligence},
@@ -1453,6 +1488,7 @@ and Linking of Structured Knowledge ({CK})},
     editor = {Luigia Carlucci Aiello},
    address = {Stockholm, Sweden},
  publisher = {Pitman Publishing, London, England},
+  keywords = {conference},
  booktitle = {Proceedings of of the 9\textsuperscript{th} European Conference on Artifical Intelligence},
        key = {ECAI1990}}
 </bib-data>
@@ -1490,6 +1526,7 @@ and Linking of Structured Knowledge ({CK})},
         </bib-name>
         <bib-part role="volume">V: Learner Modelling for Reflection</bib-part>
         <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-place>Sidney, Australia</bib-place>
         <bib-publisher>School of Information Technologies, University of Sydney</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{AIED03-v,
@@ -1500,6 +1537,7 @@ and Linking of Structured Knowledge ({CK})},
     and Helen Pain and Felisa Verdejo and Kalina Yacef},
     volume = {V: Learner Modelling for Reflection},
     series = {Frontiers in Artificial Intelligence and Applications},
+  keywords = {conference},
    address = {Sidney, Australia},
  publisher = {School of Information Technologies, University of Sydney}}
 </bib-data>
@@ -1537,6 +1575,7 @@ and Linking of Structured Knowledge ({CK})},
         </bib-name>
         <bib-part role="volume">VIII: Advanced Technologies for Mathematics Education</bib-part>
         <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-place>Sidney, Australia</bib-place>
         <bib-publisher>School of Information Technologies, University of Sydney</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{AIED03-viii,
@@ -1547,6 +1586,7 @@ and Linking of Structured Knowledge ({CK})},
     and Helen Pain and Felisa Verdejo and Kalina Yacef},
     volume = {VIII: Advanced Technologies for Mathematics Education},
     series = {Frontiers in Artificial Intelligence and Applications},
+  keywords = {conference},
    address = {Sidney, Australia},
  publisher = {School of Information Technologies, University of Sydney}}
 </bib-data>
@@ -1576,6 +1616,7 @@ and Linking of Structured Knowledge ({CK})},
         </bib-name>
         <bib-part role="number">2074</bib-part>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-place>San Francisco, CAUSA</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-key>ICCS2001</bib-key>
@@ -1586,6 +1627,7 @@ and Linking of Structured Knowledge ({CK})},
     Ren{\`e} S. Renner and C. J. Kenneth Tan},
     number = {2074},
     series = {LNCS},
+  keywords = {conference},
    address = {San Francisco, CA\USA},
  publisher = {Springer Verlag},
        key = {ICCS2001}}
@@ -1617,6 +1659,7 @@ and Linking of Structured Knowledge ({CK})},
         <bib-part role="number">2309</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>FROCOS2002</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{FROCOS02,
      title = {Frontiers of Combinning Systems ({FROCOS'02})},
@@ -1625,6 +1668,7 @@ and Linking of Structured Knowledge ({CK})},
     number = {2309},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Frontiers of Combinning Systems ({FROCOS'02})},
        key = {FROCOS2002}}
 </bib-data>
@@ -1699,6 +1743,7 @@ and Linking of Structured Knowledge ({CK})},
         </bib-name>
         <bib-part role="number">2594</bib-part>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{MKM03,
      title = {Mathematical Knowledge Management, {MKM'03}},
@@ -1706,6 +1751,7 @@ and Linking of Structured Knowledge ({CK})},
     editor = {Andrea Asperti and Bruno Buchberger and James Harold Davenport},
     number = {2594},
     series = {LNCS},
+  keywords = {conference},
  publisher = {Springer Verlag},
  booktitle = {Mathematical Knowledge Management, {MKM'03}}}
 </bib-data>
@@ -1747,6 +1793,7 @@ and Linking of Structured Knowledge ({CK})},
         </bib-name>
         <bib-part role="series">Series on Applied Logic</bib-part>
         <bib-publisher>Kluwer</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>FROCOS1996</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{FROCOS96,
      title = {\PROC of First International Workshop Frontiers of Combinning Systems
@@ -1755,6 +1802,7 @@ and Linking of Structured Knowledge ({CK})},
     editor = {Franz Baader and Klaus Schulz},
     series = {Series on Applied Logic},
  publisher = {Kluwer},
+  keywords = {conference},
  booktitle = {\PROC of First International Workshop Frontiers of Combinning Systems
     ({FROCOS'96})},
        key = {FROCOS1996}}
@@ -1773,6 +1821,7 @@ and Linking of Structured Knowledge ({CK})},
         <bib-part role="number">2514</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Logic for Programming, Artificial Intelligence, and Reasoning –
 9<sup>th</sup> International Conference, LPAR 2002</bib-title>
         <bib-key>LPAR2002</bib-key>
@@ -1782,6 +1831,7 @@ and Linking of Structured Knowledge ({CK})},
     number = {2514},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Logic for Programming, Artificial Intelligence, and Reasoning –
     9\textsuperscript{th} International Conference, LPAR 2002},
        key = {LPAR2002}}
@@ -1866,6 +1916,7 @@ University</bib-place>
         <bib-publisher>Morgan Kaufmann, San Mateo, CA</bib-publisher>
         <bib-title>Proceedings of the 13<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1993</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI93,
       year = {1993},
@@ -1874,6 +1925,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann, San Mateo, CA},
  booktitle = {Proceedings of the 13\textsuperscript{th} {International} {Joint} {Conference} on {Artificial}
     {Intelligence} ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1993}}
 </bib-data>
       </bibentry>
@@ -1894,6 +1946,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="number">918</bib-part>
         <bib-part role="series">LNAI</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TABLEAU1995</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TABLEAU95,
      title = {Theorem Proving with Analytic Tableaux and Related Methods},
@@ -1901,6 +1954,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {P. Baumgartner and R. H{\"a}hnle and J. Posegga},
     number = {918},
     series = {LNAI},
+  keywords = {conference},
  booktitle = {Theorem Proving with Analytic Tableaux and Related Methods},
        key = {TABLEAU1995}}
 </bib-data>
@@ -2020,6 +2074,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">1690</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TPHOLS1999</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TPHOL99,
      title = {Theorem Proving in Higher Order Logics: TPHOLs'99},
@@ -2029,6 +2084,7 @@ Intelligence (IJCAI)</bib-title>
     number = {1690},
     series = {LNCS},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Theorem Proving in Higher Order Logics: TPHOLs'99},
        key = {TPHOLS1999}}
 </bib-data>
@@ -2047,6 +2103,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">664</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TLCA1993</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TLCA93,
      title = {Proceedings International Conference on Typed Lambda Calculi and
@@ -2058,6 +2115,7 @@ Intelligence (IJCAI)</bib-title>
     number = {664},
  booktitle = {Proceedings International Conference on Typed Lambda Calculi and
     Applications},
+  keywords = {conference},
        key = {TLCA1993}}
 </bib-data>
       </bibentry>
@@ -2173,6 +2231,7 @@ Intelligence (IJCAI)</bib-title>
             </XMath>
           </Math> International Conference on Rewriting
 Techniques and Applications</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>RTA1991</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{RTA91,
       year = {1991},
@@ -2182,6 +2241,7 @@ Techniques and Applications</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the $4^{th}$ International Conference on Rewriting
     Techniques and Applications},
+  keywords = {conference},
        key = {RTA1991}}
 </bib-data>
       </bibentry>
@@ -2199,6 +2259,7 @@ Techniques and Applications</bib-title>
         <bib-part role="number">4108</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{MKM06,
      title = {{Mathematical Knowledge Management ({MKM})}},
       year = {2006},
@@ -2206,26 +2267,38 @@ Techniques and Applications</bib-title>
     number = {4108},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Mathematical Knowledge Management ({MKM})}}
 </bib-data>
       </bibentry>
       <bibentry key="MACIS15" type="proceedings" xml:id="bib.bib77">
         <bib-title>MACIS 2015</bib-title>
         <bib-date role="publication">2016</bib-date>
-        <bib-data role="sooneditor">????</bib-data>
-        <bib-data role="soonnumber">????</bib-data>
+        <bib-name role="editor">
+          <surname>Kotsireas</surname>
+          <givenname>Ilias S.</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Rump</surname>
+          <givenname>Siegfried M.</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Yap</surname>
+          <givenname>Chee K.</givenname>
+        </bib-name>
+        <bib-part role="number">9582</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
-        <bib-note role="annotation">in press</bib-note>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{MACIS15,
      title = {MACIS 2015},
       year = {2016},
- sooneditor = {????},
- soonnumber = {????},
+    editor = {Ilias S. Kotsireas and Siegfried M. Rump and Chee K. Yap},
+    number = {9582},
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {MACIS 2015: Sixth International Conference on Mathematical Aspects of Computer and Information Sciences},
-      note = {in press}}
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="MKM07" type="proceedings" xml:id="bib.bib78">
@@ -2250,6 +2323,7 @@ Techniques and Applications</bib-title>
         </bib-name>
         <bib-part role="number">4573</bib-part>
         <bib-part role="series">LNAI</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{MKM07,
      title = {{MKM/Calculemus}},
@@ -2259,6 +2333,7 @@ Techniques and Applications</bib-title>
     editor = {Manuel Kauers and Manfred Kerber and Robert Miner and Wolfgang Windsteiger},
     number = {4573},
     series = {LNAI},
+  keywords = {conference},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
@@ -2561,12 +2636,10 @@ Techniques and Applications</bib-title>
       <bibentry key="CALCULEMUS10" type="proceedings" xml:id="bib.bib85">
         <bib-key>CALCULEMUS 2010</bib-key>
         <bib-date role="publication">2010</bib-date>
-        <bib-note role="annotation">submitted to CALCULEMUS 2010</bib-note>
         <bib-title>CALCULEMUS</bib-title>
         <bib-data role="self" type="BibTeX">@proceedings{CALCULEMUS10,
        key = {CALCULEMUS 2010},
       year = {2010},
-      note = {submitted to CALCULEMUS 2010},
  booktitle = {CALCULEMUS},
      title = {CALCULEMUS}}
 </bib-data>
@@ -2661,6 +2734,7 @@ Techniques and Applications</bib-title>
           <givenname>Ben</givenname>
         </bib-name>
         <bib-place>Montréal, Canada</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ITS2000-W1</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ITS2000-W1,
      title = {Proceedings of the Fifth International Conference on Intelligent
@@ -2669,6 +2743,7 @@ Techniques and Applications</bib-title>
       year = {2000},
     editor = {Ben du Boulay},
    address = {Montr{\'e}al, Canada},
+  keywords = {conference},
        key = {ITS2000-W1}}
 </bib-data>
       </bibentry>
@@ -2686,6 +2761,7 @@ Techniques and Applications</bib-title>
         <bib-part role="number">2152</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TPHOLS2001</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TPHOL01,
      title = {Theorem Proving in Higher Order Logics: TPHOLs'01},
@@ -2695,6 +2771,7 @@ Techniques and Applications</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Theorem Proving in Higher Order Logics: TPHOLs'01},
+  keywords = {conference},
        key = {TPHOLS2001}}
 </bib-data>
       </bibentry>
@@ -2737,6 +2814,7 @@ Techniques and Applications</bib-title>
         <bib-part role="number">1303</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Freiburg, Germany</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{KI97,
      title = {Proceedings of the 18.th Annual German Conference on Artificial Intelligence
     KI'97},
@@ -2745,6 +2823,7 @@ Techniques and Applications</bib-title>
     number = {1303},
     series = {LNAI},
    address = {Freiburg, Germany},
+  keywords = {conference},
  booktitle = {Proceedings of the 18.th Annual German Conference on Artificial Intelligence
     KI'97}}
 </bib-data>
@@ -2760,6 +2839,7 @@ Techniques and Applications</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Nancy, France</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1994</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE94,
      title = {Proceedings of the 12\textsuperscript{th} {Conference} on {Automated} {Deduction}},
@@ -2770,6 +2850,7 @@ Techniques and Applications</bib-title>
    address = {Nancy, France},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 12\textsuperscript{th} {Conference} on {Automated} {Deduction}},
+  keywords = {conference},
        key = {CADE1994}}
 </bib-data>
       </bibentry>
@@ -2782,6 +2863,7 @@ Techniques and Applications</bib-title>
         <bib-publisher>Morgan Kaufmann, San Mateo, California, USA</bib-publisher>
         <bib-title>Proceedings of the 8<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1983</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI83,
       year = {1983},
@@ -2789,6 +2871,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann, San Mateo, California, USA},
  booktitle = {Proceedings of the 8\textsuperscript{th} {International} {Joint} {Conference} on {Artificial}
     {Intelligence} ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1983}}
 </bib-data>
       </bibentry>
@@ -2806,6 +2889,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-part role="number">1761</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>FTP1998</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{FTP98,
      title = {Automated Deduction in Classical and Non-Classical Logics ({FTP'98})},
@@ -2815,6 +2899,7 @@ Intelligence (IJCAI)</bib-title>
     number = {1761},
  publisher = {Springer Verlag},
  booktitle = {Automated Deduction in Classical and Non-Classical Logics ({FTP'98})},
+  keywords = {conference},
        key = {FTP1998}}
 </bib-data>
       </bibentry>
@@ -2832,6 +2917,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">958</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AISMC94,
      title = {Integrating Symbolic Mathematical Computation and Artificial Intelligence;
     Proceedings of the second International Conference; Selected Papers},
@@ -2840,6 +2926,7 @@ Intelligence (IJCAI)</bib-title>
     number = {958},
     series = {LNCS},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Integrating Symbolic Mathematical Computation and Artificial Intelligence;
     Proceedings of the second International Conference; Selected Papers}}
 </bib-data>
@@ -2858,6 +2945,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">737</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AISMC92,
      title = {Integrating Symbolic Mathematical Computation and Artificial Intelligence},
       year = {1993},
@@ -2865,6 +2953,7 @@ Intelligence (IJCAI)</bib-title>
     number = {737},
     series = {LNCS},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Integrating Symbolic Mathematical Computation and Artificial Intelligence}}
 </bib-data>
       </bibentry>
@@ -2883,6 +2972,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-place>Karlsruhe, Germany</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{DISCO96,
      title = {Design and Implementation of Symbolic Computation Systems, DISCO'96},
       year = {1996},
@@ -2891,6 +2981,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
    address = {Karlsruhe, Germany},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Design and Implementation of Symbolic Computation Systems, DISCO'96}}
 </bib-data>
       </bibentry>
@@ -2915,6 +3006,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="number">587</bib-part>
         <bib-part role="series">LNAI</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{DaleEtAl:aoanlg92,
      title = {Aspects of Automated Natural Language Generation},
@@ -2922,6 +3014,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Robert Dale and Eduard Hovy and Dietmar R{\"o}sner and Oliviero Stock},
     number = {587},
     series = {LNAI},
+  keywords = {conference},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
@@ -2943,6 +3036,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">4</bib-part>
         <bib-part role="series">Cognitive Science Series</bib-part>
         <bib-place>San Diego, CA</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Academic Press</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{DaleEtAl:crinlg90,
      title = {Current Research in Natural Language Generation},
@@ -2951,6 +3045,7 @@ Intelligence (IJCAI)</bib-title>
     number = {4},
     series = {Cognitive Science Series},
    address = {San Diego, CA},
+  keywords = {conference},
  publisher = {Academic Press}}
 </bib-data>
       </bibentry>
@@ -2975,6 +3070,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="number">355</bib-part>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-key>RTA1989</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{RTA89,
@@ -2984,6 +3080,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Nachum Dershowitz},
     number = {355},
     series = {LNCS},
+  keywords = {conference},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the $3^{rd}$ International Conference of Rewriting
     Techniques and Applications},
@@ -3003,6 +3100,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="number">902</bib-part>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{TLCA95,
      title = {Typed Lambda Calculi and Applications},
@@ -3010,6 +3108,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Mariangiola Dezani-Ciancaglini and Gordon Plotkin},
     number = {902},
     series = {LNCS},
+  keywords = {conference},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
@@ -3023,6 +3122,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Morgan Kaufmann, San Mateo, California, USA</bib-publisher>
         <bib-title>Proceedings of the 7<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1981</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI81,
       year = {1981},
@@ -3031,6 +3131,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann, San Mateo, California, USA},
  booktitle = {Proceedings of the 7\textsuperscript{th} International Joint Conference on Artificial
     Intelligence ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1981}}
 </bib-data>
       </bibentry>
@@ -3074,6 +3175,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-title>Logics in AI. European Workshop JELIA ’90, Amsterdam</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>JELIA1990</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{JELIA90,
       year = {1990},
@@ -3082,6 +3184,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Logics in AI. European Workshop JELIA '90, Amsterdam},
+  keywords = {conference},
        key = {JELIA1990}}
 </bib-data>
       </bibentry>
@@ -3207,6 +3310,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="number">1632</bib-part>
         <bib-part role="series">LNAI</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-key>CADE1999</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE99,
@@ -3215,6 +3319,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Harald Ganzinger},
     number = {1632},
     series = {LNAI},
+  keywords = {conference},
  publisher = {Springer Verlag},
  booktitle = {Automated Deduction — {CADE}-16},
        key = {CADE1999}}
@@ -3241,6 +3346,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="number">1103</bib-part>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-key>RTA1996</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{RTA96,
@@ -3250,6 +3356,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Harald Ganzinger},
     number = {1103},
     series = {LNCS},
+  keywords = {conference},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the $7^{th}$ International Consference on Rewriting
     Techniques and Applications},
@@ -3273,6 +3380,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="volume">3</bib-part>
         <bib-publisher>Elsevier/North Holland</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>PPAI1997</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{PPAI97,
      title = {Parallel Processing for Artificial Intelligence},
@@ -3280,6 +3388,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {J. Geller and H. Kitano and C. Suttner},
     volume = {3},
  publisher = {Elsevier/North Holland},
+  keywords = {conference},
  booktitle = {Parallel Processing for Artificial Intelligence},
        key = {PPAI1997}}
 </bib-data>
@@ -3308,6 +3417,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="number">3729</bib-part>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
         <bib-identifier id="3-540-29754-5" scheme="isbn">ISBN 3-540-29754-5</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{iswc2005,
@@ -3320,6 +3430,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Yolanda Gil and Enrico Motta and V. Richard Benjamins and Mark A. Musen},
     number = {3729},
     series = {LNCS},
+  keywords = {conference},
  publisher = {Springer},
       isbn = {3-540-29754-5}}
 </bib-data>
@@ -3361,6 +3472,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-part role="number">4273</bib-part>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-identifier id="3-540-49029-9" scheme="isbn">ISBN 3-540-49029-9</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{iswc2006,
@@ -3370,6 +3482,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Isabel F. Cruz and Stefan Decker and Dean Allemang and Chris Preist and Daniel Schwabe and Peter Mika and Michael Uschold and Lora Aroyo},
     number = {4273},
     series = {LNCS},
+  keywords = {conference},
  publisher = {Springer Verlag},
       isbn = {3-540-49029-9}}
 </bib-data>
@@ -3432,8 +3545,9 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">4825</bib-part>
         <bib-date role="publication">2007</bib-date>
-        <bib-identifier id="978-3-540-76297-3" scheme="isbn">ISBN 978-3-540-76297-3</bib-identifier>
-<!--  %**** String Line 25 **** -->        <bib-data role="self" type="BibTeX">@proceedings{iswc2007,
+        <bib-extract role="keywords">conference</bib-extract>
+<!--  %**** String Line 25 **** -->        <bib-identifier id="978-3-540-76297-3" scheme="isbn">ISBN 978-3-540-76297-3</bib-identifier>
+        <bib-data role="self" type="BibTeX">@proceedings{iswc2007,
     editor = {Karl Aberer and
                Key-Sun Choi and
                Natasha Fridman Noy and
@@ -3456,6 +3570,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
     number = {4825},
       year = {2007},
+  keywords = {conference},
       isbn = {978-3-540-76297-3}}
 </bib-data>
       </bibentry>
@@ -3470,6 +3585,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Sozopol, Bulgaria</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AIMSA98,
      title = {Proceedings of the of the 8\textsuperscript{th} International Conference AIMSA'98},
       year = {1998},
@@ -3478,6 +3594,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNAI},
    address = {Sozopol, Bulgaria},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Artificial Intelligence: Methodology, Systems and Applications}}
 </bib-data>
       </bibentry>
@@ -3500,6 +3617,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Siena, Italy</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAR2001</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR01,
      title = {Automated Reasoning — 1\textsuperscript{st} International Joint Conference, IJCAR  2001},
@@ -3510,6 +3628,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNAI},
    address = {Siena, \ITALY},
  publisher = {Springer Verlag},
+  keywords = {conference},
        key = {IJCAR2001}}
 </bib-data>
       </bibentry>
@@ -3528,6 +3647,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Seattle, USA</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAR2006</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR06,
      title = {Automated Reasoning — Third International Joint Conference, IJCAR 2006},
@@ -3538,6 +3658,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNAI},
    address = {Seattle, USA},
  publisher = {Springer Verlag},
+  keywords = {conference},
        key = {IJCAR2006}}
 </bib-data>
       </bibentry>
@@ -3616,6 +3737,7 @@ Science Lab</bib-part>
         <bib-part role="number">1275</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TPHOLS1997</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TPHOL97,
      title = {Theorem Proving in Higher Order Logics: TPHOLs'97},
@@ -3625,6 +3747,7 @@ Science Lab</bib-part>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Theorem Proving in Higher Order Logics: TPHOLs'97},
+  keywords = {conference},
        key = {TPHOLS1997}}
 </bib-data>
       </bibentry>
@@ -3730,6 +3853,7 @@ Science Lab</bib-part>
         </bib-name>
         <bib-place>Brighton, UK</bib-place>
         <bib-publisher>John Wiley &amp; Sons, Chichester, UK</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ECAI2000</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ECAI00,
      title = {Proceedings of of the 14\textsuperscript{th} European Conference on Artifical Intelligence},
@@ -3737,6 +3861,7 @@ Science Lab</bib-part>
     editor = {Werner Horn},
    address = {Brighton, UK},
  publisher = {John Wiley \&amp; Sons, Chichester, UK},
+  keywords = {conference},
  booktitle = {Proceedings of of the 14\textsuperscript{th} European Conference on Artifical Intelligence},
        key = {ECAI2000}}
 </bib-data>
@@ -3764,6 +3889,7 @@ Science Lab</bib-part>
         <bib-part role="volume">178</bib-part>
         <bib-date role="publication">2008</bib-date>
         <bib-identifier id="978-1-58603-891-5" scheme="isbn">ISBN 978-1-58603-891-5</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-url href="http://www.booksonline.iospress.nl/Content/View.aspx?piid=9905">Link</bib-url>
         <bib-data role="self" type="BibTeX">@proceedings{ECAI08,
     editor = {Malik Ghallab and
@@ -3778,6 +3904,7 @@ Science Lab</bib-part>
     volume = {178},
       year = {2008},
       isbn = {978-1-58603-891-5},
+  keywords = {conference},
        url = {http://www.booksonline.iospress.nl/Content/View.aspx?piid=9905}}
 </bib-data>
       </bibentry>
@@ -3827,6 +3954,7 @@ Science Lab</bib-part>
             </XMath>
           </Math> International Consference on Rewriting
 Techniques and Applications</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>RTA1995</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{RTA95,
       year = {1995},
@@ -3836,6 +3964,7 @@ Techniques and Applications</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the $6^{th}$ International Consference on Rewriting
     Techniques and Applications},
+  keywords = {conference},
        key = {RTA1995}}
 </bib-data>
       </bibentry>
@@ -3849,6 +3978,7 @@ Techniques and Applications</bib-title>
         <bib-part role="number">2029</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>FASE01</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{FASE01,
      title = {Fundamental Approaches to Software Engineering ({FASE 2001})},
@@ -3858,6 +3988,7 @@ Techniques and Applications</bib-title>
     number = {2029},
     series = {LNCS},
  publisher = {Springer Verlag},
+  keywords = {conference},
        key = {FASE01}}
 </bib-data>
       </bibentry>
@@ -3879,6 +4010,7 @@ Techniques and Applications</bib-title>
         <bib-part role="number">4120</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AISC06,
      title = {Proceedings of Artificial Intelligence and Symbolic Computation,
     {AISC}'2006},
@@ -3887,6 +4019,7 @@ Techniques and Applications</bib-title>
     number = {4120},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Proceedings of Artificial Intelligence and Symbolic Computation,
     {AISC}'2006}}
 </bib-data>
@@ -3905,6 +4038,7 @@ Techniques and Applications</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-title>Theoretical Aspects of Computer Science</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TACS1991</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TACS91,
       year = {1991},
@@ -3913,6 +4047,7 @@ Techniques and Applications</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Theoretical Aspects of Computer Science},
+  keywords = {conference},
        key = {TACS1991}}
 </bib-data>
       </bibentry>
@@ -3957,6 +4092,7 @@ Techniques and Applications</bib-title>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-title>Proceedings of the 9<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1985</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI85,
       year = {1985},
@@ -3965,6 +4101,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann},
  booktitle = {Proceedings of the 9\textsuperscript{th} {International} {Joint} {Conference} on {Artificial}
     {Intelligence} ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1985}}
 </bib-data>
       </bibentry>
@@ -3979,6 +4116,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-title>Proceedings of the first International Consference on Rewriting Techniques
 and Applications</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>RTA1985</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{RTA85,
       year = {1985},
@@ -3988,6 +4126,7 @@ and Applications</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the first International Consference on Rewriting Techniques
     and Applications},
+  keywords = {conference},
        key = {RTA1985}}
 </bib-data>
       </bibentry>
@@ -4055,6 +4194,7 @@ and Applications</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-title>Semantics of Data Types</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>SDT1984</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{SDT84,
       year = {1984},
@@ -4063,6 +4203,7 @@ and Applications</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Semantics of Data Types},
+  keywords = {conference},
        key = {SDT1984}}
 </bib-data>
       </bibentry>
@@ -4131,6 +4272,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-place>Saratoga Springs, NY, USA</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1992</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE92,
      title = {Proceedings of the 11\textsuperscript{th} Conference on Automated Deduction},
@@ -4141,6 +4283,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
    address = {Saratoga Springs, NY, USA},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 11\textsuperscript{th} Conference on Automated Deduction},
+  keywords = {conference},
        key = {CADE1992}}
 </bib-data>
       </bibentry>
@@ -4171,6 +4314,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Marseille, France</bib-place>
         <bib-publisher>Springer</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CALCULEMUS02,
      title = {Artificial Intelligence, Automated Reasoning, and Symbolic Computation
     — Joint International Conference, AISC 2002 and Calculemus 2002},
@@ -4181,6 +4325,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
     series = {LNAI},
    address = {Marseille, France},
  publisher = {Springer},
+  keywords = {conference},
  booktitle = {Artificial Intelligence, Automated Reasoning, and Symbolic Computation
     — Joint International Conference, AISC 2002 and Calculemus 2002}}
 </bib-data>
@@ -4228,6 +4373,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
             </XMath>
           </Math> International Consference on Rewriting
 Techniques and Applications</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>RTA1993</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{RTA93,
       year = {1993},
@@ -4237,6 +4383,7 @@ Techniques and Applications</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the $5^{th}$ International Consference on Rewriting
     Techniques and Applications},
+  keywords = {conference},
        key = {RTA1993}}
 </bib-data>
       </bibentry>
@@ -4254,6 +4401,7 @@ Techniques and Applications</bib-title>
         <bib-part role="number">1421</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1998</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE98,
      title = {Proceedings of the 15\textsuperscript{th} {Conference} on {Automated} {Deduction}},
@@ -4263,6 +4411,7 @@ Techniques and Applications</bib-title>
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 15\textsuperscript{th} {Conference} on {Automated} {Deduction}},
+  keywords = {conference},
        key = {CADE1998}}
 </bib-data>
       </bibentry>
@@ -4280,6 +4429,7 @@ Techniques and Applications</bib-title>
         <bib-part role="number">2422</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AMAST02,
      title = {Algebraic Methodology and Software Technology — 9\textsuperscript{th} International
     Conference AMAST 2002},
@@ -4288,6 +4438,7 @@ Techniques and Applications</bib-title>
     number = {2422},
     series = {LNCS},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Algebraic Methodology and Software Technology — 9\textsuperscript{th} International
     Conference AMAST 2002}}
 </bib-data>
@@ -4302,6 +4453,7 @@ Techniques and Applications</bib-title>
         <bib-place>San Diego, California</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
         <bib-data role="month">June</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1995</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS95,
      title = {Proceedings of the 10\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
@@ -4313,6 +4465,7 @@ Techniques and Applications</bib-title>
      month = {June},
  booktitle = {Proceedings of the 10\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-10})},
+  keywords = {conference},
        key = {LICS1995}}
 </bib-data>
       </bibentry>
@@ -4377,6 +4530,7 @@ Techniques and Applications</bib-title>
         </bib-name>
         <bib-part role="volume">50</bib-part>
         <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>IOS Press</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{AIED99,
      title = {Artificial Intelligence in Education},
@@ -4384,6 +4538,7 @@ Techniques and Applications</bib-title>
     editor = {Susanne P. Lajoie and Martial Vivet},
     volume = {50},
     series = {Frontiers in Artificial Intelligence and Applications},
+  keywords = {conference},
  publisher = {IOS Press}}
 </bib-data>
       </bibentry>
@@ -4398,6 +4553,7 @@ Techniques and Applications</bib-title>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-title>Proceedings of the second International Conference of Rewriting Techniques
 and Applications</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>RTA1987</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{RTA87,
       year = {1987},
@@ -4407,6 +4563,7 @@ and Applications</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the second International Conference of Rewriting Techniques
     and Applications},
+  keywords = {conference},
        key = {RTA1987}}
 </bib-data>
       </bibentry>
@@ -4419,6 +4576,7 @@ and Applications</bib-title>
         <bib-part role="number">1930</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Proceedings of Artificial Intelligence and Symbolic Computation,
 AISC’2000</bib-title>
         <bib-data role="self" type="BibTeX">@proceedings{AISC00,
@@ -4427,6 +4585,7 @@ AISC’2000</bib-title>
     number = {1930},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Proceedings of Artificial Intelligence and Symbolic Computation,
     AISC'2000}}
 </bib-data>
@@ -4446,6 +4605,7 @@ AISC’2000</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-place>Argonne, Illinois, USA</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1988</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE88,
      title = {Proceedings of the 9\textsuperscript{th} Conference on Automated Deduction},
@@ -4455,6 +4615,7 @@ AISC’2000</bib-title>
     series = {LNCS},
    address = {Argonne, Illinois, USA},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Proceedings of the 9\textsuperscript{th} Conference on Automated Deduction},
        key = {CADE1988}}
 </bib-data>
@@ -4468,6 +4629,7 @@ AISC’2000</bib-title>
         </bib-name>
         <bib-place>Bonn, Germany</bib-place>
         <bib-publisher>MIT Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{JICSLP98,
      title = {Proceedings of the Joint International Conference and Symposium on
     Logic Programming},
@@ -4475,6 +4637,7 @@ AISC’2000</bib-title>
     editor = {M. Maher},
    address = {Bonn, Germany},
  publisher = {MIT Press},
+  keywords = {conference},
  booktitle = {Proceedings of the Joint International Conference and Symposium on
     Logic Programming}}
 </bib-data>
@@ -4488,12 +4651,14 @@ AISC’2000</bib-title>
         </bib-name>
         <bib-place>Port Jefferson, New York</bib-place>
         <bib-publisher>The MIT Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{ILPS97,
      title = {Logic Programming – Proceedings of the 1997 International Symposium},
       year = {1997},
     editor = {Jan Maluszynski},
    address = {Port Jefferson, New York},
  publisher = {The MIT Press},
+  keywords = {conference},
  booktitle = {Logic Programming – Proceedings of the 1997 International Symposium}}
 </bib-data>
       </bibentry>
@@ -4507,6 +4672,7 @@ AISC’2000</bib-title>
         <bib-part role="number">1831</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE00</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE00,
      title = {{Automated} {Deduction} – CADE-17},
@@ -4516,6 +4682,7 @@ AISC’2000</bib-title>
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {{Automated} {Deduction} – CADE-17},
+  keywords = {conference},
        key = {CADE00}}
 </bib-data>
       </bibentry>
@@ -4530,6 +4697,7 @@ AISC’2000</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Townsville, Australia</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1997</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE97,
      title = {Proceedings of the 14\textsuperscript{th} {Conference} on {Automated} {Deduction}},
@@ -4540,6 +4708,7 @@ AISC’2000</bib-title>
    address = {Townsville, Australia},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 14\textsuperscript{th} {Conference} on {Automated} {Deduction}},
+  keywords = {conference},
        key = {CADE1997}}
 </bib-data>
       </bibentry>
@@ -4586,6 +4755,7 @@ AISC’2000</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>New Brunswick, NJ, USA</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1996</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE96,
      title = {Proceedings of the 13\textsuperscript{th} Conference on Automated Deduction},
@@ -4596,6 +4766,7 @@ AISC’2000</bib-title>
    address = {New Brunswick, NJ, USA},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 13\textsuperscript{th} Conference on Automated Deduction},
+  keywords = {conference},
        key = {CADE1996}}
 </bib-data>
       </bibentry>
@@ -4641,6 +4812,7 @@ AISC’2000</bib-title>
           <givenname>Dana</givenname>
         </bib-name>
         <bib-place>Pittsburgh, PAUSA</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE2000-W4</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE00-W4,
      title = {\PROC of 17\textsuperscript{th} International Conference on Automated Deduction—Workshop
@@ -4648,6 +4820,7 @@ AISC’2000</bib-title>
       year = {2000},
     editor = {Erica Melis and Dana Scott},
    address = {Pittsburgh, PA\USA},
+  keywords = {conference},
        key = {CADE2000-W4}}
 </bib-data>
       </bibentry>
@@ -4661,6 +4834,7 @@ AISC’2000</bib-title>
         <bib-publisher>Morgan Kaufmann, San Mateo, CA</bib-publisher>
         <bib-title>Proceedings of the 14<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1995</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI95,
       year = {1995},
@@ -4669,6 +4843,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann, San Mateo, CA},
  booktitle = {Proceedings of the 14\textsuperscript{th} {International} {Joint} {Conference} on {Artificial}
     {Intelligence} ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1995}}
 </bib-data>
       </bibentry>
@@ -4696,6 +4871,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-identifier id="978-1-4503-0014-8" scheme="isbn">ISBN 978-1-4503-0014-8</bib-identifier>
         <bib-url href="http://portal.acm.org/citation.cfm?id=1839707">Link</bib-url>
         <bib-key>ISEMANTICS 2010</bib-key>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="acceptancerate">42</bib-data>
         <bib-data role="acceptanceratecomment">according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{ISEMANTICS2010,
@@ -4708,6 +4884,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {978-1-4503-0014-8},
        url = {http://portal.acm.org/citation.cfm?id=1839707},
        key = {ISEMANTICS 2010},
+  keywords = {conference},
  acceptancerate = {42},
  acceptanceratecomment = {according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}}}
 </bib-data>
@@ -4822,6 +4999,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">1071</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{TABLEAUX96,
      title = {Theorem Proving with Analytic Tableaux and Related Methods},
       year = {1996},
@@ -4829,6 +5007,7 @@ Intelligence (IJCAI)</bib-title>
     number = {1071},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Theorem Proving with Analytic Tableaux and Related Methods}}
 </bib-data>
       </bibentry>
@@ -4842,6 +5021,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">1617</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{TABLEAUX99,
      title = {Automated Reasoning with Analytic Tableaux and Related Methods},
       year = {1999},
@@ -4849,6 +5029,7 @@ Intelligence (IJCAI)</bib-title>
     number = {1617},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Automated Reasoning with Analytic Tableaux and Related Methods}}
 </bib-data>
       </bibentry>
@@ -4866,6 +5047,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Morgan Kaufmann, San Mateo, CA</bib-publisher>
         <bib-title>Proceedings of the 12<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1991</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI91,
       year = {1991},
@@ -4874,6 +5056,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann, San Mateo, CA},
  booktitle = {Proceedings of the 12\textsuperscript{th} International Joint Conference on Artificial
     Intelligence ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1991}}
 </bib-data>
       </bibentry>
@@ -4887,6 +5070,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-title>Proceedings of the 17<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI2001</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI01,
       year = {2001},
@@ -4895,6 +5079,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann},
  booktitle = {Proceedings of the 17\textsuperscript{th} {International} {Joint} {Conference} on {Artificial}
     {Intelligence} ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI2001}}
 </bib-data>
       </bibentry>
@@ -4912,6 +5097,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">861</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>KI1994</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{KI94,
      title = {18\textsuperscript{th} Annual German Conference on Aritificial Intelligence},
@@ -4921,6 +5107,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {18\textsuperscript{th} Annual German Conference on Aritificial Intelligence},
+  keywords = {conference},
        key = {KI1994}}
 </bib-data>
       </bibentry>
@@ -4938,6 +5125,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">2303</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>FOSSACS02</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{FOSSACS02,
      title = {Foundations of Software Science and Computation Structures ({FOSSACS02})},
@@ -4947,6 +5135,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Foundations of Software Science and Computation Structures ({FOSSACS02})},
+  keywords = {conference},
        key = {FOSSACS02}}
 </bib-data>
       </bibentry>
@@ -4959,6 +5148,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-place>Pisa, Italy</bib-place>
         <bib-publisher>Pitman Publishing, London, England</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ECAI1984</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ECAI84,
      title = {Proceedings of of the 7\textsuperscript{th} European Conference on Artifical Intelligence},
@@ -4967,6 +5157,7 @@ Intelligence (IJCAI)</bib-title>
    address = {Pisa, Italy},
  publisher = {Pitman Publishing, London, England},
  booktitle = {Proceedings of of the 7\textsuperscript{th} European Conference on Artifical Intelligence},
+  keywords = {conference},
        key = {ECAI1984}}
 </bib-data>
       </bibentry>
@@ -4980,6 +5171,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">671</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{GWAI92,
      title = {GWAI-92: Advances in Artificial Intelligence},
       year = {1993},
@@ -4987,6 +5179,7 @@ Intelligence (IJCAI)</bib-title>
     number = {671},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {GWAI-92: Advances in Artificial Intelligence}}
 </bib-data>
       </bibentry>
@@ -5049,6 +5242,7 @@ Intelligence (IJCAI)</bib-title>
           <givenname>Christoph</givenname>
         </bib-name>
         <bib-place>Montréal, Canada</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ITS2000-W2</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ITS2000-W2,
      title = {Proceedings of the Fifth International Conference on Intelligent
@@ -5057,6 +5251,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2000},
     editor = {Christoph Peylo},
    address = {Montr{\'e}al, Canada},
+  keywords = {conference},
        key = {ITS2000-W2}}
 </bib-data>
       </bibentry>
@@ -5072,6 +5267,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-title>Proceedings of the International Conference on Logic Programming
 and Automated Reasoning LPAR’94</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LPAR1994</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LPAR94,
       year = {1994},
@@ -5082,6 +5278,7 @@ and Automated Reasoning LPAR’94</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the International Conference on Logic Programming
     and Automated Reasoning LPAR'94},
+  keywords = {conference},
        key = {LPAR1994}}
 </bib-data>
       </bibentry>
@@ -5095,6 +5292,7 @@ and Automated Reasoning LPAR’94</bib-title>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-title>Proceedings of the 15<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1997</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI97,
       year = {1997},
@@ -5103,6 +5301,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann},
  booktitle = {Proceedings of the 15\textsuperscript{th} {International} {Joint} {Conference} on {Artificial}
     {Intelligence} ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1997}}
 </bib-data>
       </bibentry>
@@ -5115,6 +5314,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-place>Brighton, UK</bib-place>
         <bib-publisher>John Wiley &amp; Sons, Chichester, UK</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ECAI1998</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ECAI98,
      title = {Proceedings of of the 13\textsuperscript{th} European Conference on Artifical Intelligence},
@@ -5123,6 +5323,7 @@ Intelligence (IJCAI)</bib-title>
    address = {Brighton, UK},
  publisher = {John Wiley \&amp; Sons, Chichester, UK},
  booktitle = {Proceedings of of the 13\textsuperscript{th} European Conference on Artifical Intelligence},
+  keywords = {conference},
        key = {ECAI1998}}
 </bib-data>
       </bibentry>
@@ -5215,6 +5416,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="number">170</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1984</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE84,
      title = {Proceedings of the 7\textsuperscript{th} International Conference on Automated Deduction},
@@ -5224,6 +5426,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 7\textsuperscript{th} International Conference on Automated Deduction},
+  keywords = {conference},
        key = {CADE1984}}
 </bib-data>
       </bibentry>
@@ -5238,6 +5441,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-place>Oxford, England</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1986</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE86,
      title = {Proceedings of the 8\textsuperscript{th} Conference on Automated Deduction},
@@ -5248,6 +5452,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
    address = {Oxford, England},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 8\textsuperscript{th} Conference on Automated Deduction},
+  keywords = {conference},
        key = {CADE1986}}
 </bib-data>
       </bibentry>
@@ -5365,6 +5570,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-place>Pittsburgh, PA, USA</bib-place>
         <bib-publisher>AAAI Press, Menlo Park, CA, USA</bib-publisher>
         <bib-data role="month">June</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>AIPS98</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{AIPS98,
      title = {{\PROC} of the Fourth International Conference on Artificial Intelligence
@@ -5376,6 +5582,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
      month = {June},
  booktitle = {{\PROC} of the Fourth International Conference on Artificial Intelligence
     Planning Systems ({AIPS-98})},
+  keywords = {conference},
        key = {AIPS98}}
 </bib-data>
       </bibentry>
@@ -5472,6 +5679,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         </bib-name>
         <bib-place>Cambridge, MA, USA</bib-place>
         <bib-publisher>MIT Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="0-262-69177-9" scheme="isbn">ISBN 0-262-69177-9</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{ICLP97,
      title = {Proceedings of the 12\textsuperscript{th} International Conference on Logic Programming},
@@ -5480,6 +5688,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
    address = {Cambridge, MA, USA},
  publisher = {MIT Press},
  booktitle = {Proceedings of the 12\textsuperscript{th} International Conference on Logic Programming},
+  keywords = {conference},
       isbn = {0-262-69177-9}}
 </bib-data>
       </bibentry>
@@ -5494,6 +5703,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Kaiserslautern, Germany</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1990</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE90,
      title = {Proceedings of the 10\textsuperscript{th} Conference on Automated Deduction},
@@ -5504,6 +5714,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
    address = {Kaiserslautern, \GERMANY},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 10\textsuperscript{th} Conference on Automated Deduction},
+  keywords = {conference},
        key = {CADE1990}}
 </bib-data>
       </bibentry>
@@ -5547,6 +5758,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="number">4011</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="3-540-34544-2" scheme="isbn">ISBN 3-540-34544-2</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{eswc2006,
      title = {The Semantic Web: Research and Applications},
@@ -5559,6 +5771,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     number = {4011},
     series = {LNCS},
  publisher = {Springer},
+  keywords = {conference},
       isbn = {3-540-34544-2}}
 </bib-data>
       </bibentry>
@@ -5572,6 +5785,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="number">1397</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{TABLEAUX98,
      title = {Automated Reasoning with Analytic Tableaux and Related Methods},
       year = {1998},
@@ -5579,6 +5793,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     number = {1397},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Automated Reasoning with Analytic Tableaux and Related Methods}}
 </bib-data>
       </bibentry>
@@ -5590,11 +5805,13 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
           <givenname>P.</givenname>
         </bib-name>
         <bib-publisher>MIT Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{ICLP93,
      title = {Proceedings of the 10\textsuperscript{th} International Conference on Logic Programming},
       year = {1993},
     editor = {P. Szeredi},
  publisher = {MIT Press},
+  keywords = {conference},
  booktitle = {Proceedings of the 10\textsuperscript{th} International Conference on Logic Programming}}
 </bib-data>
       </bibentry>
@@ -5612,6 +5829,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="number">4151</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS06,
      title = {Proceedings of ICMS 2006},
       year = {2006},
@@ -5619,6 +5837,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     number = {4151},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Proceedings of ICMS-2006}}
 </bib-data>
       </bibentry>
@@ -5694,6 +5913,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="number">2410</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TPHOLS2002</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TPHOL02,
      title = {Theorem Proving in Higher Order Logics: TPHOLs'02},
@@ -5703,6 +5923,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Theorem Proving in Higher Order Logics: TPHOLs'02},
+  keywords = {conference},
        key = {TPHOLS2002}}
 </bib-data>
       </bibentry>
@@ -5716,6 +5937,8 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="number">2392</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE2002</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE02,
      title = {Automated Deduction — CADE-18},
@@ -5725,6 +5948,8 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {Automated Deduction — CADE-18},
+  keywords = {conference},
+  keywords = {conference},
        key = {CADE2002}}
 </bib-data>
       </bibentry>
@@ -5740,6 +5965,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-title>Proceedings of the International Conference on Logic Programming
 and Automated Reasoning LPAR’93</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LPAR1993</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LPAR93,
       year = {1993},
@@ -5750,6 +5976,7 @@ and Automated Reasoning LPAR’93</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the International Conference on Logic Programming
     and Automated Reasoning LPAR'93},
+  keywords = {conference},
        key = {LPAR1993}}
 </bib-data>
       </bibentry>
@@ -5764,6 +5991,7 @@ and Automated Reasoning LPAR’93</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>St. Petersburg, Russia</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LPAR1992</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LPAR92,
      title = {Proceedings of the International Conference on Logic Programming
@@ -5776,6 +6004,7 @@ and Automated Reasoning LPAR’93</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the International Conference on Logic Programming
     and Automated Reasoning LPAR'92},
+  keywords = {conference},
        key = {LPAR1992}}
 </bib-data>
       </bibentry>
@@ -5825,6 +6054,7 @@ and Automated Reasoning LPAR’93</bib-title>
         <bib-place>Budapest, Hungary</bib-place>
         <bib-publisher>John Wiley &amp; Sons, Chichester, UK</bib-publisher>
         <bib-data role="month">August</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ECAI1996</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ECAI96,
      title = {Proceedings of the 12\textsuperscript{th} European Conference on Artificial Intelligence},
@@ -5834,6 +6064,7 @@ and Automated Reasoning LPAR’93</bib-title>
  publisher = {John Wiley \&amp; Sons, Chichester, UK},
      month = {August},
  booktitle = {Proceedings of the 12\textsuperscript{th} European Conference on Artificial Intelligence},
+  keywords = {conference},
        key = {ECAI1996}}
 </bib-data>
       </bibentry>
@@ -5848,6 +6079,7 @@ and Automated Reasoning LPAR’93</bib-title>
           <surname>Norton</surname>
           <givenname>Lewis</givenname>
         </bib-name>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1973</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI73,
      title = {Proceedings of the 3\textsuperscript{rd} International Joint Conference on Artificial
@@ -5856,6 +6088,7 @@ and Automated Reasoning LPAR’93</bib-title>
     editor = {Donald E. Walker and Lewis Norton},
  booktitle = {Proceedings of the 3\textsuperscript{rd} International Joint Conference on Artificial
     Intelligence},
+  keywords = {conference},
        key = {IJCAI1973}}
 </bib-data>
       </bibentry>
@@ -5871,12 +6104,14 @@ and Automated Reasoning LPAR’93</bib-title>
         </bib-name>
         <bib-title>Proceedings of the 1<sup>st</sup> International Joint Conference on Artificial
 Intelligence</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1969</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI69,
       year = {1969},
     editor = {Donald E. Walker and Lewis Norton},
  booktitle = {Proceedings of the 1\textsuperscript{st} International Joint Conference on Artificial
     Intelligence},
+  keywords = {conference},
        key = {IJCAI1969}}
 </bib-data>
       </bibentry>
@@ -5888,6 +6123,7 @@ Intelligence</bib-title>
           <givenname>P. S.</givenname>
         </bib-name>
         <bib-publisher>ACM Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ISSAC1992</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ISSAC92,
      title = {Proceedings of International Symposium on Symbolic and Algebraic
@@ -5897,6 +6133,7 @@ Intelligence</bib-title>
  publisher = {ACM Press},
  booktitle = {Proceedings of International Symposium on Symbolic and Algebraic
     Computation ({ISSAC'92})},
+  keywords = {conference},
        key = {ISSAC1992}}
 </bib-data>
       </bibentry>
@@ -5909,6 +6146,7 @@ Intelligence</bib-title>
         </bib-name>
         <bib-publisher>ACM Press</bib-publisher>
         <bib-key>ISSAC2000</bib-key>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="1-58113-218-2" scheme="isbn">ISBN 1-58113-218-2</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{ISSAC00,
      title = {Proceedings of 2000 International Symposium on Symbolic and Algebraic  Computation ({ISSAC'00})},
@@ -5917,6 +6155,7 @@ Intelligence</bib-title>
  publisher = {ACM Press},
  booktitle = {Proceedings of 2000 International Symposium on Symbolic and Algebraic  Computation ({ISSAC'00})},
        key = {ISSAC2000},
+  keywords = {conference},
       isbn = {1-58113-218-2}}
 </bib-data>
       </bibentry>
@@ -5924,10 +6163,12 @@ Intelligence</bib-title>
         <bib-title>Proceedings of the 2010 international symposium on symbolic and algebraic computation (ISSAC)</bib-title>
         <bib-date role="publication">2010</bib-date>
         <bib-publisher>ACM Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{ISSAC2010,
      title = {Proceedings of the 2010 International Symposium on Symbolic and Algebraic  Computation ({ISSAC})},
       year = {2010},
  publisher = {ACM Press},
+  keywords = {conference},
  booktitle = {Proceedings of the 2010 International Symposium on Symbolic and Algebraic  Computation ({ISSAC})}}
 </bib-data>
       </bibentry>
@@ -5969,6 +6210,7 @@ Deduktionssysteme”</bib-title>
         <bib-part role="number">1125</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TPHOLS1996</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TPHOL96,
      title = {Theorem Proving in Higher Order Logics: TPHOLs'96},
@@ -5978,6 +6220,7 @@ Deduktionssysteme”</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Theorem Proving in Higher Order Logics: TPHOLs'96},
+  keywords = {conference},
        key = {TPHOLS1996}}
 </bib-data>
       </bibentry>
@@ -6061,6 +6304,7 @@ Deduktionssysteme”</bib-title>
         <bib-part role="number">2755</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>WADT03</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{WADT03,
      title = {Recent Trends in Algebraic Development Techniques},
@@ -6069,6 +6313,7 @@ Deduktionssysteme”</bib-title>
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {Recent Trends in Algebraic Development Techniques},
+  keywords = {conference},
        key = {WADT03}}
 </bib-data>
       </bibentry>
@@ -6081,6 +6326,7 @@ Deduktionssysteme”</bib-title>
         </bib-name>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">4409</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{WADT06,
  booktitle = {WADT 2006},
@@ -6089,6 +6335,7 @@ Deduktionssysteme”</bib-title>
     editor = {J. Fiadeiro},
     series = {LNCS},
     number = {4409},
+  keywords = {conference},
  publisher = {Springer}}
 </bib-data>
       </bibentry>
@@ -6157,12 +6404,14 @@ Deduktionssysteme”</bib-title>
         <bib-title>Second international conference on mathml and technologies for math on the web</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-place>Chicago, USA</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{MathML02,
        key = {MathML02},
      title = {Second International Conference on MathML and Technologies for Math
     on the Web},
       year = {2002},
    address = {Chicago, USA},
+  keywords = {conference},
  booktitle = {Second International Conference on MathML and Technologies for Math
     on the Web}}
 </bib-data>
@@ -6170,11 +6419,13 @@ Deduktionssysteme”</bib-title>
       <bibentry key="ACL00" type="proceedings" xml:id="bib.bib229">
         <bib-date role="publication">2000</bib-date>
         <bib-place>Hongkong</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Proceedings of the 38<sup>th</sup> Annual Meeting of the Association for Computational
 Linguistics</bib-title>
         <bib-data role="self" type="BibTeX">@proceedings{ACL00,
       year = {2000},
    address = {Hongkong},
+  keywords = {conference},
  booktitle = {Proceedings of the 38\textsuperscript{th} Annual Meeting of the Association for Computational
     Linguistics}}
 </bib-data>
@@ -6182,12 +6433,14 @@ Linguistics</bib-title>
       <bibentry key="MathML00" type="proceedings" xml:id="bib.bib230">
         <bib-title>MathML and math on the web: mathml international conference</bib-title>
         <bib-date role="publication">2000-10</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-place>Urbana Champaign, USA</bib-place>
         <bib-data role="month">October</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{MathML00,
      title = {MathML and Math on the Web: MathML International Conference},
  booktitle = {MathML and Math on the Web: MathML International Conference},
       year = {2000},
+  keywords = {conference},
    address = {Urbana Champaign, USA},
      month = {October}}
 </bib-data>
@@ -6198,6 +6451,7 @@ Linguistics</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-place>Berlin, Germany</bib-place>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TACAS2000</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TACAS00,
      title = {Proceedings of the Sixth International Conference on Tools and Algorithms
@@ -6208,6 +6462,7 @@ Linguistics</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the Sixth International Conference on Tools and Algorithms
     for the Construction and Analysis of Systems, TACAS-2000},
+  keywords = {conference},
        key = {TACAS2000}}
 </bib-data>
       </bibentry>
@@ -6226,6 +6481,7 @@ Linguistics</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>TACAS2007</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{TACAS07,
      title = {Proceedings of the 13\textsuperscript{th} International Conference on Tools and Algorithms
@@ -6238,6 +6494,7 @@ Linguistics</bib-title>
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 13\textsuperscript{th} International Conference on Tools and Algorithms
     for the Construction and Analysis of Systems TACAS-2007},
+  keywords = {conference},
        key = {TACAS2007}}
 </bib-data>
       </bibentry>
@@ -6245,12 +6502,14 @@ Linguistics</bib-title>
         <bib-title>Proceedings of the Sixteenth National Conference on Artificial Intelligence (AAAI-99) and Eleventh Innovative Application of Artificial Intelligence Conference (IAAI-99)</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-publisher>AAAI Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AAAI99,
      title = {Proceedings of the {Sixteenth National Conference on Artificial Intelligence
     ({AAAI-99})} and {Eleventh Innovative Application of Artificial Intelligence
     Conference ({IAAI-99})}},
       year = {1999},
  publisher = {{AAAI} Press},
+  keywords = {conference},
  booktitle = {Proceedings of the {Sixteenth National Conference on Artificial Intelligence
     ({AAAI-99})} and {Eleventh Innovative Application of Artificial Intelligence
     Conference ({IAAI-99})}}}
@@ -6271,12 +6530,14 @@ Linguistics</bib-title>
         <bib-title>Proceedings of international symposium on symbolic and algebraic computation (ISSAC’99)</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-publisher>ACM Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ISSAC1999</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ISSAC99,
      title = {Proceedings of International Symposium on Symbolic and Algebraic
     Computation ({ISSAC'99})},
       year = {1999},
  publisher = {ACM Press},
+  keywords = {conference},
  booktitle = {Proceedings of International Symposium on Symbolic and Algebraic
     Computation ({ISSAC'99})},
        key = {ISSAC1999}}
@@ -6286,11 +6547,13 @@ Linguistics</bib-title>
         <bib-title>Proceedings of the Thirteenth National Conference on Artificial Intelligence AAAI-96</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-publisher>MIT Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AAAI96,
      title = {Proceedings of the {Thirteenth National Conference on Artificial
     Intelligence AAAI-96}},
       year = {1998},
  publisher = {{MIT} Press},
+  keywords = {conference},
  booktitle = {Proceedings of the {Thirteenth National Conference on Artificial
     Intelligence AAAI-96}}}
 </bib-data>
@@ -6299,12 +6562,14 @@ Linguistics</bib-title>
         <bib-title>Proceedings of the Fifteenth National Conference on Artificial Intelligence AAAI-98 and Tenth Conference on Innovative Application of Artificial Intelligence IAAI-98</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-publisher>MIT Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AAAI98,
      title = {Proceedings of the {Fifteenth National Conference on Artificial Intelligence
     AAAI-98} and {Tenth Conference on Innovative Application of Artificial
     Intelligence IAAI-98}},
       year = {1998},
  publisher = {{MIT} Press},
+  keywords = {conference},
  booktitle = {Proceedings of the {Fifteenth National Conference on Artificial Intelligence
     AAAI-98} and {Tenth Conference on Innovative Application of Artificial
     Intelligence IAAI-98}}}
@@ -6348,6 +6613,7 @@ Linguistics</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-publisher>MIT Press</bib-publisher>
         <bib-data role="venue">Stanford, USA</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="eventdate">1997-03</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{AAAI97,
      title = {Proceedings of the {Fourteenth National Conference on Artificial
@@ -6357,18 +6623,21 @@ Linguistics</bib-title>
  booktitle = {Proceedings of the {Fourteenth National Conference on Artificial
     Intelligence AAAI-97}},
      venue = {Stanford, USA},
+  keywords = {conference},
  eventdate = {1997-03}}
 </bib-data>
       </bibentry>
       <bibentry key="ACL97" type="proceedings" xml:id="bib.bib241">
         <bib-date role="publication">1997</bib-date>
         <bib-place>Madrid, Spain</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Proceedings of the 35<sup>th</sup> Annual Meeting of the Association for Computational
 Linguistics and the 8<sup>th</sup> Conference of the European Chapter of the
 Association for Computational Linguistics</bib-title>
         <bib-data role="self" type="BibTeX">@proceedings{ACL97,
       year = {1997},
    address = {Madrid, \SPAIN},
+  keywords = {conference},
  booktitle = {Proceedings of the 35\textsuperscript{th} Annual Meeting of the Association for Computational
     Linguistics and the 8\textsuperscript{th} Conference of the European Chapter of the
     Association for Computational Linguistics}}
@@ -6379,6 +6648,7 @@ Association for Computational Linguistics</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-place>Hawaii</bib-place>
         <bib-publisher>ACM Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ISSAC1997</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ISSAC97,
      title = {Proceedings of International Symposium on Symbolic and Algebraic
@@ -6386,6 +6656,7 @@ Association for Computational Linguistics</bib-title>
       year = {1997},
    address = {Hawaii},
  publisher = {ACM Press},
+  keywords = {conference},
  booktitle = {Proceedings of International Symposium on Symbolic and Algebraic
     Computation ({ISSAC'97})},
        key = {ISSAC1997}}
@@ -6440,12 +6711,14 @@ Association for Computational Linguistics</bib-title>
         <bib-title>Proceedings of international symposium on symbolic and algebraic computation (ISSAC’95)</bib-title>
         <bib-date role="publication">1995</bib-date>
         <bib-publisher>ACM Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>ISSAC1995</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{ISSAC95,
      title = {Proceedings of International Symposium on Symbolic and Algebraic
     Computation ({ISSAC'95})},
       year = {1995},
  publisher = {ACM Press},
+  keywords = {conference},
  booktitle = {Proceedings of International Symposium on Symbolic and Algebraic
     Computation ({ISSAC'95})},
        key = {ISSAC1995}}
@@ -6479,10 +6752,12 @@ Association for Computational Linguistics</bib-title>
       </bibentry>
 <!--  %**** String Line 250 **** -->      <bibentry key="COGSCI94" type="proceedings" xml:id="bib.bib249">
         <bib-title>Proceedings of the 16<sup>th</sup> annual conference of the cognitive science society</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">1994</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{COGSCI94,
      title = {Proceedings of the 16\textsuperscript{th} Annual Conference of the Cognitive Science
     Society},
+  keywords = {conference},
       year = {1994}}
 </bib-data>
       </bibentry>
@@ -6491,12 +6766,14 @@ Association for Computational Linguistics</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-place>Kyoto, Japan</bib-place>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{COLING94,
      title = {Proceedings of the 15\textsuperscript{th} {International} {Conference} on {Computational}
     {Linguistics}},
       year = {1994},
    address = {Kyoto, Japan},
  publisher = {Morgan Kaufmann},
+  keywords = {conference},
  booktitle = {Proceedings of the 15\textsuperscript{th} {International} {Conference} on {Computational}
     {Linguistics}}}
 </bib-data>
@@ -6505,12 +6782,14 @@ Association for Computational Linguistics</bib-title>
         <bib-title>COLING 2000, 18<sup>th</sup> International Conference on Computational Linguistics</bib-title>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-date role="publication">2000</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="ee">http://aclweb.org/anthology/C/C00/</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{COLING00,
      title = {{COLING 2000,} 18\textsuperscript{th} {International} {Conference} on {Computational} {Linguistics}},
  booktitle = {COLING 2000, 18\textsuperscript{th} {International} {Conference} on {Computational} {Linguistics}},
  publisher = {Morgan Kaufmann},
       year = {2000},
+  keywords = {conference},
         ee = {http://aclweb.org/anthology/C/C00/}}
 </bib-data>
       </bibentry>
@@ -6536,6 +6815,7 @@ Association for Computational Linguistics</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-place>Paris, France</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1994</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS94,
      title = {Proceedings of the 9\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
@@ -6545,6 +6825,7 @@ Association for Computational Linguistics</bib-title>
  publisher = {{IEEE} Computer Society Press},
  booktitle = {Proceedings of the 9\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-9})},
+  keywords = {conference},
        key = {LICS1994}}
 </bib-data>
       </bibentry>
@@ -6555,6 +6836,7 @@ Association for Computational Linguistics</bib-title>
         <bib-publisher>ACM</bib-publisher>
         <bib-data role="month">January</bib-data>
         <bib-organization>ACM</bib-organization>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>POPL1994</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{POPL94,
      title = {Proceedings of the 21\textsuperscript{st} {ACM} Symposium on Principles of Programming
@@ -6566,6 +6848,7 @@ Association for Computational Linguistics</bib-title>
  organization = {ACM},
  booktitle = {Proceedings of the 21\textsuperscript{st} {ACM} Symposium on Principles of Programming
     Languages},
+  keywords = {conference},
        key = {POPL1994}}
 </bib-data>
       </bibentry>
@@ -6588,6 +6871,7 @@ Association for Computational Linguistics</bib-title>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-title>HOA’93, an International Workshop on Higher-order Algebra, Logic
 and Term Rewriting</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>HOA1993</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{HOA93,
       year = {1993},
@@ -6597,15 +6881,18 @@ and Term Rewriting</bib-title>
  publisher = {Springer Verlag},
  booktitle = {HOA'93, an International Workshop on Higher-order Algebra, Logic
     and Term Rewriting},
+  keywords = {conference},
        key = {HOA1993}}
 </bib-data>
       </bibentry>
       <bibentry key="IAAI93" type="proceedings" xml:id="bib.bib257">
         <bib-title>Proceedings of the 5<sup>th</sup> innovative applications of artificial intelligence conference</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">1993</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{IAAI93,
      title = {Proceedings of the 5\textsuperscript{th} Innovative Applications of Artificial Intelligence
     Conference},
+  keywords = {conference},
       year = {1993}}
 </bib-data>
       </bibentry>
@@ -6630,6 +6917,7 @@ Logic</bib-title>
         <bib-date role="publication">1993</bib-date>
         <bib-place>Montreal, Canada</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1993</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS93,
      title = {Proceedings of the 8\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
@@ -6639,6 +6927,7 @@ Logic</bib-title>
  publisher = {{IEEE} Computer Society Press},
  booktitle = {Proceedings of the 8\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-8})},
+  keywords = {conference},
        key = {LICS1993}}
 </bib-data>
       </bibentry>
@@ -6678,6 +6967,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-place>Amsterdam, NL</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1991</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS91,
      title = {Proceedings of the 6\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
@@ -6685,6 +6975,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
       year = {1992},
    address = {Amsterdam, NL},
  publisher = {{IEEE} Computer Society Press},
+  keywords = {conference},
  booktitle = {Proceedings of the 6\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-6})},
        key = {LICS1991}}
@@ -6695,6 +6986,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-place>Santa Cruz, CA, USA</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1992</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS92,
      title = {Proceedings of the 7\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
@@ -6702,6 +6994,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
       year = {1992},
    address = {Santa Cruz, CA, USA},
  publisher = {{IEEE} Computer Society Press},
+  keywords = {conference},
  booktitle = {Proceedings of the 7\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-7})},
        key = {LICS1992}}
@@ -6733,11 +7026,13 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
       <bibentry key="ACL89" type="proceedings" xml:id="bib.bib266">
         <bib-title>Proceedings of the 27<sup>th</sup> annual meeting of the association for computational linguistics</bib-title>
         <bib-date role="publication">1989</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-place>Vancouver, British Columbia</bib-place>
         <bib-data role="self" type="BibTeX">@proceedings{ACL89,
      title = {Proceedings of the 27\textsuperscript{th} Annual Meeting of the Association for Computational
     Linguistics},
       year = {1989},
+  keywords = {conference},
    address = {Vancouver, British Columbia}}
 </bib-data>
       </bibentry>
@@ -6746,6 +7041,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-date role="publication">1989</bib-date>
         <bib-place>Pacific Grove, CA, USA</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1989</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS89,
      title = {Proceedings of the 4\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
@@ -6755,6 +7051,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  publisher = {IEEE Computer Society Press},
  booktitle = {Proceedings of the 4\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-4})},
+  keywords = {conference},
        key = {LICS1989}}
 </bib-data>
       </bibentry>
@@ -6763,6 +7060,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-date role="publication">1989</bib-date>
         <bib-place>Philadelphia, PA, USA</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1990</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS90,
      title = {Proceedings of the 5\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
@@ -6772,6 +7070,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  publisher = {IEEE Computer Society Press},
  booktitle = {Proceedings of the 5\textsuperscript{th} Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-5})},
+  keywords = {conference},
        key = {LICS1990}}
 </bib-data>
       </bibentry>
@@ -6780,12 +7079,14 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-part role="number">349</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Proceedings STACS’89</bib-title>
         <bib-data role="self" type="BibTeX">@proceedings{STACS89,
       year = {1989},
     number = {349},
     series = {LNCS},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Proceedings STACS'89}}
 </bib-data>
       </bibentry>
@@ -6794,6 +7095,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-date role="publication">1988</bib-date>
         <bib-place>Edinburgh, Great Britain</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1988</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS88,
      title = {Proceedings of the third Annual {IEEE} Symposium on Logic in Computer
@@ -6803,6 +7105,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  publisher = {IEEE Computer Society Press},
  booktitle = {Proceedings of the third Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-3})},
+  keywords = {conference},
        key = {LICS1988}}
 </bib-data>
       </bibentry>
@@ -6810,10 +7113,12 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-title>IEEE symposium on logic programming</bib-title>
         <bib-date role="publication">1987</bib-date>
         <bib-place>Salt Lake City</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{ILPS87,
      title = {IEEE Symposium on Logic Programming},
       year = {1987},
    address = {Salt Lake City},
+  keywords = {conference},
  booktitle = {IEEE Symposium on Logic Programming}}
 </bib-data>
       </bibentry>
@@ -6822,6 +7127,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-date role="publication">1987</bib-date>
         <bib-place>Ithaca, NY, USA</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1987</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS87,
      title = {Proceedings of the second Annual {IEEE} Symposium on Logic in Computer
@@ -6831,15 +7137,18 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  publisher = {IEEE Computer Society Press},
  booktitle = {Proceedings of the second Annual {IEEE} Symposium on Logic in Computer
     Science ({LICS-2})},
+  keywords = {conference},
        key = {LICS1987}}
 </bib-data>
       </bibentry>
       <bibentry key="LFP86" type="proceedings" xml:id="bib.bib273">
         <bib-title>Proceedings ACM conference on LISP and functional programming</bib-title>
         <bib-date role="publication">1986</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{LFP86,
      title = {Proceedings {ACM} Conference on {LISP} and Functional Programming},
       year = {1986},
+  keywords = {conference},
  booktitle = {Proceedings {ACM} Conference on {LISP} and Functional Programming}}
 </bib-data>
       </bibentry>
@@ -6848,6 +7157,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-date role="publication">1986</bib-date>
         <bib-place>Cambridge, MA, USA</bib-place>
         <bib-publisher>IEEE Computer Society Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>LICS1986</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{LICS86,
      title = {Proceedings of the first Annual {IEEE} Symposium on Logic in Computer
@@ -6855,6 +7165,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
       year = {1986},
    address = {Cambridge, MA, USA},
  publisher = {IEEE Computer Society Press},
+  keywords = {conference},
  booktitle = {Proceedings of the first Annual {IEEE} Symposium on Logic in Computer
 
     Science ({LICS-1})},
@@ -6866,20 +7177,24 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-date role="publication">1984</bib-date>
         <bib-place>New York</bib-place>
         <bib-organization>ACM</bib-organization>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{POPL84,
      title = {Proc of the 11\textsuperscript{th} {ACM} Symposium on Principles of Programming Languages},
       year = {1984},
    address = {New York},
  organization = {ACM},
+  keywords = {conference},
  booktitle = {Proc of the 11\textsuperscript{th} {ACM} Symposium on Principles of Programming Languages}}
 </bib-data>
       </bibentry>
       <bibentry key="LFP82" type="proceedings" xml:id="bib.bib276">
         <bib-title>Proceedings ACM conference on LISP and functional programming</bib-title>
         <bib-date role="publication">1982</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{LFP82,
      title = {Proceedings {ACM} Conference on {LISP} and Functional Programming},
       year = {1982},
+  keywords = {conference},
  booktitle = {Proceedings {ACM} Conference on {LISP} and Functional Programming}}
 </bib-data>
       </bibentry>
@@ -6887,12 +7202,14 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-title>Proceedings of the 5<sup>th</sup> international conference on automated deduction</bib-title>
         <bib-date role="publication">1980</bib-date>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE1980</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE80,
      title = {Proceedings of the 5\textsuperscript{th} International Conference on Automated Deduction},
       year = {1980},
  publisher = {Springer Verlag},
  booktitle = {Proceedings of the 5\textsuperscript{th} International Conference on Automated Deduction},
+  keywords = {conference},
        key = {CADE1980}}
 </bib-data>
       </bibentry>
@@ -6901,12 +7218,14 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-publisher>Morgan Kaufmann, San Mateo, California, USA</bib-publisher>
         <bib-title>Proceedings of the 5<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1977</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI77,
       year = {1977},
  publisher = {Morgan Kaufmann, San Mateo, California, USA},
  booktitle = {Proceedings of the 5\textsuperscript{th} International Joint Conference on Artificial
     Intelligence ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1977}}
 </bib-data>
       </bibentry>
@@ -6916,6 +7235,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">72</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{EUROSAM79,
      title = {Proceedings of the International Symposion on Symbolic and Algebraic
     Manipulation EUROSAM+79},
@@ -6923,6 +7243,7 @@ Intelligence (IJCAI)</bib-title>
     number = {72},
     series = {LNCS},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Proceedings of the International Symposion on Symbolic and Algebraic
     Manipulation EUROSAM+79}}
 </bib-data>
@@ -6930,9 +7251,11 @@ Intelligence (IJCAI)</bib-title>
       <bibentry key="ACM72" type="proceedings" xml:id="bib.bib280">
         <bib-title>Proceedings of the ACM annual conference 1972</bib-title>
         <bib-date role="publication">1972</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{ACM72,
      title = {Proceedings of the {ACM} annual Conference 1972},
       year = {1972},
+  keywords = {conference},
  booktitle = {Proceedings of the {ACM} annual Conference}}
 </bib-data>
       </bibentry>
@@ -6940,12 +7263,14 @@ Intelligence (IJCAI)</bib-title>
         <bib-title>Symposium on automatic demonstration</bib-title>
         <bib-date role="publication">1970</bib-date>
         <bib-part role="number">125</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-part role="series">LNM</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{SAD70,
      title = {Symposium on Automatic Demonstration},
       year = {1970},
     number = {125},
+  keywords = {conference},
     series = {LNM},
  publisher = {Springer Verlag}}
 </bib-data>
@@ -6954,11 +7279,13 @@ Intelligence (IJCAI)</bib-title>
         <bib-title>Proceedings of ifip congress in information processing</bib-title>
         <bib-date role="publication">1968</bib-date>
         <bib-part role="volume">68</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>North Holland, Amsterdam</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{IFIP68,
      title = {Proceedings of IFIP Congress in Information Processing},
       year = {1968},
     volume = {68},
+  keywords = {conference},
  publisher = {North Holland, Amsterdam},
  booktitle = {Proceedings of IFIP Congress in Information Processing}}
 </bib-data>
@@ -6975,12 +7302,14 @@ Intelligence (IJCAI)</bib-title>
           <givenname>Olga</givenname>
         </bib-name>
         <bib-url href="http://www.risc.uni-linz.ac.at/institute/conferences/MKM2001/Proceedings/">Link</bib-url>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{MKM01,
      title = {Electronic Proceedings of the First International Workshop on Mathematical
     Knowledge Management: {MKM'2001}},
       year = {2001},
     editor = {Bruno Buchberger and Olga Caprotti},
        url = {http://www.risc.uni-linz.ac.at/institute/conferences/MKM2001/Proceedings/},
+  keywords = {conference},
  booktitle = {Electronic Proceedings of the First International Workshop on Mathematical
     Knowledge Management: {MKM'2001}}}
 </bib-data>
@@ -7037,6 +7366,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">5268</bib-part>
         <bib-date role="publication">2008</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="978-3-540-87695-3" scheme="isbn">ISBN 978-3-540-87695-3</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{ekaw2008,
     editor = {Aldo Gangemi and J{\'e}r{\^o}me Euzenat},
@@ -7049,6 +7379,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
     number = {5268},
       year = {2008},
+  keywords = {conference},
       isbn = {978-3-540-87695-3}}
 </bib-data>
       </bibentry>
@@ -7088,6 +7419,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-data role="venue">Vienna, Austria</bib-data>
         <bib-data role="eventdate">2008-06</bib-data>
         <bib-data role="month">June</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>AACE</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{EdMedia2008,
      title = {Proceedings of the World Conference on Educational Multimedia, Hypermedia \&amp; Telecommunications 2008 ({ED-MEDIA'08})},
@@ -7097,6 +7429,7 @@ Intelligence (IJCAI)</bib-title>
      venue = {Vienna, Austria},
  eventdate = {2008-06},
      month = {June},
+  keywords = {conference},
  publisher = {AACE}}
 </bib-data>
       </bibentry>
@@ -7114,6 +7447,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-key>EdMedia2007</bib-key>
         <bib-note role="annotation">Vancouver, Canada</bib-note>
         <bib-data role="month">June</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>AACE</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{EdMedia2007,
      title = {Proceedings of the World Conference on Educational Multimedia, Hypermedia \&amp; Telecommunications 2007 ({ED-MEDIA'07})},
@@ -7123,6 +7457,7 @@ Intelligence (IJCAI)</bib-title>
        key = {EdMedia2007},
     annote = {Vancouver, Canada},
      month = {June},
+  keywords = {conference},
  publisher = {AACE}}
 </bib-data>
       </bibentry>
@@ -7138,6 +7473,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">7</bib-part>
         <bib-place>Bauhaus-Universität Weimar, Germany</bib-place>
         <bib-data role="month">September</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Oldenbourg Verlag</bib-publisher>
         <bib-note role="annotation">7.te Fachübergreifende Konferenz</bib-note>
         <bib-data role="self" type="BibTeX">@proceedings{MuC2007,
@@ -7149,6 +7485,7 @@ Intelligence (IJCAI)</bib-title>
     number = {7},
    address = {Bauhaus-Universit{\"a}t Weimar, Germany},
      month = {September},
+  keywords = {conference},
  publisher = {Oldenbourg Verlag},
     annote = {7.te Fach{\"u}bergreifende Konferenz}}
 </bib-data>
@@ -7252,12 +7589,14 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-title>7. konferenz für interaktive und kooperative medien</bib-title>
         <bib-publisher>Oldenburg</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2007</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{MC07,
     editor = {Tom Gross},
      title = {7. Konferenz f{\"u}r interaktive und kooperative Medien},
  booktitle = {Mensch und Computer 2007},
  publisher = {Oldenburg},
+  keywords = {conference},
       year = {2007}}
 </bib-data>
       </bibentry>
@@ -7369,10 +7708,12 @@ Intelligence (IJCAI)</bib-title>
       </bibentry>
       <bibentry key="ICSE04" type="proceedings" xml:id="bib.bib301">
         <bib-title>26<sup>th</sup> IEEE international conference on software engineering</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2004</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{ICSE04,
  booktitle = {26\textsuperscript{th} {IEEE} International Conference on Software Engineering},
      title = {26\textsuperscript{th} {IEEE} International Conference on Software Engineering},
+  keywords = {conference},
       year = {2004}}
 </bib-data>
       </bibentry>
@@ -7415,6 +7756,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">3532</bib-part>
         <bib-date role="publication">2005</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="3-540-26124-9" scheme="isbn">ISBN 3-540-26124-9</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{eswc2005,
     editor = {Asunci{\'o}n G{\'o}mez-P{\'e}rez and
@@ -7429,6 +7771,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
     number = {3532},
       year = {2005},
+  keywords = {conference},
       isbn = {3-540-26124-9}}
 </bib-data>
       </bibentry>
@@ -7453,6 +7796,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">4519</bib-part>
         <bib-date role="publication">2007</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="978-3-540-72666-1" scheme="isbn">ISBN 978-3-540-72666-1</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{eswc2007,
     editor = {Enrico Franconi and
@@ -7467,6 +7811,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
     number = {4519},
       year = {2007},
+  keywords = {conference},
       isbn = {978-3-540-72666-1}}
 </bib-data>
       </bibentry>
@@ -7495,6 +7840,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">5021</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2008</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{eswc2008,
     editor = {Sean Bechhofer and Manfred Hauswirth and J{\"o}rg Hoffmann and
@@ -7508,6 +7854,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag},
     series = {LNCS},
     number = {5021},
+  keywords = {conference},
       year = {2008}}
 </bib-data>
       </bibentry>
@@ -7559,6 +7906,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">5554</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2009</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{eswc2009,
     editor = {Lora Aroyo and Paolo Traverso and Fabio Ciravegna and Philipp Cimiano and Tom Heath and Eero Hyv{\"o}nen and Riichiro Mizoguchi and Eyal Oren and Marta Sabou and Paslaru Bontas Simperl, Elena},
@@ -7570,6 +7918,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag},
     series = {LNCS},
     number = {5554},
+  keywords = {conference},
       year = {2009}}
 </bib-data>
       </bibentry>
@@ -7609,6 +7958,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-data role="eventdate">2010-05-30/2010-06-03</bib-data>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-part role="number">6088</bib-part>
         <bib-data role="self" type="BibTeX">@proceedings{eswc2010-1,
     editor = {Lora Aroyo and Grigoris Antoniou and Eero Hyv{\"o}nen and Annette ten Teije and Heiner Stuckenschmidt and Liliana Cabral and Tania Tudorache},
@@ -7620,6 +7970,7 @@ Intelligence (IJCAI)</bib-title>
  eventdate = {2010-05-30/2010-06-03},
  publisher = {Springer Verlag},
     series = {LNCS},
+  keywords = {conference},
     number = {6088}}
 </bib-data>
       </bibentry>
@@ -7726,6 +8077,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-data role="eventdate">2008-04-05/2008-04-10</bib-data>
         <bib-data role="venue">Florence, Italy</bib-data>
         <bib-publisher>ACM</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2008</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{chi2008,
      title = {Proceedings of the 2008 Conference on Human Factors in Computing
@@ -7734,6 +8086,7 @@ Intelligence (IJCAI)</bib-title>
      venue = {Florence, Italy},
  booktitle = {CHI},
  publisher = {ACM},
+  keywords = {conference},
       year = {2008}}
 </bib-data>
       </bibentry>
@@ -7750,6 +8103,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>ACM</bib-publisher>
         <bib-date role="publication">2007</bib-date>
         <bib-identifier id="978-1-59593-593-9" scheme="isbn">ISBN 978-1-59593-593-9</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{chi2007,
     editor = {Mary Beth Rosson and David J. Gilmore},
@@ -7760,6 +8114,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {ACM},
       year = {2007},
       isbn = {978-1-59593-593-9},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -7778,6 +8133,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-date role="publication">1990</bib-date>
         <bib-data role="eventdate">1990</bib-data>
         <bib-data role="venue">Seattle, WA, USA</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="0-201-50932-6" scheme="isbn">ISBN 0-201-50932-6</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{chi1990,
     editor = {Jane Carrasco Chew and John Whiteside},
@@ -7788,6 +8144,7 @@ Intelligence (IJCAI)</bib-title>
       year = {1990},
  eventdate = {1990},
      venue = {Seattle, WA, USA},
+  keywords = {conference},
       isbn = {0-201-50932-6}}
 </bib-data>
       </bibentry>
@@ -7937,6 +8294,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="volume">217</bib-part>
         <bib-date role="publication">2002</bib-date>
         <bib-identifier id="1-4020-7133-7" scheme="isbn">ISBN 1-4020-7133-7</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{WCCE01,
     editor = {Deryn Watson and Jane Andersen},
@@ -7949,6 +8307,7 @@ Intelligence (IJCAI)</bib-title>
     volume = {217},
       year = {2002},
       isbn = {1-4020-7133-7},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -8090,6 +8449,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">3119</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{MKM04,
      title = {Mathematical Knowledge Management, {MKM'04}},
       year = {2004},
@@ -8097,6 +8457,7 @@ Intelligence (IJCAI)</bib-title>
     number = {3119},
     series = {LNAI},
  publisher = {Springer Verlag},
+  keywords = {conference},
  booktitle = {Mathematical Knowledge Management, {MKM'04}}}
 </bib-data>
       </bibentry>
@@ -8110,6 +8471,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-title>Proceedings of the 16<sup>th</sup> International Joint Conference on Artificial
 Intelligence (IJCAI)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>IJCAI1999</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAI99,
       year = {1999},
@@ -8118,6 +8480,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Morgan Kaufmann},
  booktitle = {Proceedings of the 16\textsuperscript{th} {International} {Joint} {Conference} on {Artificial}
     {Intelligence} ({IJCAI})},
+  keywords = {conference},
        key = {IJCAI1999}}
 </bib-data>
       </bibentry>
@@ -8131,6 +8494,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">4603</bib-part>
         <bib-date role="publication">2007</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="978-3-540-73594-6" scheme="isbn">ISBN 978-3-540-73594-6</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{CADE07,
     editor = {Frank Pfenning},
@@ -8141,6 +8505,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
     number = {4603},
       year = {2007},
+  keywords = {conference},
       isbn = {978-3-540-73594-6}}
 </bib-data>
       </bibentry>
@@ -8151,12 +8516,14 @@ Intelligence (IJCAI)</bib-title>
           <surname>Retoré</surname>
           <givenname>Christian</givenname>
         </bib-name>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer-Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{LACL96,
  booktitle = {Logical Aspects of Computational Linguistics},
      title = {Logical Aspects of Computational Linguistics},
       year = {1996},
     editor = {Christian Retor{\'e}},
+  keywords = {conference},
  publisher = {Springer-Verlag}}
 </bib-data>
       </bibentry>
@@ -8223,6 +8590,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="number">5318</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-data role="month">October</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{iswc2008,
      title = {The Semantic Web},
@@ -8233,6 +8601,7 @@ Intelligence (IJCAI)</bib-title>
     number = {5318},
     series = {LNCS},
      month = {October},
+  keywords = {conference},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
@@ -8379,6 +8748,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-data role="venue">Budapest, Hungary</bib-data>
         <bib-data role="eventdate">2003-05-20/2003-05-24</bib-data>
         <bib-publisher>ACM Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2003</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{www2003,
      title = {Proceedings of the 12\textsuperscript{th} international {World} {Wide} {Web} conference, ({WWW})},
@@ -8386,6 +8756,7 @@ Intelligence (IJCAI)</bib-title>
  eventdate = {2003-05-20/2003-05-24},
  booktitle = {Proceedings of the 12\textsuperscript{th} {WWW} conference},
  publisher = {ACM Press},
+  keywords = {conference},
       year = {2003}}
 </bib-data>
       </bibentry>
@@ -8403,6 +8774,7 @@ Intelligence (IJCAI)</bib-title>
           <surname>Hagino</surname>
           <givenname>Tatsuya</givenname>
         </bib-name>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="1-59593-046-9" scheme="isbn">ISBN 1-59593-046-9</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{www2005,
      title = {Proceedings of the 14\textsuperscript{th} international {World} {Wide} {Web} conference ({WWW})},
@@ -8412,6 +8784,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {ACM Press},
       year = {2005},
     editor = {Allan Ellis and Tatsuya Hagino},
+  keywords = {conference},
       isbn = {1-59593-046-9}}
 </bib-data>
       </bibentry>
@@ -8420,6 +8793,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-data role="venue">Edinburgh, Scotland</bib-data>
         <bib-data role="evendate">2006-05-23/2006-05-26</bib-data>
         <bib-publisher>ACM Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2006</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{www2006,
      title = {Proceedings of the 15\textsuperscript{th} international {World} {Wide} {Web} conference ({WWW})},
@@ -8427,6 +8801,7 @@ Intelligence (IJCAI)</bib-title>
   evendate = {2006-05-23/2006-05-26},
  booktitle = {Proceedings of the 15\textsuperscript{th} {WWW} conference},
  publisher = {ACM Press},
+  keywords = {conference},
       year = {2006}}
 </bib-data>
       </bibentry>
@@ -8453,6 +8828,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-date role="publication">2007</bib-date>
         <bib-identifier id="978-1-59593-654-7" scheme="isbn">ISBN 978-1-59593-654-7</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{www2007,
      title = {Proceedings of the 16\textsuperscript{th} international {World} {Wide} {Web} conference ({WWW})},
@@ -8466,6 +8842,7 @@ Intelligence (IJCAI)</bib-title>
                Prashant J. Shenoy},
       year = {2007},
       isbn = {978-1-59593-654-7},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -8504,6 +8881,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-date role="publication">2008</bib-date>
         <bib-identifier id="978-1-60558-085-2" scheme="isbn">ISBN 978-1-60558-085-2</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{www2008,
      title = {Proceedings of the 17\textsuperscript{th} international
@@ -8515,6 +8893,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Jinpeng Huai and Robin Chen and Hsiao-Wuen Hon and Yunhao Liu and Wei-Ying Ma and Andrew Tomkins and Xiaodong Zhang},
       year = {2008},
       isbn = {978-1-60558-085-2},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -8541,6 +8920,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-date role="publication">2009</bib-date>
         <bib-identifier id="978-1-60558-487-4" scheme="isbn">ISBN 978-1-60558-487-4</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{www2009,
      title = {Proceedings of the 18\textsuperscript{th} international
@@ -8552,6 +8932,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Juan Quemada and Gonzalo Le{\'o}n and Yo{\"e}lle S. Maarek and Wolfgang Nejdl},
       year = {2009},
       isbn = {978-1-60558-487-4},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -8574,6 +8955,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-data role="venue">Tucson, USA</bib-data>
         <bib-data role="eventdate">2006</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{er2006,
      title = {25\textsuperscript{th} International Conference on Conceptual Modeling ({ER2006})},
       year = {2006},
@@ -8582,6 +8964,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
      venue = {Tucson, USA},
  eventdate = {2006},
+  keywords = {conference},
  booktitle = {Proceedings of the 25\textsuperscript{th} International Conference on Conceptual Modeling ({ER2006})}}
 </bib-data>
       </bibentry>
@@ -8758,6 +9141,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-title>Proceedings of the 16<sup>th</sup> annual international ACM-SIGIR conference on research and development in information retrieval. pittsburgh, pa, usa, june 27 – july 1, 1993</bib-title>
         <bib-publisher>ACM</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">1993</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{SIGIR93,
     editor = {Robert Korfhage and Edie M. Rasmussen and Peter Willett},
@@ -8767,6 +9151,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Proceedings of the 16\textsuperscript{th} Annual International {ACM-SIGIR} Conference
                on Research and Development in Information Retrieval},
  publisher = {ACM},
+  keywords = {conference},
       year = {1993}}
 </bib-data>
       </bibentry>
@@ -8915,6 +9300,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="series">LNCS</bib-part>
         <bib-data role="venue">Nancy, France</bib-data>
         <bib-data role="eventdate">1997</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{TLCA97,
      title = {Proceedings of the 3\textsuperscript{rd} International Conference on Typed Lambda Calculus  and Applications},
@@ -8925,6 +9311,7 @@ Intelligence (IJCAI)</bib-title>
     series = {LNCS},
      venue = {Nancy, France},
  eventdate = {1997},
+  keywords = {conference},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
@@ -9071,6 +9458,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-place>New York, NY, USA</bib-place>
         <bib-data role="findoutdoi">10.1145/1621995.1622013</bib-data>
         <bib-data role="venue">Pisa, Italy</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="changeeventdate">2011</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{SIGDOC11,
      title = {Proceedings of the 29\textsuperscript{th} annual {ACM} international conference on Design of communication ({SIGDOC})},
@@ -9082,6 +9470,7 @@ Intelligence (IJCAI)</bib-title>
    address = {New York, NY, USA},
  findoutdoi = {10.1145/1621995.1622013},
      venue = {Pisa, Italy},
+  keywords = {conference},
  changeeventdate = {2011}}
 </bib-data>
       </bibentry>
@@ -9096,6 +9485,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-place>New York, NY, USA</bib-place>
         <bib-identifier href="http://dx.doi.org/10.1145/1621995.1622013" id="10.1145/1621995.1622013" scheme="doi">Document</bib-identifier>
         <bib-data role="venue">Bloomington, Indiana, USA</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="eventdate">2009</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{SIGDOC10,
      title = {Proceedings of the 28th {ACM} International Conference on Design of Communication},
@@ -9109,6 +9499,7 @@ Intelligence (IJCAI)</bib-title>
    address = {New York, NY, USA},
        doi = {10.1145/1621995.1622013},
      venue = {Bloomington, Indiana, USA},
+  keywords = {conference},
  eventdate = {2009}}
 </bib-data>
       </bibentry>
@@ -9136,6 +9527,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-place>New York, NY, USA</bib-place>
         <bib-identifier href="http://dx.doi.org/10.1145/1621995.1622013" id="10.1145/1621995.1622013" scheme="doi">Document</bib-identifier>
         <bib-data role="venue">Bloomington, Indiana, USA</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="eventdate">2009</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{SIGDOC09,
      title = {Proceedings of the 27\textsuperscript{th} annual {ACM} international conference on Design of communication ({SIGDOC})},
@@ -9147,6 +9539,7 @@ Intelligence (IJCAI)</bib-title>
    address = {New York, NY, USA},
        doi = {10.1145/1621995.1622013},
      venue = {Bloomington, Indiana, USA},
+  keywords = {conference},
  eventdate = {2009}}
 </bib-data>
       </bibentry>
@@ -9163,6 +9556,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">5850</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2009</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{FM09,
      title = {16\textsuperscript{th} International Symposium on Formal Methods ({FM 2009})},
@@ -9171,6 +9565,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag},
     series = {LNCS},
     number = {5850},
+  keywords = {conference},
       year = {2009}}
 </bib-data>
       </bibentry>
@@ -9427,6 +9822,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-part role="number">3826</bib-part>
         <bib-date role="publication">2005</bib-date>
         <bib-identifier id="3-540-30817-2" scheme="isbn">ISBN 3-540-30817-2</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{DBLP:conf/icsoc/2005,
     editor = {Boualem Benatallah and
@@ -9441,6 +9837,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
     number = {3826},
       year = {2005},
       isbn = {3-540-30817-2},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -9466,6 +9863,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-data role="changeeditor">Simon Thorne</bib-data>
         <bib-data role="changepublisher">European Spreadsheet Risk Interest Group</bib-data>
         <bib-data role="changeisbn">978-1-905404-50-6</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2013</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{EUSPRIG13,
      title = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2013})},
@@ -9473,6 +9871,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  changeeditor = {Simon Thorne},
  changepublisher = {European Spreadsheet Risk Interest Group},
  changeisbn = {978-1-905404-50-6},
+  keywords = {conference},
       year = {2013}}
 </bib-data>
       </bibentry>
@@ -9484,6 +9883,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         </bib-name>
         <bib-publisher>European Spreadsheet Risk Interest Group</bib-publisher>
         <bib-identifier id="978-1-905404-50-6" scheme="isbn">ISBN 978-1-905404-50-6</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2010</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{EUSPRIG10,
      title = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2010})},
@@ -9491,42 +9891,51 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
     editor = {Simon Thorne},
  publisher = {European Spreadsheet Risk Interest Group},
       isbn = {978-1-905404-50-6},
+  keywords = {conference},
       year = {2010}}
 </bib-data>
       </bibentry>
       <bibentry key="EUSPRIG07" type="proceedings" xml:id="bib.bib380">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2007)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2007</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{EUSPRIG07,
      title = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2007})},
  booktitle = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2007})},
+  keywords = {conference},
       year = {2007}}
 </bib-data>
       </bibentry>
       <bibentry key="EUSPRIG05" type="proceedings" xml:id="bib.bib381">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2005)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2005</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{EUSPRIG05,
      title = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2005})},
  booktitle = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2005})},
+  keywords = {conference},
       year = {2005}}
 </bib-data>
       </bibentry>
       <bibentry key="EUSPRIG01" type="proceedings" xml:id="bib.bib382">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2001)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2001</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{EUSPRIG01,
      title = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2001})},
  booktitle = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2001})},
+  keywords = {conference},
       year = {2001}}
 </bib-data>
       </bibentry>
       <bibentry key="EUSPRIG00" type="proceedings" xml:id="bib.bib383">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2000)</bib-title>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2000</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{EUSPRIG00,
      title = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2000})},
  booktitle = {Symp. of the European Spreadsheet Risks Interest Group ({EuSpRIG 2000})},
+  keywords = {conference},
       year = {2000}}
 </bib-data>
       </bibentry>
@@ -9668,6 +10077,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         </bib-name>
         <bib-part role="number">2730</bib-part>
         <bib-part role="series">LNCS</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{ICM2002,
      title = {Electronic Information and Communication in Mathematics},
@@ -9679,6 +10089,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
     editor = {Fengshan Bai and Bernd Wegner},
     number = {2730},
     series = {LNCS},
+  keywords = {conference},
  publisher = {Springer}}
 </bib-data>
       </bibentry>
@@ -9705,6 +10116,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-part role="number">13</bib-part>
         <bib-date role="publication">2002</bib-date>
         <bib-identifier id="3-88579-339-3" scheme="isbn">ISBN 3-88579-339-3</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{eunis2001,
     editor = {Jan von Knop and
@@ -9721,6 +10133,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
     number = {13},
       year = {2002},
       isbn = {3-88579-339-3},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -9768,6 +10181,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-part role="number">6359</bib-part>
         <bib-part role="series">LNAI</bib-part>
         <bib-place>Karlsruhe, Germany</bib-place>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{KI10,
      title = {Proceedings of the 33.rd Annual German Conference on Artificial Intelligence
     KI'10},
@@ -9776,6 +10190,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
     number = {6359},
     series = {LNAI},
    address = {Karlsruhe, Germany},
+  keywords = {conference},
  booktitle = {KI 2010: Advances in Artificial Intelligence}}
 </bib-data>
       </bibentry>
@@ -9833,6 +10248,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-part role="number">5823</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-data role="month">October</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{iswc2009,
      title = {The Semantic Web – ISWC 2009},
@@ -9843,6 +10259,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
     number = {5823},
     series = {LNCS},
      month = {October},
+  keywords = {conference},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
@@ -9887,6 +10304,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">7031</bib-part>
         <bib-date role="publication">2011</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="978-3-642-25072-9" scheme="isbn">ISBN 978-3-642-25072-9</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{iswc2011-1,
     editor = {Lora Aroyo and
@@ -9906,6 +10324,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
     series = {LNCS},
     number = {7031},
       year = {2011},
+  keywords = {conference},
       isbn = {978-3-642-25072-9}}
 </bib-data>
       </bibentry>
@@ -9924,6 +10343,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-identifier id="978-1-4503-0231-9" scheme="isbn">ISBN 978-1-4503-0231-9</bib-identifier>
         <bib-data role="location">Manchester, United Kingdom</bib-data>
         <bib-publisher>ACM</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-place>New York, NY, USA</bib-place>
         <bib-data role="self" type="BibTeX">@proceedings{DOCENG10,
     editor = {Michael Gormish and Rolf Ingold},
@@ -9934,6 +10354,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       isbn = {978-1-4503-0231-9},
   location = {Manchester, United Kingdom},
  publisher = {ACM},
+  keywords = {conference},
    address = {New York, NY, USA}}
 </bib-data>
       </bibentry>
@@ -10063,10 +10484,12 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       <bibentry key="ASE00" type="proceedings" xml:id="bib.bib401">
         <bib-title>Proceedings 15<sup>th</sup> IEEE International Conference on Automated Software Engineering, ASE-2000</bib-title>
         <bib-publisher>IEEE Computer Society</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2000</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{ASE00,
  booktitle = {Proceedings 15\textsuperscript{th} {IEEE} International Conference on Automated Software Engineering, ASE-2000},
  publisher = {IEEE Computer Society},
+  keywords = {conference},
       year = {2000}}
 </bib-data>
       </bibentry>
@@ -10074,23 +10497,27 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-title>Proceedings 16<sup>th</sup> IEEE international conference on automated software engineering, ase-2001</bib-title>
         <bib-place>San Diego, USA</bib-place>
         <bib-publisher>IEEE Computer Society</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2001</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{ASE01,
      title = {Proceedings 16\textsuperscript{th} {IEEE} International Conference on Automated Software Engineering, ASE-2001},
  booktitle = {Proceedings 16\textsuperscript{th} {IEEE} International Conference on Automated Software Engineering, ASE-2001},
    address = {San Diego, USA},
  publisher = {IEEE Computer Society},
+  keywords = {conference},
       year = {2001}}
 </bib-data>
       </bibentry>
       <bibentry key="ASE05" type="proceedings" xml:id="bib.bib403">
         <bib-title>20<sup>th</sup> IEEE/ACM international conference on automated seofware engineering</bib-title>
         <bib-publisher>IEEE Computer Society</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2005</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{ASE05,
  booktitle = {20\textsuperscript{th} {IEEE/ACM} International Conference on Automated Seofware Engineering},
      title = {20\textsuperscript{th} {IEEE/ACM} International Conference on Automated Seofware Engineering},
  publisher = {IEEE Computer Society},
+  keywords = {conference},
       year = {2005}}
 </bib-data>
       </bibentry>
@@ -10356,6 +10783,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-publisher>ACM</bib-publisher>
         <bib-date role="publication">2011</bib-date>
         <bib-identifier id="978-1-4503-0445-0" scheme="isbn">ISBN 978-1-4503-0445-0</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{DBLP:conf/icse/2011,
     editor = {Richard N. Taylor and Harald Gall and Nenad Medvidovic},
@@ -10364,6 +10792,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  publisher = {ACM},
       year = {2011},
       isbn = {978-1-4503-0445-0},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
@@ -10432,6 +10861,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         </bib-name>
         <bib-publisher>IEEE Press</bib-publisher>
         <bib-identifier id="978-1-4673-5026-6" scheme="isbn">ISBN 978-1-4673-5026-6</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="ee">http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6480928</bib-data>
         <bib-place>Timisoara, Romania</bib-place>
         <bib-data role="self" type="BibTeX">@proceedings{SYNASC13,
@@ -10449,6 +10879,7 @@ Stephen M. Watt and
 Daniela Zaharie},
  publisher = {IEEE Press},
       isbn = {978-1-4673-5026-6},
+  keywords = {conference},
         ee = {http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6480928},
    address = {Timisoara, Romania}}
 </bib-data>
@@ -10497,12 +10928,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the 48th annual meeting of the association for computational linguistics</bib-title>
         <bib-date role="publication">2010-07</bib-date>
         <bib-data role="month">July</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{ACL10,
      title = {Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics},
  booktitle = {Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics},
       year = {2010},
      month = {July},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10510,12 +10943,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the 49th annual meeting of the association for computational linguistics</bib-title>
         <bib-date role="publication">2011-06</bib-date>
         <bib-data role="month">June</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{ACL11,
      title = {Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics},
  booktitle = {Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics},
       year = {2011},
      month = {June},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10523,12 +10958,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the 46th annual meeting of the association for computational linguistics</bib-title>
         <bib-date role="publication">2008-06</bib-date>
         <bib-data role="month">June</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{ACL08,
      title = {Proceedings of the 46th Annual Meeting of the Association for Computational Linguistics},
  booktitle = {Proceedings of the 46th Annual Meeting of the Association for Computational Linguistics},
       year = {2008},
      month = {June},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10536,12 +10973,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the 2008 conference on empirical methods in natural language processing</bib-title>
         <bib-date role="publication">2008-10</bib-date>
         <bib-data role="month">October</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{CEMNLP08,
      title = {Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing},
  booktitle = {Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing},
       year = {2008},
      month = {October},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10549,12 +10988,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the 2009 conference on empirical methods in natural language processing</bib-title>
         <bib-date role="publication">2009-08</bib-date>
         <bib-data role="month">August</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{CEMNLP09,
      title = {Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing},
  booktitle = {Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing},
       year = {2009},
      month = {August},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10562,12 +11003,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the 2010 conference on empirical methods in natural language processing</bib-title>
         <bib-date role="publication">2010-10</bib-date>
         <bib-data role="month">October</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{CEMNLP10,
      title = {Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing},
  booktitle = {Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing},
       year = {2010},
      month = {October},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10575,12 +11018,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the 2011 conference on empirical methods in natural language processing</bib-title>
         <bib-date role="publication">2011-07</bib-date>
         <bib-data role="month">July</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{CEMNLP11,
      title = {Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing},
  booktitle = {Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing},
       year = {2011},
      month = {July},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10588,12 +11033,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the 2012 joint conference on empirical methods in natural language processing and computational natural language learning</bib-title>
         <bib-date role="publication">2012-07</bib-date>
         <bib-data role="month">July</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{CEMNLP-CNLL12,
      title = {Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning},
  booktitle = {Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning},
       year = {2012},
      month = {July},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10601,12 +11048,14 @@ Daniela Zaharie},
         <bib-title>Proceedings of the seventh ACM SIGKDD international conference on knowledge discovery and data mining</bib-title>
         <bib-date role="publication">2001-08</bib-date>
         <bib-data role="month">August</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{SIGKDD01,
      title = {Proceedings of the seventh {ACM SIGKDD} international conference on Knowledge discovery and data mining},
  booktitle = {Proceedings of the seventh {ACM SIGKDD} international conference on Knowledge discovery and data mining},
       year = {2001},
      month = {August},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10614,34 +11063,40 @@ Daniela Zaharie},
         <bib-title>Human language technologies: the 2010 annual conference of the north american chapter of the association for computational linguistics</bib-title>
         <bib-date role="publication">2010-06</bib-date>
         <bib-data role="month">June</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{HLT-NAACL10,
      title = {Human language technologies: The 2010 annual conference of the North American chapter of the association for computational linguistics},
  booktitle = {Human language technologies: The 2010 annual conference of the North American chapter of the association for computational linguistics},
       year = {2010},
      month = {June},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
       <bibentry key="HLT-NAACL08" type="proceedings" xml:id="bib.bib427">
         <bib-title>Human language technologies: the 2008 annual conference of the north american chapter of the association for computational linguistics</bib-title>
         <bib-date role="publication">2008</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{HLT-NAACL08,
      title = {Human language technologies: The 2008 annual conference of the North American chapter of the association for computational linguistics},
  booktitle = {Human language technologies: The 2008 annual conference of the North American chapter of the association for computational linguistics},
       year = {2008},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
       <bibentry key="HLT-NAACL07" type="proceedings" xml:id="bib.bib428">
         <bib-title>Human language technologies: the 2007 annual conference of the north american chapter of the association for computational linguistics</bib-title>
         <bib-date role="publication">2007</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Association for Computational Linguistics</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{HLT-NAACL07,
      title = {Human language technologies: The 2007 annual conference of the North American chapter of the association for computational linguistics},
  booktitle = {Human language technologies: The 2007 annual conference of the North American chapter of the association for computational linguistics},
       year = {2007},
+  keywords = {conference},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
@@ -10672,6 +11127,7 @@ Daniela Zaharie},
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">8119</bib-part>
         <bib-date role="publication">2013</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="978-3-642-40476-4" scheme="isbn">ISBN 978-3-642-40476-4</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{INTERACT13a,
     editor = {Paula Kotz\'{e} and Gary Marsden and Gitte Lindgaard and Janet Wesson and Marco Winckler},
@@ -10682,6 +11138,7 @@ Daniela Zaharie},
     series = {LNCS},
     number = {8119},
       year = {2013},
+  keywords = {conference},
       isbn = {978-3-642-40476-4}}
 </bib-data>
       </bibentry>
@@ -10712,6 +11169,7 @@ Daniela Zaharie},
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">8120</bib-part>
         <bib-date role="publication">2013</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-identifier id="978-3-642-40497-9" scheme="isbn">ISBN 978-3-642-40497-9</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{INTERACT13b,
     editor = {Paula Kotz\'{e} and Gary Marsden and Gitte Lindgaard and Janet Wesson and Marco Winckler},
@@ -10722,6 +11180,7 @@ Daniela Zaharie},
     series = {LNCS},
     number = {8120},
       year = {2013},
+  keywords = {conference},
       isbn = {978-3-642-40497-9}}
 </bib-data>
       </bibentry>
@@ -10763,6 +11222,7 @@ Daniela Zaharie},
         <bib-title>Mensch &amp; computer 2007: konferenz für interaktive und kooperative medien, bauhaus-universität weimar, weimar, germany, 2-5 september 2007</bib-title>
         <bib-publisher>Oldenbourg Verlag</bib-publisher>
         <bib-date role="publication">2007</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{DBLP:conf/mc/2007,
     editor = {Tom Gross},
@@ -10772,6 +11232,7 @@ Daniela Zaharie},
  booktitle = {Mensch {\&amp;} Computer},
  publisher = {Oldenbourg Verlag},
       year = {2007},
+  keywords = {conference},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>

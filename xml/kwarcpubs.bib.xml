@@ -15833,14 +15833,14 @@ e-Learning</bib-title>
       pubs = {mkohlhase,frabe,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODKproposal:on" type="website" xml:id="bib.bib638">
+      <bibentry key="ODKproposal:on" type="misc" xml:id="bib.bib638">
         <bib-data role="label">ODK</bib-data>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf">Link</bib-url>
         <bib-title>Open digital research environment toolkit for the advancement of mathematics</bib-title>
         <bib-data role="urldate">2015-09-01</bib-data>
         <bib-type>Project Proposal</bib-type>
         <bib-data role="pubs">mkohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@online{ODKproposal:on,
+        <bib-data role="self" type="BibTeX">@misc{ODKproposal:on,
      label = {ODK},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf},
      title = {Open Digital Research Environment Toolkit for the Advancement of Mathematics},
@@ -21195,7 +21195,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,cjucovschi,miancu,twiesing,projects/oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="DumGinKoh:katsdm14" type="website" xml:id="bib.bib900">
+      <bibentry key="DumGinKoh:katsdm14" type="misc" xml:id="bib.bib900">
         <bib-title>KAT: an annotation tool for STEM documents; manual</bib-title>
         <bib-name role="author">
           <surname>Dumitru</surname>
@@ -21224,7 +21224,7 @@ Sandro Wartzack},
         <bib-url href="https://github.com/KWARC/KAT/blob/master/doc/manual/katmanual.pdf">Link</bib-url>
         <bib-date role="publication">2014</bib-date>
         <bib-data role="pubs">mkohlhase,dginev,twiesing,projects/llamapun</bib-data>
-        <bib-data role="self" type="BibTeX">@online{DumGinKoh:katsdm14,
+        <bib-data role="self" type="BibTeX">@misc{DumGinKoh:katsdm14,
      title = {{KAT}: An Annotation Tool for {STEM} Documents; Manual},
     author = {Alex Dumitru and Deyan Ginev and Michael Kohlhase
        and Vlad Merticariu and  Stefan Mirea and Tom Wiesing},
