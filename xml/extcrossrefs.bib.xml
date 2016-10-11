@@ -2295,6 +2295,7 @@ Techniques and Applications</bib-title>
         </bib-name>
         <bib-part role="number">5144</bib-part>
         <bib-part role="series">LNAI</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{CICM08,
      title = {Intelligent Computer Mathematics},
@@ -2307,6 +2308,7 @@ Techniques and Applications</bib-title>
     editor = {Autexier, Serge and Campbell, John and Rubio, Julio and Sorge, Volker and Suzuki, Masakazu and Wiedijk, Freek},
     number = {5144},
     series = {LNAI},
+  keywords = {conference},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
