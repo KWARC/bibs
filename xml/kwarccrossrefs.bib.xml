@@ -49,7 +49,6 @@
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-key>CICM16</bib-key>
         <bib-data role="label">CICM16</bib-data>
-        <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">9791</bib-part>
@@ -66,7 +65,6 @@
  booktitle = {{Intelligent Computer Mathematics} 2016},
        key = {CICM16},
      label = {CICM16},
-  keywords = {conference},
  publisher = {Springer},
     series = {LNCS},
     number = {9791},
