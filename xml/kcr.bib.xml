@@ -8568,7 +8568,7 @@ Rudnicki and Josef Urban},
           <givenname>Michael</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Giceva</surname>
+          <surname>Gičeva</surname>
           <givenname>Jana</givenname>
         </bib-name>
         <bib-name role="author">
@@ -8604,7 +8604,7 @@ Rudnicki and Josef Urban},
         <bib-date role="publication">2009-09</bib-date>
         <bib-data role="month">September</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KGLZ:JOBADabstract09,
-    author = {Michael Kohlhase and Jana Giceva and Christoph Lange and Vyacheslav Zholudev},
+    author = {Michael Kohlhase and Jana Gi{\v{c}}eva and Christoph Lange and Vyacheslav Zholudev},
      title = {{JOBAD} – Interactive Mathematical Documents},
        url = {https://svn.omdoc.org/repos/jomdoc/doc/pubs/ai-mashup09/jobad.pdf},
   crossref = {AIMashup09},
@@ -8679,7 +8679,7 @@ Rudnicki and Josef Urban},
       </bibentry>
       <bibentry key="GLR:WebSvcActMathDoc09" type="inproceedings" xml:id="bib.bib243">
         <bib-name role="author">
-          <surname>Giceva</surname>
+          <surname>Gičeva</surname>
           <givenname>Jana</givenname>
         </bib-name>
         <bib-name role="author">
@@ -8723,7 +8723,7 @@ Rudnicki and Josef Urban},
         <bib-date role="publication">2009-07</bib-date>
         <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{GLR:WebSvcActMathDoc09,
-    author = {Jana Giceva and Christoph Lange and Florian Rabe},
+    author = {Jana Gi{\v{c}}eva and Christoph Lange and Florian Rabe},
      title = {Integrating Web Services into Active Mathematical Documents},
        url = {https://svn.omdoc.org/repos/jomdoc/doc/pubs/mkm09/jobad/jobad-server.pdf},
   crossref = {MKM09},
@@ -9594,30 +9594,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {November}}
 </bib-data>
       </bibentry>
-      <bibentry key="JG:CRAiMDuOaS" type="report" xml:id="bib.bib268">
-        <bib-name role="author">
-          <surname>Giceva</surname>
-          <givenname>Jana</givenname>
-        </bib-name>
-        <bib-title>Capturing rhetorical aspects in mathematical documents using OMDoc and SALT</bib-title>
-        <bib-organization>Jacobs University and DERI Galway</bib-organization>
-        <bib-date role="publication">2008</bib-date>
-        <bib-type>Technical Report</bib-type>
-        <bib-url href="https://svn.kwarc.info/repos/supervision/intern/2008/giceva_jana/project/internship%20report.pdf">Link</bib-url>
-        <bib-data role="urldate">2010-08-11</bib-data>
-        <bib-data role="pubs">jgiceva,projects/omdoc</bib-data>
-        <bib-data role="self" type="BibTeX">@techreport{JG:CRAiMDuOaS,
-    author = {Jana Giceva},
-     title = {Capturing Rhetorical Aspects in Mathematical Documents using {OMDoc} and {SALT}},
- institution = {Jacobs University {and} DERI Galway},
-      year = {2008},
-      type = {Technical Report},
-       url = {https://svn.kwarc.info/repos/supervision/intern/2008/giceva_jana/project/internship%20report.pdf},
-   urldate = {2010-08-11},
-      pubs = {jgiceva,projects/omdoc}}
-</bib-data>
-      </bibentry>
-      <bibentry key="KohPro:MWSmanual" type="report" xml:id="bib.bib269">
+      <bibentry key="KohPro:MWSmanual" type="report" xml:id="bib.bib268">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -9642,7 +9619,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {mkohlhase,cprodescu,projects/mws}}
 </bib-data>
       </bibentry>
-      <bibentry key="LangeGonzalez:SWiM-Sentido08" type="inproceedings" xml:id="bib.bib270">
+      <bibentry key="LangeGonzalez:SWiM-Sentido08" type="inproceedings" xml:id="bib.bib269">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -9681,12 +9658,12 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {July}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:Krextor09" type="inproceedings" xml:id="bib.bib271">
+      <bibentry key="Lange:Krextor09" type="inproceedings" xml:id="bib.bib270">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
         </bib-name>
-        <bib-title>Krextor – an extensible XML<Math mode="inline" tex="\to" text="to" xml:id="bib.bib271.m1">
+        <bib-title>Krextor – an extensible XML<Math mode="inline" tex="\to" text="to" xml:id="bib.bib270.m1">
             <XMath>
               <XMTok name="to" role="ARROW">→</XMTok>
             </XMath>
@@ -9730,7 +9707,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {May}}
 </bib-data>
       </bibentry>
-      <bibentry key="Zholudev:TNTBaseVDs10" type="website" xml:id="bib.bib272">
+      <bibentry key="Zholudev:TNTBaseVDs10" type="website" xml:id="bib.bib271">
         <bib-name role="author">
           <surname>Zholudev</surname>
           <givenname>Vyacheslav</givenname>
@@ -9749,7 +9726,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {vzholudev}}
 </bib-data>
       </bibentry>
-      <bibentry key="Zholudev:TNTBaseRESTful" type="website" xml:id="bib.bib273">
+      <bibentry key="Zholudev:TNTBaseRESTful" type="website" xml:id="bib.bib272">
         
         <bib-data role="urldate">2012-04-02</bib-data>
         <bib-data role="pubs">vzholudev</bib-data>
@@ -9761,7 +9738,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="Zholudev:TNTBaseRESTful:web" type="misc" xml:id="bib.bib274">
+      <bibentry key="Zholudev:TNTBaseRESTful:web" type="misc" xml:id="bib.bib273">
         
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://tntbase.org/wiki/restful">http://tntbase.org/wiki/restful</ref></bib-note>
         <bib-data role="pubs">vzholudev</bib-data>
@@ -9773,7 +9750,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:MMT" type="website" xml:id="bib.bib275">
+      <bibentry key="Rabe:MMT" type="website" xml:id="bib.bib274">
         <bib-data role="label">MMT</bib-data>
         <bib-name role="author">
           <surname>Rabe</surname>
@@ -9792,7 +9769,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {frabe,projects/latin,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="krextor:on" type="website" xml:id="bib.bib276">
+      <bibentry key="krextor:on" type="website" xml:id="bib.bib275">
         <bib-data role="label">Krextor</bib-data>
         
         <bib-extract role="keywords">software</bib-extract>
@@ -9811,7 +9788,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {January}}
 </bib-data>
       </bibentry>
-      <bibentry key="LangeEtAl:ArgumentationSWiM08" type="inproceedings" xml:id="bib.bib277">
+      <bibentry key="LangeEtAl:ArgumentationSWiM08" type="inproceedings" xml:id="bib.bib276">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -9857,7 +9834,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:csbs08" type="inproceedings" xml:id="bib.bib278">
+      <bibentry key="KohKoh:csbs08" type="inproceedings" xml:id="bib.bib277">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -9903,7 +9880,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="LangeEtAl:ArgumentationSWiMSCooP08" type="inproceedings" xml:id="bib.bib279">
+      <bibentry key="LangeEtAl:ArgumentationSWiMSCooP08" type="inproceedings" xml:id="bib.bib278">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -9944,7 +9921,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="MK:CTACoPT" type="inproceedings" xml:id="bib.bib280">
+      <bibentry key="MK:CTACoPT" type="inproceedings" xml:id="bib.bib279">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -9980,7 +9957,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:wcl08" type="incollection" xml:id="bib.bib281">
+      <bibentry key="Kohlhase:wcl08" type="incollection" xml:id="bib.bib280">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -10017,7 +9994,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMelSie:oma99" type="incollection" xml:id="bib.bib282">
+      <bibentry key="KohMelSie:oma99" type="incollection" xml:id="bib.bib281">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -10031,7 +10008,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
           <givenname>Jörg</givenname>
         </bib-name>
         
-        <bib-title><Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib282.m1">
+        <bib-title><Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib281.m1">
             <XMath>
               <XMTok name="Omega" role="UNKNOWN">Ω</XMTok>
             </XMath>
@@ -10052,7 +10029,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {mkohlhase,projects/omega}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ar03" type="incollection" xml:id="bib.bib283">
+      <bibentry key="Kohlhase:ar03" type="incollection" xml:id="bib.bib282">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -10072,7 +10049,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="CM:TCwIO" type="inproceedings" xml:id="bib.bib284">
+      <bibentry key="CM:TCwIO" type="inproceedings" xml:id="bib.bib283">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -10108,7 +10085,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="CM:TACCMCOP" type="inproceedings" xml:id="bib.bib285">
+      <bibentry key="CM:TACCMCOP" type="inproceedings" xml:id="bib.bib284">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -10144,7 +10121,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueKoh:cpme08" type="inproceedings" xml:id="bib.bib286">
+      <bibentry key="MueKoh:cpme08" type="inproceedings" xml:id="bib.bib285">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -10167,7 +10144,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {cmueller,mkohlhase,projects/planetary}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueKoh:cptsma08" type="inproceedings" xml:id="bib.bib287">
+      <bibentry key="MueKoh:cptsma08" type="inproceedings" xml:id="bib.bib286">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -10198,7 +10175,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {cmueller,mkohlhase,projects/planetary}}
 </bib-data>
       </bibentry>
-      <bibentry key="NRM08:fst" type="inproceedings" xml:id="bib.bib288">
+      <bibentry key="NRM08:fst" type="inproceedings" xml:id="bib.bib287">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -10242,7 +10219,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:AssessmentInSACHS" type="inproceedings" xml:id="bib.bib289">
+      <bibentry key="KohKoh:AssessmentInSACHS" type="inproceedings" xml:id="bib.bib288">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -10287,7 +10264,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {September}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:SACHSCoverage10" type="inproceedings" xml:id="bib.bib290">
+      <bibentry key="KohKoh:SACHSCoverage10" type="inproceedings" xml:id="bib.bib289">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -10328,7 +10305,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:stuas09" type="inproceedings" xml:id="bib.bib291">
+      <bibentry key="KohKoh:stuas09" type="inproceedings" xml:id="bib.bib290">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -10382,7 +10359,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:mteuas09" type="inproceedings" xml:id="bib.bib292">
+      <bibentry key="KohKoh:mteuas09" type="inproceedings" xml:id="bib.bib291">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -10436,7 +10413,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="Ionita:ExtractingRDFFromOMDoc08" type="misc" xml:id="bib.bib293">
+      <bibentry key="Ionita:ExtractingRDFFromOMDoc08" type="misc" xml:id="bib.bib292">
         <bib-name role="author">
           <surname>Ioniţă</surname>
           <givenname>Andrei</givenname>
@@ -10455,7 +10432,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:omdocspec" type="misc" xml:id="bib.bib294">
+      <bibentry key="URL:omdocspec" type="misc" xml:id="bib.bib293">
         <bib-data role="label">OMDoc</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -10471,7 +10448,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://www.omdoc.org/pubs/spec.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="VZ:resprop" type="misc" xml:id="bib.bib295">
+      <bibentry key="VZ:resprop" type="misc" xml:id="bib.bib294">
         <bib-name role="author">
           <surname>Zholudev</surname>
           <givenname>Vyacheslav</givenname>
@@ -10492,7 +10469,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {vzholudev}}
 </bib-data>
       </bibentry>
-      <bibentry key="AI:internrep" type="misc" xml:id="bib.bib296">
+      <bibentry key="AI:internrep" type="misc" xml:id="bib.bib295">
         <bib-name role="author">
           <surname>Ioniţă</surname>
           <givenname>Andrei</givenname>
@@ -10511,7 +10488,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="lange:swim-demo08" type="inproceedings" xml:id="bib.bib297">
+      <bibentry key="lange:swim-demo08" type="inproceedings" xml:id="bib.bib296">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -10565,7 +10542,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="cm:mn:08" type="report" xml:id="bib.bib298">
+      <bibentry key="cm:mn:08" type="report" xml:id="bib.bib297">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -10588,7 +10565,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {cmueller,kwarc-report}}
 </bib-data>
       </bibentry>
-      <bibentry key="KLMMR:AoNiLMD" type="report" xml:id="bib.bib299">
+      <bibentry key="KLMMR:AoNiLMD" type="report" xml:id="bib.bib298">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -10629,7 +10606,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {mkohlhase,clange,cmueller,nmueller,frabe,kwarc-report,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="lange:swim-notation-semantics08" type="inproceedings" xml:id="bib.bib300">
+      <bibentry key="lange:swim-notation-semantics08" type="inproceedings" xml:id="bib.bib299">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -10675,7 +10652,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:SWiM-OpenMath08" type="inproceedings" xml:id="bib.bib301">
+      <bibentry key="Lange:SWiM-OpenMath08" type="inproceedings" xml:id="bib.bib300">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -10696,7 +10673,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {clange,projects/swim}}
 </bib-data>
       </bibentry>
-      <bibentry key="LangeMcLRabe:FlyspeckWiki08" type="inproceedings" xml:id="bib.bib302">
+      <bibentry key="LangeMcLRabe:FlyspeckWiki08" type="inproceedings" xml:id="bib.bib301">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -10751,7 +10728,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="KMR:NoLMD08-short" type="inproceedings" xml:id="bib.bib303">
+      <bibentry key="KMR:NoLMD08-short" type="inproceedings" xml:id="bib.bib302">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -10812,7 +10789,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="KMR:NoLMD08" type="inproceedings" xml:id="bib.bib304">
+      <bibentry key="KMR:NoLMD08" type="inproceedings" xml:id="bib.bib303">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -10877,7 +10854,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="StaKoh:tax08" type="inproceedings" xml:id="bib.bib305">
+      <bibentry key="StaKoh:tax08" type="inproceedings" xml:id="bib.bib304">
         <bib-name role="author">
           <surname>Stamerjohanns</surname>
           <givenname>Heinrich</givenname>
@@ -10938,7 +10915,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohAncJuc:MWS08:biblatex" type="unpublished" xml:id="bib.bib306">
+      <bibentry key="KohAncJuc:MWS08:biblatex" type="unpublished" xml:id="bib.bib305">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -10974,7 +10951,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {sanca,cjucovschi}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohAncJuc:MWS08" type="unpublished" xml:id="bib.bib307">
+      <bibentry key="KohAncJuc:MWS08" type="unpublished" xml:id="bib.bib306">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -11006,7 +10983,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://mathweb.org/projects/mws/pubs/mkm08.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:SWiMSciColl07" type="inproceedings" xml:id="bib.bib308">
+      <bibentry key="Lange:SWiMSciColl07" type="inproceedings" xml:id="bib.bib307">
         <bib-title>Towards scientific collaboration in a semantic wiki</bib-title>
         <bib-name role="author">
           <surname>Lange</surname>
@@ -11038,7 +11015,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="CarlisleEd:MathML3" type="report" xml:id="bib.bib309">
+      <bibentry key="CarlisleEd:MathML3" type="report" xml:id="bib.bib308">
         
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://www.w3.org/TR/MathML3">http://www.w3.org/TR/MathML3</ref></bib-note>
         <bib-name role="author">
@@ -11139,7 +11116,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="CarlisleEd:MathML3:base" type="report" xml:id="bib.bib310">
+      <bibentry key="CarlisleEd:MathML3:base" type="report" xml:id="bib.bib309">
         <bib-name role="author">
           <surname>Ausbrooks</surname>
           <givenname>Ron</givenname>
@@ -11260,7 +11237,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {mkohlhase,projects/ikyda2012,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="NRM:DA05" type="thesis" xml:id="bib.bib311">
+      <bibentry key="NRM:DA05" type="thesis" xml:id="bib.bib310">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -11282,7 +11259,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {nmueller,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="MK:Proofs:omdoc2vf06" type="incollection" xml:id="bib.bib312">
+      <bibentry key="MK:Proofs:omdoc2vf06" type="incollection" xml:id="bib.bib311">
         <bib-part role="chapter">17</bib-part>
         <bib-part role="pages">167–179</bib-part>
         <bib-title>Representing Proofs (Module PF)</bib-title>
@@ -11322,7 +11299,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="MK:ProofObjects:omdoc2vf06" type="incollection" xml:id="bib.bib313">
+      <bibentry key="MK:ProofObjects:omdoc2vf06" type="incollection" xml:id="bib.bib312">
         <bib-part role="chapter">17.4</bib-part>
         <bib-part role="pages">177–179</bib-part>
         <bib-title>Formal Proofs as Mathematical Objects</bib-title>
@@ -11362,7 +11339,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="NRM:resprop" type="misc" xml:id="bib.bib314">
+      <bibentry key="NRM:resprop" type="misc" xml:id="bib.bib313">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -11384,7 +11361,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {projects/omoc,projects/docOnto,nmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="NRM:wp1:07" type="unpublished" xml:id="bib.bib315">
+      <bibentry key="NRM:wp1:07" type="unpublished" xml:id="bib.bib314">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -11403,7 +11380,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
     annote = {white paper}}
 </bib-data>
       </bibentry>
-      <bibentry key="panta:on" type="website" xml:id="bib.bib316">
+      <bibentry key="panta:on" type="website" xml:id="bib.bib315">
         <bib-data role="urldate">2010-01</bib-data>
         
         <bib-data role="self" type="BibTeX">@online{panta:on,
@@ -11411,7 +11388,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
   crossref = {panta:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="panta:URL" type="misc" xml:id="bib.bib317">
+      <bibentry key="panta:URL" type="misc" xml:id="bib.bib316">
         
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/panta">http://trac.kwarc.info/panta</ref></bib-note>
         <bib-note role="annotation">seen January 2010</bib-note>
@@ -11421,7 +11398,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       note = {seen January 2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="panta:base" type="misc" xml:id="bib.bib318">
+      <bibentry key="panta:base" type="misc" xml:id="bib.bib317">
         <bib-key>panta</bib-key>
         <bib-data role="label">panta</bib-data>
         <bib-title>Panta: The PHP Frontend of panta rhei</bib-title>
@@ -11433,7 +11410,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://trac.kwarc.info/panta}}
 </bib-data>
       </bibentry>
-      <bibentry key="janta:URL" type="misc" xml:id="bib.bib319">
+      <bibentry key="janta:URL" type="misc" xml:id="bib.bib318">
         <bib-key>janta</bib-key>
         <bib-title>Janta: The RESTFul Web Service of panta rhei</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/janta">http://trac.kwarc.info/janta</ref></bib-note>
@@ -11447,7 +11424,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       note = {seen March 2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="pr-project:on" type="website" xml:id="bib.bib320">
+      <bibentry key="pr-project:on" type="website" xml:id="bib.bib319">
         <bib-data role="label">Pan</bib-data>
         <bib-title>Panta rhei</bib-title>
         <bib-url href="http://trac.kwarc.info/panta-rhei">Link</bib-url>
@@ -11459,13 +11436,13 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
    urldate = {2009-10-22}}
 </bib-data>
       </bibentry>
-      <bibentry key="Panta:web" type="misc" xml:id="bib.bib321">
+      <bibentry key="Panta:web" type="misc" xml:id="bib.bib320">
         
         <bib-data role="self" type="BibTeX">@misc{Panta:web,
   crossref = {pr-project:web}}
 </bib-data>
       </bibentry>
-      <bibentry key="pr-project:web" type="misc" xml:id="bib.bib322">
+      <bibentry key="pr-project:web" type="misc" xml:id="bib.bib321">
         <bib-key>panta-rhei</bib-key>
         <bib-title>The panta rhei Project</bib-title>
         <bib-url href="http://trac.kwarc.info/panta-rhei">Link</bib-url>
@@ -11477,7 +11454,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       note = {seen March 2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="Panta:demo" type="misc" xml:id="bib.bib323">
+      <bibentry key="Panta:demo" type="misc" xml:id="bib.bib322">
         <bib-key>Panta Rei</bib-key>
         <bib-title>The panta rhei demo</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://kwarc.info/projects/panta-rhei/demo/htdocs/">http://kwarc.info/projects/panta-rhei/demo/htdocs/</ref></bib-note>
@@ -11491,7 +11468,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="Panta:gencs" type="misc" xml:id="bib.bib324">
+      <bibentry key="Panta:gencs" type="misc" xml:id="bib.bib323">
         <bib-key>panta rei</bib-key>
         <bib-title>The GenCS project</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://panta-rhei.kwarc.info/">http://panta-rhei.kwarc.info/</ref></bib-note>
@@ -11505,7 +11482,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="AA:BTIPR08" type="misc" xml:id="bib.bib325">
+      <bibentry key="AA:BTIPR08" type="misc" xml:id="bib.bib324">
         <bib-key>AA:BTIPR08</bib-key>
         <bib-name role="author">
           <surname>Aiordachioaie</surname>
@@ -11520,7 +11497,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://kwarc.info/projects/panta-rhei/papers/thesis_aiordachioaie_andrei.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Panta:cs:precourse:on" type="misc" xml:id="bib.bib326">
+      <bibentry key="Panta:cs:precourse:on" type="misc" xml:id="bib.bib325">
         
         <bib-data role="urldate">2009-11-25</bib-data>
         <bib-date role="publication">2008</bib-date>
@@ -11530,7 +11507,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="Panta:cs:precourse" type="misc" xml:id="bib.bib327">
+      <bibentry key="Panta:cs:precourse" type="misc" xml:id="bib.bib326">
         <bib-key>panta rhei</bib-key>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://cs-precourse.kwarc.info/">http://cs-precourse.kwarc.info/</ref></bib-note>
         
@@ -11542,7 +11519,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="Panta:cs:precourse:base" type="misc" xml:id="bib.bib328">
+      <bibentry key="Panta:cs:precourse:base" type="misc" xml:id="bib.bib327">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -11557,7 +11534,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="SWiM:on" type="website" xml:id="bib.bib329">
+      <bibentry key="SWiM:on" type="website" xml:id="bib.bib328">
         
         <bib-data role="urldate">2015-12-27</bib-data>
         <bib-date role="publication">2010-09-08</bib-date>
@@ -11571,7 +11548,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:SWiM" type="misc" xml:id="bib.bib330">
+      <bibentry key="URL:SWiM" type="misc" xml:id="bib.bib329">
         
         <bib-key>SWiM</bib-key>
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://old.kwarc.info/projects/swim/">http://old.kwarc.info/projects/swim/</ref></bib-note>
@@ -11583,7 +11560,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       note = {seen October  2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:SWiM:SHORT" type="misc" xml:id="bib.bib331">
+      <bibentry key="URL:SWiM:SHORT" type="misc" xml:id="bib.bib330">
         
         <bib-key>SWiM</bib-key>
         <bib-note role="annotation">seen February 2008</bib-note>
@@ -11593,7 +11570,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       note = {seen February  2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="SWiM:base" type="misc" xml:id="bib.bib332">
+      <bibentry key="SWiM:base" type="misc" xml:id="bib.bib331">
         <bib-title><text font="smallcaps">SWiM</text>: a semantic wiki for mathematical knowledge management</bib-title>
         <bib-name role="author">
           <surname>Lange</surname>
@@ -11606,7 +11583,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://old.kwarc.info/projects/swim/}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:sTeX:github" type="misc" xml:id="bib.bib333">
+      <bibentry key="URL:sTeX:github" type="misc" xml:id="bib.bib332">
         
         <bib-key>sTeX</bib-key>
         <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/KWARC/sTeX">https://github.com/KWARC/sTeX</ref></bib-note>
@@ -11618,7 +11595,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       note = {accessed 15. 5. 2015}}
 </bib-data>
       </bibentry>
-      <bibentry key="sTeX:github:on" type="website" xml:id="bib.bib334">
+      <bibentry key="sTeX:github:on" type="website" xml:id="bib.bib333">
         
         <bib-data role="label">sTeX</bib-data>
         <bib-data role="urldate">2015-05-15</bib-data>
@@ -11628,7 +11605,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
    urldate = {2015-05-15}}
 </bib-data>
       </bibentry>
-      <bibentry key="sTeX:github:base" type="misc" xml:id="bib.bib335">
+      <bibentry key="sTeX:github:base" type="misc" xml:id="bib.bib334">
         <bib-title>KWARC/sTeX</bib-title>
         <bib-url href="https://github.com/KWARC/sTeX">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{sTeX:github:base,
@@ -11636,7 +11613,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {https://github.com/KWARC/sTeX}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:lmh:github" type="misc" xml:id="bib.bib336">
+      <bibentry key="URL:lmh:github" type="misc" xml:id="bib.bib335">
         
         <bib-key>lmh</bib-key>
         <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/KWARC/lmh">https://github.com/KWARC/lmh</ref></bib-note>
@@ -11648,7 +11625,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       note = {accessed 15. 5. 2015}}
 </bib-data>
       </bibentry>
-      <bibentry key="lmh:github:on" type="website" xml:id="bib.bib337">
+      <bibentry key="lmh:github:on" type="website" xml:id="bib.bib336">
         
         <bib-data role="label">lmh</bib-data>
         <bib-data role="urldate">2015-05-15</bib-data>
@@ -11658,7 +11635,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
    urldate = {2015-05-15}}
 </bib-data>
       </bibentry>
-      <bibentry key="lmh:github:base" type="misc" xml:id="bib.bib338">
+      <bibentry key="lmh:github:base" type="misc" xml:id="bib.bib337">
         <bib-title>KWARC/lmh</bib-title>
         <bib-url href="https://github.com/KWARC/lmh">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{lmh:github:base,
@@ -11666,7 +11643,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {https://github.com/KWARC/lmh}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:LaTeX2Office:github" type="misc" xml:id="bib.bib339">
+      <bibentry key="URL:LaTeX2Office:github" type="misc" xml:id="bib.bib338">
         <bib-key>L2O</bib-key>
         <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/KWARC/LaTeXML-Plugin-Doc">https://github.com/KWARC/LaTeXML-Plugin-Doc</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:LaTeX2Office:github,
@@ -11674,7 +11651,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  howpublished = {GitHub repository at \url{https://github.com/KWARC/LaTeXML-Plugin-Doc}}}
 </bib-data>
       </bibentry>
-      <bibentry key="LaTeX2Office:github:on" type="website" xml:id="bib.bib340">
+      <bibentry key="LaTeX2Office:github:on" type="website" xml:id="bib.bib339">
         <bib-data role="label">L2O</bib-data>
         <bib-note role="annotation">GitHub repository</bib-note>
         <bib-url href="https://github.com/KWARC/LaTeXML-Plugin-Doc">Link</bib-url>
@@ -11684,7 +11661,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {https://github.com/KWARC/LaTeXML-Plugin-Doc}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:LaTeXMLsTeX:github" type="misc" xml:id="bib.bib341">
+      <bibentry key="URL:LaTeXMLsTeX:github" type="misc" xml:id="bib.bib340">
         <bib-key>L2O</bib-key>
         <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/KWARC/LaTeXML-Plugin-sTeX">https://github.com/KWARC/LaTeXML-Plugin-sTeX</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:LaTeXMLsTeX:github,
@@ -11692,7 +11669,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  howpublished = {GitHub repository at \url{https://github.com/KWARC/LaTeXML-Plugin-sTeX}}}
 </bib-data>
       </bibentry>
-      <bibentry key="LaTeXMLsTeX:github:on" type="website" xml:id="bib.bib342">
+      <bibentry key="LaTeXMLsTeX:github:on" type="website" xml:id="bib.bib341">
         <bib-data role="label">L2O</bib-data>
         <bib-note role="annotation">GitHub repository</bib-note>
         <bib-url href="https://github.com/KWARC/LaTeXML-Plugin-sTeX">Link</bib-url>
@@ -11702,7 +11679,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {https://github.com/KWARC/LaTeXML-Plugin-sTeX}}
 </bib-data>
       </bibentry>
-      <bibentry key="sTeX-mode:on" type="website" xml:id="bib.bib343">
+      <bibentry key="sTeX-mode:on" type="website" xml:id="bib.bib342">
         <bib-data role="urldate">2009-11-10</bib-data>
         
         <bib-data role="self" type="BibTeX">@online{sTeX-mode:on,
@@ -11710,7 +11687,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
   crossref = {sTeX-mode:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:sTeX-mode" type="misc" xml:id="bib.bib344">
+      <bibentry key="URL:sTeX-mode" type="misc" xml:id="bib.bib343">
         <bib-note role="annotation">seen May 2008</bib-note>
         <bib-note role="publication">Subversion repository at <ref class="ltx_url" font="typewriter" href="https://svn.kwarc.info/repos/stex/projects/emacs">https://svn.kwarc.info/repos/stex/projects/emacs</ref></bib-note>
         
@@ -11720,7 +11697,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
   crossref = {sTeX-mode:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="sTeX-mode:base" type="misc" xml:id="bib.bib345">
+      <bibentry key="sTeX-mode:base" type="misc" xml:id="bib.bib344">
         <bib-key>sTeX-Mode</bib-key>
         <bib-title>sTeX Emacs mode</bib-title>
         <bib-url href="https://svn.kwarc.info/repos/stex/projects/emacs">Link</bib-url>
@@ -11730,7 +11707,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {https://svn.kwarc.info/repos/stex/projects/emacs}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:sTeX-slides:head" type="misc" xml:id="bib.bib346">
+      <bibentry key="URL:sTeX-slides:head" type="misc" xml:id="bib.bib345">
         <bib-key>sTeX-slides</bib-key>
         <bib-url href="https://svn.kwarc.info/repos/stex-content/slides">Link</bib-url>
         <bib-note role="publication">Subversion repository at <ref class="ltx_url" font="typewriter" href="https://svn.kwarc.info/repos/stex-content/slides">https://svn.kwarc.info/repos/stex-content/slides</ref></bib-note>
@@ -11740,7 +11717,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  howpublished = {\svnrepoat\url{https://svn.kwarc.info/repos/stex-content/slides}}}
 </bib-data>
       </bibentry>
-      <bibentry key="NRM:lwa06" type="inproceedings" xml:id="bib.bib347">
+      <bibentry key="NRM:lwa06" type="inproceedings" xml:id="bib.bib346">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -11766,7 +11743,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {projects/omoc,projects/docOnto,nmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="MW:lwa07" type="inproceedings" xml:id="bib.bib348">
+      <bibentry key="MW:lwa07" type="inproceedings" xml:id="bib.bib347">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -11806,7 +11783,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  publisher = {Martin-Luther-University Halle-Wittenberg}}
 </bib-data>
       </bibentry>
-      <bibentry key="NRM:kij07" type="article" xml:id="bib.bib349">
+      <bibentry key="NRM:kij07" type="article" xml:id="bib.bib348">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -11831,7 +11808,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {nmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="KuKeKo:bo96" type="article" xml:id="bib.bib350">
+      <bibentry key="KuKeKo:bo96" type="article" xml:id="bib.bib349">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -11860,7 +11837,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
           <surname>Siekmann</surname>
           <givenname>Jörg</givenname>
         </bib-name>
-        <bib-title>Die Beweisentwicklungsumgebung <Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib350.m1">
+        <bib-title>Die Beweisentwicklungsumgebung <Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib349.m1">
             <XMath>
               <XMTok name="Omega" role="UNKNOWN">Ω</XMTok>
             </XMath>
@@ -11882,7 +11859,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {mkohlhase,projects/omega}}
 </bib-data>
       </bibentry>
-      <bibentry key="mueller07:lectora-resprop" type="misc" xml:id="bib.bib351">
+      <bibentry key="mueller07:lectora-resprop" type="misc" xml:id="bib.bib350">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -11905,7 +11882,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {cmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange07:kwepsy" type="inproceedings" xml:id="bib.bib352">
+      <bibentry key="Lange07:kwepsy" type="inproceedings" xml:id="bib.bib351">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -11944,7 +11921,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange07:swimplus-resprop" type="misc" xml:id="bib.bib353">
+      <bibentry key="Lange07:swimplus-resprop" type="misc" xml:id="bib.bib352">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -11969,7 +11946,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {clange,projects/swim,projects/docOnto}}
 </bib-data>
       </bibentry>
-      <bibentry key="wikipedia:omdoc" type="misc" xml:id="bib.bib354">
+      <bibentry key="wikipedia:omdoc" type="misc" xml:id="bib.bib353">
         <bib-key>WO</bib-key>
         <bib-name role="author">
           <surname>Lange</surname>
@@ -12002,7 +11979,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="Panta:CSFall2007" type="misc" xml:id="bib.bib355">
+      <bibentry key="Panta:CSFall2007" type="misc" xml:id="bib.bib354">
         <bib-key>CSFall2007</bib-key>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -12023,7 +12000,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="LanKoh:swmkm07" type="inbook" xml:id="bib.bib356">
+      <bibentry key="LanKoh:swmkm07" type="inbook" xml:id="bib.bib355">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -12076,7 +12053,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      month = {April}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:swmkm-tr07" type="report" xml:id="bib.bib357">
+      <bibentry key="Lange:swmkm-tr07" type="report" xml:id="bib.bib356">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -12104,7 +12081,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {clange,projects/swim,projects/docOnto}}
 </bib-data>
       </bibentry>
-      <bibentry key="Pesikan:cwcr06" type="thesis" xml:id="bib.bib358">
+      <bibentry key="Pesikan:cwcr06" type="thesis" xml:id="bib.bib357">
         <bib-name role="author">
           <surname>Pesikan</surname>
           <givenname>Darko</givenname>
@@ -12123,7 +12100,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="Misev:sumo2omdoc" type="misc" xml:id="bib.bib359">
+      <bibentry key="Misev:sumo2omdoc" type="misc" xml:id="bib.bib358">
         <bib-name role="author">
           <surname>Misev</surname>
           <givenname>Dimitar</givenname>
@@ -12142,7 +12119,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       pubs = {projects/omdoc,projects/krextor}}
 </bib-data>
       </bibentry>
-      <bibentry key="Acevedo:OMMI" type="misc" xml:id="bib.bib360">
+      <bibentry key="Acevedo:OMMI" type="misc" xml:id="bib.bib359">
         <bib-name role="author">
           <surname>Acevedo</surname>
           <givenname>Carmela</givenname>
@@ -12161,7 +12138,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://map.mathweb.org/media/openmathmap-interaction.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Hasegan:sum14" type="misc" xml:id="bib.bib361">
+      <bibentry key="Hasegan:sum14" type="misc" xml:id="bib.bib360">
         <bib-name role="author">
           <surname>Hasegan</surname>
           <givenname>Daniel</givenname>
@@ -12178,7 +12155,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      title = {Sorted Unification in {MathWebSearch}}}
 </bib-data>
       </bibentry>
-      <bibentry key="AceKoh:OMMI14" type="inproceedings" xml:id="bib.bib362">
+      <bibentry key="AceKoh:OMMI14" type="inproceedings" xml:id="bib.bib361">
         <bib-name role="author">
           <surname>Acevedo</surname>
           <givenname>Carmela</givenname>
@@ -12251,7 +12228,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:dsim14" type="inproceedings" xml:id="bib.bib363">
+      <bibentry key="Kohlhase:dsim14" type="inproceedings" xml:id="bib.bib362">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -12320,7 +12297,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:fsfe14" type="inproceedings" xml:id="bib.bib364">
+      <bibentry key="Kohlhase:fsfe14" type="inproceedings" xml:id="bib.bib363">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -12393,7 +12370,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="HR:tptp:12" type="unpublished" xml:id="bib.bib365">
+      <bibentry key="HR:tptp:12" type="unpublished" xml:id="bib.bib364">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Fulya</givenname>
@@ -12412,7 +12389,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://kwarc.info/frabe/Research/HR_tptp_12.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="HorKohRab:tal10" type="unpublished" xml:id="bib.bib366">
+      <bibentry key="HorKohRab:tal10" type="unpublished" xml:id="bib.bib365">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Fulya</givenname>
@@ -12441,7 +12418,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe,fhorozal,mkohlhase,ksojakova,projects/latin}}
 </bib-data>
       </bibentry>
-      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib367">
+      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib366">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -12462,7 +12439,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {miancu,frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="CHMR:compiling:12" type="inproceedings" xml:id="bib.bib368">
+      <bibentry key="CHMR:compiling:12" type="inproceedings" xml:id="bib.bib367">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>Mihai</givenname>
@@ -12491,7 +12468,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  booktitle = {Workshop on Algebraic Development Techniques}}
 </bib-data>
       </bibentry>
-      <bibentry key="CHIR:casl:12" type="inproceedings" xml:id="bib.bib369">
+      <bibentry key="CHIR:casl:12" type="inproceedings" xml:id="bib.bib368">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>Mihai</givenname>
@@ -12520,7 +12497,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {fhorozal,frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="HR:patterns:12" type="inproceedings" xml:id="bib.bib370">
+      <bibentry key="HR:patterns:12" type="inproceedings" xml:id="bib.bib369">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Fulya</givenname>
@@ -12541,7 +12518,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {fhorozal,frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="zamdzhiev:bsc:cs" type="misc" xml:id="bib.bib371">
+      <bibentry key="zamdzhiev:bsc:cs" type="misc" xml:id="bib.bib370">
         <bib-name role="author">
           <surname>Zamdzhiev</surname>
           <givenname>V.</givenname>
@@ -12558,7 +12535,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="dumbrava:msc" type="thesis" xml:id="bib.bib372">
+      <bibentry key="dumbrava:msc" type="thesis" xml:id="bib.bib371">
         <bib-name role="author">
           <surname>Dumbrava</surname>
           <givenname>Stefania</givenname>
@@ -12574,7 +12551,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="alecu:bsc" type="misc" xml:id="bib.bib373">
+      <bibentry key="alecu:bsc" type="misc" xml:id="bib.bib372">
         <bib-name role="author">
           <surname>Alecu</surname>
           <givenname>Maria</givenname>
@@ -12591,7 +12568,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="iancu:msc" type="thesis" xml:id="bib.bib374">
+      <bibentry key="iancu:msc" type="thesis" xml:id="bib.bib373">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -12607,7 +12584,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="horozal:msc" type="thesis" xml:id="bib.bib375">
+      <bibentry key="horozal:msc" type="thesis" xml:id="bib.bib374">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Figen Füsun</givenname>
@@ -12623,7 +12600,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="ignatov:bsc" type="misc" xml:id="bib.bib376">
+      <bibentry key="ignatov:bsc" type="misc" xml:id="bib.bib375">
         <bib-name role="author">
           <surname>Ignatov</surname>
           <givenname>Iulia</givenname>
@@ -12640,7 +12617,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="zamdzhiev:bsc:math" type="misc" xml:id="bib.bib377">
+      <bibentry key="zamdzhiev:bsc:math" type="misc" xml:id="bib.bib376">
         <bib-name role="author">
           <surname>Zamdzhiev</surname>
           <givenname>Vladimir</givenname>
@@ -12657,7 +12634,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="iacob:msc" type="thesis" xml:id="bib.bib378">
+      <bibentry key="iacob:msc" type="thesis" xml:id="bib.bib377">
         <bib-name role="author">
           <surname>Iacob</surname>
           <givenname>Alin</givenname>
@@ -12673,7 +12650,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="HKR:sequences:11" type="inproceedings" xml:id="bib.bib379">
+      <bibentry key="HKR:sequences:11" type="inproceedings" xml:id="bib.bib378">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Fulya</givenname>
@@ -12731,7 +12708,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="AR:lamkrip_long:09" type="unpublished" xml:id="bib.bib380">
+      <bibentry key="AR:lamkrip_long:09" type="unpublished" xml:id="bib.bib379">
         <bib-name role="author">
           <surname>Awodey</surname>
           <givenname>S.</givenname>
@@ -12752,7 +12729,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="AR:lamkrip:11" type="article" xml:id="bib.bib381">
+      <bibentry key="AR:lamkrip:11" type="article" xml:id="bib.bib380">
         <bib-name role="author">
           <surname>Awodey</surname>
           <givenname>Stephen</givenname>
@@ -12777,7 +12754,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="AR:lamkrip:09" type="inproceedings" xml:id="bib.bib382">
+      <bibentry key="AR:lamkrip:09" type="inproceedings" xml:id="bib.bib381">
         <bib-name role="author">
           <surname>Awodey</surname>
           <givenname>S.</givenname>
@@ -12806,7 +12783,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="HR:folsound:10" type="article" xml:id="bib.bib383">
+      <bibentry key="HR:folsound:10" type="article" xml:id="bib.bib382">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>F.</givenname>
@@ -12833,7 +12810,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="CHKMRS:lfhets:11" type="inproceedings" xml:id="bib.bib384">
+      <bibentry key="CHKMRS:lfhets:11" type="inproceedings" xml:id="bib.bib383">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>Mihai</givenname>
@@ -12887,7 +12864,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Iancu:mcdl12" type="thesis" xml:id="bib.bib385">
+      <bibentry key="Iancu:mcdl12" type="thesis" xml:id="bib.bib384">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -12905,7 +12882,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {miancu,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="IKR:mizar:11" type="report" xml:id="bib.bib386">
+      <bibentry key="IKR:mizar:11" type="report" xml:id="bib.bib385">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>M.</givenname>
@@ -12933,7 +12910,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe,mkohlhase,projects/oaff}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabeEA:isabelle-lf:10" type="misc" xml:id="bib.bib387">
+      <bibentry key="rabeEA:isabelle-lf:10" type="misc" xml:id="bib.bib386">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>M.</givenname>
@@ -12954,7 +12931,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="RI:isabelle:10" type="unpublished" xml:id="bib.bib388">
+      <bibentry key="RI:isabelle:10" type="unpublished" xml:id="bib.bib387">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -12975,7 +12952,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:lfcmpt13" type="article" xml:id="bib.bib389">
+      <bibentry key="Rabe:lfcmpt13" type="article" xml:id="bib.bib388">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -12996,7 +12973,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     number = {5}}
 </bib-data>
       </bibentry>
-      <bibentry key="Mance:bsc" type="masterthesis" xml:id="bib.bib390">
+      <bibentry key="Mance:bsc" type="masterthesis" xml:id="bib.bib389">
         <bib-name role="author">
           <surname>Mance</surname>
           <givenname>Felix</givenname>
@@ -13013,7 +12990,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     school = {Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:combining:10:biblatex" type="article" xml:id="bib.bib391">
+      <bibentry key="rabe:combining:10:biblatex" type="article" xml:id="bib.bib390">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13034,7 +13011,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="CHKMR:hiding:11" type="inproceedings" xml:id="bib.bib392">
+      <bibentry key="CHKMR:hiding:11" type="inproceedings" xml:id="bib.bib391">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>M.</givenname>
@@ -13086,7 +13063,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="IR:foundations:10" type="article" xml:id="bib.bib393">
+      <bibentry key="IR:foundations:10" type="article" xml:id="bib.bib392">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -13113,7 +13090,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="DLR:jobad:10" type="inproceedings" xml:id="bib.bib394">
+      <bibentry key="DLR:jobad:10" type="inproceedings" xml:id="bib.bib393">
         <bib-name role="author">
           <surname>David</surname>
           <givenname>C.</givenname>
@@ -13145,7 +13122,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="RS:vertrans:12" type="inproceedings" xml:id="bib.bib395">
+      <bibentry key="RS:vertrans:12" type="inproceedings" xml:id="bib.bib394">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13166,7 +13143,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="kristina:ml_fol" type="misc" xml:id="bib.bib396">
+      <bibentry key="kristina:ml_fol" type="misc" xml:id="bib.bib395">
         <bib-name role="author">
           <surname>Sojakova</surname>
           <givenname>Kristina</givenname>
@@ -13181,7 +13158,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {Master's thesis, Jacobs University Bremen}}
 </bib-data>
       </bibentry>
-      <bibentry key="DKLRZ:PubMathLectNotLinkedData10" type="inproceedings" xml:id="bib.bib397">
+      <bibentry key="DKLRZ:PubMathLectNotLinkedData10" type="inproceedings" xml:id="bib.bib396">
         <bib-name role="author">
           <surname>David</surname>
           <givenname>Catalin</givenname>
@@ -13264,7 +13241,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:isalf:10" type="inproceedings" xml:id="bib.bib398">
+      <bibentry key="rabe:isalf:10" type="inproceedings" xml:id="bib.bib397">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -13287,7 +13264,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="RS:logrels:12" type="article" xml:id="bib.bib399">
+      <bibentry key="RS:logrels:12" type="article" xml:id="bib.bib398">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13308,7 +13285,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
    journal = {ACM Transactions on Computational Logic}}
 </bib-data>
       </bibentry>
-      <bibentry key="DHS:algebra:09" type="inproceedings" xml:id="bib.bib400">
+      <bibentry key="DHS:algebra:09" type="inproceedings" xml:id="bib.bib399">
         <bib-name role="author">
           <surname>Dumbrava</surname>
           <givenname>Stefania</givenname>
@@ -13337,7 +13314,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     volume = {429}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabeEA:folsound-lf:09" type="misc" xml:id="bib.bib401">
+      <bibentry key="rabeEA:folsound-lf:09" type="misc" xml:id="bib.bib400">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>F.</givenname>
@@ -13358,7 +13335,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="project:mmtlf" type="misc" xml:id="bib.bib402">
+      <bibentry key="project:mmtlf" type="misc" xml:id="bib.bib401">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -13379,7 +13356,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="RS:twelfmod:09" type="inproceedings" xml:id="bib.bib403">
+      <bibentry key="RS:twelfmod:09" type="inproceedings" xml:id="bib.bib402">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -13406,7 +13383,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="KLMMR:notations-tr:2009" type="report" xml:id="bib.bib404">
+      <bibentry key="KLMMR:notations-tr:2009" type="report" xml:id="bib.bib403">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>M.</givenname>
@@ -13442,7 +13419,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabeEA:presentation:09" type="unpublished" xml:id="bib.bib405">
+      <bibentry key="rabeEA:presentation:09" type="unpublished" xml:id="bib.bib404">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>M.</givenname>
@@ -13473,7 +13450,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:gi:09" type="inproceedings" xml:id="bib.bib406">
+      <bibentry key="rabe:gi:09" type="inproceedings" xml:id="bib.bib405">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -13498,7 +13475,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="HR:folsound:09" type="inproceedings" xml:id="bib.bib407">
+      <bibentry key="HR:folsound:09" type="inproceedings" xml:id="bib.bib406">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>F.</givenname>
@@ -13525,7 +13502,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="project:latin" type="misc" xml:id="bib.bib408">
+      <bibentry key="project:latin" type="misc" xml:id="bib.bib407">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>M.</givenname>
@@ -13550,7 +13527,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe,mkohlhase,projects/latin}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:09" type="unpublished" xml:id="bib.bib409">
+      <bibentry key="rabe:mmt:09" type="unpublished" xml:id="bib.bib408">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -13565,7 +13542,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="SR:dfol_fol:08" type="inproceedings" xml:id="bib.bib410">
+      <bibentry key="SR:dfol_fol:08" type="inproceedings" xml:id="bib.bib409">
         <bib-name role="author">
           <surname>Sojakova</surname>
           <givenname>K.</givenname>
@@ -13594,7 +13571,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="BRS:tptphol:08" type="inproceedings" xml:id="bib.bib411">
+      <bibentry key="BRS:tptphol:08" type="inproceedings" xml:id="bib.bib410">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>C.</givenname>
@@ -13624,7 +13601,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:thesis:08" type="thesis" xml:id="bib.bib412">
+      <bibentry key="rabe:thesis:08" type="thesis" xml:id="bib.bib411">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13644,7 +13621,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="RPSS:moloss:07" type="article" xml:id="bib.bib413">
+      <bibentry key="RPSS:moloss:07" type="article" xml:id="bib.bib412">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13677,7 +13654,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="GMPRS:catlog:07" type="article" xml:id="bib.bib414">
+      <bibentry key="GMPRS:catlog:07" type="article" xml:id="bib.bib413">
         <bib-name role="author">
           <surname>Goguen</surname>
           <givenname>J.</givenname>
@@ -13716,7 +13693,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:graphs:07" type="inproceedings" xml:id="bib.bib415">
+      <bibentry key="rabe:graphs:07" type="inproceedings" xml:id="bib.bib414">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13733,7 +13710,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:instlf:07" type="unpublished" xml:id="bib.bib416">
+      <bibentry key="rabe:instlf:07" type="unpublished" xml:id="bib.bib415">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13750,7 +13727,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:moloss:06" type="inproceedings" xml:id="bib.bib417">
+      <bibentry key="rabe:moloss:06" type="inproceedings" xml:id="bib.bib416">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13776,7 +13753,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:dfol:06" type="inproceedings" xml:id="bib.bib418">
+      <bibentry key="rabe:dfol:06" type="inproceedings" xml:id="bib.bib417">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13815,7 +13792,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabeEA:promela:05" type="inproceedings" xml:id="bib.bib419">
+      <bibentry key="rabeEA:promela:05" type="inproceedings" xml:id="bib.bib418">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -13828,7 +13805,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
           <surname>Schmitt</surname>
           <givenname>P.</givenname>
         </bib-name>
-        <bib-title>A Sequent Calculus for a First-order Dynamic Logic with Trace Modalities for Promela<Math mode="inline" tex="{}^{+}" text="^+" xml:id="bib.bib419.m1">
+        <bib-title>A Sequent Calculus for a First-order Dynamic Logic with Trace Modalities for Promela<Math mode="inline" tex="{}^{+}" text="^+" xml:id="bib.bib418.m1">
             <XMath>
               <XMApp role="FLOATSUPERSCRIPT" scriptpos="5">
                 <XMTok fontsize="70%" meaning="plus" role="ADDOP">+</XMTok>
@@ -13849,7 +13826,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="cmueller:thesis:10" type="thesis" xml:id="bib.bib420">
+      <bibentry key="cmueller:thesis:10" type="thesis" xml:id="bib.bib419">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -13869,7 +13846,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {cmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenBroKoh:csil06" type="inproceedings" xml:id="bib.bib421">
+      <bibentry key="BenBroKoh:csil06" type="inproceedings" xml:id="bib.bib420">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph E.</givenname>
@@ -13920,7 +13897,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenBroKoh:lmcs09" type="article" xml:id="bib.bib422">
+      <bibentry key="BenBroKoh:lmcs09" type="article" xml:id="bib.bib421">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph E.</givenname>
@@ -13953,7 +13930,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:oaifocdi00" type="article" xml:id="bib.bib423">
+      <bibentry key="Kohlhase:oaifocdi00" type="article" xml:id="bib.bib422">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -13979,7 +13956,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohFra:rkcimss01" type="article" xml:id="bib.bib424">
+      <bibentry key="KohFra:rkcimss01" type="article" xml:id="bib.bib423">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -14012,7 +13989,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase,projects/tntbase}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathSearch:on" type="website" xml:id="bib.bib425">
+      <bibentry key="MathSearch:on" type="website" xml:id="bib.bib424">
         
         <bib-data role="urldate">2013-02-22</bib-data>
         <bib-data role="self" type="BibTeX">@online{MathSearch:on,
@@ -14020,7 +13997,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
    urldate = {2013-02-22}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathSearch:base" type="misc" xml:id="bib.bib426">
+      <bibentry key="MathSearch:base" type="misc" xml:id="bib.bib425">
         <bib-key>MathSearch</bib-key>
         <bib-data role="label">MathSearch</bib-data>
         <bib-title>MathSearch</bib-title>
@@ -14034,7 +14011,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {Project Homepage}}
 </bib-data>
       </bibentry>
-      <bibentry key="LATIN:online" type="website" xml:id="bib.bib427">
+      <bibentry key="LATIN:online" type="website" xml:id="bib.bib426">
         
         <bib-data role="urldate">2010-09-15</bib-data>
         <bib-data role="self" type="BibTeX">@online{LATIN:online,
@@ -14042,7 +14019,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
    urldate = {2010-09-15}}
 </bib-data>
       </bibentry>
-      <bibentry key="LATIN:url" type="misc" xml:id="bib.bib428">
+      <bibentry key="LATIN:url" type="misc" xml:id="bib.bib427">
         
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://latin.omdoc.org">http://latin.omdoc.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{LATIN:url,
@@ -14050,7 +14027,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  howpublished = {\url{http://latin.omdoc.org}}}
 </bib-data>
       </bibentry>
-      <bibentry key="LATIN:base" type="misc" xml:id="bib.bib429">
+      <bibentry key="LATIN:base" type="misc" xml:id="bib.bib428">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -14077,7 +14054,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://latin.omdoc.org}}
 </bib-data>
       </bibentry>
-      <bibentry key="TetraPod:online" type="website" xml:id="bib.bib430">
+      <bibentry key="TetraPod:online" type="website" xml:id="bib.bib429">
         
         <bib-data role="urldate">2012-09-15</bib-data>
         <bib-data role="self" type="BibTeX">@online{TetraPod:online,
@@ -14085,7 +14062,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
    urldate = {2012-09-15}}
 </bib-data>
       </bibentry>
-      <bibentry key="TetraPod:url" type="misc" xml:id="bib.bib431">
+      <bibentry key="TetraPod:url" type="misc" xml:id="bib.bib430">
         
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://trac.mathweb.org/tetrapod/">https://trac.mathweb.org/tetrapod/</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{TetraPod:url,
@@ -14093,7 +14070,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  howpublished = {\url{https://trac.mathweb.org/tetrapod/}}}
 </bib-data>
       </bibentry>
-      <bibentry key="TetraPod:base" type="misc" xml:id="bib.bib432">
+      <bibentry key="TetraPod:base" type="misc" xml:id="bib.bib431">
         <bib-key>TetraPod</bib-key>
         <bib-data role="label">TetraPod</bib-data>
         <bib-title>The TetraPod project</bib-title>
@@ -14107,7 +14084,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {https://trac.mathweb.org/tetrapod/}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDoc:on" type="website" xml:id="bib.bib433">
+      <bibentry key="OMDoc:on" type="website" xml:id="bib.bib432">
         
         <bib-data role="urldate">2012-09-15</bib-data>
         <bib-data role="label">OMDoc</bib-data>
@@ -14117,7 +14094,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
      label = {OMDoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDoc:URL" type="misc" xml:id="bib.bib434">
+      <bibentry key="OMDoc:URL" type="misc" xml:id="bib.bib433">
         
         <bib-key>OMDoc</bib-key>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://omdoc.org">http://omdoc.org</ref></bib-note>
@@ -14127,7 +14104,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  howpublished = {\url{http://omdoc.org}}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDoc:base" type="misc" xml:id="bib.bib435">
+      <bibentry key="OMDoc:base" type="misc" xml:id="bib.bib434">
         <bib-title>The OMDoc project</bib-title>
         <bib-type>Project Homepage</bib-type>
         <bib-url href="http://omdoc.org">Link</bib-url>
@@ -14137,7 +14114,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://omdoc.org}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOMDoc:on" type="website" xml:id="bib.bib436">
+      <bibentry key="JOMDoc:on" type="website" xml:id="bib.bib435">
         <bib-data role="urldate">2011-05-07</bib-data>
         
         <bib-data role="self" type="BibTeX">@online{JOMDoc:on,
@@ -14145,7 +14122,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   crossref = {JOMDoc:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOMDoc:web" type="misc" xml:id="bib.bib437">
+      <bibentry key="JOMDoc:web" type="misc" xml:id="bib.bib436">
         <bib-data role="label">JOMDoc</bib-data>
         <bib-key>JOMDoc</bib-key>
         
@@ -14161,7 +14138,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  howpublished = {\url{http://jomdoc.omdoc.org}}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOMDoc:base" type="misc" xml:id="bib.bib438">
+      <bibentry key="JOMDoc:base" type="misc" xml:id="bib.bib437">
         <bib-key>JOMDoc</bib-key>
         <bib-title>JOMDoc project — Java library for OMDoc documents</bib-title>
         <bib-url href="http://jomdoc.omdoc.org">Link</bib-url>
@@ -14171,7 +14148,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://jomdoc.omdoc.org}}
 </bib-data>
       </bibentry>
-      <bibentry key="PhysML:web" type="misc" xml:id="bib.bib439">
+      <bibentry key="PhysML:web" type="misc" xml:id="bib.bib438">
         <bib-key>PhysML</bib-key>
         <bib-title>PhysML – Capturing the Content of Physics</bib-title>
         <bib-note role="publication">available at <ref class="ltx_url" font="typewriter" href="http://www.omdoc.org/projects/physml/">http://www.omdoc.org/projects/physml/</ref></bib-note>
@@ -14185,7 +14162,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {seen February  2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="PhysML:webpage" type="misc" xml:id="bib.bib440">
+      <bibentry key="PhysML:webpage" type="misc" xml:id="bib.bib439">
         <bib-key>PhysML</bib-key>
         <bib-title>PhysML – Capturing the Content of Physics</bib-title>
         <bib-url href="http://www.omdoc.org/projects/physml/">Link</bib-url>
@@ -14197,7 +14174,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  lastchecked = {February 2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMBase:web" type="misc" xml:id="bib.bib441">
+      <bibentry key="OMBase:web" type="misc" xml:id="bib.bib440">
         <bib-key>OMBase</bib-key>
         <bib-title>OMBase Project</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://kwarc.info/projects/ombase/">http://kwarc.info/projects/ombase/</ref></bib-note>
@@ -14211,7 +14188,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {seen Dec.  2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMBase:webpage" type="website" xml:id="bib.bib442">
+      <bibentry key="OMBase:webpage" type="website" xml:id="bib.bib441">
         <bib-key>OMBase</bib-key>
         <bib-title>OMBase Project</bib-title>
         <bib-url href="http://kwarc.info/projects/ombase/">Link</bib-url>
@@ -14223,7 +14200,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  lastchecked = {April 2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="locutor:on" type="website" xml:id="bib.bib443">
+      <bibentry key="locutor:on" type="website" xml:id="bib.bib442">
         <bib-data role="urldate">2009-10-22</bib-data>
         
         <bib-data role="self" type="BibTeX">@online{locutor:on,
@@ -14231,7 +14208,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   crossref = {locutor:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="locutor:trac" type="misc" xml:id="bib.bib444">
+      <bibentry key="locutor:trac" type="misc" xml:id="bib.bib443">
         <bib-title>The <emph font="typewriter">locutor</emph> project</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://locutor.kwarc.info">https://locutor.kwarc.info</ref></bib-note>
         <bib-date role="publication">2008</bib-date>
@@ -14243,7 +14220,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   crossref = {locutor:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="locutor:web" type="misc" xml:id="bib.bib445">
+      <bibentry key="locutor:web" type="misc" xml:id="bib.bib444">
         
         <bib-note role="publication">system homepage at <ref class="ltx_url" font="typewriter" href="https://locutor.kwarc.info">https://locutor.kwarc.info</ref></bib-note>
         <bib-url href="https://locutor.kwarc.info">Link</bib-url>
@@ -14255,7 +14232,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {seen June  2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="locutor:webpage" type="website" xml:id="bib.bib446">
+      <bibentry key="locutor:webpage" type="website" xml:id="bib.bib445">
         
         <bib-data role="lastchecked">June 2007</bib-data>
         <bib-data role="self" type="BibTeX">@online{locutor:webpage,
@@ -14263,7 +14240,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  lastchecked = {June 2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="locutor:base" type="misc" xml:id="bib.bib447">
+      <bibentry key="locutor:base" type="misc" xml:id="bib.bib446">
         <bib-key>locutor</bib-key>
         <bib-title><emph font="typewriter">locutor</emph>: an ontology-driven management of change</bib-title>
         <bib-url href="http://locutor.kwarc.info">Link</bib-url>
@@ -14273,7 +14250,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://locutor.kwarc.info}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDocDocOnto:on" type="website" xml:id="bib.bib448">
+      <bibentry key="OMDocDocOnto:on" type="website" xml:id="bib.bib447">
         <bib-data role="urldate">2012-02-03</bib-data>
         <bib-date role="publication">2011-01-08</bib-date>
         <bib-data role="pubs">clange</bib-data>
@@ -14287,7 +14264,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   crossref = {OMDocDocOnto:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDocDocOnto:web" type="misc" xml:id="bib.bib449">
+      <bibentry key="OMDocDocOnto:web" type="misc" xml:id="bib.bib448">
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://old.kwarc.info/projects/docOnto/omdoc.html">http://old.kwarc.info/projects/docOnto/omdoc.html</ref></bib-note>
         <bib-note role="annotation">seen 2/2012</bib-note>
         
@@ -14297,7 +14274,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   crossref = {OMDocDocOnto:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDocDocOnto:base" type="misc" xml:id="bib.bib450">
+      <bibentry key="OMDocDocOnto:base" type="misc" xml:id="bib.bib449">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -14310,7 +14287,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://old.kwarc.info/projects/docOnto/omdoc.html}}
 </bib-data>
       </bibentry>
-      <bibentry key="KWARC:web" type="misc" xml:id="bib.bib451">
+      <bibentry key="KWARC:web" type="misc" xml:id="bib.bib450">
         <bib-key>KWARC</bib-key>
         
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://kwarc.info/">http://kwarc.info/</ref></bib-note>
@@ -14322,7 +14299,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {seen June  2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="KWARC:online" type="website" xml:id="bib.bib452">
+      <bibentry key="KWARC:online" type="website" xml:id="bib.bib451">
         
         <bib-data role="urldate">2011-05-12</bib-data>
         <bib-data role="label">KWARC</bib-data>
@@ -14332,7 +14309,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
      label = {KWARC}}
 </bib-data>
       </bibentry>
-      <bibentry key="KWARC:base" type="misc" xml:id="bib.bib453">
+      <bibentry key="KWARC:base" type="misc" xml:id="bib.bib452">
         <bib-title>Knowledge Adaptation and Reasoning for Content</bib-title>
         <bib-url href="http://kwarc.info">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{KWARC:base,
@@ -14340,7 +14317,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://kwarc.info}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOBAD:demo" type="misc" xml:id="bib.bib454">
+      <bibentry key="JOBAD:demo" type="misc" xml:id="bib.bib453">
         <bib-key>JOBAD.Demo</bib-key>
         <bib-title>JOBAD demo</bib-title>
         <bib-url href="https://svn.omdoc.org/repos/jomdoc/src/prj/jobad/tags/jobad-prototype-0.4/examples/index.xhtml">Link</bib-url>
@@ -14354,7 +14331,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  lastchecked = {March 2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOBAD:demo:folding" type="misc" xml:id="bib.bib455">
+      <bibentry key="JOBAD:demo:folding" type="misc" xml:id="bib.bib454">
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://svn.omdoc.org/repos/jomdoc/src/prj/jobad/tags/jobad-prototype-0.4/examples/folding/testcase.xhtml">https://svn.omdoc.org/repos/jomdoc/src/prj/jobad/tags/jobad-prototype-0.4/examples/folding/testcase.xhtml</ref></bib-note>
         <bib-title>JOBAD folding demo</bib-title>
         <bib-url href="https://svn.omdoc.org/repos/jomdoc/src/prj/jobad/tags/jobad-prototype-0.4/examples/folding/testcase.xhtml">Link</bib-url>
@@ -14366,7 +14343,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  lastchecked = {March 2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOBAD:demo:elision" type="misc" xml:id="bib.bib456">
+      <bibentry key="JOBAD:demo:elision" type="misc" xml:id="bib.bib455">
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://svn.omdoc.org/repos/jomdoc/src/prj/jobad/tags/jobad-prototype-0.4/examples/elision/elision_testcase.xhtml">https://svn.omdoc.org/repos/jomdoc/src/prj/jobad/tags/jobad-prototype-0.4/examples/elision/elision_testcase.xhtml</ref></bib-note>
         <bib-title>JOBAD elision demo</bib-title>
         <bib-url href="https://svn.omdoc.org/repos/jomdoc/src/prj/jobad/tags/jobad-prototype-0.4/examples/elision/elision_testcase.xhtml">Link</bib-url>
@@ -14378,7 +14355,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  lastchecked = {March 2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOBAD:demo:rhetoric" type="misc" xml:id="bib.bib457">
+      <bibentry key="JOBAD:demo:rhetoric" type="misc" xml:id="bib.bib456">
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://svn.omdoc.org/repos/omdoc/trunk/examples/varia/rhetoricalrelations-visualization.html">https://svn.omdoc.org/repos/omdoc/trunk/examples/varia/rhetoricalrelations-visualization.html</ref></bib-note>
         <bib-title>Interactive Visualization of Rhetorical Blocks and Relations</bib-title>
         <bib-url href="https://svn.omdoc.org/repos/omdoc/trunk/examples/varia/rhetoricalrelations-visualization.html">Link</bib-url>
@@ -14390,7 +14367,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  lastchecked = {March 2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOBAD:on" type="website" xml:id="bib.bib458">
+      <bibentry key="JOBAD:on" type="website" xml:id="bib.bib457">
         <bib-data role="urldate">2012-02-18</bib-data>
         <bib-data role="shorthand">JOBAD</bib-data>
         <bib-extract role="keywords">software</bib-extract>
@@ -14404,7 +14381,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   crossref = {JOBAD:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOBAD:web" type="misc" xml:id="bib.bib459">
+      <bibentry key="JOBAD:web" type="misc" xml:id="bib.bib458">
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://jomdoc.omdoc.org/wiki/JOBAD">http://jomdoc.omdoc.org/wiki/JOBAD</ref></bib-note>
         <bib-date role="publication">2008</bib-date>
         
@@ -14414,7 +14391,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   crossref = {JOBAD:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOBAD:webpage" type="website" xml:id="bib.bib460">
+      <bibentry key="JOBAD:webpage" type="website" xml:id="bib.bib459">
         <bib-data role="lastchecked">February</bib-data>
         <bib-date role="publication">2009</bib-date>
         
@@ -14424,7 +14401,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   crossref = {JOBAD:base}}
 </bib-data>
       </bibentry>
-      <bibentry key="JOBAD:base" type="misc" xml:id="bib.bib461">
+      <bibentry key="JOBAD:base" type="misc" xml:id="bib.bib460">
         <bib-key>JOBAD</bib-key>
         <bib-data role="label">JOBAD</bib-data>
         <bib-title>JOBAD framework – JavaScript API for OMDoc-based active documents</bib-title>
@@ -14436,7 +14413,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://jobad.omdoc.org}}
 </bib-data>
       </bibentry>
-      <bibentry key="docOnto:web" type="misc" xml:id="bib.bib462">
+      <bibentry key="docOnto:web" type="misc" xml:id="bib.bib461">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -14461,7 +14438,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {clange,projects/docOnto}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSI:on" type="website" xml:id="bib.bib463">
+      <bibentry key="Kohlhase:GenCSI:on" type="website" xml:id="bib.bib462">
         
         <bib-data role="urldate">2011-03-03</bib-data>
         <bib-date role="publication">2011</bib-date>
@@ -14471,7 +14448,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSI:url" type="misc" xml:id="bib.bib464">
+      <bibentry key="Kohlhase:GenCSI:url" type="misc" xml:id="bib.bib463">
         
         <bib-note role="publication">Online course notes at <ref class="ltx_url" font="typewriter" href="http://kwarc.info/teaching/GenCS1/notes.pdf">http://kwarc.info/teaching/GenCS1/notes.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
@@ -14481,7 +14458,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSI:base" type="misc" xml:id="bib.bib465">
+      <bibentry key="Kohlhase:GenCSI:base" type="misc" xml:id="bib.bib464">
         <bib-key>GenCS1</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -14502,7 +14479,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIproblems:on" type="website" xml:id="bib.bib466">
+      <bibentry key="Kohlhase:GenCSIproblems:on" type="website" xml:id="bib.bib465">
         
         <bib-data role="urldate">2011-03-03</bib-data>
         <bib-date role="publication">2011</bib-date>
@@ -14512,7 +14489,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIproblems:url" type="misc" xml:id="bib.bib467">
+      <bibentry key="Kohlhase:GenCSIproblems:url" type="misc" xml:id="bib.bib466">
         
         <bib-note role="publication">Online practice problems at <ref class="ltx_url" font="typewriter" href="http://kwarc.info/teaching/GenCS1/problems.pdf">http://kwarc.info/teaching/GenCS1/problems.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
@@ -14522,7 +14499,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIproblems:base" type="misc" xml:id="bib.bib468">
+      <bibentry key="Kohlhase:GenCSIproblems:base" type="misc" xml:id="bib.bib467">
         <bib-key>GenCS1</bib-key>
         <bib-data role="label">GenCS1</bib-data>
         <bib-name role="author">
@@ -14543,7 +14520,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIsolutions:on" type="website" xml:id="bib.bib469">
+      <bibentry key="Kohlhase:GenCSIsolutions:on" type="website" xml:id="bib.bib468">
         
         <bib-data role="urldate">2011-03-03</bib-data>
         <bib-date role="publication">2011</bib-date>
@@ -14553,7 +14530,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIsolutions:url" type="misc" xml:id="bib.bib470">
+      <bibentry key="Kohlhase:GenCSIsolutions:url" type="misc" xml:id="bib.bib469">
         
         <bib-note role="publication">Online practice problems with solutions at <ref class="ltx_url" font="typewriter" href="http://kwarc.info/teaching/GenCS1/solutions.pdf">http://kwarc.info/teaching/GenCS1/solutions.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
@@ -14563,7 +14540,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIsolutions:base" type="misc" xml:id="bib.bib471">
+      <bibentry key="Kohlhase:GenCSIsolutions:base" type="misc" xml:id="bib.bib470">
         <bib-key>GenCS1</bib-key>
         <bib-data role="label">GenCS1</bib-data>
         <bib-name role="author">
@@ -14584,7 +14561,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSII:on" type="website" xml:id="bib.bib472">
+      <bibentry key="Kohlhase:GenCSII:on" type="website" xml:id="bib.bib471">
         
         <bib-data role="urldate">2011-03-03</bib-data>
         <bib-note role="annotation">See also<cite class="ltx_citemacro_cite">[<bibref bibrefs="Kohlhase:PlanetGenCS:on" separator="," show="Refnum" yyseparator=","/>]</cite></bib-note>
@@ -14596,7 +14573,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSII:url" type="misc" xml:id="bib.bib473">
+      <bibentry key="Kohlhase:GenCSII:url" type="misc" xml:id="bib.bib472">
         
         <bib-note role="publication">Online course notes at <ref class="ltx_url" font="typewriter" href="http://kwarc.info/teaching/GenCS2/notes.pdf">http://kwarc.info/teaching/GenCS2/notes.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
@@ -14606,7 +14583,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSII:base" type="misc" xml:id="bib.bib474">
+      <bibentry key="Kohlhase:GenCSII:base" type="misc" xml:id="bib.bib473">
         <bib-key>GenCS2</bib-key>
         <bib-data role="label">GenCS2</bib-data>
         <bib-name role="author">
@@ -14627,7 +14604,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIIproblems:on" type="website" xml:id="bib.bib475">
+      <bibentry key="Kohlhase:GenCSIIproblems:on" type="website" xml:id="bib.bib474">
         
         <bib-data role="urldate">2011-03-03</bib-data>
         <bib-date role="publication">2011</bib-date>
@@ -14637,7 +14614,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIIproblems:url" type="misc" xml:id="bib.bib476">
+      <bibentry key="Kohlhase:GenCSIIproblems:url" type="misc" xml:id="bib.bib475">
         
         <bib-note role="publication">Online practice problems at <ref class="ltx_url" font="typewriter" href="http://kwarc.info/teaching/GenCS2/problems.pdf">http://kwarc.info/teaching/GenCS2/problems.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
@@ -14647,7 +14624,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIIproblems:base" type="misc" xml:id="bib.bib477">
+      <bibentry key="Kohlhase:GenCSIIproblems:base" type="misc" xml:id="bib.bib476">
         <bib-key>GenCS2</bib-key>
         <bib-data role="label">GenCS2</bib-data>
         <bib-name role="author">
@@ -14668,7 +14645,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIIsolutions:on" type="website" xml:id="bib.bib478">
+      <bibentry key="Kohlhase:GenCSIIsolutions:on" type="website" xml:id="bib.bib477">
         
         <bib-data role="urldate">2011-03-03</bib-data>
         <bib-date role="publication">2011</bib-date>
@@ -14678,7 +14655,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIIsolutions:url" type="misc" xml:id="bib.bib479">
+      <bibentry key="Kohlhase:GenCSIIsolutions:url" type="misc" xml:id="bib.bib478">
         
         <bib-note role="publication">Online practice problems with solutions at <ref class="ltx_url" font="typewriter" href="http://kwarc.info/teaching/GenCS2/solutions.pdf">http://kwarc.info/teaching/GenCS2/solutions.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
@@ -14688,7 +14665,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:GenCSIIsolutions:base" type="misc" xml:id="bib.bib480">
+      <bibentry key="Kohlhase:GenCSIIsolutions:base" type="misc" xml:id="bib.bib479">
         <bib-key>GenCS2</bib-key>
         <bib-data role="label">GenCS2</bib-data>
         <bib-name role="author">
@@ -14709,7 +14686,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSuc:asemf06" type="inproceedings" xml:id="bib.bib481">
+      <bibentry key="KohSuc:asemf06" type="inproceedings" xml:id="bib.bib480">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -14760,7 +14737,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="ArmKoh:cpmsbko00" type="inproceedings" xml:id="bib.bib482">
+      <bibentry key="ArmKoh:cpmsbko00" type="inproceedings" xml:id="bib.bib481">
         <bib-name role="author">
           <surname>Armando</surname>
           <givenname>Alessandro</givenname>
@@ -14812,7 +14789,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv-buildsys:online" type="website" xml:id="bib.bib483">
+      <bibentry key="arXMLiv-buildsys:online" type="website" xml:id="bib.bib482">
         
         <bib-data role="urldate">2010-05-15</bib-data>
         <bib-data role="label">arXMLiv</bib-data>
@@ -14822,7 +14799,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
      label = {arXMLiv}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv-buildsys:URL" type="misc" xml:id="bib.bib484">
+      <bibentry key="arXMLiv-buildsys:URL" type="misc" xml:id="bib.bib483">
         
         <bib-note role="annotation">seen May 2010</bib-note>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://arxmliv.kwarc.info">http://arxmliv.kwarc.info</ref></bib-note>
@@ -14832,7 +14809,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  howpublished = {\url{http://arxmliv.kwarc.info}}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv-buildsys:base" type="misc" xml:id="bib.bib485">
+      <bibentry key="arXMLiv-buildsys:base" type="misc" xml:id="bib.bib484">
         <bib-key>arXMLiv</bib-key>
         <bib-title>arXMLiv build system</bib-title>
         <bib-url href="http://arxmliv.kwarc.info">Link</bib-url>
@@ -14842,7 +14819,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://arxmliv.kwarc.info}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv-frontend:online" type="website" xml:id="bib.bib486">
+      <bibentry key="arXMLiv-frontend:online" type="website" xml:id="bib.bib485">
         
         <bib-data role="urldate">2010-09-27</bib-data>
         <bib-data role="label">arX</bib-data>
@@ -14852,7 +14829,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
      label = {arX}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv-frontend:URL" type="misc" xml:id="bib.bib487">
+      <bibentry key="arXMLiv-frontend:URL" type="misc" xml:id="bib.bib486">
         
         <bib-note role="annotation">seen Sept. 2010</bib-note>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://arxivdemo.mathweb.org">http://arxivdemo.mathweb.org</ref></bib-note>
@@ -14862,7 +14839,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  howpublished = {\url{http://arxivdemo.mathweb.org}}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv-frontend:base" type="misc" xml:id="bib.bib488">
+      <bibentry key="arXMLiv-frontend:base" type="misc" xml:id="bib.bib487">
         <bib-key>arXMLiv</bib-key>
         <bib-title>Planetary arXiv demo</bib-title>
         <bib-url href="http://arxivdemo.mathweb.org">Link</bib-url>
@@ -14872,7 +14849,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://arxivdemo.mathweb.org}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv:online" type="website" xml:id="bib.bib489">
+      <bibentry key="arXMLiv:online" type="website" xml:id="bib.bib488">
         
         <bib-data role="urldate">2010-05-10</bib-data>
         <bib-data role="self" type="BibTeX">@online{arXMLiv:online,
@@ -14880,7 +14857,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
    urldate = {2010-05-10}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:arXMLiv" type="misc" xml:id="bib.bib490">
+      <bibentry key="URL:arXMLiv" type="misc" xml:id="bib.bib489">
         
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/">http://trac.kwarc.info/arXMLiv/</ref></bib-note>
         <bib-note role="annotation">seen April 2010</bib-note>
@@ -14890,7 +14867,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {\seen{\April} 2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv:base" type="misc" xml:id="bib.bib491">
+      <bibentry key="arXMLiv:base" type="misc" xml:id="bib.bib490">
         <bib-data role="label">arXMLiv</bib-data>
         <bib-key>arXMLiv</bib-key>
         <bib-title><text font="typewriter">arXMLiv</text>: Translating the Math Archives to XML+MathML</bib-title>
@@ -14902,7 +14879,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://trac.kwarc.info/arXMLiv/}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv:demo:online" type="website" xml:id="bib.bib492">
+      <bibentry key="arXMLiv:demo:online" type="website" xml:id="bib.bib491">
         
         <bib-data role="urldate">2011-09-08</bib-data>
         <bib-data role="self" type="BibTeX">@online{arXMLiv:demo:online,
@@ -14910,7 +14887,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
    urldate = {2011-09-08}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:demo:arXMLiv" type="misc" xml:id="bib.bib493">
+      <bibentry key="URL:demo:arXMLiv" type="misc" xml:id="bib.bib492">
         
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/wiki/Demo">http://trac.kwarc.info/arXMLiv/wiki/Demo</ref></bib-note>
         <bib-note role="annotation">seen March 2011</bib-note>
@@ -14920,7 +14897,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {\seen{\March} 2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="arXMLiv:demo:base" type="misc" xml:id="bib.bib494">
+      <bibentry key="arXMLiv:demo:base" type="misc" xml:id="bib.bib493">
         <bib-key>arXMLiv</bib-key>
         <bib-data role="label">arXMLiv</bib-data>
         <bib-title><text font="typewriter">arXMLiv</text>: Showcase Demo Page</bib-title>
@@ -14932,7 +14909,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://trac.kwarc.info/arXMLiv/wiki/Demo}}
 </bib-data>
       </bibentry>
-      <bibentry key="sTeXIDE:online" type="website" xml:id="bib.bib495">
+      <bibentry key="sTeXIDE:online" type="website" xml:id="bib.bib494">
         
         <bib-data role="urldate">2010-05-10</bib-data>
         <bib-data role="self" type="BibTeX">@online{sTeXIDE:online,
@@ -14940,7 +14917,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
    urldate = {2010-05-10}}
 </bib-data>
       </bibentry>
-      <bibentry key="URL:sTeXIDE" type="misc" xml:id="bib.bib496">
+      <bibentry key="URL:sTeXIDE" type="misc" xml:id="bib.bib495">
         
         <bib-note role="publication">project page at <ref class="ltx_url" font="typewriter" href="http://stexide.googlecode.com/">http://stexide.googlecode.com/</ref></bib-note>
         <bib-note role="annotation">seen April 2010</bib-note>
@@ -14950,7 +14927,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       note = {\seen{\April} 2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="sTeXIDE:base" type="misc" xml:id="bib.bib497">
+      <bibentry key="sTeXIDE:base" type="misc" xml:id="bib.bib496">
         <bib-key>sTeXIDE</bib-key>
         <bib-title>sTeXIDE</bib-title>
         <bib-url href="http://stexide.googlecode.com/">Link</bib-url>
@@ -14960,7 +14937,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
        url = {http://stexide.googlecode.com/}}
 </bib-data>
       </bibentry>
-      <bibentry key="AspKoht:mimp02" type="inproceedings" xml:id="bib.bib498">
+      <bibentry key="AspKoht:mimp02" type="inproceedings" xml:id="bib.bib497">
         <bib-name role="author">
           <surname>Asperti</surname>
           <givenname>Andrea</givenname>
@@ -14997,7 +14974,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2002}}
 </bib-data>
       </bibentry>
-      <bibentry key="NorKoh:efnrsmk07" type="inproceedings" xml:id="bib.bib499">
+      <bibentry key="NorKoh:efnrsmk07" type="inproceedings" xml:id="bib.bib498">
         <bib-name role="author">
           <surname>Normann</surname>
           <givenname>Immanuel</givenname>
@@ -15006,7 +14983,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Extended formula normalization for <Math mode="inline" tex="\epsilon" text="epsilon" xml:id="bib.bib499.m1">
+        <bib-title>Extended formula normalization for <Math mode="inline" tex="\epsilon" text="epsilon" xml:id="bib.bib498.m1">
             <XMath>
               <XMTok font="italic" name="epsilon" role="UNKNOWN">ϵ</XMTok>
             </XMath>
@@ -15052,7 +15029,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:rmvp07" type="inproceedings" xml:id="bib.bib500">
+      <bibentry key="KohKoh:rmvp07" type="inproceedings" xml:id="bib.bib499">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -15104,7 +15081,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:skmfe08" type="article" xml:id="bib.bib501">
+      <bibentry key="KohKoh:skmfe08" type="article" xml:id="bib.bib500">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -15139,7 +15116,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {akohlhase,mkohlhase,projects/ikyda2012}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenzmuellerEtAl:otama97" type="inproceedings" xml:id="bib.bib502">
+      <bibentry key="BenzmuellerEtAl:otama97" type="inproceedings" xml:id="bib.bib501">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -15192,7 +15169,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
           <surname>Sorge</surname>
           <givenname>Volker</givenname>
         </bib-name>
-        <bib-title><Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib502.m1">
+        <bib-title><Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib501.m1">
             <XMath>
               <XMTok name="Omega" role="UNKNOWN">Ω</XMTok>
             </XMath>
@@ -15233,7 +15210,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenKoh:ehor98" type="inproceedings" xml:id="bib.bib503">
+      <bibentry key="BenKoh:ehor98" type="inproceedings" xml:id="bib.bib502">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -15279,7 +15256,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="BlaBos:atpfnlu98" type="inproceedings" xml:id="bib.bib504">
+      <bibentry key="BlaBos:atpfnlu98" type="inproceedings" xml:id="bib.bib503">
         <bib-name role="author">
           <surname>Blackburn</surname>
           <givenname>Patrick</givenname>
@@ -15343,7 +15320,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="ClaKoh:ratp03" type="inproceedings" xml:id="bib.bib505">
+      <bibentry key="ClaKoh:ratp03" type="inproceedings" xml:id="bib.bib504">
         <bib-name role="author">
           <surname>Clarke</surname>
           <givenname>Edmund</givenname>
@@ -15381,7 +15358,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2003}}
 </bib-data>
       </bibentry>
-      <bibentry key="ClaKoh:sda03" type="inproceedings" xml:id="bib.bib506">
+      <bibentry key="ClaKoh:sda03" type="inproceedings" xml:id="bib.bib505">
         <bib-name role="author">
           <surname>Clarke</surname>
           <givenname>Edmund</givenname>
@@ -15437,7 +15414,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
      month = {September}}
 </bib-data>
       </bibentry>
-      <bibentry key="HuKe:katfad94" type="inproceedings" xml:id="bib.bib507">
+      <bibentry key="HuKe:katfad94" type="inproceedings" xml:id="bib.bib506">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -15502,7 +15479,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="HKK94a" type="inproceedings" xml:id="bib.bib508">
+      <bibentry key="HKK94a" type="inproceedings" xml:id="bib.bib507">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -15549,7 +15526,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="HuKe94b" type="inproceedings" xml:id="bib.bib509">
+      <bibentry key="HuKe94b" type="inproceedings" xml:id="bib.bib508">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -15604,7 +15581,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="AK:mbase06" type="incollection" xml:id="bib.bib510">
+      <bibentry key="AK:mbase06" type="incollection" xml:id="bib.bib509">
         <bib-name role="author">
           <surname>Franke</surname>
           <givenname>Andreas</givenname>
@@ -15646,7 +15623,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="LanKoh:swim06" type="inbook" xml:id="bib.bib511">
+      <bibentry key="LanKoh:swim06" type="inbook" xml:id="bib.bib510">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -15687,7 +15664,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:albwo06" type="incollection" xml:id="bib.bib512">
+      <bibentry key="Kohlhase:albwo06" type="incollection" xml:id="bib.bib511">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -15725,7 +15702,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:shlssc06" type="incollection" xml:id="bib.bib513">
+      <bibentry key="Kohlhase:shlssc06" type="incollection" xml:id="bib.bib512">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -15763,7 +15740,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="NRM:omdoc2vf06" type="incollection" xml:id="bib.bib514">
+      <bibentry key="NRM:omdoc2vf06" type="incollection" xml:id="bib.bib513">
         <bib-part role="chapter">26.20</bib-part>
         <bib-part role="pages">329–332</bib-part>
         <bib-title>OMDoc as a Data Format for VeriFun</bib-title>
@@ -15803,7 +15780,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:OAFFlexiForms10" type="website" xml:id="bib.bib515">
+      <bibentry key="Kohlhase:OAFFlexiForms10" type="website" xml:id="bib.bib514">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -15820,7 +15797,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       date = {2010-07-23}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:SemiformalizationDef09" type="website" xml:id="bib.bib516">
+      <bibentry key="Kohlhase:SemiformalizationDef09" type="website" xml:id="bib.bib515">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -15835,7 +15812,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
    urldate = {2009-12-14}}
 </bib-data>
       </bibentry>
-      <bibentry key="OAFF:URL" type="misc" xml:id="bib.bib517">
+      <bibentry key="OAFF:URL" type="misc" xml:id="bib.bib516">
         
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@misc{OAFF:URL,
@@ -15843,7 +15820,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="OAFF:online" type="website" xml:id="bib.bib518">
+      <bibentry key="OAFF:online" type="website" xml:id="bib.bib517">
         
         <bib-data role="urldate">2011-01-17</bib-data>
         <bib-data role="self" type="BibTeX">@online{OAFF:online,
@@ -15851,7 +15828,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
    urldate = {2011-01-17}}
 </bib-data>
       </bibentry>
-      <bibentry key="OAFF:base" type="misc" xml:id="bib.bib519">
+      <bibentry key="OAFF:base" type="misc" xml:id="bib.bib518">
         <bib-key>OAFF</bib-key>
         <bib-data role="label">OAFF</bib-data>
         <bib-type>Web Portal</bib-type>
@@ -15865,7 +15842,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://oaff.info}}
 </bib-data>
       </bibentry>
-      <bibentry key="JoKo:uiaelc94" type="inproceedings" xml:id="bib.bib520">
+      <bibentry key="JoKo:uiaelc94" type="inproceedings" xml:id="bib.bib519">
         <bib-name role="author">
           <surname>Johann</surname>
           <givenname>Patricia</givenname>
@@ -15910,7 +15887,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="KeKo:mpwri97" type="inproceedings" xml:id="bib.bib521">
+      <bibentry key="KeKo:mpwri97" type="inproceedings" xml:id="bib.bib520">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -15960,7 +15937,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="KeKoSo:icawpp96" type="inproceedings" xml:id="bib.bib522">
+      <bibentry key="KeKoSo:icawpp96" type="inproceedings" xml:id="bib.bib521">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -16008,7 +15985,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {1996}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:cdad04" type="inproceedings" xml:id="bib.bib523">
+      <bibentry key="KohKoh:cdad04" type="inproceedings" xml:id="bib.bib522">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -16056,7 +16033,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2004}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:copmem06" type="inproceedings" xml:id="bib.bib524">
+      <bibentry key="KohKoh:copmem06" type="inproceedings" xml:id="bib.bib523">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -16101,7 +16078,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="HilKohSta:copmem06" type="inproceedings" xml:id="bib.bib525">
+      <bibentry key="HilKohSta:copmem06" type="inproceedings" xml:id="bib.bib524">
         <bib-name role="author">
           <surname>Hilf</surname>
           <givenname>Eberhard</givenname>
@@ -16150,7 +16127,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:esmk05" type="inproceedings" xml:id="bib.bib526">
+      <bibentry key="KohKoh:esmk05" type="inproceedings" xml:id="bib.bib525">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -16193,7 +16170,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:hoatp98" type="incollection" xml:id="bib.bib527">
+      <bibentry key="Kohlhase:hoatp98" type="incollection" xml:id="bib.bib526">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -16231,7 +16208,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:atpm98" type="incollection" xml:id="bib.bib528">
+      <bibentry key="Kohlhase:atpm98" type="incollection" xml:id="bib.bib527">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -16267,12 +16244,12 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase94b" type="inproceedings" xml:id="bib.bib529">
+      <bibentry key="Kohlhase94b" type="inproceedings" xml:id="bib.bib528">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Unification in a <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib529.m1">
+        <bib-title>Unification in a <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib528.m1">
             <XMath>
               <XMTok font="italic" name="lambda" role="UNKNOWN">λ</XMTok>
             </XMath>
@@ -16314,7 +16291,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:uiostt92" type="inproceedings" xml:id="bib.bib530">
+      <bibentry key="Kohlhase:uiostt92" type="inproceedings" xml:id="bib.bib529">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -16355,7 +16332,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohAng:tccmvc03" type="inproceedings" xml:id="bib.bib531">
+      <bibentry key="KohAng:tccmvc03" type="inproceedings" xml:id="bib.bib530">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -16404,7 +16381,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2003}}
 </bib-data>
       </bibentry>
-      <bibentry key="HanKoh:atcnl03" type="inproceedings" xml:id="bib.bib532">
+      <bibentry key="HanKoh:atcnl03" type="inproceedings" xml:id="bib.bib531">
         <bib-name role="author">
           <surname>Han</surname>
           <givenname>Benjamin</givenname>
@@ -16446,7 +16423,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2003}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKol:ttmlu00" type="inproceedings" xml:id="bib.bib533">
+      <bibentry key="KohKol:ttmlu00" type="inproceedings" xml:id="bib.bib532">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -16485,7 +16462,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSut:amcas02" type="inproceedings" xml:id="bib.bib534">
+      <bibentry key="KohSut:amcas02" type="inproceedings" xml:id="bib.bib533">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -16543,7 +16520,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2002}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:autxdm03" type="inproceedings" xml:id="bib.bib535">
+      <bibentry key="Kohlhase:autxdm03" type="inproceedings" xml:id="bib.bib534">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -16568,7 +16545,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2003}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:swmkm06" type="thesis" xml:id="bib.bib536">
+      <bibentry key="Lange:swmkm06" type="thesis" xml:id="bib.bib535">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -16593,7 +16570,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       pubs = {clange,projects/swim,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="LanKoh:swmkm06" type="inproceedings" xml:id="bib.bib537">
+      <bibentry key="LanKoh:swmkm06" type="inproceedings" xml:id="bib.bib536">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -16637,7 +16614,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="SiekmannEtAl:pdwo02" type="inproceedings" xml:id="bib.bib538">
+      <bibentry key="SiekmannEtAl:pdwo02" type="inproceedings" xml:id="bib.bib537">
         <bib-name role="author">
           <surname>Siekmann</surname>
           <givenname>Jörg</givenname>
@@ -16706,7 +16683,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
           <surname>Zimmer</surname>
           <givenname>Jürgen</givenname>
         </bib-name>
-        <bib-title>Proof development with <Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib538.m1">
+        <bib-title>Proof development with <Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib537.m1">
             <XMath>
               <XMTok name="Omega" role="UNKNOWN">Ω</XMTok>
             </XMath>
@@ -16747,7 +16724,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2002}}
 </bib-data>
       </bibentry>
-      <bibentry key="TNTVDSkel:URL" type="misc" xml:id="bib.bib539">
+      <bibentry key="TNTVDSkel:URL" type="misc" xml:id="bib.bib538">
         <bib-key>TNTVDSkel</bib-key>
         <bib-name role="author">
           <surname>Zholudev</surname>
@@ -16768,7 +16745,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {https://svn.tntbase.org/repos/tntbase/trunk/DbXmlAccessLib/resources/tnt-vd-spec.rnc}}
 </bib-data>
       </bibentry>
-      <bibentry key="TNTVDUseCases:URL" type="misc" xml:id="bib.bib540">
+      <bibentry key="TNTVDUseCases:URL" type="misc" xml:id="bib.bib539">
         <bib-key>TNTVDUseCases</bib-key>
         <bib-name role="author">
           <surname>Zholudev</surname>
@@ -16785,7 +16762,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://tntbase.org/wiki/balisage2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="TNTBaseIntegration" type="website" xml:id="bib.bib541">
+      <bibentry key="TNTBaseIntegration" type="website" xml:id="bib.bib540">
         <bib-name role="author">
           <surname>Zholudev</surname>
           <givenname>Vyacheslav</givenname>
@@ -16800,7 +16777,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
    urldate = {2010-09-29}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:TNTBaseMMTPlugin" type="website" xml:id="bib.bib542">
+      <bibentry key="Rabe:TNTBaseMMTPlugin" type="website" xml:id="bib.bib541">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -16815,7 +16792,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
    urldate = {2010-05-10}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDoc:svn" type="misc" xml:id="bib.bib543">
+      <bibentry key="OMDoc:svn" type="misc" xml:id="bib.bib542">
         <bib-key>OMDoc SVN</bib-key>
         <bib-title>The OMDoc subversion repository</bib-title>
         <bib-note role="publication">Repository at <ref class="ltx_url" font="typewriter" href="https://svn.omdoc.org/repos/omdoc">https://svn.omdoc.org/repos/omdoc</ref></bib-note>
@@ -16827,7 +16804,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {https://svn.omdoc.org/repos/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDocRNC:URL" type="misc" xml:id="bib.bib544">
+      <bibentry key="OMDocRNC:URL" type="misc" xml:id="bib.bib543">
         <bib-key>OMDocRNC</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -16844,7 +16821,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://omdoc.org/rnc/omdoc.rnc}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDocXSD:URL" type="misc" xml:id="bib.bib545">
+      <bibentry key="OMDocXSD:URL" type="misc" xml:id="bib.bib544">
         <bib-key>OMDocXSD</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -16861,7 +16838,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://omdoc.org/rnc/omdoc.xsd}}
 </bib-data>
       </bibentry>
-      <bibentry key="mathweb.org:svn" type="misc" xml:id="bib.bib546">
+      <bibentry key="mathweb.org:svn" type="misc" xml:id="bib.bib545">
         <bib-key>MathWeb SVN</bib-key>
         <bib-title>Using the <text font="typewriter">mathweb.org</text> subversion repository</bib-title>
         <bib-note role="publication">Web page at <ref class="ltx_url" font="typewriter" href="http://www.mathweb.org/svn.html">http://www.mathweb.org/svn.html</ref></bib-note>
@@ -16873,7 +16850,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://www.mathweb.org/svn.html}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDocXSL:URL" type="misc" xml:id="bib.bib547">
+      <bibentry key="OMDocXSL:URL" type="misc" xml:id="bib.bib546">
         <bib-key>OMDocXSL</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -16890,7 +16867,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://omdoc.org/xsl/}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDoc-mailinglists:URL" type="misc" xml:id="bib.bib548">
+      <bibentry key="OMDoc-mailinglists:URL" type="misc" xml:id="bib.bib547">
         <bib-key>OMDoc Mailing Lists</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -16909,7 +16886,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://omdoc.org/resources/mailing-lists.html}}
 </bib-data>
       </bibentry>
-      <bibentry key="mkm-mailinglists:URL" type="misc" xml:id="bib.bib549">
+      <bibentry key="mkm-mailinglists:URL" type="misc" xml:id="bib.bib548">
         <bib-key>MKM-IG Mailing Lists</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -16926,7 +16903,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://lists.jacobs-university.de/mailman/admin/projects-mkm-ig}}
 </bib-data>
       </bibentry>
-      <bibentry key="BusCapCar:2oms03" type="report" xml:id="bib.bib550">
+      <bibentry key="BusCapCar:2oms03" type="report" xml:id="bib.bib549">
         <bib-title>The OpenMath standard, version 2.0 public draft 4</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-organization>The OpenMath Society</bib-organization>
@@ -16967,7 +16944,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        key = {Caprotti}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:NTCIR10-topics" type="report" xml:id="bib.bib551">
+      <bibentry key="Kohlhase:NTCIR10-topics" type="report" xml:id="bib.bib550">
         <bib-title>Topics for the NTCIR-10 math task; math retrieval subtask</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -16990,7 +16967,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
     editor = {Michael Kohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:NTCIR11-topics" type="report" xml:id="bib.bib552">
+      <bibentry key="Kohlhase:NTCIR11-topics" type="report" xml:id="bib.bib551">
         <bib-title>Formats for topics and submissions for the math-2 task at ntcir-11</bib-title>
         <bib-date role="publication">2014</bib-date>
         <bib-organization>NTCIR</bib-organization>
@@ -17008,7 +16985,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
     editor = {Michael Kohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:NTCIR12-topics" type="report" xml:id="bib.bib553">
+      <bibentry key="Kohlhase:NTCIR12-topics" type="report" xml:id="bib.bib552">
         <bib-title>Formats for topics and submissions for the math-3 task at ntcir-12</bib-title>
         <bib-date role="publication">2015</bib-date>
         <bib-organization>NTCIR</bib-organization>
@@ -17026,7 +17003,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
     editor = {Michael Kohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="ek:dsxcc" type="misc" xml:id="bib.bib554">
+      <bibentry key="ek:dsxcc" type="misc" xml:id="bib.bib553">
         <bib-name role="author">
           <surname>Eberhardt</surname>
           <givenname>Frederick</givenname>
@@ -17045,7 +17022,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2004}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:hoatp-lnai" type="unpublished" xml:id="bib.bib555">
+      <bibentry key="Kohlhase:hoatp-lnai" type="unpublished" xml:id="bib.bib554">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -17060,7 +17037,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {http://kwarc.info/kohlhase/submit/lnai.ps}}
 </bib-data>
       </bibentry>
-      <bibentry key="MuKo:pr07-small" type="inproceedings" xml:id="bib.bib556">
+      <bibentry key="MuKo:pr07-small" type="inproceedings" xml:id="bib.bib555">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -17082,7 +17059,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSim:escpmge01" type="unpublished" xml:id="bib.bib557">
+      <bibentry key="KohSim:escpmge01" type="unpublished" xml:id="bib.bib556">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -17103,7 +17080,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2001}}
 </bib-data>
       </bibentry>
-      <bibentry key="CD:inference-rules" type="misc" xml:id="bib.bib558">
+      <bibentry key="CD:inference-rules" type="misc" xml:id="bib.bib557">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -17122,7 +17099,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        url = {https://svn.omdoc.org/repos/omdoc/trunk/examples/logics/inference-rules.omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDocDTD:URL" type="misc" xml:id="bib.bib559">
+      <bibentry key="OMDocDTD:URL" type="misc" xml:id="bib.bib558">
         <bib-key>OMDocDTD</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -17139,7 +17116,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
  howpublished = {\url{http://omdoc.org/dtd/omdoc.dtd}}}
 </bib-data>
       </bibentry>
-      <bibentry key="FormalSafeProposal" type="unpublished" xml:id="bib.bib560">
+      <bibentry key="FormalSafeProposal" type="unpublished" xml:id="bib.bib559">
         <bib-name role="author">
           <surname>Krieg-Brückner</surname>
           <givenname>Bernd</givenname>
@@ -17178,7 +17155,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="MWSProj:on" type="website" xml:id="bib.bib561">
+      <bibentry key="MWSProj:on" type="website" xml:id="bib.bib560">
         
         <bib-data role="label">MWS</bib-data>
         <bib-data role="urldate">2016-06-11</bib-data>
@@ -17188,7 +17165,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
    urldate = {2016-06-11}}
 </bib-data>
       </bibentry>
-      <bibentry key="MWSProj:url" type="misc" xml:id="bib.bib562">
+      <bibentry key="MWSProj:url" type="misc" xml:id="bib.bib561">
         
         <bib-note role="publication">Project page at <ref class="ltx_url" font="typewriter" href="http://search.mathweb.org">http://search.mathweb.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{MWSProj:url,
@@ -17196,7 +17173,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
  howpublished = {Project page at \url{http://search.mathweb.org}}}
 </bib-data>
       </bibentry>
-      <bibentry key="MWSProj:base" type="misc" xml:id="bib.bib563">
+      <bibentry key="MWSProj:base" type="misc" xml:id="bib.bib562">
         <bib-title>MathWebSearch – searching mathematics on the web</bib-title>
         <bib-url href="http://search.mathweb.org">Link</bib-url>
         <bib-key>MWS</bib-key>
@@ -17206,7 +17183,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
        key = {MWS}}
 </bib-data>
       </bibentry>
-      <bibentry key="MWSZBL:on" type="website" xml:id="bib.bib564">
+      <bibentry key="MWSZBL:on" type="website" xml:id="bib.bib563">
         <bib-data role="label">MWSZBL</bib-data>
         <bib-title>MathWeb Search: zentralblatt math</bib-title>
         <bib-url href="http://search.mathweb.org/zbl/">Link</bib-url>
@@ -17218,7 +17195,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
    urldate = {2013-04-21}}
 </bib-data>
       </bibentry>
-      <bibentry key="AizKohOun:nmpto13" type="inproceedings" xml:id="bib.bib565">
+      <bibentry key="AizKohOun:nmpto13" type="inproceedings" xml:id="bib.bib564">
         <bib-name role="author">
           <surname>Aizawa</surname>
           <givenname>Akiko</givenname>
@@ -17263,7 +17240,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="AizKohOunSch:nmto14" type="inproceedings" xml:id="bib.bib566">
+      <bibentry key="AizKohOunSch:nmto14" type="inproceedings" xml:id="bib.bib565">
         <bib-name role="author">
           <surname>Aizawa</surname>
           <givenname>Akiko</givenname>
@@ -17315,7 +17292,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="AizKohOunSch:nmto16" type="inproceedings" xml:id="bib.bib567">
+      <bibentry key="AizKohOunSch:nmto16" type="inproceedings" xml:id="bib.bib566">
         <bib-name role="author">
           <surname>Aizawa</surname>
           <givenname>Akiko</givenname>
@@ -17367,7 +17344,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohPro:man13" type="inproceedings" xml:id="bib.bib568">
+      <bibentry key="KohPro:man13" type="inproceedings" xml:id="bib.bib567">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -17408,7 +17385,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="HamKohPro:man14" type="inproceedings" xml:id="bib.bib569">
+      <bibentry key="HamKohPro:man14" type="inproceedings" xml:id="bib.bib568">
         <bib-name role="author">
           <surname>Hambasan</surname>
           <givenname>Radu</givenname>
@@ -17456,7 +17433,7 @@ Deduktionssysteme”</bib-title><bib-data role="self" type="BibTeX">@proceedings
       year = {2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="SieHes:adgui98" type="inproceedings" xml:id="bib.bib570">
+      <bibentry key="SieHes:adgui98" type="inproceedings" xml:id="bib.bib569">
         <bib-name role="author">
           <surname>Siekmann</surname>
           <givenname>Jörg</givenname>
@@ -17539,7 +17516,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
  booktitle = {User Interfaces for Theorem Provers}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:LII14" type="inproceedings" xml:id="bib.bib571">
+      <bibentry key="Rabe:LII14" type="inproceedings" xml:id="bib.bib570">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -17575,7 +17552,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="CPoint:Web" type="misc" xml:id="bib.bib572">
+      <bibentry key="CPoint:Web" type="misc" xml:id="bib.bib571">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -17594,7 +17571,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="AspKohSac:dtdop03" type="report" xml:id="bib.bib573">
+      <bibentry key="AspKohSac:dtdop03" type="report" xml:id="bib.bib572">
         <bib-name role="author">
           <surname>Asperti</surname>
           <givenname>Andrea</givenname>
@@ -17621,7 +17598,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="Laubner:utgmm07" type="thesis" xml:id="bib.bib574">
+      <bibentry key="Laubner:utgmm07" type="thesis" xml:id="bib.bib573">
         <bib-name role="author">
           <surname>Laubner</surname>
           <givenname>Bastian</givenname>
@@ -17643,7 +17620,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="w3c:web:mathml" type="misc" xml:id="bib.bib575">
+      <bibentry key="w3c:web:mathml" type="misc" xml:id="bib.bib574">
         
         <bib-date role="publication">2003-10-21</bib-date>
         <bib-data role="self" type="BibTeX">@misc{w3c:web:mathml,
@@ -17652,7 +17629,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {2003}}
 </bib-data>
       </bibentry>
-      <bibentry key="W3C:MathML2:biblatex" type="report" xml:id="bib.bib576">
+      <bibentry key="W3C:MathML2:biblatex" type="report" xml:id="bib.bib575">
         
         <bib-date role="publication">2003-10-21</bib-date>
         <bib-name role="author">
@@ -17736,7 +17713,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {2003}}
 </bib-data>
       </bibentry>
-      <bibentry key="CarIon:MathML03" type="report" xml:id="bib.bib577">
+      <bibentry key="CarIon:MathML03" type="report" xml:id="bib.bib576">
         <bib-name role="author">
           <surname>Ausbrooks</surname>
           <givenname>Ron</givenname>
@@ -17845,7 +17822,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="AutEbe:dkmvc03" type="report" xml:id="bib.bib578">
+      <bibentry key="AutEbe:dkmvc03" type="report" xml:id="bib.bib577">
         <bib-name role="author">
           <surname>Autexier</surname>
           <givenname>Serge</givenname>
@@ -17883,7 +17860,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenBroKoh:hose04" type="article" xml:id="bib.bib579">
+      <bibentry key="BenBroKoh:hose04" type="article" xml:id="bib.bib578">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -17914,7 +17891,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenBroKoh:cexf08" type="incollection" xml:id="bib.bib580">
+      <bibentry key="BenBroKoh:cexf08" type="incollection" xml:id="bib.bib579">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -17961,7 +17938,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="FraKoh:mrmkrdb99" type="article" xml:id="bib.bib581">
+      <bibentry key="FraKoh:mrmkrdb99" type="article" xml:id="bib.bib580">
         <bib-name role="author">
           <surname>Franke</surname>
           <givenname>Andreas</givenname>
@@ -17986,7 +17963,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenKoh:lahotp98" type="inproceedings" xml:id="bib.bib582">
+      <bibentry key="BenKoh:lahotp98" type="inproceedings" xml:id="bib.bib581">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -18032,7 +18009,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenKoh:mefhol97" type="report" xml:id="bib.bib583">
+      <bibentry key="BenKoh:mefhol97" type="report" xml:id="bib.bib582">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -18057,7 +18034,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenKoh:rfhm97" type="report" xml:id="bib.bib584">
+      <bibentry key="BenKoh:rfhm97" type="report" xml:id="bib.bib583">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -18082,7 +18059,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenKohBro:hose03" type="report" xml:id="bib.bib585">
+      <bibentry key="BenKohBro:hose03" type="report" xml:id="bib.bib584">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -18115,7 +18092,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BlaKoh:ics04" type="article" xml:id="bib.bib586">
+      <bibentry key="BlaKoh:ics04" type="article" xml:id="bib.bib585">
         <bib-name role="author">
           <surname>Blackburn</surname>
           <givenname>Patrick</givenname>
@@ -18146,7 +18123,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BlaBos:arfcl98" type="report" xml:id="bib.bib587">
+      <bibentry key="BlaBos:arfcl98" type="report" xml:id="bib.bib586">
         
         <bib-name role="author">
           <surname>Blackburn</surname>
@@ -18176,7 +18153,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="BlaBos:iacs98" type="report" xml:id="bib.bib588">
+      <bibentry key="BlaBos:iacs98" type="report" xml:id="bib.bib587">
         <bib-name role="author">
           <surname>Blackburn</surname>
           <givenname>Patrick</givenname>
@@ -18211,7 +18188,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BlaBosKoh:iacs01" type="incollection" xml:id="bib.bib589">
+      <bibentry key="BlaBosKoh:iacs01" type="incollection" xml:id="bib.bib588">
         <bib-name role="author">
           <surname>Blackburn</surname>
           <givenname>Patrick</givenname>
@@ -18263,7 +18240,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {2001}}
 </bib-data>
       </bibentry>
-      <bibentry key="BlaBos:iacs99" type="inproceedings" xml:id="bib.bib590">
+      <bibentry key="BlaBos:iacs99" type="inproceedings" xml:id="bib.bib589">
         <bib-name role="author">
           <surname>Blackburn</surname>
           <givenname>Patrick</givenname>
@@ -18319,7 +18296,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {1999}}
 </bib-data>
       </bibentry>
-      <bibentry key="BusCapCar:2oms04" type="report" xml:id="bib.bib591">
+      <bibentry key="BusCapCar:2oms04" type="report" xml:id="bib.bib590">
         <bib-name role="author">
           <surname>Buswell</surname>
           <givenname>Stephen</givenname>
@@ -18366,7 +18343,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="EggGarKoh:sid98" type="article" xml:id="bib.bib592">
+      <bibentry key="EggGarKoh:sid98" type="article" xml:id="bib.bib591">
         <bib-name role="author">
           <surname>Egg</surname>
           <givenname>Markus</givenname>
@@ -18399,7 +18376,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KerKoh:fmds94" type="inproceedings" xml:id="bib.bib593">
+      <bibentry key="KerKoh:fmds94" type="inproceedings" xml:id="bib.bib592">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -18422,7 +18399,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KerKoh:pwtc96" type="inproceedings" xml:id="bib.bib594">
+      <bibentry key="KerKoh:pwtc96" type="inproceedings" xml:id="bib.bib593">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -18444,7 +18421,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="EggKoh:dcqs97" type="inproceedings" xml:id="bib.bib595">
+      <bibentry key="EggKoh:dcqs97" type="inproceedings" xml:id="bib.bib594">
         <bib-name role="author">
           <surname>Egg</surname>
           <givenname>Markus</givenname>
@@ -18473,7 +18450,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="EggKoh:uqs97" type="inproceedings" xml:id="bib.bib596">
+      <bibentry key="EggKoh:uqs97" type="inproceedings" xml:id="bib.bib595">
         <bib-name role="author">
           <surname>Egg</surname>
           <givenname>Markus</givenname>
@@ -18499,7 +18476,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="FraKoh:cwmik99" type="unpublished" xml:id="bib.bib597">
+      <bibentry key="FraKoh:cwmik99" type="unpublished" xml:id="bib.bib596">
         <bib-name role="author">
           <surname>Franke</surname>
           <givenname>Andreas</givenname>
@@ -18518,7 +18495,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {1999}}
 </bib-data>
       </bibentry>
-      <bibentry key="FraKoh:dm99" type="unpublished" xml:id="bib.bib598">
+      <bibentry key="FraKoh:dm99" type="unpublished" xml:id="bib.bib597">
         <bib-name role="author">
           <surname>Franke</surname>
           <givenname>Andreas</givenname>
@@ -18537,7 +18514,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {1999}}
 </bib-data>
       </bibentry>
-      <bibentry key="FraHes:aoidms99" type="article" xml:id="bib.bib599">
+      <bibentry key="FraHes:aoidms99" type="article" xml:id="bib.bib598">
         <bib-name role="author">
           <surname>Franke</surname>
           <givenname>Andreas</givenname>
@@ -18579,7 +18556,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="FraKoh:mabdl99" type="inproceedings" xml:id="bib.bib600">
+      <bibentry key="FraKoh:mabdl99" type="inproceedings" xml:id="bib.bib599">
         <bib-name role="author">
           <surname>Franke</surname>
           <givenname>Andreas</givenname>
@@ -18623,7 +18600,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {1999}}
 </bib-data>
       </bibentry>
-      <bibentry key="FraKoh:sdmaomkb00" type="inproceedings" xml:id="bib.bib601">
+      <bibentry key="FraKoh:sdmaomkb00" type="inproceedings" xml:id="bib.bib600">
         <bib-name role="author">
           <surname>Franke</surname>
           <givenname>Andreas</givenname>
@@ -18666,7 +18643,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKoh:cpid97" type="inproceedings" xml:id="bib.bib602">
+      <bibentry key="GarKoh:cpid97" type="inproceedings" xml:id="bib.bib601">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18710,7 +18687,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       year = {1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKoh:fahou96" type="inproceedings" xml:id="bib.bib603">
+      <bibentry key="GarKoh:fahou96" type="inproceedings" xml:id="bib.bib602">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18740,7 +18717,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKoh:hocuanls96" type="inproceedings" xml:id="bib.bib604">
+      <bibentry key="GarKoh:hocuanls96" type="inproceedings" xml:id="bib.bib603">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18772,7 +18749,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKohKon:hocuala99" type="article" xml:id="bib.bib605">
+      <bibentry key="GarKohKon:hocuala99" type="article" xml:id="bib.bib604">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18805,7 +18782,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKohKon:hocuala97" type="report" xml:id="bib.bib606">
+      <bibentry key="GarKohKon:hocuala97" type="report" xml:id="bib.bib605">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18836,7 +18813,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKohKon:chou96" type="report" xml:id="bib.bib607">
+      <bibentry key="GarKohKon:chou96" type="report" xml:id="bib.bib606">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18867,7 +18844,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKoh:hounls96" type="report" xml:id="bib.bib608">
+      <bibentry key="GarKoh:hounls96" type="report" xml:id="bib.bib607">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18894,7 +18871,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKoh:hfhou96" type="report" xml:id="bib.bib609">
+      <bibentry key="GarKoh:hfhou96" type="report" xml:id="bib.bib608">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18921,7 +18898,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="GarKohLeu:cahou96" type="inproceedings" xml:id="bib.bib610">
+      <bibentry key="GarKohLeu:cahou96" type="inproceedings" xml:id="bib.bib609">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -18955,7 +18932,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BanKoh:mmlof07" type="incollection" xml:id="bib.bib611">
+      <bibentry key="BanKoh:mmlof07" type="incollection" xml:id="bib.bib610">
         <bib-name role="author">
           <surname>Bancerek</surname>
           <givenname>Grzegorz</givenname>
@@ -18998,7 +18975,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="HeJuKoSo:aidms98" type="inproceedings" xml:id="bib.bib612">
+      <bibentry key="HeJuKoSo:aidms98" type="inproceedings" xml:id="bib.bib611">
         <bib-name role="author">
           <surname>Hess</surname>
           <givenname>Stefan</givenname>
@@ -19047,7 +19024,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
      month = {July}}
 </bib-data>
       </bibentry>
-      <bibentry key="HuangEtAl:SR-92-20" type="report" xml:id="bib.bib613">
+      <bibentry key="HuangEtAl:SR-92-20" type="report" xml:id="bib.bib612">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -19076,7 +19053,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="HuKe:oapde94" type="inproceedings" xml:id="bib.bib614">
+      <bibentry key="HuKe:oapde94" type="inproceedings" xml:id="bib.bib613">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -19105,7 +19082,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
           <surname>Siekmann</surname>
           <givenname>Jörg</givenname>
         </bib-name>
-        <bib-title><Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib614.m1">
+        <bib-title><Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib613.m1">
             <XMath>
               <XMTok name="Omega" role="UNKNOWN">Ω</XMTok>
             </XMath>
@@ -19145,7 +19122,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="HuKe:oapde92" type="report" xml:id="bib.bib615">
+      <bibentry key="HuKe:oapde92" type="report" xml:id="bib.bib614">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -19174,7 +19151,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
           <surname>Siekmann</surname>
           <givenname>Jörg</givenname>
         </bib-name>
-        <bib-title><Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib615.m1">
+        <bib-title><Math mode="inline" tex="\Omega" text="Omega" xml:id="bib.bib614.m1">
             <XMath>
               <XMTok name="Omega" role="UNKNOWN">Ω</XMTok>
             </XMath>
@@ -19195,7 +19172,7 @@ Intelligence (IJCAI)</bib-title><bib-extract role="keywords">conference</bib-ext
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="HuKe94a" type="misc" xml:id="bib.bib616">
+      <bibentry key="HuKe94a" type="misc" xml:id="bib.bib615">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -19231,7 +19208,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="HutKoh:msihocu00" type="article" xml:id="bib.bib617">
+      <bibentry key="HutKoh:msihocu00" type="article" xml:id="bib.bib616">
         <bib-name role="author">
           <surname>Hutter</surname>
           <givenname>Dieter</givenname>
@@ -19260,7 +19237,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="HutKoh:acvotlc97" type="inproceedings" xml:id="bib.bib618">
+      <bibentry key="HutKoh:acvotlc97" type="inproceedings" xml:id="bib.bib617">
         <bib-name role="author">
           <surname>Hutter</surname>
           <givenname>Dieter</givenname>
@@ -19269,7 +19246,7 @@ CADE’94</bib-note>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>A coloured version of the <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib618.m1">
+        <bib-title>A coloured version of the <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib617.m1">
             <XMath>
               <XMTok font="italic" name="lambda" role="UNKNOWN">λ</XMTok>
             </XMath>
@@ -19306,7 +19283,7 @@ CADE’94</bib-note>
       year = {1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSch:homvr95" type="report" xml:id="bib.bib619">
+      <bibentry key="KohSch:homvr95" type="report" xml:id="bib.bib618">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19333,7 +19310,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="HuaKerKoh:oma95" type="report" xml:id="bib.bib620">
+      <bibentry key="HuaKerKoh:oma95" type="report" xml:id="bib.bib619">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -19381,7 +19358,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:msholbrp94" type="report" xml:id="bib.bib621">
+      <bibentry key="Kohlhase:msholbrp94" type="report" xml:id="bib.bib620">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19404,7 +19381,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="HuKo:acvotl95" type="report" xml:id="bib.bib622">
+      <bibentry key="HuKo:acvotl95" type="report" xml:id="bib.bib621">
         <bib-name role="author">
           <surname>Hutter</surname>
           <givenname>Dieter</givenname>
@@ -19413,7 +19390,7 @@ CADE’94</bib-note>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>A coloured version of the <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib622.m1">
+        <bib-title>A coloured version of the <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib621.m1">
             <XMath>
               <XMTok font="italic" name="lambda" role="UNKNOWN">λ</XMTok>
             </XMath>
@@ -19435,7 +19412,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="JoKo93" type="report" xml:id="bib.bib623">
+      <bibentry key="JoKo93" type="report" xml:id="bib.bib622">
         <bib-name role="author">
           <surname>Johann</surname>
           <givenname>Patricia</givenname>
@@ -19461,7 +19438,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KeKo94" type="inproceedings" xml:id="bib.bib624">
+      <bibentry key="KeKo94" type="inproceedings" xml:id="bib.bib623">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -19505,7 +19482,7 @@ CADE’94</bib-note>
       year = {1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="KeKo:arcfp96" type="inproceedings" xml:id="bib.bib625">
+      <bibentry key="KeKo:arcfp96" type="inproceedings" xml:id="bib.bib624">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -19550,7 +19527,7 @@ CADE’94</bib-note>
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="KerberKohlhase97a" type="report" xml:id="bib.bib626">
+      <bibentry key="KerberKohlhase97a" type="report" xml:id="bib.bib625">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -19582,7 +19559,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KeKo:atcfpf96" type="article" xml:id="bib.bib627">
+      <bibentry key="KeKo:atcfpf96" type="article" xml:id="bib.bib626">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -19611,7 +19588,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KeKo93a" type="report" xml:id="bib.bib628">
+      <bibentry key="KeKo93a" type="report" xml:id="bib.bib627">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -19636,7 +19613,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KeKoSo:icaipp98" type="article" xml:id="bib.bib629">
+      <bibentry key="KeKoSo:icaipp98" type="article" xml:id="bib.bib628">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -19669,7 +19646,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KeKoSo96" type="report" xml:id="bib.bib630">
+      <bibentry key="KeKoSo96" type="report" xml:id="bib.bib629">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -19703,7 +19680,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ophcie05" type="inproceedings" xml:id="bib.bib631">
+      <bibentry key="Kohlhase:ophcie05" type="inproceedings" xml:id="bib.bib630">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -19752,7 +19729,7 @@ CADE’94</bib-note>
      month = {November}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:omdoc05" type="inproceedings" xml:id="bib.bib632">
+      <bibentry key="Kohlhase:omdoc05" type="inproceedings" xml:id="bib.bib631">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19801,7 +19778,7 @@ CADE’94</bib-note>
      month = {November}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:emPowerPoint" type="inproceedings" xml:id="bib.bib633">
+      <bibentry key="Kohlhase:emPowerPoint" type="inproceedings" xml:id="bib.bib632">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -19828,7 +19805,7 @@ CADE’94</bib-note>
       pubs = {akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="JesKohSei:DMV04" type="article" xml:id="bib.bib634">
+      <bibentry key="JesKohSei:DMV04" type="article" xml:id="bib.bib633">
         <bib-title>eLearning-, eTeaching- &amp; eResearch-technologien – Chancen und Potentiale für die Mathematik</bib-title>
         <bib-name role="author">
           <surname>Jeschke</surname>
@@ -19859,7 +19836,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:MediaOrMedeaSociety" type="inproceedings" xml:id="bib.bib635">
+      <bibentry key="Kohlhase:MediaOrMedeaSociety" type="inproceedings" xml:id="bib.bib634">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -19887,7 +19864,7 @@ CADE’94</bib-note>
       pubs = {akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:CPointMUI" type="inproceedings" xml:id="bib.bib636">
+      <bibentry key="Kohlhase:CPointMUI" type="inproceedings" xml:id="bib.bib635">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -19920,7 +19897,7 @@ CADE’94</bib-note>
       year = {2004}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:CPointWiederverwendbarerContent" type="inproceedings" xml:id="bib.bib637">
+      <bibentry key="Kohlhase:CPointWiederverwendbarerContent" type="inproceedings" xml:id="bib.bib636">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -19956,7 +19933,7 @@ CADE’94</bib-note>
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:UserAsPrisoner" type="inproceedings" xml:id="bib.bib638">
+      <bibentry key="Kohlhase:UserAsPrisoner" type="inproceedings" xml:id="bib.bib637">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20002,7 +19979,7 @@ CADE’94</bib-note>
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:horwc93" type="inproceedings" xml:id="bib.bib639">
+      <bibentry key="Kohlhase:horwc93" type="inproceedings" xml:id="bib.bib638">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20025,7 +20002,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase92" type="incollection" xml:id="bib.bib640">
+      <bibentry key="Kohlhase92" type="incollection" xml:id="bib.bib639">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20049,7 +20026,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:mgfdrt00" type="inproceedings" xml:id="bib.bib641">
+      <bibentry key="Kohlhase:mgfdrt00" type="inproceedings" xml:id="bib.bib640">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20087,7 +20064,7 @@ CADE’94</bib-note>
       year = {2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="AKo:SPoKMaEL" type="inproceedings" xml:id="bib.bib642">
+      <bibentry key="AKo:SPoKMaEL" type="inproceedings" xml:id="bib.bib641">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20121,7 +20098,7 @@ CADE’94</bib-note>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="BosKoh:icos-editorial03" type="article" xml:id="bib.bib643">
+      <bibentry key="BosKoh:icos-editorial03" type="article" xml:id="bib.bib642">
         <bib-name role="author">
           <surname>Bos</surname>
           <givenname>Johan</givenname>
@@ -20148,7 +20125,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="MuKo:pr07" type="inproceedings" xml:id="bib.bib644">
+      <bibentry key="MuKo:pr07" type="inproceedings" xml:id="bib.bib643">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -20184,7 +20161,7 @@ CADE’94</bib-note>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="KoMaMu:MViDCaNS" type="inproceedings" xml:id="bib.bib645">
+      <bibentry key="KoMaMu:MViDCaNS" type="inproceedings" xml:id="bib.bib644">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20224,7 +20201,7 @@ CADE’94</bib-note>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="RabKoh:WSMSML13" type="article" xml:id="bib.bib646">
+      <bibentry key="RabKoh:WSMSML13" type="article" xml:id="bib.bib645">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -20253,7 +20230,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase,frabe,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="RabKoh:xbsm12:web" type="report" xml:id="bib.bib647">
+      <bibentry key="RabKoh:xbsm12:web" type="report" xml:id="bib.bib646">
         
         <bib-note role="publication">OMDoc Report <ref class="ltx_url" font="typewriter" href="https://svn.kwarc.info/repos/frabe/Papers/omdoc-spec/xmlsyntax/report.pdf">https://svn.kwarc.info/repos/frabe/Papers/omdoc-spec/xmlsyntax/report.pdf</ref></bib-note>
         <bib-name role="author">
@@ -20275,7 +20252,7 @@ CADE’94</bib-note>
       year = {2012}}
 </bib-data>
       </bibentry>
-      <bibentry key="RabKoh:xbsm12" type="report" xml:id="bib.bib648">
+      <bibentry key="RabKoh:xbsm12" type="report" xml:id="bib.bib647">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -20297,7 +20274,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase,frabe,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODKproposal:on" type="misc" xml:id="bib.bib649">
+      <bibentry key="ODKproposal:on" type="misc" xml:id="bib.bib648">
         <bib-data role="label">ODK</bib-data>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf">Link</bib-url>
         <bib-title>Open digital research environment toolkit for the advancement of mathematics</bib-title>
@@ -20313,7 +20290,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:ttbor12" type="unpublished" xml:id="bib.bib650">
+      <bibentry key="Rabe:ttbor12" type="unpublished" xml:id="bib.bib649">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -20332,7 +20309,7 @@ CADE’94</bib-note>
       pubs = {frabe,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="WaMu:TCoPSfIMA" type="inproceedings" xml:id="bib.bib651">
+      <bibentry key="WaMu:TCoPSfIMA" type="inproceedings" xml:id="bib.bib650">
         <bib-name role="author">
           <surname>Wagner</surname>
           <givenname>Marc</givenname>
@@ -20367,7 +20344,7 @@ CADE’94</bib-note>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="CM:TtIaSosCoP07" type="inproceedings" xml:id="bib.bib652">
+      <bibentry key="CM:TtIaSosCoP07" type="inproceedings" xml:id="bib.bib651">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -20397,7 +20374,7 @@ CADE’94</bib-note>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="CM:PoEIaSSCoPbosmosdawt" type="inproceedings" xml:id="bib.bib653">
+      <bibentry key="CM:PoEIaSSCoPbosmosdawt" type="inproceedings" xml:id="bib.bib652">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -20428,7 +20405,7 @@ CADE’94</bib-note>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:swmkm-ui07" type="inproceedings" xml:id="bib.bib654">
+      <bibentry key="Lange:swmkm-ui07" type="inproceedings" xml:id="bib.bib653">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -20460,7 +20437,7 @@ CADE’94</bib-note>
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMueMue:dfncimk07" type="inproceedings" xml:id="bib.bib655">
+      <bibentry key="KohMueMue:dfncimk07" type="inproceedings" xml:id="bib.bib654">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20501,7 +20478,7 @@ CADE’94</bib-note>
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohLanRab:pmcfe07" type="inproceedings" xml:id="bib.bib656">
+      <bibentry key="KohLanRab:pmcfe07" type="inproceedings" xml:id="bib.bib655">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20550,7 +20527,7 @@ CADE’94</bib-note>
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase04:stex" type="inproceedings" xml:id="bib.bib657">
+      <bibentry key="Kohlhase04:stex" type="inproceedings" xml:id="bib.bib656">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20579,7 +20556,7 @@ CADE’94</bib-note>
       year = {2004}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:omfmd01" type="misc" xml:id="bib.bib658">
+      <bibentry key="Kohlhase:omfmd01" type="misc" xml:id="bib.bib657">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20598,7 +20575,7 @@ CADE’94</bib-note>
       pubs = {mkohlhase,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:corfl00" type="website" xml:id="bib.bib659">
+      <bibentry key="Kohlhase:corfl00" type="website" xml:id="bib.bib658">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20615,7 +20592,7 @@ CADE’94</bib-note>
       year = {2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ftga13" type="website" xml:id="bib.bib660">
+      <bibentry key="Kohlhase:ftga13" type="website" xml:id="bib.bib659">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20632,7 +20609,7 @@ CADE’94</bib-note>
    urldate = {2013-05-17}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:otisadt00" type="inproceedings" xml:id="bib.bib661">
+      <bibentry key="Kohlhase:otisadt00" type="inproceedings" xml:id="bib.bib660">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20673,7 +20650,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       year = {2001}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:otormd00" type="report" xml:id="bib.bib662">
+      <bibentry key="Kohlhase:otormd00" type="report" xml:id="bib.bib661">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20697,7 +20674,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase,projects/omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:sat96" type="article" xml:id="bib.bib663">
+      <bibentry key="Kohlhase:sat96" type="article" xml:id="bib.bib662">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20716,7 +20693,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:hotwc96" type="report" xml:id="bib.bib664">
+      <bibentry key="Kohlhase:hotwc96" type="report" xml:id="bib.bib663">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20737,7 +20714,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:hot95" type="inproceedings" xml:id="bib.bib665">
+      <bibentry key="Kohlhase:hot95" type="inproceedings" xml:id="bib.bib664">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20762,7 +20739,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:amosho94" type="thesis" xml:id="bib.bib666">
+      <bibentry key="Kohlhase:amosho94" type="thesis" xml:id="bib.bib665">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20783,7 +20760,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:hoosr94" type="report" xml:id="bib.bib667">
+      <bibentry key="Kohlhase:hoosr94" type="report" xml:id="bib.bib666">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20804,7 +20781,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:aupfeh93" type="report" xml:id="bib.bib668">
+      <bibentry key="Kohlhase:aupfeh93" type="report" xml:id="bib.bib667">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20825,7 +20802,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase91" type="report" xml:id="bib.bib669">
+      <bibentry key="Kohlhase91" type="report" xml:id="bib.bib668">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20846,12 +20823,12 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase89" type="thesis" xml:id="bib.bib670">
+      <bibentry key="Kohlhase89" type="thesis" xml:id="bib.bib669">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Eine hinreichende Bedingung für die starke, homologische Minimalität von kompakten, <Math mode="inline" tex="{\cal F}" text="F" xml:id="bib.bib670.m1">
+        <bib-title>Eine hinreichende Bedingung für die starke, homologische Minimalität von kompakten, <Math mode="inline" tex="{\cal F}" text="F" xml:id="bib.bib669.m1">
             <XMath>
               <XMTok font="caligraphic" role="UNKNOWN">F</XMTok>
             </XMath>
@@ -20871,7 +20848,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ulsmf08" type="article" xml:id="bib.bib671">
+      <bibentry key="Kohlhase:ulsmf08" type="article" xml:id="bib.bib670">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20900,7 +20877,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohCar:ggm03" type="misc" xml:id="bib.bib672">
+      <bibentry key="KohCar:ggm03" type="misc" xml:id="bib.bib671">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20927,7 +20904,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohDev:bvm03" type="misc" xml:id="bib.bib673">
+      <bibentry key="KohDev:bvm03" type="misc" xml:id="bib.bib672">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20954,7 +20931,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="DevKoh:stm03" type="misc" xml:id="bib.bib674">
+      <bibentry key="DevKoh:stm03" type="misc" xml:id="bib.bib673">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20981,7 +20958,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKol:ramgpm03" type="article" xml:id="bib.bib675">
+      <bibentry key="KohKol:ramgpm03" type="article" xml:id="bib.bib674">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21012,7 +20989,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKon:mgfdrt99" type="report" xml:id="bib.bib676">
+      <bibentry key="KohKon:mgfdrt99" type="report" xml:id="bib.bib675">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21039,7 +21016,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKon:hoatpnls98" type="report" xml:id="bib.bib677">
+      <bibentry key="KohKon:hoatpnls98" type="report" xml:id="bib.bib676">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21072,7 +21049,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKus:clausdlc97" type="report" xml:id="bib.bib678">
+      <bibentry key="KohKus:clausdlc97" type="report" xml:id="bib.bib677">
         <bib-title>Dynamic lambda calculus</bib-title>
         <bib-publisher>CLAUS-Report 91, Universität des Saarlandes</bib-publisher>
         <bib-date role="publication">1997</bib-date>
@@ -21096,7 +21073,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKus:dlc97" type="inproceedings" xml:id="bib.bib679">
+      <bibentry key="KohKus:dlc97" type="inproceedings" xml:id="bib.bib678">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21121,7 +21098,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKusPin:attsfl96" type="inproceedings" xml:id="bib.bib680">
+      <bibentry key="KohKusPin:attsfl96" type="inproceedings" xml:id="bib.bib679">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21134,7 +21111,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
           <surname>Pinkal</surname>
           <givenname>Manfred</givenname>
         </bib-name>
-        <bib-title>A type-theoretic semantics for <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib680.m1">
+        <bib-title>A type-theoretic semantics for <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib679.m1">
             <XMath>
               <XMTok font="italic" name="lambda" role="UNKNOWN">λ</XMTok>
             </XMath>
@@ -21160,7 +21137,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KoPf:uialcw93" type="inproceedings" xml:id="bib.bib681">
+      <bibentry key="KoPf:uialcw93" type="inproceedings" xml:id="bib.bib680">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21169,7 +21146,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
           <surname>Pfenning</surname>
           <givenname>Frank</givenname>
         </bib-name>
-        <bib-title>Unification in a <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib681.m1">
+        <bib-title>Unification in a <Math mode="inline" tex="\lambda" text="lambda" xml:id="bib.bib680.m1">
             <XMath>
               <XMTok font="italic" name="lambda" role="UNKNOWN">λ</XMTok>
             </XMath>
@@ -21194,7 +21171,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KerKoh:rwb11" type="article" xml:id="bib.bib682">
+      <bibentry key="KerKoh:rwb11" type="article" xml:id="bib.bib681">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -21226,7 +21203,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="WolGriKoh:udc11" type="inproceedings" xml:id="bib.bib683">
+      <bibentry key="WolGriKoh:udc11" type="inproceedings" xml:id="bib.bib682">
         <bib-name role="author">
           <surname>Wolska</surname>
           <givenname>Magdalena</givenname>
@@ -21269,7 +21246,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSch99:homvr" type="article" xml:id="bib.bib684">
+      <bibentry key="KohSch99:homvr" type="article" xml:id="bib.bib683">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21296,7 +21273,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSim:inid02" type="report" xml:id="bib.bib685">
+      <bibentry key="KohSim:inid02" type="report" xml:id="bib.bib684">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21324,7 +21301,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="PinKoh:flfdt00" type="inproceedings" xml:id="bib.bib686">
+      <bibentry key="PinKoh:flfdt00" type="inproceedings" xml:id="bib.bib685">
         <bib-name role="author">
           <surname>Pinkal</surname>
           <givenname>Manfred</givenname>
@@ -21354,9 +21331,9 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Giceva:WSActiveMathDoc09" type="misc" xml:id="bib.bib687">
+      <bibentry key="Giceva:WSActiveMathDoc09" type="misc" xml:id="bib.bib686">
         <bib-name role="author">
-          <surname>Giceva</surname>
+          <surname>Gičeva</surname>
           <givenname>Jana</givenname>
         </bib-name>
         <bib-title>Integrating web services into active mathematical documents</bib-title>
@@ -21366,13 +21343,36 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
         <bib-data role="pubs">jgiceva,projects/omdoc</bib-data>
         <bib-type>Bachelor’s Thesis</bib-type>
         <bib-data role="self" type="BibTeX">@misc{Giceva:WSActiveMathDoc09,
-    author = {Jana Giceva},
+    author = {Jana Gi{\v{c}}eva},
      title = {Integrating Web Services into Active Mathematical Documents},
     school = {Computer Science, Jacobs University, Bremen},
       year = {2009},
        url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2009/jgiceva.pdf},
       pubs = {jgiceva,projects/omdoc},
       type = {Bachelor's Thesis}}
+</bib-data>
+      </bibentry>
+      <bibentry key="JG:CRAiMDuOaS" type="report" xml:id="bib.bib687">
+        <bib-name role="author">
+          <surname>Gičeva</surname>
+          <givenname>Jana</givenname>
+        </bib-name>
+        <bib-title>Capturing rhetorical aspects in mathematical documents using OMDoc and SALT</bib-title>
+        <bib-organization>Jacobs University and DERI Galway</bib-organization>
+        <bib-date role="publication">2008</bib-date>
+        <bib-type>Technical Report</bib-type>
+        <bib-url href="https://svn.kwarc.info/repos/supervision/intern/2008/giceva_jana/project/internship%20report.pdf">Link</bib-url>
+        <bib-data role="urldate">2010-08-11</bib-data>
+        <bib-data role="pubs">jgiceva,projects/omdoc</bib-data>
+        <bib-data role="self" type="BibTeX">@techreport{JG:CRAiMDuOaS,
+    author = {Jana Gi{\v{c}}eva},
+     title = {Capturing Rhetorical Aspects in Mathematical Documents using {OMDoc} and {SALT}},
+ institution = {Jacobs University {and} DERI Galway},
+      year = {2008},
+      type = {Technical Report},
+       url = {https://svn.kwarc.info/repos/supervision/intern/2008/giceva_jana/project/internship%20report.pdf},
+   urldate = {2010-08-11},
+      pubs = {jgiceva,projects/omdoc}}
 </bib-data>
       </bibentry>
       <bibentry key="Broecheler:tmsw07" type="misc" xml:id="bib.bib688">
