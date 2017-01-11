@@ -423,13 +423,13 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-url href="http://kwarc.info/kohlhase/submit/alignments16.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/papers/cicmwip16-alignments.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,frabe</bib-data>
         <bib-related bibrefs="CICM16WIP" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{KalKohMue:samc16,
      title = {A Standard for Aligning Mathematical Concepts},
     author = {Cezary Kaliszyk and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe},
-       url = {http://kwarc.info/kohlhase/submit/alignments16.pdf},
+       url = {http://kwarc.info/kohlhase/papers/cicmwip16-alignments.pdf},
       pubs = {mkohlhase,dmueller,frabe},
   crossref = {CICM16WIP}}
 </bib-data>
@@ -641,13 +641,13 @@
           <givenname>Andrea</givenname>
         </bib-name>
         <bib-related bibrefs="SEMS15" role="host"/>
-        <bib-url href="http://kwarc.info/kohlhase/submit/sems15-assessment.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/papers/sems15-assessment.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,akohlhase,atoader</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{ToaKohKoh:sfs15,
      title = {Assessment for Spreadsheets},
     author = {Alexandru Toader and Michael Kohlhase and  Andrea Kohlhase},
   crossref = {SEMS15},
-       url = {http://kwarc.info/kohlhase/submit/sems15-assessment.pdf},
+       url = {http://kwarc.info/kohlhase/papers/sems15-assessment.pdf},
       pubs = {mkohlhase,akohlhase,atoader}}
 </bib-data>
       </bibentry>
@@ -754,13 +754,13 @@
           <givenname>Ana</givenname>
         </bib-name>
         <bib-related bibrefs="SEMS15" role="host"/>
-        <bib-url href="http://kwarc.info/kohlhase/submit/sems15-context.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/papers/sems15-context.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{GusKohKoh:sfs15,
      title = {Context in Spreadsheet Comprehension},
     author = {Andrea Kohlhase and  Michael Kohlhase and Ana Guseva},
   crossref = {SEMS15},
-       url = {http://kwarc.info/kohlhase/submit/sems15-context.pdf},
+       url = {http://kwarc.info/kohlhase/papers/sems15-context.pdf},
       pubs = {mkohlhase,akohlhase}}
 </bib-data>
       </bibentry>
@@ -21223,14 +21223,14 @@ Sandro Wartzack},
         </bib-name>
         <bib-related bibrefs="CICM14" role="host"/>
         <bib-part role="pages">440–443</bib-part>
-        <bib-url href="http://kwarc.info/kohlhase/submit/cicm14-l2o.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/papers/cicm14-l2o.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKoh:sdsaloc14,
      title = {System Description: A Semantics-Aware {\LaTeX}-to-Office Converter},
     author = {Lukas Kohlhase and Michael Kohlhase},
   crossref = {CICM14},
      pages = {440–443},
-       url = {http://kwarc.info/kohlhase/submit/cicm14-l2o.pdf},
+       url = {http://kwarc.info/kohlhase/papers/cicm14-l2o.pdf},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
@@ -21358,14 +21358,14 @@ Sandro Wartzack},
         </bib-name>
         <bib-related bibrefs="CICM14" role="host"/>
         <bib-part role="pages">431–434</bib-part>
-        <bib-url href="http://kwarc.info/kohlhase/submit/cicm14-mathhub.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/papers/cicm14-mathhub.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,cjucovschi,miancu,twiesing,projects/oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{IanJucKoh:sdm14,
      title = {System Description: MathHub.info},
     author = {Mihnea Iancu and Constantin Jucovschi and Michael Kohlhase and Tom Wiesing},
   crossref = {CICM14},
      pages = {431–434},
-       url = {http://kwarc.info/kohlhase/submit/cicm14-mathhub.pdf},
+       url = {http://kwarc.info/kohlhase/papers/cicm14-mathhub.pdf},
       pubs = {mkohlhase,cjucovschi,miancu,twiesing,projects/oaf}}
 </bib-data>
       </bibentry>
@@ -21422,7 +21422,7 @@ Sandro Wartzack},
         </bib-name>
         <bib-title>Realms: a structure for consolidating knowledge about mathematical theories</bib-title>
         <bib-related bibrefs="CICM14" role="host"/>
-        <bib-url href="http://kwarc.info/kohlhase/submit/cicm14-realms.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/papers/cicm14-realms.pdf">Link</bib-url>
         <bib-part role="pages">252–266</bib-part>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-note role="annotation">MKM Best-Paper-Award</bib-note>
@@ -21430,7 +21430,7 @@ Sandro Wartzack},
     author = {Jacques Carette and William Farmer and Michael Kohlhase},
      title = {Realms: A Structure for Consolidating Knowledge about Mathematical Theories},
   crossref = {CICM14},
-       url = {http://kwarc.info/kohlhase/submit/cicm14-realms.pdf},
+       url = {http://kwarc.info/kohlhase/papers/cicm14-realms.pdf},
      pages = {252–266},
       pubs = {mkohlhase},
       note = {MKM Best-Paper-Award}}
@@ -21528,14 +21528,14 @@ Sandro Wartzack},
         <bib-title>Flexary operators for formalized mathematics</bib-title>
         <bib-related bibrefs="CICM14" role="host"/>
         <bib-part role="pages">312–327</bib-part>
-        <bib-url href="https://svn.kwarc.info/repos/fhorozal/papers/submitted/cicm14_flex-op.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/papers/cicm14-lfs.pdf">Link</bib-url>
         <bib-data role="pubs">fhorozal,mkohlhase,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{HKR:flexary:14,
     author = {Fulya Horozal and Michael Kohlhase and Florian Rabe},
      title = {Flexary Operators for Formalized Mathematics},
   crossref = {CICM14},
      pages = {312–327},
-       url = {https://svn.kwarc.info/repos/fhorozal/papers/submitted/cicm14_flex-op.pdf},
+       url = {http://kwarc.info/kohlhase/papers/cicm14-lfs.pdf},
       pubs = {fhorozal,mkohlhase,frabe}}
 </bib-data>
       </bibentry>
