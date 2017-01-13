@@ -35614,20 +35614,24 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
         <bib-title>Proceedings of aaai-91</bib-title>
         <bib-date role="publication">1991</bib-date>
         <bib-publisher>Morgan Kaufman</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AAAI91,
      title = {Proceedings of AAAI-91},
       year = {1991},
- publisher = {Morgan Kaufman}}
+ publisher = {Morgan Kaufman},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="AAAI05" type="proceedings" xml:id="bib.bib1240">
         <bib-title>Proceedings of the 20th national conference on artificial intelligence (aaai 2005)</bib-title>
         <bib-date role="publication">2005</bib-date>
         <bib-publisher>MIT Press</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{AAAI05,
      title = {Proceedings of the 20th National Conference on Artificial Intelligence (AAAI 2005)},
       year = {2005},
- publisher = {MIT Press}}
+ publisher = {MIT Press},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="SLDI91" type="proceedings" xml:id="bib.bib1241">
