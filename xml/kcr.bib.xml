@@ -23,10 +23,12 @@
         </bib-name>
         <bib-title>A case study for active documents and formalization in math models: the van roosbroeck model</bib-title>
         <bib-url href="https://mathhub.info/MitM/models">Link</bib-url>
+        <bib-data role="urldate">2017-02-05</bib-data>
         <bib-data role="self" type="BibTeX">@online{KohKopMueTab:RCS,
     author = {Michael Kohlhase and Thomas Koprucki and Dennis M{\"u}ller and Karsten Tabelow},
      title = {A Case study for Active Documents and Formalization in Math Models: The van Roosbroeck Model},
-       url = {https://mathhub.info/MitM/models}}
+       url = {https://mathhub.info/MitM/models},
+   urldate = {2017-02-05}}
 </bib-data>
       </bibentry>
       <bibentry key="py-openmath:on" type="website" xml:id="bib.bib2">
