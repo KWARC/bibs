@@ -5512,7 +5512,6 @@ Intelligence (IJCAI)</bib-title>
         <bib-identifier id="978-1-4503-0014-8" scheme="isbn">ISBN 978-1-4503-0014-8</bib-identifier>
         <bib-url href="http://portal.acm.org/citation.cfm?id=1839707">Link</bib-url>
         <bib-key>ISEMANTICS 2010</bib-key>
-        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="acceptancerate">42</bib-data>
         <bib-data role="acceptanceratecomment">according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{ISEMANTICS2010,
@@ -5525,7 +5524,6 @@ Intelligence (IJCAI)</bib-title>
       isbn = {978-1-4503-0014-8},
        url = {http://portal.acm.org/citation.cfm?id=1839707},
        key = {ISEMANTICS 2010},
-  keywords = {conference},
  acceptancerate = {42},
  acceptanceratecomment = {according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}}}
 </bib-data>

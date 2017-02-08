@@ -6991,7 +6991,7 @@ Rudnicki and Josef Urban},
         </bib-name><bib-name role="editor">
           <surname>Weigand</surname>
           <givenname>Hans</givenname>
-        </bib-name><bib-publisher>ACM</bib-publisher><bib-title>6<sup>th</sup> international conference on semantic systems (I-Semantics) and the 5<sup>th</sup> international conference on pragmatic web</bib-title><bib-extract role="keywords">conference</bib-extract><bib-identifier id="978-1-4503-0014-8" scheme="isbn">ISBN 978-1-4503-0014-8</bib-identifier><bib-url href="http://portal.acm.org/citation.cfm?id=1839707">Link</bib-url><bib-key>ISEMANTICS 2010</bib-key><bib-extract role="keywords">conference</bib-extract><bib-data role="acceptancerate">42</bib-data><bib-data role="acceptanceratecomment">according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}</bib-data><bib-data role="self" type="BibTeX">@proceedings{ISEMANTICS2010,
+        </bib-name><bib-publisher>ACM</bib-publisher><bib-title>6<sup>th</sup> international conference on semantic systems (I-Semantics) and the 5<sup>th</sup> international conference on pragmatic web</bib-title><bib-extract role="keywords">conference</bib-extract><bib-identifier id="978-1-4503-0014-8" scheme="isbn">ISBN 978-1-4503-0014-8</bib-identifier><bib-url href="http://portal.acm.org/citation.cfm?id=1839707">Link</bib-url><bib-key>ISEMANTICS 2010</bib-key><bib-data role="acceptancerate">42</bib-data><bib-data role="acceptanceratecomment">according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}</bib-data><bib-data role="self" type="BibTeX">@proceedings{ISEMANTICS2010,
       year = {2010},
     editor = {Adrian Paschke and Nicola Henze and Tassilo Pellegrini and Hans Weigand},
  publisher = {ACM},
@@ -7001,7 +7001,6 @@ Rudnicki and Josef Urban},
       isbn = {978-1-4503-0014-8},
        url = {http://portal.acm.org/citation.cfm?id=1839707},
        key = {ISEMANTICS 2010},
-  keywords = {conference},
  acceptancerate = {42},
  acceptanceratecomment = {according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}}}
 </bib-data></bib-related>
@@ -34061,7 +34060,6 @@ Intelligence (IJCAI)</bib-title>
         <bib-identifier id="978-1-4503-0014-8" scheme="isbn">ISBN 978-1-4503-0014-8</bib-identifier>
         <bib-url href="http://portal.acm.org/citation.cfm?id=1839707">Link</bib-url>
         <bib-key>ISEMANTICS 2010</bib-key>
-        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="acceptancerate">42</bib-data>
         <bib-data role="acceptanceratecomment">according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{ISEMANTICS2010,
@@ -34074,7 +34072,6 @@ Intelligence (IJCAI)</bib-title>
       isbn = {978-1-4503-0014-8},
        url = {http://portal.acm.org/citation.cfm?id=1839707},
        key = {ISEMANTICS 2010},
-  keywords = {conference},
  acceptancerate = {42},
  acceptanceratecomment = {according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}}}
 </bib-data>
