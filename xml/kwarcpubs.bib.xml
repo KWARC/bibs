@@ -479,13 +479,13 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-data role="soonurl">http://kwarc.info/kohlhase/submit/alignments16.pdf</bib-data>
+        <bib-url href="http://kwarc.info/kohlhase/submit/alignments16.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,frabe</bib-data>
         <bib-related bibrefs="CPP16" role="host"/>
         <bib-data role="self" type="BibTeX">@unpublished{KalKohMue:alfms16,
      title = {Aligning the Libraries of Formal Mathematical Systems},
     author = {Cezary Kaliszyk and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe},
-   soonurl = {http://kwarc.info/kohlhase/submit/alignments16.pdf},
+       url = {http://kwarc.info/kohlhase/submit/alignments16.pdf},
       pubs = {mkohlhase,dmueller,frabe},
   crossref = {CPP16}}
 </bib-data>
