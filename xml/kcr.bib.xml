@@ -32,11 +32,11 @@
         </bib-name><bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
-        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-data role="soonurl">???</bib-data><bib-date role="publication">2016-07</bib-date><bib-data role="month">July</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI16,
+        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url><bib-date role="publication">2016-07</bib-date><bib-data role="month">July</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI16,
     editor = {Andrea Kohlhase and Paul Libbrecht},
      title = {Mathematical User Interfaces Workshop at {CICM}},
  booktitle = {Mathematical User Interfaces Workshop},
-   soonurl = {???},
+       url = {http://ceur-ws.org/Vol-1785/},
       year = {2016},
      month = {July}}
 </bib-data></bib-related>
@@ -486,8 +486,44 @@
       </bibentry>
       <bibentry key="TolKoh:nbs16" type="inproceedings" xml:id="bib.bib25">
         <bib-title>Notation-based semantification</bib-title>
+        <bib-part role="pages">73–81</bib-part>
+        <bib-name role="author">
+          <surname>Toloaca</surname>
+          <givenname>Ion</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-related role="host" type="proceedings"><bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Andrea</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Libbrecht</surname>
+          <givenname>Paul</givenname>
+        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url><bib-date role="publication">2016-07</bib-date><bib-data role="month">July</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI16,
+    editor = {Andrea Kohlhase and Paul Libbrecht},
+     title = {Mathematical User Interfaces Workshop at {CICM}},
+ booktitle = {Mathematical User Interfaces Workshop},
+       url = {http://ceur-ws.org/Vol-1785/},
+      year = {2016},
+     month = {July}}
+</bib-data></bib-related>
+        <bib-url href="http://ceur-ws.org/Vol-1785/M6.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase</bib-data>
+        
+        <bib-date role="publication">2016-07</bib-date>
+        <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{TolKoh:nbs16,
-     title = {Notation-based Semantification}}
+     title = {Notation-based Semantification},
+     pages = {73–81},
+    author = {Ion Toloaca and Michael Kohlhase},
+  crossref = {MathUI16},
+       url = {http://ceur-ws.org/Vol-1785/M6.pdf},
+      pubs = {mkohlhase},
+ booktitle = {Mathematical User Interfaces Workshop},
+      year = {2016},
+     month = {July}}
 </bib-data>
       </bibentry>
       <bibentry key="IMKT-charter" type="unpublished" xml:id="bib.bib26">
@@ -639,12 +675,41 @@
         </bib-name>
         <bib-url href="http://gl.kwarc.info/FrameIT/CICM16-WIP/tree/master/paper.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller</bib-data>
-        <bib-related role="host" type="proceedings"><bib-title>Intelligent computer mathematics – work in progress papers</bib-title><bib-key>CICM16WIP</bib-key><bib-date role="publication">2016</bib-date><bib-data role="sooneditor">James Davenport and William Farmer and Florian Rabe and Josef Urban</bib-data><bib-data role="pubs">mkohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM16WIP,
+        <bib-related role="host" type="proceedings"><bib-title>Intelligent computer mathematics – work in progress papers</bib-title><bib-key>CICM16WIP</bib-key><bib-date role="publication">2016</bib-date><bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url><bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Andrea</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Libbrecht</surname>
+          <givenname>Paul</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Miller</surname>
+          <givenname>Bruce</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Naumowicz</surname>
+          <givenname/>
+        </bib-name><bib-name role="editor">
+          <surname>Neuper</surname>
+          <givenname>Walther</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Quaresma</surname>
+          <givenname>Pedro</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Tompa</surname>
+          <givenname>Frank</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Suda</surname>
+          <givenname>Martin</givenname>
+        </bib-name><bib-data role="pubs">mkohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM16WIP,
      title = {Intelligent Computer Mathematics – Work in Progress Papers},
  booktitle = {{Intelligent Computer Mathematics – Work in Progress Papers}},
        key = {CICM16WIP},
       year = {2016},
- sooneditor = {James Davenport and William Farmer and Florian Rabe and Josef Urban},
+       url = {http://ceur-ws.org/Vol-1785/},
+    editor = {Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
+Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data></bib-related>
         
@@ -679,12 +744,41 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicmwip16-alignments.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,frabe</bib-data>
-        <bib-related role="host" type="proceedings"><bib-title>Intelligent computer mathematics – work in progress papers</bib-title><bib-key>CICM16WIP</bib-key><bib-date role="publication">2016</bib-date><bib-data role="sooneditor">James Davenport and William Farmer and Florian Rabe and Josef Urban</bib-data><bib-data role="pubs">mkohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM16WIP,
+        <bib-related role="host" type="proceedings"><bib-title>Intelligent computer mathematics – work in progress papers</bib-title><bib-key>CICM16WIP</bib-key><bib-date role="publication">2016</bib-date><bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url><bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Andrea</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Libbrecht</surname>
+          <givenname>Paul</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Miller</surname>
+          <givenname>Bruce</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Naumowicz</surname>
+          <givenname/>
+        </bib-name><bib-name role="editor">
+          <surname>Neuper</surname>
+          <givenname>Walther</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Quaresma</surname>
+          <givenname>Pedro</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Tompa</surname>
+          <givenname>Frank</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Suda</surname>
+          <givenname>Martin</givenname>
+        </bib-name><bib-data role="pubs">mkohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM16WIP,
      title = {Intelligent Computer Mathematics – Work in Progress Papers},
  booktitle = {{Intelligent Computer Mathematics – Work in Progress Papers}},
        key = {CICM16WIP},
       year = {2016},
- sooneditor = {James Davenport and William Farmer and Florian Rabe and Josef Urban},
+       url = {http://ceur-ws.org/Vol-1785/},
+    editor = {Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
+Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data></bib-related>
         
@@ -27334,14 +27428,14 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
           <givenname>Paul</givenname>
         </bib-name>
         <bib-title>Mathematical user interfaces workshop at CICM</bib-title>
-        <bib-data role="soonurl">???</bib-data>
+        <bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url>
         <bib-date role="publication">2016-07</bib-date>
         <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI16,
     editor = {Andrea Kohlhase and Paul Libbrecht},
      title = {Mathematical User Interfaces Workshop at {CICM}},
  booktitle = {Mathematical User Interfaces Workshop},
-   soonurl = {???},
+       url = {http://ceur-ws.org/Vol-1785/},
       year = {2016},
      month = {July}}
 </bib-data>
@@ -27350,14 +27444,52 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
         <bib-title>Intelligent computer mathematics – work in progress papers</bib-title>
         <bib-key>CICM16WIP</bib-key>
         <bib-date role="publication">2016</bib-date>
-        <bib-data role="sooneditor">James Davenport and William Farmer and Florian Rabe and Josef Urban</bib-data>
+        <bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url>
+        <bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Andrea</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Libbrecht</surname>
+          <givenname>Paul</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Miller</surname>
+          <givenname>Bruce</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Naumowicz</surname>
+          <givenname/>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Neuper</surname>
+          <givenname>Walther</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Quaresma</surname>
+          <givenname>Pedro</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Tompa</surname>
+          <givenname>Frank</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Suda</surname>
+          <givenname>Martin</givenname>
+        </bib-name>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM16WIP,
      title = {Intelligent Computer Mathematics – Work in Progress Papers},
  booktitle = {{Intelligent Computer Mathematics – Work in Progress Papers}},
        key = {CICM16WIP},
       year = {2016},
- sooneditor = {James Davenport and William Farmer and Florian Rabe and Josef Urban},
+       url = {http://ceur-ws.org/Vol-1785/},
+    editor = {Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
+Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>

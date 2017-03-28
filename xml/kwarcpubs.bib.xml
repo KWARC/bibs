@@ -420,8 +420,25 @@
       </bibentry>
       <bibentry key="TolKoh:nbs16" type="inproceedings" xml:id="bib.bib25">
         <bib-title>Notation-based semantification</bib-title>
+        <bib-part role="pages">73–81</bib-part>
+        <bib-name role="author">
+          <surname>Toloaca</surname>
+          <givenname>Ion</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-related bibrefs="MathUI16" role="host"/>
+        <bib-url href="http://ceur-ws.org/Vol-1785/M6.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{TolKoh:nbs16,
-     title = {Notation-based Semantification}}
+     title = {Notation-based Semantification},
+     pages = {73–81},
+    author = {Ion Toloaca and Michael Kohlhase},
+  crossref = {MathUI16},
+       url = {http://ceur-ws.org/Vol-1785/M6.pdf},
+      pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="IMKT-charter" type="unpublished" xml:id="bib.bib26">
