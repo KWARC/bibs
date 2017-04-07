@@ -21627,7 +21627,32 @@ Sandro Wartzack},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="cjucovschi:interaction_integration:14" type="inproceedings" xml:id="bib.bib919">
+      <bibentry key="KohSpe:spsgm:15" type="inproceedings" xml:id="bib.bib919">
+        <bib-title>The SMGloM project or why we need a semantic glossary of mathematics</bib-title>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Sperber</surname>
+          <givenname>Wolfram</givenname>
+        </bib-name>
+        <bib-related role="host" type="proceedings">
+          <bib-title>European Conference on Data Analysis ECDA2015; Data Science: Foundations, Methods and Applications</bib-title>
+        </bib-related>
+        <bib-url href="http://kwarc.info/kohlhase/papers/ecda15.pdf">Link</bib-url>
+        <bib-date role="publication">2015</bib-date>
+        <bib-data role="pubs">mkohlhase</bib-data>
+        <bib-data role="self" type="BibTeX">@inproceedings{KohSpe:spsgm:15,
+     title = {The {SMGloM} project or why we need a semantic glossary of mathematics},
+    author = {Michael Kohlhase and Wolfram Sperber},
+ booktitle = {European Conference on Data Analysis  ECDA2015; Data Science: Foundations, Methods and Applications},
+       url = {http://kwarc.info/kohlhase/papers/ecda15.pdf},
+      year = {2015},
+      pubs = {mkohlhase}}
+</bib-data>
+      </bibentry>
+      <bibentry key="cjucovschi:interaction_integration:14" type="inproceedings" xml:id="bib.bib920">
         <bib-name role="author">
           <surname>Jucovschi</surname>
           <givenname>Constantin</givenname>
@@ -21646,7 +21671,7 @@ Sandro Wartzack},
       pubs = {cjucovschi,projects/sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="HKR:flexary:14" type="inproceedings" xml:id="bib.bib920">
+      <bibentry key="HKR:flexary:14" type="inproceedings" xml:id="bib.bib921">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Fulya</givenname>
@@ -21673,7 +21698,7 @@ Sandro Wartzack},
       pubs = {fhorozal,mkohlhase,frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="SPL:on" type="website" xml:id="bib.bib921">
+      <bibentry key="SPL:on" type="website" xml:id="bib.bib922">
         <bib-data role="label">SPL</bib-data>
         <bib-title>The smglom public license (spl) version 0.1</bib-title>
         <bib-name role="author">
@@ -21688,7 +21713,7 @@ Sandro Wartzack},
        url = {https://mathhub.info/help/spl0.1.html}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:InvasivesDesign:2014" type="unpublished" xml:id="bib.bib922">
+      <bibentry key="KohKoh:InvasivesDesign:2014" type="unpublished" xml:id="bib.bib923">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -21705,7 +21730,7 @@ Sandro Wartzack},
  sooncrossref = {MuC2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohToa:Fency:2013" type="inproceedings" xml:id="bib.bib923">
+<!--  %**** String Line 925 **** -->      <bibentry key="KohToa:Fency:2013" type="inproceedings" xml:id="bib.bib924">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -21726,7 +21751,7 @@ Sandro Wartzack},
       pubs = {akohlhase,atoader, projects/sissi}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 925 **** -->      <bibentry key="KohGus:CoOccurrencesInSpreadsheets:2015" type="inproceedings" xml:id="bib.bib924">
+      <bibentry key="KohGus:CoOccurrencesInSpreadsheets:2015" type="inproceedings" xml:id="bib.bib925">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -21747,7 +21772,7 @@ Sandro Wartzack},
       pubs = {akohlhase,aguseva}}
 </bib-data>
       </bibentry>
-      <bibentry key="Koh:FramingsOfInformation:2013" type="report" xml:id="bib.bib925">
+      <bibentry key="Koh:FramingsOfInformation:2013" type="report" xml:id="bib.bib926">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -21771,7 +21796,7 @@ Sandro Wartzack},
       pubs = {akohlhase,projects/sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="aguseva:bsc" type="misc" xml:id="bib.bib926">
+      <bibentry key="aguseva:bsc" type="misc" xml:id="bib.bib927">
         <bib-name role="author">
           <surname>Guseva</surname>
           <givenname>Ana</givenname>
@@ -21790,7 +21815,7 @@ Sandro Wartzack},
       pubs = {projects/sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="agiurgiu:bsc" type="misc" xml:id="bib.bib927">
+      <bibentry key="agiurgiu:bsc" type="misc" xml:id="bib.bib928">
         <bib-name role="author">
           <surname>Giurgiu</surname>
           <givenname>Andrei-George</givenname>
@@ -21809,7 +21834,7 @@ Sandro Wartzack},
       pubs = {projects/sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="alezza:bsc" type="misc" xml:id="bib.bib928">
+      <bibentry key="alezza:bsc" type="misc" xml:id="bib.bib929">
         <bib-name role="author">
           <surname>Lezza</surname>
           <givenname>Andra Lidia</givenname>
@@ -21828,7 +21853,7 @@ Sandro Wartzack},
       pubs = {projects/sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="atoader:bsc" type="misc" xml:id="bib.bib929">
+      <bibentry key="atoader:bsc" type="misc" xml:id="bib.bib930">
         <bib-name role="author">
           <surname>Toader</surname>
           <givenname>Alexandru Valentin</givenname>
@@ -21845,7 +21870,7 @@ Sandro Wartzack},
       pubs = {projects/sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="smirea:bsc" type="misc" xml:id="bib.bib930">
+      <bibentry key="smirea:bsc" type="misc" xml:id="bib.bib931">
         <bib-name role="author">
           <surname>Mirea</surname>
           <givenname>Stefan</givenname>
@@ -21864,7 +21889,7 @@ Sandro Wartzack},
       pubs = {projects/mathsearch, projects/sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="YTInters" type="website" xml:id="bib.bib931">
+      <bibentry key="YTInters" type="website" xml:id="bib.bib932">
         <bib-data role="label">IntV15</bib-data>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -21881,7 +21906,7 @@ Sandro Wartzack},
    urldate = {2015-06-29}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMue:cicm15" type="unpublished" xml:id="bib.bib932">
+      <bibentry key="KohMue:cicm15" type="unpublished" xml:id="bib.bib933">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -21900,7 +21925,7 @@ Sandro Wartzack},
       year = {2015}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.2" type="report" xml:id="bib.bib933">
+      <bibentry key="ODK-D4.2" type="report" xml:id="bib.bib934">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21925,7 +21950,7 @@ Sandro Wartzack},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.3" type="report" xml:id="bib.bib934">
+      <bibentry key="ODK-D4.3" type="report" xml:id="bib.bib935">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21951,7 +21976,7 @@ Sandro Wartzack},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.9" type="report" xml:id="bib.bib935">
+      <bibentry key="ODK-D4.9" type="report" xml:id="bib.bib936">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -21980,7 +22005,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,twiesing}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib936">
+      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib937">
         <bib-data role="label">D6.1</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -22009,7 +22034,7 @@ Sandro Wartzack},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib937">
+      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib938">
         <bib-data role="label">D6.2</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -22072,7 +22097,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib938">
+      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib939">
         <bib-data role="label">D6.3</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
