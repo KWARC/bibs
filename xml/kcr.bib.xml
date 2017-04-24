@@ -872,7 +872,7 @@
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
         </bib-name>
-        <bib-url href="http://gl.kwarc.info/FrameIT/CICM16-WIP/tree/master/paper.pdf">Link</bib-url>
+        <bib-url href="http://ceur-ws.org/Vol-1785/W50.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller</bib-data>
         <bib-related role="host" type="proceedings"><bib-title>Intelligent computer mathematics – work in progress papers</bib-title><bib-key>CICM16WIP</bib-key><bib-date role="publication">2016</bib-date><bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url><bib-name role="editor">
           <surname>Kohlhase</surname>
@@ -916,7 +916,7 @@ Frank Tompa and Martin Suda},
         <bib-data role="self" type="BibTeX">@inproceedings{RocKohMue:frsmgmmo16,
      title = {{FrameIT} Reloaded: Serious Math Games from Modular Math Ontologies},
     author = {Denis Rochau and Michael Kohlhase and Dennis M{\"u}ller},
-       url = {http://gl.kwarc.info/FrameIT/CICM16-WIP/tree/master/paper.pdf},
+       url = {http://ceur-ws.org/Vol-1785/W50.pdf},
       pubs = {mkohlhase,dmueller},
   crossref = {CICM16WIP},
  booktitle = {{Intelligent Computer Mathematics – Work in Progress Papers}},
@@ -941,7 +941,7 @@ Frank Tompa and Martin Suda},
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-url href="http://kwarc.info/kohlhase/papers/cicmwip16-alignments.pdf">Link</bib-url>
+        <bib-url href="http://ceur-ws.org/Vol-1785/W24.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,frabe</bib-data>
         <bib-related role="host" type="proceedings"><bib-title>Intelligent computer mathematics – work in progress papers</bib-title><bib-key>CICM16WIP</bib-key><bib-date role="publication">2016</bib-date><bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url><bib-name role="editor">
           <surname>Kohlhase</surname>
@@ -985,7 +985,7 @@ Frank Tompa and Martin Suda},
         <bib-data role="self" type="BibTeX">@inproceedings{KalKohMue:samc16,
      title = {A Standard for Aligning Mathematical Concepts},
     author = {Cezary Kaliszyk and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe},
-       url = {http://kwarc.info/kohlhase/papers/cicmwip16-alignments.pdf},
+       url = {http://ceur-ws.org/Vol-1785/W24.pdf},
       pubs = {mkohlhase,dmueller,frabe},
   crossref = {CICM16WIP},
  booktitle = {{Intelligent Computer Mathematics – Work in Progress Papers}},
