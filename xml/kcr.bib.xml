@@ -111,7 +111,7 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Koprucki</surname>
+          <surname>Kboprucki</surname>
           <givenname>Thomas</givenname>
         </bib-name>
         <bib-name role="author">
@@ -125,15 +125,13 @@
         <bib-title>Mathematical models as research data via flexiformal theory graphs</bib-title>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-models.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller</bib-data>
-        <bib-related role="host" type="proceedings"><bib-data role="sooneditor"/><bib-data role="soonvenue"/><bib-data role="eventdate">2017-07-17/2017-07-21</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-data role="soonkey">CICM17</bib-data><bib-data role="label">CICM17</bib-data><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">9791</bib-data><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2017</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        <bib-related role="host" type="proceedings"><bib-data role="sooneditor"/><bib-data role="soonvenue"/><bib-data role="eventdate">2017-07-17/2017-07-21</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">9791</bib-data><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2017</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
  sooneditor = {},
  soonvenue = {},
  eventdate = {2017-07-17/2017-07-21},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} 2017},
-   soonkey = {CICM17},
-     label = {CICM17},
  publisher = {Springer},
     series = {LNAI},
  soonnumber = {9791},
@@ -146,7 +144,7 @@
         
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKopMue:mmrdftg17,
-    author = {Kohlhase, Michael and Koprucki, Thomas and M{\"u}ller, Dennis and Tabelow, Karsten},
+    author = {Kohlhase, Michael and Kboprucki, Thomas and M{\"u}ller, Dennis and Tabelow, Karsten},
      title = {Mathematical models as research data via flexiformal theory graphs},
        url = {http://kwarc.info/kohlhase/papers/cicm17-models.pdf},
       pubs = {mkohlhase,dmueller},
@@ -180,15 +178,13 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm17-alignments.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,frabe</bib-data>
-        <bib-related role="host" type="proceedings"><bib-data role="sooneditor"/><bib-data role="soonvenue"/><bib-data role="eventdate">2017-07-17/2017-07-21</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-data role="soonkey">CICM17</bib-data><bib-data role="label">CICM17</bib-data><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">9791</bib-data><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2017</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        <bib-related role="host" type="proceedings"><bib-data role="sooneditor"/><bib-data role="soonvenue"/><bib-data role="eventdate">2017-07-17/2017-07-21</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">9791</bib-data><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2017</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
  sooneditor = {},
  soonvenue = {},
  eventdate = {2017-07-17/2017-07-21},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} 2017},
-   soonkey = {CICM17},
-     label = {CICM17},
  publisher = {Springer},
     series = {LNAI},
  soonnumber = {9791},
@@ -223,15 +219,13 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm17-softwarecitations.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
-        <bib-related role="host" type="proceedings"><bib-data role="sooneditor"/><bib-data role="soonvenue"/><bib-data role="eventdate">2017-07-17/2017-07-21</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-data role="soonkey">CICM17</bib-data><bib-data role="label">CICM17</bib-data><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">9791</bib-data><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2017</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        <bib-related role="host" type="proceedings"><bib-data role="sooneditor"/><bib-data role="soonvenue"/><bib-data role="eventdate">2017-07-17/2017-07-21</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">9791</bib-data><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2017</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
  sooneditor = {},
  soonvenue = {},
  eventdate = {2017-07-17/2017-07-21},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} 2017},
-   soonkey = {CICM17},
-     label = {CICM17},
  publisher = {Springer},
     series = {LNAI},
  soonnumber = {9791},
@@ -270,15 +264,13 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm17-eyetracking.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
-        <bib-related role="host" type="proceedings"><bib-data role="sooneditor"/><bib-data role="soonvenue"/><bib-data role="eventdate">2017-07-17/2017-07-21</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-data role="soonkey">CICM17</bib-data><bib-data role="label">CICM17</bib-data><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">9791</bib-data><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2017</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        <bib-related role="host" type="proceedings"><bib-data role="sooneditor"/><bib-data role="soonvenue"/><bib-data role="eventdate">2017-07-17/2017-07-21</bib-data><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">9791</bib-data><bib-data role="soonisbn">978-3-319-20615-8</bib-data><bib-date role="publication">2017</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
  sooneditor = {},
  soonvenue = {},
  eventdate = {2017-07-17/2017-07-21},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} 2017},
-   soonkey = {CICM17},
-     label = {CICM17},
  publisher = {Springer},
     series = {LNAI},
  soonnumber = {9791},
@@ -27874,8 +27866,6 @@ Frank Tompa and Martin Suda},
         <bib-data role="eventdate">2017-07-17/2017-07-21</bib-data>
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
-        <bib-data role="soonkey">CICM17</bib-data>
-        <bib-data role="label">CICM17</bib-data>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
         <bib-data role="soonnumber">9791</bib-data>
@@ -27891,8 +27881,6 @@ Frank Tompa and Martin Suda},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} 2017},
-   soonkey = {CICM17},
-     label = {CICM17},
  publisher = {Springer},
     series = {LNAI},
  soonnumber = {9791},

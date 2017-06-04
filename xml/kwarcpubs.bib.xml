@@ -114,7 +114,7 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Koprucki</surname>
+          <surname>Kboprucki</surname>
           <givenname>Thomas</givenname>
         </bib-name>
         <bib-name role="author">
@@ -130,7 +130,7 @@
         <bib-data role="pubs">mkohlhase,dmueller</bib-data>
         <bib-related bibrefs="CICM17" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKopMue:mmrdftg17,
-    author = {Kohlhase, Michael and Koprucki, Thomas and M{\"u}ller, Dennis and Tabelow, Karsten},
+    author = {Kohlhase, Michael and Kboprucki, Thomas and M{\"u}ller, Dennis and Tabelow, Karsten},
      title = {Mathematical models as research data via flexiformal theory graphs},
        url = {http://kwarc.info/kohlhase/papers/cicm17-models.pdf},
       pubs = {mkohlhase,dmueller},
