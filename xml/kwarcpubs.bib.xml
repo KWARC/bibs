@@ -46,7 +46,7 @@
        url = {http://uniformal.github.io/doc/applications/jedit.html}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMueOwr:mpagsiuf17" type="unpublished" xml:id="bib.bib4">
+      <bibentry key="KohMueOwr:mpagsiuf17" type="inproceedings" xml:id="bib.bib4">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -64,15 +64,17 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Making pvs accessible to generic services by interpretation in a universal format</bib-title>
-        <bib-note role="annotation">submitted</bib-note>
+        <bib-note role="annotation">accepted at ITP 2017</bib-note>
         <bib-date role="publication">2017</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/itp17-pvs.pdf">Link</bib-url>
-        <bib-data role="self" type="BibTeX">@unpublished{KohMueOwr:mpagsiuf17,
+        <bib-data role="pubs">mkohlhase,dmueller,frabe</bib-data>
+        <bib-data role="self" type="BibTeX">@inproceedings{KohMueOwr:mpagsiuf17,
     author = {Michael Kohlhase and Dennis M{\"u}ller and Sam Owre and Florian Rabe},
      title = {Making PVS Accessible to Generic Services by Interpretation in a Universal Format},
-      note = {submitted},
+      note = {accepted at ITP 2017},
       year = {2017},
-       url = {http://kwarc.info/kohlhase/submit/itp17-pvs.pdf}}
+       url = {http://kwarc.info/kohlhase/submit/itp17-pvs.pdf},
+      pubs = {mkohlhase,dmueller,frabe}}
 </bib-data>
       </bibentry>
       <bibentry key="WIAS2385" type="report" xml:id="bib.bib5">
@@ -9596,6 +9598,7 @@ und Adaptivität) conference proceedings</bib-title>
         <bib-title>A Logic-Independent IDE</bib-title>
         <bib-date role="publication">2014</bib-date>
         <bib-part role="pages">48–60</bib-part>
+        <bib-identifier href="http://dx.doi.org/10.4204/EPTCS.167.7" id="10.4204/EPTCS.167.7" scheme="doi">Document</bib-identifier>
         <bib-related role="host" type="proceedings">
           <bib-title>Workshop on User Interfaces for Theorem Provers</bib-title>
           <bib-name role="editor">
@@ -9613,6 +9616,7 @@ und Adaptivität) conference proceedings</bib-title>
      title = {{A Logic-Independent IDE}},
       year = {2014},
      pages = {48–60},
+       doi = {10.4204/EPTCS.167.7},
  booktitle = {Workshop on User Interfaces for Theorem Provers},
     editor = {Cristoph Benzm{\"u}ller and Bruno {Woltzenlogel Paleo}},
  publisher = {Elsevier}}
