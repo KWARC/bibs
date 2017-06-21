@@ -357,11 +357,11 @@
 </bib-data>
       </bibentry>
       <bibentry key="MitMInter:on" type="website" xml:id="bib.bib18">
-        <bib-title>MitM/interface</bib-title>
+        <bib-title>MitM/interfaces</bib-title>
         <bib-url href="https://mathhub.info/MitM/interfaces">Link</bib-url>
         <bib-data role="urldate">2017-06-21</bib-data>
         <bib-data role="self" type="BibTeX">@online{MitMInter:on,
-     title = {MitM/Interface},
+     title = {MitM/Interfaces},
        url = {https://mathhub.info/MitM/interfaces},
    urldate = {2017-06-21}}
 </bib-data>
