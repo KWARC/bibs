@@ -98,10 +98,17 @@ setup-pubs:
 clean-pubs:
 	-rm -r $(pubs.dist)
 
-$(bib.people) $(bib.proejcts) $(bib.systems): %: $(PLXSL)
+$(bib.people): %: $(PLXSL)
 	mkdir -p $(pubs.dist)$@
 	xsltproc --path $(html.dist) --stringparam id $@ -o $(pubs.dist)$@/index.html $(PLXSL) $(PLXSL)
 
+$(bib.projects): %: $(PLXSL)
+	mkdir -p $(pubs.dist)$@
+	xsltproc --path $(html.dist) --stringparam id $@ -o $(pubs.dist)$@/index.html $(PLXSL) $(PLXSL)
+
+$(bib.systems): %: $(PLXSL)
+	mkdir -p $(pubs.dist)$@
+	xsltproc --path $(html.dist) --stringparam id $@ -o $(pubs.dist)$@/index.html $(PLXSL) $(PLXSL)
 
 ######## testing
 test: $(kcr.ltxml.out)
