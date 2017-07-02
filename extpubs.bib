@@ -1,4 +1,4 @@
-@STRING{epmessage = "READ the README please!!!!!!!!!!!!!!"}
+2@STRING{epmessage = "READ the README please!!!!!!!!!!!!!!"}
 @STRING{ai    = "Artificial Intelligence"}
 @STRING{mcgh	 = "McGraw-Hill"}
 @STRING{jair  = "Journal of Artificial Intelligence Research"}
@@ -7,13 +7,23 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{OMSoc:on,
+  label = {OM},
+  title = {The OpenMath Society},
+  url = {http://www.openmath.org/society/},
+  urldate = {2017-07-02}}
 @Misc{stephan,
   author = {Ralf Stephan},
   title = {Prove or Disprove 100 Conjectures From The OEIS},
   howpublished = {\url{http://arxiv.org/pdf/math/0409509v4.pdf}},
-  year={2004}
-}
+  year={2004}}
 
+@online{IMKT:on,
+  label = {IMKT},
+  title = {The International Mathematical Knowledge Trust},
+  url = {http://imkt.org},
+  urldate = {2017-07-02}}
+  
 @online{CASregistry:on,
   label = {CAS},
   title = {CAS REGISTRY - The gold standard for chemical substance information},
@@ -5493,7 +5503,7 @@ author = "Tjark Weber"}
 @Misc{URL:jordancurve,
   Key = {jordancurve},
   author = {Thomas Hales},
-  title = {The jordan curve theorem in HOL light},
+  title = {The jordan curve theorem in {HOL light}},
   note = {\webpageat\url{http://www.math.pitt.edu/~thales/}},
   note = {\seen{\March} 2005}}
 
@@ -8784,13 +8794,12 @@ PAGES = {259--286}}
   year = 1968,
   pages={147--148}}
 
-@online{MSC2010,crossref={MSC2010:base},urldate = {2011-11-16}}
-@misc{MSC2010:web,crossref={MSC2010:base},
-}
+@online{MSC2010,crossref={MSC2010:base},urldate = {2011-11-16},label={MSC}}
+@misc{MSC2010:web,crossref={MSC2010:base},key = {MSC}}
 @misc{MSC2010:base,
   title = {{Mathematics Subject Classification} {MSC2010}},
   url = {http://msc2010.org},
-  year = 2010,}
+  year = 2010}
 
 @online{PACS,
   label = {PACS},
@@ -10040,7 +10049,6 @@ lastchecked =  {May, 2008}}
  title   = {Briefwechsel 1916 -- 1955},
  publisher = {Rowohlt Verlag, Reinbek},
  year = "1972"}
-
 
 @Misc{Hilf:guestrow,
    author = {Eberhard R Hilf and Julika Mimkes and Helmut SchottM{\"u}ller},
@@ -12088,6 +12096,12 @@ url = {http://www.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf}}
   title = {Zentralblatt {MATH}},
   url = {http://www.zentralblatt-math.org/zbmath/}}
 
+@online{zbMATH:on,
+  label = {ZBM},
+  title = {{zbMATH} the first resource in mathematics},
+  url = {http://zbmath.org},
+  urldate = {2017-07-02}}
+  
 @online{springer:online,crossref={URL:springer:base},urldate = {2012-06-12}}
 @Misc{URL:springer,crossref={URL:springer:base},
   Key = {Springer},
@@ -18149,6 +18163,16 @@ YEAR = 1989}
   editor = {Gruppe Berliner Dozentinnen},
   pages = {118--199}}
 
+@InProceedings{GonAspAiv:mcpoot13,
+  title = "{A Machine-Checked Proof of the Odd Order Theorem}",
+  author = {G. Gonthier and A. Asperti and J. Avigad and Y. Bertot and C. Cohen and
+            F. Garillot and S. Le Roux and A. Mahboubi and R. O'Connor and S. Ould
+            Biha and I. Pasca and L. Rideau and A. Solovyev and E. Tassi and
+            L. Th{\'e}ry},
+  crossref = {ITP13},	  
+  pages = {163--179}
+}
+
 @ARTICLE{BoddyD94,
   author = {Mark Boddy and Thomas L. Dean},
   title = {Deliberation Scheduling for Problem Solving in Time-Constrained Environments},
@@ -18882,6 +18906,15 @@ YEAR = 1989}
   title = {A neat theory of marker passing},
   booktitle = {Proceedings {AAAI}-86},
   year = {1986}}
+
+@inproceedings{Harrison:hlti96,
+  author = "John Harrison",
+  title ="{HOL Light: A Tutorial Introduction}",
+  pages = "265--269",
+  booktitle = "{Proceedings of the First International Conference on Formal Methods in Computer-Aided Design}",
+  year = "1996",
+  publisher = "Springer"
+}
 
 @INPROCEEDINGS{ChaRaj:cdhsi96,
   author = {Sudarshan S. Chawathe and Anand Rajaraman and Hector Garcia-Molina
@@ -30908,11 +30941,12 @@ crossref={Heijenoort67},
   status = {available},
   volume = {92-224}}
 
-@MISC{MathSciNet:on,
-  author = {{American Mathematical Society}},
-  title = {{MathSciNet Mathematical Reviews on the Net}},
+@online{MathSciNet:on,
+  label = {AMS},
+  title = {{American Mathematical Society} {MathSciNet} {Mathematical Reviews}},
   url = {http://www.ams.org/mathscinet/},
   urldate =      {2010-08-05}}
+
 
 @MISC{MathSciNet,
   author = {The American Mathematical Society},
@@ -38749,6 +38783,12 @@ volume  = {529}
   url = {http://www.gap-system.org/Packages/openmath.html},
   urldate =      {2012-03-19},}
 
+@online{Gap-RefMan:on,
+  title= {GAP -- Reference Manual},
+  url = {https://www.gap-system.org/Manuals/doc/ref/chap0.html},
+  label = {GAP},
+  urldate = {2017-07-02}}
+  
 @online{MuPAD-OpenMath,
   title = {{MuPAD} {OpenMath} Package},
   author = {Peter Horn},
@@ -39050,6 +39090,12 @@ number = 6291,
   urldate =      {2013-03-27},
 }
 
+@online{IMU:on,
+  label = {IMU},
+  url = {http://www.mathunion.org/},
+  title = {International Mathematical Union (IMU)},
+  urldate = {2017-07-02}}
+  
 @inproceedings{CuypersKnopper:OpenMathUIWiP2012,
 title = {{MathDox} {Select}: A tool for creating {SCORM} packages from existing exercises},
 author = {Hans Cuypers and Jan Willem Knopper},
@@ -40250,6 +40296,14 @@ author = {James W. Grice},
   howpublished = {\url{http://www.idiogrid.com/GPA_Idiogrid_Example.pdf}},
   year = {2007}}
 
+@inproceedings{EngBraDav:ubce13,
+ title = {Understanding Branch Cuts of Expressions},
+ author = {Matthew England and Russell Bradford and James H. Davenport and David Wilson},
+ crossref = {CICM13},
+ pages = {136--151},
+ url = {https://arxiv.org/abs/1304.7223}}
+ 
+ 
 @book{McLuhan:ExtensionsOfMan:1964,
   address = {New York},
   author = {McLuhan, Marshall},
