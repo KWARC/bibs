@@ -22,6 +22,7 @@
       <xsl:when test="$id='cmueller'"><xsl:text>Christine Müller</xsl:text></xsl:when>
       <xsl:when test="$id='nmueller'"><xsl:text>Normen Müller</xsl:text></xsl:when>
       <xsl:when test="$id='fhorozal'"><xsl:text>Fulya Horozal</xsl:text></xsl:when>
+      <xsl:otherwise><xsl:value-of select="$id"/></xsl:otherwise>
     </xsl:choose>
   </xsl:variable>
 
