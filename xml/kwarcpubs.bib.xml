@@ -15,12 +15,14 @@
         </bib-name>
         <bib-date role="publication">2017</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/lwda17-moi.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase</bib-data>
         <bib-note role="annotation">submitted</bib-note>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:moitrdm17,
      title = {Math Object Identifiers – Towards Research Data in Mathematics},
     author = {Michael Kohlhase},
       year = {2017},
        url = {http://kwarc.info/kohlhase/submit/lwda17-moi.pdf},
+      pubs = {mkohlhase},
       note = {submitted}}
 </bib-data>
       </bibentry>
@@ -22215,7 +22217,37 @@ Sandro Wartzack},
       year = {2015}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.2" type="report" xml:id="bib.bib951">
+      <bibentry key="ODK-D3.3" type="report" xml:id="bib.bib951">
+        <bib-name role="author">
+          <surname>Luca De Feo</surname>
+          <givenname>Steve Linton</givenname>
+          <lineage>Alexander Konovalov</lineage>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Wiesing</surname>
+          <givenname>Tom</givenname>
+        </bib-name>
+        <bib-data role="label">D3.3</bib-data>
+        <bib-title>Support for the scscp interface protocol in all relevant components (sage, gap etc.) distribution</bib-title>
+        <bib-organization>OpenDreamKit</bib-organization>
+        <bib-date role="publication">2017</bib-date>
+        <bib-type>Deliverable</bib-type>
+        <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP3/D3.3/report-final.pdf">Link</bib-url>
+        <bib-part role="number">D3.3</bib-part>
+        <bib-data role="pubs">twiesing,mmt,odk</bib-data>
+        <bib-data role="self" type="BibTeX">@techreport{ODK-D3.3,
+    author = {Luca De Feo, Alexander Konovalov, Steve Linton and Tom Wiesing},
+     label = {D3.3},
+     title = {Support for the SCSCP interface protocol in all relevant components (SAGE, GAP etc.) distribution},
+ institution = {OpenDreamKit},
+      year = {2017},
+      type = {Deliverable},
+       url = {https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP3/D3.3/report-final.pdf},
+    number = {D3.3},
+      pubs = {twiesing,mmt,odk}}
+</bib-data>
+      </bibentry>
+      <bibentry key="ODK-D4.2" type="report" xml:id="bib.bib952">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22240,7 +22272,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,odk,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.3" type="report" xml:id="bib.bib952">
+      <bibentry key="ODK-D4.3" type="report" xml:id="bib.bib953">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22266,7 +22298,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,mathhub,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.9" type="report" xml:id="bib.bib953">
+      <bibentry key="ODK-D4.9" type="report" xml:id="bib.bib954">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22295,7 +22327,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,twiesing,odk,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib954">
+      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib955">
         <bib-data role="label">D6.1</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -22324,7 +22356,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,odk,mws}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib955">
+      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib956">
         <bib-data role="label">D6.2</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -22387,7 +22419,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib956">
+      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib957">
         <bib-data role="label">D6.3</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -22448,7 +22480,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib957">
+      <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib958">
         <bib-data role="label">PVS</bib-data>
         <bib-title>The pvs libraries in omdoc/mmt format</bib-title>
         <bib-url href="https://gl.mathhub.info/PVS">Link</bib-url>
