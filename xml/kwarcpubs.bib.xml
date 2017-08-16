@@ -22526,6 +22526,31 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
    urldate = {2017-06-29}}
 </bib-data>
       </bibentry>
+      <bibentry key="twiesing:msc17" type="thesis" xml:id="bib.bib961">
+        <bib-name role="author">
+          <surname>Wiesing</surname>
+          <givenname>Tom</givenname>
+        </bib-name>
+        <bib-title>Enabling Cross-System Communication Using Virtual Theories and QMT</bib-title>
+        <bib-organization>Jacobs University Bremen</bib-organization>
+        <bib-place>Bremen, Germany</bib-place>
+        <bib-type>Master’s Thesis</bib-type>
+        <bib-data role="month">August</bib-data>
+        <bib-url href="https://github.com/tkw1536/MasterThesis/raw/master/thesis.pdf">Link</bib-url>
+        <bib-data role="pubs">twiesing,odk</bib-data>
+        <bib-date role="publication">2017-08</bib-date>
+        <bib-data role="self" type="BibTeX">@mastersthesis{twiesing:msc17,
+    author = {Tom Wiesing},
+     title = {{Enabling Cross-System Communication Using Virtual Theories and QMT}},
+    school = {Jacobs University Bremen},
+   address = {Bremen, Germany},
+      type = {Master's Thesis},
+     month = {August},
+       url = {https://github.com/tkw1536/MasterThesis/raw/master/thesis.pdf},
+      pubs = {twiesing,odk},
+      year = {2017}}
+</bib-data>
+      </bibentry>
     </biblist>
   </bibliography>
 </document>
