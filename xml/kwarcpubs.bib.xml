@@ -30,17 +30,17 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-date role="publication">2017</bib-date>
+        <bib-related bibrefs="FGWM17" role="host"/>
         <bib-url href="http://kwarc.info/kohlhase/submit/lwda17-moi.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
-        <bib-note role="annotation">accepted at LWDA 2017</bib-note>
+        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:moitrdm17,
      title = {Math Object Identifiers – Towards Research Data in Mathematics},
     author = {Michael Kohlhase},
-      year = {2017},
+  crossref = {FGWM17},
        url = {http://kwarc.info/kohlhase/submit/lwda17-moi.pdf},
       pubs = {mkohlhase},
-      note = {accepted at LWDA 2017}}
+      note = {in press}}
 </bib-data>
       </bibentry>
       <bibentry key="ed:on" type="website" xml:id="bib.bib3">
