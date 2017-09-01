@@ -22,10 +22,14 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/submit.pdf">Link</bib-url>
+        <bib-note role="annotation">submitted to MACIS-2017</bib-note>
+        <bib-data role="pubs">twiesing,mkohlhase,frabe,odk</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{WieKohRab:vtuimkb17,
      title = {REGULAR-T1: Virtual Theories – A Uniform Interface to Mathematical Knowledge Bases},
     author = {Tom Wiesing and Michael Kohlhase and Florian Rabe},
-       url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/submit.pdf}}
+       url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/submit.pdf},
+      note = {submitted to MACIS-2017},
+      pubs = {twiesing,mkohlhase,frabe,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="KohMuePfe:kbimss17" type="unpublished" xml:id="bib.bib2">
@@ -59,10 +63,14 @@
           <givenname>Tom</givenname>
         </bib-name>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/submit.pdf">Link</bib-url>
+        <bib-note role="annotation">submitted to MACIS-2017</bib-note>
+        <bib-data role="pubs">twiesing,mkohlhase,frabe,dmueller,odk</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohMuePfe:kbimss17,
      title = {REGULAR-T1: Knowledge-Based Interoperability for Mathematical Software Systems},
     author = {Michael Kohlhase and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas Thi{\'e}ry and Victor Vasilyev and Tom Wiesing},
-       url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/submit.pdf}}
+       url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/submit.pdf},
+      note = {submitted to MACIS-2017},
+      pubs = {twiesing,mkohlhase,frabe,dmueller,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="mitm:groups:on" type="website" xml:id="bib.bib3">
