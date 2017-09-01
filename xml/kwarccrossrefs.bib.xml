@@ -204,12 +204,10 @@ Frank Tompa and Martin Suda},
         <bib-data role="eventdate">2016-07-25/2016-07-29</bib-data>
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
-        <bib-key>CICM16</bib-key>
-        <bib-data role="label">CICM16</bib-data>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
         <bib-part role="number">9791</bib-part>
-        <bib-data role="soonisbn">978-3-319-20615-8</bib-data>
+        <bib-identifier id="978-3-319-08434-3" scheme="isbn">ISBN 978-3-319-08434-3</bib-identifier>
         <bib-date role="publication">2016</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase</bib-data>
@@ -220,12 +218,10 @@ Frank Tompa and Martin Suda},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} 2016},
-       key = {CICM16},
-     label = {CICM16},
  publisher = {Springer},
     series = {LNAI},
     number = {9791},
-  soonisbn = {978-3-319-20615-8},
+      isbn = {978-3-319-08434-3},
       year = {2016},
   keywords = {conference},
       pubs = {mkohlhase}}
