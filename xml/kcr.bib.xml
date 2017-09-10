@@ -244,7 +244,7 @@ Interface Theories},
       pubs = {dmueller,frabe,crothgang,yliu,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="RupKohMue:fitgv17" type="unpublished" xml:id="bib.bib12">
+      <bibentry key="RupKohMue:fitgv17" type="inproceedings" xml:id="bib.bib12">
         <bib-name role="author">
           <surname>Rupprecht</surname>
           <givenname>Marcel</givenname>
@@ -273,13 +273,15 @@ Interface Theories},
 </bib-data></bib-related>
         <bib-url href="http://kwarc.info/kohlhase/papers/mathui17-tgview.pdf">Link</bib-url>
         <bib-data role="pubs">dmueller,mkohlhase,mrupprecht,odk,mathhub</bib-data>
+        
         <bib-date role="publication">2017</bib-date>
-        <bib-data role="self" type="BibTeX">@unpublished{RupKohMue:fitgv17,
+        <bib-data role="self" type="BibTeX">@inproceedings{RupKohMue:fitgv17,
     author = {Marcel Rupprecht and Michael Kohlhase and Dennis M{\"u}ller},
      title = {A Flexible, Interactive Theory-Graph Viewer},
   crossref = {MathUI17},
        url = {http://kwarc.info/kohlhase/papers/mathui17-tgview.pdf},
       pubs = {dmueller,mkohlhase,mrupprecht,odk,mathhub},
+ booktitle = {MathUI 2017: The 12th Workshop on Mathematical User Interfaces},
       year = {2017}}
 </bib-data>
       </bibentry>
