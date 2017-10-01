@@ -149,34 +149,37 @@ Frank Tompa and Martin Suda},
 </bib-data>
       </bibentry>
       <bibentry key="CICM17" type="proceedings" xml:id="bib.bib6">
-        <bib-data role="sooneditor"></bib-data>
-        <bib-data role="soonvenue"></bib-data>
-        <bib-data role="eventdate">2017-07-17/2017-07-21</bib-data>
+        <bib-name role="editor">
+          <surname>Geuvers</surname>
+          <givenname>Herman</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>England</surname>
+          <givenname>Matthew</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Hasan</surname>
+          <givenname>Osman</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Teschke</surname>
+          <givenname>Olaf</givenname>
+        </bib-name>
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
-        <bib-part role="series">LNAI</bib-part>
-        <bib-data role="soonnumber">9791</bib-data>
-        <bib-data role="soonisbn">978-3-319-20615-8</bib-data>
-        <bib-date role="publication">2017</bib-date>
-        <bib-note role="annotation">in press</bib-note>
-        <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">frabe</bib-data>
+        <bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{CICM17,
- sooneditor = {},
- soonvenue = {},
- eventdate = {2017-07-17/2017-07-21},
+    editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
-    series = {LNAI},
- soonnumber = {9791},
-  soonisbn = {978-3-319-20615-8},
-      year = {2017},
-      note = {in press},
-  keywords = {conference},
-      pubs = {frabe}}
+       doi = {10.1007/978-3-319-62075-6}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM16" type="proceedings" xml:id="bib.bib7">

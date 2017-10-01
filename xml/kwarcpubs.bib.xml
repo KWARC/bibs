@@ -165,14 +165,12 @@
         <bib-related bibrefs="FGWM17" role="host"/>
         <bib-url href="http://kwarc.info/kohlhase/submit/lwda17-moi.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
-        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:moitrdm17,
      title = {Math Object Identifiers – Towards Research Data in Mathematics},
     author = {Michael Kohlhase},
   crossref = {FGWM17},
        url = {http://kwarc.info/kohlhase/submit/lwda17-moi.pdf},
-      pubs = {mkohlhase},
-      note = {in press}}
+      pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="ed:on" type="website" xml:id="bib.bib9">
@@ -339,14 +337,14 @@ Interface Theories},
           <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Making PVS accessible to generic services by interpretation in a universal format</bib-title>
-        <bib-note role="annotation">accepted at ITP 2017</bib-note>
+        <bib-related bibrefs="ITP17" role="host"/>
         <bib-date role="publication">2017</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/itp17-pvs.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohMueOwr:mpagsiuf17,
     author = {Michael Kohlhase and Dennis M{\"u}ller and Sam Owre and Florian Rabe},
      title = {Making {PVS} Accessible to Generic Services by Interpretation in a Universal Format},
-      note = {accepted at ITP 2017},
+  crossref = {ITP17},
       year = {2017},
        url = {http://kwarc.info/kohlhase/submit/itp17-pvs.pdf},
       pubs = {mkohlhase,dmueller,frabe,oaf}}
@@ -18023,7 +18021,19 @@ Education Systems</bib-title>
      label = {MWS}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pplp:ctan" type="report" xml:id="bib.bib735">
+      <bibentry key="LaTeX-proposal:git" type="website" xml:id="bib.bib735">
+        <bib-data role="label">LP</bib-data>
+        <bib-url href="http://github.com/KWARC/LaTeX-proposal/">Link</bib-url>
+        <bib-data role="urldate">2017-09-13</bib-data>
+        <bib-title>LaTeX-proposal: a set of LaTeX classes for preparing grant proposals</bib-title>
+        <bib-data role="self" type="BibTeX">@online{LaTeX-proposal:git,
+     label = {LP},
+       url = {http://github.com/KWARC/LaTeX-proposal/},
+   urldate = {2017-09-13},
+     title = {{LaTeX-proposal}: A set of {\LaTeX} classes for preparing grant proposals}}
+</bib-data>
+      </bibentry>
+      <bibentry key="Kohlhase:pplp:ctan" type="report" xml:id="bib.bib736">
         <bib-related bibrefs="Kohlhase:pplp:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/base/proposal.pdf">Link</bib-url>
@@ -18045,7 +18055,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pplp:svn" type="report" xml:id="bib.bib736">
+      <bibentry key="Kohlhase:pplp:svn" type="report" xml:id="bib.bib737">
         <bib-related bibrefs="Kohlhase:pplp:base" role="host"/>
         <bib-url href="http://github.com/KWARC/LaTeX-proposal/base/proposal.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18063,7 +18073,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pplp:base" type="report" xml:id="bib.bib737">
+      <bibentry key="Kohlhase:pplp:base" type="report" xml:id="bib.bib738">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18078,7 +18088,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pdrp:ctan" type="report" xml:id="bib.bib738">
+      <bibentry key="Kohlhase:pdrp:ctan" type="report" xml:id="bib.bib739">
         <bib-related bibrefs="Kohlhase:pdrp:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/dfg/dfgproposal.pdf">Link</bib-url>
@@ -18100,7 +18110,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pdrp:svn" type="report" xml:id="bib.bib739">
+      <bibentry key="Kohlhase:pdrp:svn" type="report" xml:id="bib.bib740">
         <bib-related bibrefs="Kohlhase:pdrp:base" role="host"/>
         <bib-url href="http://github.com/KWARC/LaTeX-proposal/dfg/dfgproposal.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18118,7 +18128,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pdrp:base" type="report" xml:id="bib.bib740">
+      <bibentry key="Kohlhase:pdrp:base" type="report" xml:id="bib.bib741">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18133,7 +18143,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pfepr:ctan" type="report" xml:id="bib.bib741">
+      <bibentry key="Kohlhase:pfepr:ctan" type="report" xml:id="bib.bib742">
         <bib-related bibrefs="Kohlhase:pfepr:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/eu/euproposal.pdf">Link</bib-url>
@@ -18155,7 +18165,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pfepr:svn" type="report" xml:id="bib.bib742">
+      <bibentry key="Kohlhase:pfepr:svn" type="report" xml:id="bib.bib743">
         <bib-related bibrefs="Kohlhase:pfepr:base" role="host"/>
         <bib-url href="http://github.com/KWARC/LaTeX-proposal/eu/euproposal.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18173,7 +18183,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pfepr:base" type="report" xml:id="bib.bib743">
+      <bibentry key="Kohlhase:pfepr:base" type="report" xml:id="bib.bib744">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18188,7 +18198,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ed:ctan" type="report" xml:id="bib.bib744">
+      <bibentry key="Kohlhase:ed:ctan" type="report" xml:id="bib.bib745">
         <bib-related bibrefs="Kohlhase:ed:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-data role="changeurl">http://www.ctan.org/get/macros/latex/contrib/ed/ed.pdf</bib-data>
@@ -18210,7 +18220,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ed:svn" type="report" xml:id="bib.bib745">
+      <bibentry key="Kohlhase:ed:svn" type="report" xml:id="bib.bib746">
         <bib-related bibrefs="Kohlhase:ed:base" role="host"/>
         <bib-url href="https://svn.kwarc.info/repos/kwarc/doc/macros/forCTAN/ed/ed.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18228,7 +18238,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ed:base" type="report" xml:id="bib.bib746">
+      <bibentry key="Kohlhase:ed:base" type="report" xml:id="bib.bib747">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18243,7 +18253,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohAmb:smmssl:ctan" type="report" xml:id="bib.bib747">
+      <bibentry key="KohAmb:smmssl:ctan" type="report" xml:id="bib.bib748">
         <bib-related bibrefs="KohAmb:smmssl:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://www.ctan.org/get/macros/latex/contrib/stex/modules/modules.pdf">Link</bib-url>
@@ -18273,7 +18283,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohAmb:smmssl:svn" type="report" xml:id="bib.bib748">
+<!--  %**** String Line 750 **** -->      <bibentry key="KohAmb:smmssl:svn" type="report" xml:id="bib.bib749">
         <bib-related bibrefs="KohAmb:smmssl:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/modules/modules.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18299,7 +18309,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 750 **** -->      <bibentry key="KohAmb:smmssl:base" type="report" xml:id="bib.bib749">
+      <bibentry key="KohAmb:smmssl:base" type="report" xml:id="bib.bib750">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18322,7 +18332,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohGin:smss:ctan" type="report" xml:id="bib.bib750">
+      <bibentry key="KohGin:smss:ctan" type="report" xml:id="bib.bib751">
         <bib-related bibrefs="KohGin:smss:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://www.ctan.org/get/macros/latex/contrib/stex/smultiling/smultiling.pdf">Link</bib-url>
@@ -18348,7 +18358,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohGin:smss:svn" type="report" xml:id="bib.bib751">
+      <bibentry key="KohGin:smss:svn" type="report" xml:id="bib.bib752">
         <bib-related bibrefs="KohGin:smss:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/smultiling/smultiling.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18370,7 +18380,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohGin:smss:base" type="report" xml:id="bib.bib752">
+      <bibentry key="KohGin:smss:base" type="report" xml:id="bib.bib753">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18389,7 +18399,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ipsmsl:ctan" type="report" xml:id="bib.bib753">
+      <bibentry key="Kohlhase:ipsmsl:ctan" type="report" xml:id="bib.bib754">
         <bib-related bibrefs="Kohlhase:ipsmsl:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-data role="pubs">mkohlhase,dginev,sTeX</bib-data>
@@ -18415,7 +18425,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ipsmsl:svn" type="report" xml:id="bib.bib754">
+      <bibentry key="Kohlhase:ipsmsl:svn" type="report" xml:id="bib.bib755">
         <bib-related bibrefs="Kohlhase:ipsmsl:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/presentation/presentation.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18437,7 +18447,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ipsmsl:base" type="report" xml:id="bib.bib755">
+      <bibentry key="Kohlhase:ipsmsl:base" type="report" xml:id="bib.bib756">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18456,7 +18466,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:cmath:ctan" type="report" xml:id="bib.bib756">
+      <bibentry key="Kohlhase:cmath:ctan" type="report" xml:id="bib.bib757">
         <bib-related bibrefs="Kohlhase:cmath:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/cmath/cmath.pdf">Link</bib-url>
@@ -18479,7 +18489,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:cmath:svn" type="report" xml:id="bib.bib757">
+      <bibentry key="Kohlhase:cmath:svn" type="report" xml:id="bib.bib758">
         <bib-related bibrefs="Kohlhase:cmath:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/cmath/cmath.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18498,7 +18508,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:cmath:base" type="report" xml:id="bib.bib758">
+      <bibentry key="Kohlhase:cmath:base" type="report" xml:id="bib.bib759">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18516,7 +18526,7 @@ Education Systems</bib-title>
        url = {https://github.com/KWARC/sTeX/raw/master/sty/cmath/cmath.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smp:ctan" type="report" xml:id="bib.bib759">
+      <bibentry key="Kohlhase:smp:ctan" type="report" xml:id="bib.bib760">
         <bib-related bibrefs="Kohlhase:smp:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/sproof/sproof.pdf">Link</bib-url>
@@ -18538,7 +18548,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smp:svn" type="report" xml:id="bib.bib760">
+      <bibentry key="Kohlhase:smp:svn" type="report" xml:id="bib.bib761">
         <bib-related bibrefs="Kohlhase:smp:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/sproof/sproof.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18556,7 +18566,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smp:base" type="report" xml:id="bib.bib761">
+      <bibentry key="Kohlhase:smp:base" type="report" xml:id="bib.bib762">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18573,7 +18583,7 @@ Education Systems</bib-title>
        url = {https://github.com/KWARC/sTeX/raw/master/sty/sproof/sproof.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:mikoslides:ctan" type="report" xml:id="bib.bib762">
+      <bibentry key="Kohlhase:mikoslides:ctan" type="report" xml:id="bib.bib763">
         <bib-related bibrefs="Kohlhase:mikoslides:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/mikoslides/mikoslides.pdf">Link</bib-url>
@@ -18595,7 +18605,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:mikoslides:svn" type="report" xml:id="bib.bib763">
+      <bibentry key="Kohlhase:mikoslides:svn" type="report" xml:id="bib.bib764">
         <bib-related bibrefs="Kohlhase:mikoslides:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/mikoslides/mikoslides.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18613,7 +18623,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:mikoslides:base" type="report" xml:id="bib.bib764">
+      <bibentry key="Kohlhase:mikoslides:base" type="report" xml:id="bib.bib765">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18630,7 +18640,7 @@ Education Systems</bib-title>
        url = {https://github.com/KWARC/sTeX/raw/master/sty/mikoslides/mikoslides.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:reqdoc:ctan" type="report" xml:id="bib.bib765">
+      <bibentry key="Kohlhase:reqdoc:ctan" type="report" xml:id="bib.bib766">
         <bib-related bibrefs="Kohlhase:reqdoc:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/reqdoc/reqdoc.pdf">Link</bib-url>
@@ -18652,14 +18662,14 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:reqdoc:svn" type="report" xml:id="bib.bib766">
+      <bibentry key="Kohlhase:reqdoc:svn" type="report" xml:id="bib.bib767">
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/reqdoc/reqdoc.pdf">Link</bib-url>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:reqdoc:svn,
        url = {https://github.com/KWARC/sTeX/raw/master/sty/reqdoc/reqdoc.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:reqdoc:base" type="report" xml:id="bib.bib767">
+      <bibentry key="Kohlhase:reqdoc:base" type="report" xml:id="bib.bib768">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18674,7 +18684,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:physml:ctan" type="report" xml:id="bib.bib768">
+      <bibentry key="Kohlhase:physml:ctan" type="report" xml:id="bib.bib769">
         <bib-related bibrefs="Kohlhase:physml:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/physml/physml.pdf">Link</bib-url>
@@ -18696,7 +18706,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:physml:svn" type="report" xml:id="bib.bib769">
+      <bibentry key="Kohlhase:physml:svn" type="report" xml:id="bib.bib770">
         <bib-related bibrefs="Kohlhase:physml:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/physml/physml.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18714,7 +18724,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:physml:base" type="report" xml:id="bib.bib770">
+      <bibentry key="Kohlhase:physml:base" type="report" xml:id="bib.bib771">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18729,7 +18739,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:dcm:ctan" type="report" xml:id="bib.bib771">
+      <bibentry key="Kohlhase:dcm:ctan" type="report" xml:id="bib.bib772">
         <bib-related bibrefs="Kohlhase:dcm:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/dcm/dcm.pdf">Link</bib-url>
@@ -18751,7 +18761,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:dcm:svn" type="report" xml:id="bib.bib772">
+      <bibentry key="Kohlhase:dcm:svn" type="report" xml:id="bib.bib773">
         <bib-related bibrefs="Kohlhase:dcm:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/stex/dcm/dcm.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18769,7 +18779,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:dcm:base" type="report" xml:id="bib.bib773">
+<!--  %**** String Line 775 **** -->      <bibentry key="Kohlhase:dcm:base" type="report" xml:id="bib.bib774">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18784,7 +18794,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 775 **** -->      <bibentry key="Kohlhase:workaddress:ctan" type="report" xml:id="bib.bib774">
+      <bibentry key="Kohlhase:workaddress:ctan" type="report" xml:id="bib.bib775">
         <bib-related bibrefs="Kohlhase:workaddress:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/workaddress/workaddress.pdf">Link</bib-url>
@@ -18806,7 +18816,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:workaddress:svn" type="report" xml:id="bib.bib775">
+      <bibentry key="Kohlhase:workaddress:svn" type="report" xml:id="bib.bib776">
         <bib-related bibrefs="Kohlhase:workaddress:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/stex/workaddress/workaddress.pdf">Link</bib-url>
         <bib-name role="author">
@@ -18824,7 +18834,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:workaddress:base" type="report" xml:id="bib.bib776">
+      <bibentry key="Kohlhase:workaddress:base" type="report" xml:id="bib.bib777">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18839,7 +18849,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:hwexam:ctan" type="report" xml:id="bib.bib777">
+      <bibentry key="Kohlhase:hwexam:ctan" type="report" xml:id="bib.bib778">
         <bib-related bibrefs="Kohlhase:hwexam:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/hwexam/hwexam.pdf">Link</bib-url>
@@ -18862,7 +18872,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:hwexam*" type="misc" xml:id="bib.bib778">
+      <bibentry key="Kohlhase:hwexam*" type="misc" xml:id="bib.bib779">
         <bib-related bibrefs="Kohlhase:hwexam:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/hwexam/hwexam.pdf">Link</bib-url>
         <bib-date role="publication">2016</bib-date>
@@ -18872,7 +18882,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:hwexam:base" type="report" xml:id="bib.bib779">
+      <bibentry key="Kohlhase:hwexam:base" type="report" xml:id="bib.bib780">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18888,7 +18898,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:problem:ctan" type="report" xml:id="bib.bib780">
+      <bibentry key="Kohlhase:problem:ctan" type="report" xml:id="bib.bib781">
         <bib-related bibrefs="Kohlhase:problem:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/problem/problem.pdf">Link</bib-url>
@@ -18910,7 +18920,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:problem*" type="misc" xml:id="bib.bib781">
+      <bibentry key="Kohlhase:problem*" type="misc" xml:id="bib.bib782">
         <bib-related bibrefs="Kohlhase:problem:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/problem/problem.pdf">Link</bib-url>
         <bib-date role="publication">2016</bib-date>
@@ -18920,7 +18930,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:problem:base" type="report" xml:id="bib.bib782">
+      <bibentry key="Kohlhase:problem:base" type="report" xml:id="bib.bib783">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18935,7 +18945,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:sref:ctan" type="report" xml:id="bib.bib783">
+      <bibentry key="Kohlhase:sref:ctan" type="report" xml:id="bib.bib784">
         <bib-related bibrefs="Kohlhase:sref:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/sref/sref.pdf">Link</bib-url>
@@ -18957,7 +18967,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:sref*" type="misc" xml:id="bib.bib784">
+      <bibentry key="Kohlhase:sref*" type="misc" xml:id="bib.bib785">
         <bib-related bibrefs="Kohlhase:sref:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/sref/sref.pdf">Link</bib-url>
         <bib-date role="publication">2016</bib-date>
@@ -18967,7 +18977,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:sref:base" type="report" xml:id="bib.bib785">
+      <bibentry key="Kohlhase:sref:base" type="report" xml:id="bib.bib786">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -18982,7 +18992,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:metakeys:ctan" type="report" xml:id="bib.bib786">
+      <bibentry key="Kohlhase:metakeys:ctan" type="report" xml:id="bib.bib787">
         <bib-related bibrefs="Kohlhase:metakeys:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/metakeys/metakeys.pdf">Link</bib-url>
@@ -19004,7 +19014,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:metakeys:svn" type="report" xml:id="bib.bib787">
+      <bibentry key="Kohlhase:metakeys:svn" type="report" xml:id="bib.bib788">
         <bib-related bibrefs="Kohlhase:metakeys:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/metakeys/metakeys.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19022,7 +19032,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:metakeys:base" type="report" xml:id="bib.bib788">
+      <bibentry key="Kohlhase:metakeys:base" type="report" xml:id="bib.bib789">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19037,7 +19047,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:rdfmeta:ctan" type="report" xml:id="bib.bib789">
+      <bibentry key="Kohlhase:rdfmeta:ctan" type="report" xml:id="bib.bib790">
         <bib-related bibrefs="Kohlhase:rdfmeta:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/rdfmeta/rdfmeta.pdf">Link</bib-url>
@@ -19059,7 +19069,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:rdfmeta:svn" type="report" xml:id="bib.bib790">
+      <bibentry key="Kohlhase:rdfmeta:svn" type="report" xml:id="bib.bib791">
         <bib-related bibrefs="Kohlhase:rdfmeta:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/rdfmeta/rdfmeta.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19077,7 +19087,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:rdfmeta:base" type="report" xml:id="bib.bib791">
+      <bibentry key="Kohlhase:rdfmeta:base" type="report" xml:id="bib.bib792">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19092,7 +19102,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:owl2onto:ctan" type="report" xml:id="bib.bib792">
+      <bibentry key="Kohlhase:owl2onto:ctan" type="report" xml:id="bib.bib793">
         <bib-related bibrefs="Kohlhase:owl2onto:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/owl2onto/owl2onto.pdf">Link</bib-url>
@@ -19114,7 +19124,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:owl2onto:svn" type="report" xml:id="bib.bib793">
+      <bibentry key="Kohlhase:owl2onto:svn" type="report" xml:id="bib.bib794">
         <bib-related bibrefs="Kohlhase:owl2onto:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/owl2onto/owl2onto.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19132,7 +19142,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:owl2onto:base" type="report" xml:id="bib.bib794">
+      <bibentry key="Kohlhase:owl2onto:base" type="report" xml:id="bib.bib795">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19147,7 +19157,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smms:ctan" type="report" xml:id="bib.bib795">
+      <bibentry key="Kohlhase:smms:ctan" type="report" xml:id="bib.bib796">
         <bib-related bibrefs="Kohlhase:smms:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/statements/statements.pdf">Link</bib-url>
@@ -19169,7 +19179,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smms:svn" type="report" xml:id="bib.bib796">
+      <bibentry key="Kohlhase:smms:svn" type="report" xml:id="bib.bib797">
         <bib-related bibrefs="Kohlhase:smms:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/statements/statements.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19187,7 +19197,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smms:base" type="report" xml:id="bib.bib797">
+      <bibentry key="Kohlhase:smms:base" type="report" xml:id="bib.bib798">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19202,7 +19212,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:tbscml:ctan" type="report" xml:id="bib.bib798">
+<!--  %**** String Line 800 **** -->      <bibentry key="Kohlhase:tbscml:ctan" type="report" xml:id="bib.bib799">
         <bib-related bibrefs="Kohlhase:tbscml:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/cmathml/cmathml.pdf">Link</bib-url>
@@ -19224,7 +19234,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 800 **** -->      <bibentry key="Kohlhase:tbscml:svn" type="report" xml:id="bib.bib799">
+      <bibentry key="Kohlhase:tbscml:svn" type="report" xml:id="bib.bib800">
         <bib-related bibrefs="Kohlhase:tbscml:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/cmathml/cmathml.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19242,7 +19252,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:tbscml:base" type="misc" xml:id="bib.bib800">
+      <bibentry key="Kohlhase:tbscml:base" type="misc" xml:id="bib.bib801">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19257,7 +19267,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:clbscm:ctan" type="report" xml:id="bib.bib801">
+      <bibentry key="Kohlhase:clbscm:ctan" type="report" xml:id="bib.bib802">
         <bib-related bibrefs="Kohlhase:clbscm:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/cnx/cnx.pdf">Link</bib-url>
@@ -19279,7 +19289,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:clbscm:svn" type="report" xml:id="bib.bib802">
+      <bibentry key="Kohlhase:clbscm:svn" type="report" xml:id="bib.bib803">
         <bib-related bibrefs="Kohlhase:clbscm:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/cnx/cnx.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19297,7 +19307,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:clbscm:base" type="report" xml:id="bib.bib803">
+      <bibentry key="Kohlhase:clbscm:base" type="report" xml:id="bib.bib804">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19312,7 +19322,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smomdl:ctan" type="report" xml:id="bib.bib804">
+      <bibentry key="Kohlhase:smomdl:ctan" type="report" xml:id="bib.bib805">
         <bib-related bibrefs="Kohlhase:smomdl:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/omdoc/omdoc.pdf">Link</bib-url>
@@ -19334,7 +19344,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smomdl*:svn" type="report" xml:id="bib.bib805">
+      <bibentry key="Kohlhase:smomdl*:svn" type="report" xml:id="bib.bib806">
         <bib-related bibrefs="Kohlhase:smomdl:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/omdoc/omdoc.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19352,7 +19362,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smomdl:base" type="report" xml:id="bib.bib806">
+      <bibentry key="Kohlhase:smomdl:base" type="report" xml:id="bib.bib807">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19367,7 +19377,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smmtf:ctan" type="report" xml:id="bib.bib807">
+      <bibentry key="Kohlhase:smmtf:ctan" type="report" xml:id="bib.bib808">
         <bib-related bibrefs="Kohlhase:smmtf:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/stex/sty/omtext/omtext.pdf">Link</bib-url>
@@ -19389,7 +19399,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smmtf*:svn" type="report" xml:id="bib.bib808">
+      <bibentry key="Kohlhase:smmtf*:svn" type="report" xml:id="bib.bib809">
         <bib-related bibrefs="Kohlhase:smmtf:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/omtext/omtext.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19407,7 +19417,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:smmtf:base" type="report" xml:id="bib.bib809">
+      <bibentry key="Kohlhase:smmtf:base" type="report" xml:id="bib.bib810">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19422,7 +19432,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ssmtl:ctan" type="report" xml:id="bib.bib810">
+      <bibentry key="Kohlhase:ssmtl:ctan" type="report" xml:id="bib.bib811">
         <bib-related bibrefs="Kohlhase:ssmtl:base" role="host"/>
         <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
         <bib-url href="http://www.ctan.org/get/macros/latex/contrib/stex/sty/stex.pdf">Link</bib-url>
@@ -19444,7 +19454,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ssmtl:svn" type="report" xml:id="bib.bib811">
+      <bibentry key="Kohlhase:ssmtl:svn" type="report" xml:id="bib.bib812">
         <bib-related bibrefs="Kohlhase:ssmtl:base" role="host"/>
         <bib-url href="https://github.com/KWARC/sTeX/raw/master/sty/stex.pdf">Link</bib-url>
         <bib-name role="author">
@@ -19462,7 +19472,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:ssmtl:base" type="report" xml:id="bib.bib812">
+      <bibentry key="Kohlhase:ssmtl:base" type="report" xml:id="bib.bib813">
         <bib-key>sTeX</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -19478,7 +19488,7 @@ Education Systems</bib-title>
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:atpm98chapter" type="inbook" xml:id="bib.bib813">
+      <bibentry key="Kohlhase:atpm98chapter" type="inbook" xml:id="bib.bib814">
         <bib-related role="host" type="book">
           <bib-name role="editor">
             <surname>Kohlhase</surname>
@@ -19495,7 +19505,7 @@ Education Systems</bib-title>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:codemlspec" type="unpublished" xml:id="bib.bib814">
+      <bibentry key="Kohlhase:codemlspec" type="unpublished" xml:id="bib.bib815">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19510,7 +19520,7 @@ Education Systems</bib-title>
       pubs = {omdoc,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="brownhorozal07" type="inproceedings" xml:id="bib.bib815">
+      <bibentry key="brownhorozal07" type="inproceedings" xml:id="bib.bib816">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Feryal Fulya</givenname>
@@ -19531,7 +19541,7 @@ Education Systems</bib-title>
       pubs = {fhorozal}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:friomkb01" type="inproceedings" xml:id="bib.bib816">
+      <bibentry key="Kohlhase:friomkb01" type="inproceedings" xml:id="bib.bib817">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19550,7 +19560,7 @@ Education Systems</bib-title>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="LZ:OWLChangeRefactorXMLDB10" type="inproceedings" xml:id="bib.bib817">
+      <bibentry key="LZ:OWLChangeRefactorXMLDB10" type="inproceedings" xml:id="bib.bib818">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -19571,7 +19581,7 @@ Education Systems</bib-title>
       pubs = {clange,vzholudev}}
 </bib-data>
       </bibentry>
-      <bibentry key="DLKA:ProtoBrowserListedBuildSMW10" type="inproceedings" xml:id="bib.bib818">
+      <bibentry key="DLKA:ProtoBrowserListedBuildSMW10" type="inproceedings" xml:id="bib.bib819">
         <bib-name role="author">
           <surname>Dumitrache</surname>
           <givenname>Anca</givenname>
@@ -19598,7 +19608,7 @@ Education Systems</bib-title>
       pubs = {clange,adumitrache,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="HutKoh:OMoCProposal06" type="misc" xml:id="bib.bib819">
+      <bibentry key="HutKoh:OMoCProposal06" type="misc" xml:id="bib.bib820">
         <bib-name role="author">
           <surname>Hutter</surname>
           <givenname>Dieter</givenname>
@@ -19619,7 +19629,7 @@ Education Systems</bib-title>
       pubs = {mkohlhase,omoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMue:added-value07" type="incollection" xml:id="bib.bib820">
+      <bibentry key="KohMue:added-value07" type="incollection" xml:id="bib.bib821">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -19640,7 +19650,7 @@ Education Systems</bib-title>
       pubs = {akohlhase,nmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="GraZho:rest2011" type="inproceedings" xml:id="bib.bib821">
+      <bibentry key="GraZho:rest2011" type="inproceedings" xml:id="bib.bib822">
         <bib-name role="author">
           <surname>Graf</surname>
           <givenname>Sebastian</givenname>
@@ -19667,7 +19677,7 @@ Education Systems</bib-title>
        url = {http://portal.acm.org/citation.cfm?id=1967428}}
 </bib-data>
       </bibentry>
-      <bibentry key="Zholudev:TNTBaseRESTful:base" type="misc" xml:id="bib.bib822">
+      <bibentry key="Zholudev:TNTBaseRESTful:base" type="misc" xml:id="bib.bib823">
         <bib-name role="author">
           <surname>Zholudev</surname>
           <givenname>Vyacheslav</givenname>
@@ -19682,7 +19692,7 @@ Education Systems</bib-title>
        url = {http://tntbase.org/wiki/restful}}
 </bib-data>
       </bibentry>
-      <bibentry key="Zholudev:TNTBaseORES:base" type="misc" xml:id="bib.bib823">
+<!--  %**** String Line 825 **** -->      <bibentry key="Zholudev:TNTBaseORES:base" type="misc" xml:id="bib.bib824">
         <bib-name role="author">
           <surname>Zholudev</surname>
           <givenname>Vyacheslav</givenname>
@@ -19703,7 +19713,7 @@ Education Systems</bib-title>
    urldate = {2010-04-25}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 825 **** -->      <bibentry key="krextor:webpage" type="website" xml:id="bib.bib824">
+      <bibentry key="krextor:webpage" type="website" xml:id="bib.bib825">
         <bib-related bibrefs="krextor:base" role="host"/>
         <bib-data role="lastchecked">November</bib-data>
         <bib-date role="publication">2013-01</bib-date>
@@ -19715,7 +19725,7 @@ Education Systems</bib-title>
      month = {January}}
 </bib-data>
       </bibentry>
-      <bibentry key="krextor" type="misc" xml:id="bib.bib825">
+      <bibentry key="krextor" type="misc" xml:id="bib.bib826">
         <bib-related bibrefs="krextor:base" role="host"/>
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/krextor/">http://trac.kwarc.info/krextor/</ref></bib-note>
         <bib-data role="month">January</bib-data>
@@ -19727,7 +19737,7 @@ Education Systems</bib-title>
       year = {2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="krextor:base" type="misc" xml:id="bib.bib826">
+      <bibentry key="krextor:base" type="misc" xml:id="bib.bib827">
         <bib-key>Krextor</bib-key>
         <bib-title>Krextor – the KWARC RDF extractor</bib-title>
         <bib-name role="author">
@@ -19746,7 +19756,7 @@ Education Systems</bib-title>
       year = {2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:PhD:plain" type="thesis" xml:id="bib.bib827">
+      <bibentry key="Lange:PhD:plain" type="thesis" xml:id="bib.bib828">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -19762,7 +19772,7 @@ Education Systems</bib-title>
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:PhD:book:plain" type="book" xml:id="bib.bib828">
+      <bibentry key="Lange:PhD:book:plain" type="book" xml:id="bib.bib829">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -19785,7 +19795,7 @@ Education Systems</bib-title>
       isbn = {978-1-60750-840-3}}
 </bib-data>
       </bibentry>
-      <bibentry key="OpenMathWiki:base" type="misc" xml:id="bib.bib829">
+      <bibentry key="OpenMathWiki:base" type="misc" xml:id="bib.bib830">
         <bib-url href="http://wiki.openmath.org">Link</bib-url>
         <bib-date role="publication">2009</bib-date>
         <bib-name role="author">
@@ -19800,7 +19810,7 @@ Education Systems</bib-title>
      title = {{OpenMath} Wiki}}
 </bib-data>
       </bibentry>
-      <bibentry key="RDFaHostLanguages" type="website" xml:id="bib.bib830">
+      <bibentry key="RDFaHostLanguages" type="website" xml:id="bib.bib831">
         <bib-name role="author">
           <surname>Inkster</surname>
           <givenname>Toby A.</givenname>
@@ -19823,7 +19833,7 @@ Education Systems</bib-title>
   crossref = {RDFaWiki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:SWiMSubversionClient" type="website" xml:id="bib.bib831">
+      <bibentry key="Lange:SWiMSubversionClient" type="website" xml:id="bib.bib832">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -19840,7 +19850,7 @@ Education Systems</bib-title>
    urldate = {2010-10-06}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lange:wiki-argu-draft" type="misc" xml:id="bib.bib832">
+      <bibentry key="Lange:wiki-argu-draft" type="misc" xml:id="bib.bib833">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -19855,7 +19865,7 @@ Education Systems</bib-title>
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="flyspeck-wiki:web" type="misc" xml:id="bib.bib833">
+      <bibentry key="flyspeck-wiki:web" type="misc" xml:id="bib.bib834">
         <bib-key>Flyspeck</bib-key>
         <bib-name role="author">
           <surname>Lange</surname>
@@ -19882,7 +19892,7 @@ Education Systems</bib-title>
       note = {\seen November      2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="swim-bugzilla" type="misc" xml:id="bib.bib834">
+      <bibentry key="swim-bugzilla" type="misc" xml:id="bib.bib835">
         <bib-key>SWiM</bib-key>
         <bib-title><text font="smallcaps">SWiM</text> trac</bib-title>
         <bib-name role="author">
@@ -19901,7 +19911,7 @@ Education Systems</bib-title>
       note = {\seen{\September} 2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="swim-roadmap" type="misc" xml:id="bib.bib835">
+      <bibentry key="swim-roadmap" type="misc" xml:id="bib.bib836">
         <bib-title><text font="smallcaps">SWiM</text> development roadmap</bib-title>
         <bib-name role="author">
           <surname>Lange</surname>
@@ -19918,7 +19928,7 @@ Education Systems</bib-title>
       note = {seen November  2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="NMueller:PhD" type="thesis" xml:id="bib.bib836">
+      <bibentry key="NMueller:PhD" type="thesis" xml:id="bib.bib837">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -19936,7 +19946,7 @@ Education Systems</bib-title>
        url = {http://kwarc.info/nmueller/papers/nrmphd.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:InvasiverEditor" type="inproceedings" xml:id="bib.bib837">
+      <bibentry key="Kohlhase:InvasiverEditor" type="inproceedings" xml:id="bib.bib838">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -19953,7 +19963,7 @@ Education Systems</bib-title>
       pubs = {akohlhase,cpoint}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:pufmp08" type="inproceedings" xml:id="bib.bib838">
+      <bibentry key="Kohlhase:pufmp08" type="inproceedings" xml:id="bib.bib839">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -19974,7 +19984,7 @@ Education Systems</bib-title>
        url = {http://go.editlib.org/p/28550}}
 </bib-data>
       </bibentry>
-      <bibentry key="Planetary:on" type="website" xml:id="bib.bib839">
+      <bibentry key="Planetary:on" type="website" xml:id="bib.bib840">
         <bib-related bibrefs="Planetary:base" role="host"/>
         <bib-data role="urldate">2012-09-15</bib-data>
         <bib-data role="label">PDFm</bib-data>
@@ -19984,7 +19994,7 @@ Education Systems</bib-title>
      label = {PDFm}}
 </bib-data>
       </bibentry>
-      <bibentry key="Planetary:URL" type="misc" xml:id="bib.bib840">
+      <bibentry key="Planetary:URL" type="misc" xml:id="bib.bib841">
         <bib-related bibrefs="Planetary:base" role="host"/>
         <bib-note role="publication">http://planetary.mathweb.org</bib-note>
         <bib-key>PDFm</bib-key>
@@ -19994,7 +20004,7 @@ Education Systems</bib-title>
        key = {PDFm}}
 </bib-data>
       </bibentry>
-      <bibentry key="Planetary:base" type="misc" xml:id="bib.bib841">
+      <bibentry key="Planetary:base" type="misc" xml:id="bib.bib842">
         <bib-title>Planetary developer forum</bib-title>
         <bib-url href="http://planetary.mathweb.org/">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{Planetary:base,
@@ -20002,7 +20012,7 @@ Education Systems</bib-title>
        url = {http://planetary.mathweb.org/}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetaryEPCMilestone:on" type="website" xml:id="bib.bib842">
+      <bibentry key="PlanetaryEPCMilestone:on" type="website" xml:id="bib.bib843">
         <bib-related bibrefs="PlanetaryEPCMilestone:base" role="host"/>
         <bib-data role="urldate">2011-03-14</bib-data>
         <bib-subtitle>Milestone EPCdemo</bib-subtitle>
@@ -20012,7 +20022,7 @@ Education Systems</bib-title>
   subtitle = {Milestone EPCdemo}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetaryEPCMilestone:URL" type="misc" xml:id="bib.bib843">
+      <bibentry key="PlanetaryEPCMilestone:URL" type="misc" xml:id="bib.bib844">
         <bib-related bibrefs="PlanetaryEPCMilestone:base" role="host"/>
         <bib-note role="publication">http://planetary.mathweb.org/milestone/EPCdemo</bib-note>
         <bib-data role="self" type="BibTeX">@misc{PlanetaryEPCMilestone:URL,
@@ -20020,7 +20030,7 @@ Education Systems</bib-title>
  howpublished = {http://planetary.mathweb.org/milestone/EPCdemo}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetaryEPCMilestone:base" type="misc" xml:id="bib.bib844">
+      <bibentry key="PlanetaryEPCMilestone:base" type="misc" xml:id="bib.bib845">
         <bib-title>Planetary developer forum</bib-title>
         <bib-subtitle>Milestone EPCdemo</bib-subtitle>
         <bib-url href="http://planetary.mathweb.org/milestone/EPCdemo">Link</bib-url>
@@ -20030,7 +20040,7 @@ Education Systems</bib-title>
        url = {http://planetary.mathweb.org/milestone/EPCdemo}}
 </bib-data>
       </bibentry>
-      <bibentry key="EPCsystem:on" type="website" xml:id="bib.bib845">
+      <bibentry key="EPCsystem:on" type="website" xml:id="bib.bib846">
         <bib-related bibrefs="EPCsystem:base" role="host"/>
         <bib-data role="urldate">2011-01-07</bib-data>
         <bib-data role="self" type="BibTeX">@online{EPCsystem:on,
@@ -20038,7 +20048,7 @@ Education Systems</bib-title>
    urldate = {2011-01-07}}
 </bib-data>
       </bibentry>
-      <bibentry key="EPCsystem:URL" type="misc" xml:id="bib.bib846">
+      <bibentry key="EPCsystem:URL" type="misc" xml:id="bib.bib847">
         <bib-related bibrefs="EPCsystem:base" role="host"/>
         <bib-note role="publication">http://planetary.mathweb.org/wiki/EPCSystem</bib-note>
         <bib-data role="self" type="BibTeX">@misc{EPCsystem:URL,
@@ -20046,7 +20056,7 @@ Education Systems</bib-title>
  howpublished = {http://planetary.mathweb.org/wiki/EPCSystem}}
 </bib-data>
       </bibentry>
-      <bibentry key="EPCsystem:base" type="misc" xml:id="bib.bib847">
+      <bibentry key="EPCsystem:base" type="misc" xml:id="bib.bib848">
         <bib-title>Executable paper challenge system</bib-title>
         <bib-url href="http://planetary.mathweb.org/wiki/EPCSystem">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{EPCsystem:base,
@@ -20054,7 +20064,7 @@ Education Systems</bib-title>
        url = {http://planetary.mathweb.org/wiki/EPCSystem}}
 </bib-data>
       </bibentry>
-      <bibentry key="LinkedLectures" type="website" xml:id="bib.bib848">
+<!--  %**** String Line 850 **** -->      <bibentry key="LinkedLectures" type="website" xml:id="bib.bib849">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20069,7 +20079,7 @@ Education Systems</bib-title>
    urldate = {2010-09-22}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 850 **** -->      <bibentry key="Kohlhase:PlanetGenCS:on" type="website" xml:id="bib.bib849">
+      <bibentry key="Kohlhase:PlanetGenCS:on" type="website" xml:id="bib.bib850">
         <bib-related bibrefs="Kohlhase:PlanetGenCS:base" role="host"/>
         <bib-data role="urldate">2011-03-03</bib-data>
         <bib-date role="publication">2011</bib-date>
@@ -20079,7 +20089,7 @@ Education Systems</bib-title>
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:PlanetGenCS:url" type="misc" xml:id="bib.bib850">
+      <bibentry key="Kohlhase:PlanetGenCS:url" type="misc" xml:id="bib.bib851">
         <bib-related bibrefs="Kohlhase:PlanetGenCS:base" role="host"/>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://panta.kwarc.info/GenCS">http://panta.kwarc.info/GenCS</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
@@ -20089,7 +20099,7 @@ Education Systems</bib-title>
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:PlanetGenCS:base" type="misc" xml:id="bib.bib851">
+      <bibentry key="Kohlhase:PlanetGenCS:base" type="misc" xml:id="bib.bib852">
         <bib-key>GenCS</bib-key>
         <bib-data role="label">GenCS</bib-data>
         <bib-name role="author">
@@ -20112,7 +20122,7 @@ Education Systems</bib-title>
       pubs = {mkohlhase,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetGenCS:on" type="website" xml:id="bib.bib852">
+      <bibentry key="PlanetGenCS:on" type="website" xml:id="bib.bib853">
         <bib-related bibrefs="PantaRhei:base" role="host"/>
         <bib-data role="urldate">2010-09-22</bib-data>
         <bib-extract role="keywords">planetary</bib-extract>
@@ -20124,7 +20134,7 @@ Education Systems</bib-title>
      label = {PR}}
 </bib-data>
       </bibentry>
-      <bibentry key="PantaRhei:on" type="website" xml:id="bib.bib853">
+      <bibentry key="PantaRhei:on" type="website" xml:id="bib.bib854">
         <bib-related bibrefs="PantaRhei:base" role="host"/>
         <bib-data role="urldate">2013-02-22</bib-data>
         <bib-extract role="keywords">planetary</bib-extract>
@@ -20136,7 +20146,7 @@ Education Systems</bib-title>
      label = {PR}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetGenCS:URL" type="misc" xml:id="bib.bib854">
+      <bibentry key="PlanetGenCS:URL" type="misc" xml:id="bib.bib855">
         <bib-related bibrefs="PantaRhei:base" role="host"/>
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://panta.kwarc.info">http://panta.kwarc.info</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
@@ -20146,7 +20156,7 @@ Education Systems</bib-title>
       note = {\seen{\January} 2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="PantaRhei:base" type="misc" xml:id="bib.bib855">
+      <bibentry key="PantaRhei:base" type="misc" xml:id="bib.bib856">
         <bib-title>Panta rhei, the active course site at jacobs university</bib-title>
         <bib-url href="http://panta.kwarc.info">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{PantaRhei:base,
@@ -20154,7 +20164,7 @@ Education Systems</bib-title>
        url = {http://panta.kwarc.info}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetLATIN:on" type="website" xml:id="bib.bib856">
+      <bibentry key="PlanetLATIN:on" type="website" xml:id="bib.bib857">
         <bib-related bibrefs="PlanetLATIN:base" role="host"/>
         <bib-data role="urldate">2010-09-22</bib-data>
         <bib-data role="label">LA</bib-data>
@@ -20164,7 +20174,7 @@ Education Systems</bib-title>
      label = {LA}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetLATIN:URL" type="misc" xml:id="bib.bib857">
+      <bibentry key="PlanetLATIN:URL" type="misc" xml:id="bib.bib858">
         <bib-related bibrefs="PlanetLATIN:base" role="host"/>
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="logicatlas.omdoc.org">logicatlas.omdoc.org</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
@@ -20174,7 +20184,7 @@ Education Systems</bib-title>
       note = {\seen{\January} 2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetLATIN:base" type="misc" xml:id="bib.bib858">
+      <bibentry key="PlanetLATIN:base" type="misc" xml:id="bib.bib859">
         <bib-title>Logic atlas and integrator</bib-title>
         <bib-url href="http://logicatlas.omdoc.org">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{PlanetLATIN:base,
@@ -20182,7 +20192,7 @@ Education Systems</bib-title>
        url = {http://logicatlas.omdoc.org}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetBox:on" type="website" xml:id="bib.bib859">
+      <bibentry key="PlanetBox:on" type="website" xml:id="bib.bib860">
         <bib-related bibrefs="PlanetBox:base" role="host"/>
         <bib-data role="urldate">2010-09-22</bib-data>
         <bib-data role="self" type="BibTeX">@online{PlanetBox:on,
@@ -20190,7 +20200,7 @@ Education Systems</bib-title>
    urldate = {2010-09-22}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetBox:URL" type="misc" xml:id="bib.bib860">
+      <bibentry key="PlanetBox:URL" type="misc" xml:id="bib.bib861">
         <bib-related bibrefs="PlanetBox:base" role="host"/>
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://planetbox.kwarc.info">http://planetbox.kwarc.info</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
@@ -20200,7 +20210,7 @@ Education Systems</bib-title>
       note = {\seen{\January} 2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="PlanetBox:base" type="misc" xml:id="bib.bib861">
+      <bibentry key="PlanetBox:base" type="misc" xml:id="bib.bib862">
         <bib-title>Planetary sandbox</bib-title>
         <bib-url href="http://planetbox.kwarc.info">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{PlanetBox:base,
@@ -20208,7 +20218,7 @@ Education Systems</bib-title>
        url = {http://planetbox.kwarc.info}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:SemanticPowerPoint" type="inproceedings" xml:id="bib.bib862">
+      <bibentry key="Kohlhase:SemanticPowerPoint" type="inproceedings" xml:id="bib.bib863">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20229,7 +20239,7 @@ Education Systems</bib-title>
        url = {http://go.editlib.org/p/25890}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:PPTforChildren" type="inproceedings" xml:id="bib.bib863">
+      <bibentry key="Kohlhase:PPTforChildren" type="inproceedings" xml:id="bib.bib864">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20260,7 +20270,7 @@ Education Systems</bib-title>
      pages = {189–198}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:EngagingPPT" type="inproceedings" xml:id="bib.bib864">
+      <bibentry key="Kohlhase:EngagingPPT" type="inproceedings" xml:id="bib.bib865">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20308,7 +20318,7 @@ Education Systems</bib-title>
       note = {St. Antonio, TX (USA), 2007-03-24/28}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:LearnerAndLearningTechnology" type="article" xml:id="bib.bib865">
+      <bibentry key="Kohlhase:LearnerAndLearningTechnology" type="article" xml:id="bib.bib866">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20329,7 +20339,7 @@ Education Systems</bib-title>
        url = {http://www.ecti.or.th/}}
 </bib-data>
       </bibentry>
-      <bibentry key="Reichel:FolksonomiesAsEmbodiedActions" type="inproceedings" xml:id="bib.bib866">
+      <bibentry key="Reichel:FolksonomiesAsEmbodiedActions" type="inproceedings" xml:id="bib.bib867">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20358,7 +20368,7 @@ Education Systems</bib-title>
       pubs = {akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="DumMer:cwsat03" type="report" xml:id="bib.bib867">
+      <bibentry key="DumMer:cwsat03" type="report" xml:id="bib.bib868">
         <bib-name role="author">
           <surname>Dumitru</surname>
           <givenname>Alex</givenname>
@@ -20380,7 +20390,7 @@ Education Systems</bib-title>
       year = {2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="Reichel:EmbodiedConceptualizations" type="article" xml:id="bib.bib868">
+      <bibentry key="Reichel:EmbodiedConceptualizations" type="article" xml:id="bib.bib869">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20409,7 +20419,7 @@ Education Systems</bib-title>
       pubs = {akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohlhaseReichel:FuzzyLinePrivatePublic" type="incollection" xml:id="bib.bib869">
+      <bibentry key="KohlhaseReichel:FuzzyLinePrivatePublic" type="incollection" xml:id="bib.bib870">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20447,7 +20457,7 @@ Education Systems</bib-title>
       pubs = {akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Anca:NLMPforATS09" type="thesis" xml:id="bib.bib870">
+      <bibentry key="Anca:NLMPforATS09" type="thesis" xml:id="bib.bib871">
         <bib-name role="author">
           <surname>Anca</surname>
           <givenname>Ştefan</givenname>
@@ -20470,7 +20480,7 @@ Education Systems</bib-title>
        url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/msc-2009/aanca.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Anca:matesearch07" type="misc" xml:id="bib.bib871">
+      <bibentry key="Anca:matesearch07" type="misc" xml:id="bib.bib872">
         <bib-name role="author">
           <surname>Anca</surname>
           <givenname>Ştefan</givenname>
@@ -20491,7 +20501,7 @@ Education Systems</bib-title>
        url = {http://www.eecs.jacobs-university.de/archive/bsc-2007/anca.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Horozal07" type="thesis" xml:id="bib.bib872">
+      <bibentry key="Horozal07" type="thesis" xml:id="bib.bib873">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Feryal Fulya</givenname>
@@ -20512,7 +20522,7 @@ Education Systems</bib-title>
       pubs = {fhorozal}}
 </bib-data>
       </bibentry>
-      <bibentry key="DHK:algebra:09" type="inproceedings" xml:id="bib.bib873">
+<!--  %**** String Line 875 **** -->      <bibentry key="DHK:algebra:09" type="inproceedings" xml:id="bib.bib874">
         <bib-name role="author">
           <surname>Dumbrava</surname>
           <givenname>Stefania</givenname>
@@ -20556,7 +20566,7 @@ Education Systems</bib-title>
       pubs = {fhorozal,sdumbrava,omdoc,mmt}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 875 **** -->      <bibentry key="IVEB:SemEnabBusProcDisc10" type="inproceedings" xml:id="bib.bib874">
+      <bibentry key="IVEB:SemEnabBusProcDisc10" type="inproceedings" xml:id="bib.bib875">
         <bib-name role="author">
           <surname>José Ibáñez</surname>
           <givenname>María</givenname>
@@ -20593,7 +20603,7 @@ Education Systems</bib-title>
       pubs = {krextor}}
 </bib-data>
       </bibentry>
-      <bibentry key="DGKC:eMath30" type="inproceedings" xml:id="bib.bib875">
+      <bibentry key="DGKC:eMath30" type="inproceedings" xml:id="bib.bib876">
         <bib-name role="author">
           <surname>David</surname>
           <givenname>Catalin</givenname>
@@ -20622,7 +20632,7 @@ Education Systems</bib-title>
       pubs = {cdavid,dginev,mkohlhase,mathhub,ikyda2012,omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="FA:MathKnowReprEduSemWebLearnStyle10" type="inproceedings" xml:id="bib.bib876">
+      <bibentry key="FA:MathKnowReprEduSemWebLearnStyle10" type="inproceedings" xml:id="bib.bib877">
         <bib-name role="author">
           <surname>Farhana Md Mahtar</surname>
           <givenname>Ili</givenname>
@@ -20651,7 +20661,7 @@ Education Systems</bib-title>
       pubs = {omdoc,krextor}}
 </bib-data>
       </bibentry>
-      <bibentry key="DR:filtering:10" type="misc" xml:id="bib.bib877">
+      <bibentry key="DR:filtering:10" type="misc" xml:id="bib.bib878">
         <bib-name role="author">
           <surname>Dumbrava</surname>
           <givenname>Stefania</givenname>
@@ -20672,7 +20682,7 @@ Education Systems</bib-title>
       pubs = {frabe,sdumbrava,mmt,omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="Dumbrava:sshelf" type="misc" xml:id="bib.bib878">
+      <bibentry key="Dumbrava:sshelf" type="misc" xml:id="bib.bib879">
         <bib-name role="author">
           <surname>Dumbrava</surname>
           <givenname>Stefania</givenname>
@@ -20693,7 +20703,7 @@ Education Systems</bib-title>
       pubs = {sdumbrava,bscthesis,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:bslreview:10" type="article" xml:id="bib.bib879">
+      <bibentry key="rabe:bslreview:10" type="article" xml:id="bib.bib880">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -20718,7 +20728,7 @@ Education Systems</bib-title>
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:tcmff10" type="unpublished" xml:id="bib.bib880">
+      <bibentry key="KohKoh:tcmff10" type="unpublished" xml:id="bib.bib881">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20735,7 +20745,7 @@ Education Systems</bib-title>
        url = {http://kwarc.info/kohlhase/submit/mkm10-flexiform.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="ako:MicrodataVsRDFa" type="website" xml:id="bib.bib881">
+      <bibentry key="ako:MicrodataVsRDFa" type="website" xml:id="bib.bib882">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20754,7 +20764,7 @@ Education Systems</bib-title>
    urldate = {2009-12-01}}
 </bib-data>
       </bibentry>
-      <bibentry key="LK:OMDocOntologyLanguageESWC09" type="unpublished" xml:id="bib.bib882">
+      <bibentry key="LK:OMDocOntologyLanguageESWC09" type="unpublished" xml:id="bib.bib883">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -20773,7 +20783,7 @@ Education Systems</bib-title>
       year = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:MailGenericMetadata2008" type="website" xml:id="bib.bib883">
+      <bibentry key="Kohlhase:MailGenericMetadata2008" type="website" xml:id="bib.bib884">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20788,7 +20798,7 @@ Education Systems</bib-title>
       date = {2008-07-01}}
 </bib-data>
       </bibentry>
-      <bibentry key="LemKoh:cah08" type="unpublished" xml:id="bib.bib884">
+      <bibentry key="LemKoh:cah08" type="unpublished" xml:id="bib.bib885">
         <bib-name role="author">
           <surname>Lemburg</surname>
           <givenname>Johannes</givenname>
@@ -20809,7 +20819,7 @@ Education Systems</bib-title>
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="KLMMR:NfAD" type="unpublished" xml:id="bib.bib885">
+      <bibentry key="KLMMR:NfAD" type="unpublished" xml:id="bib.bib886">
         <bib-title>Notations for active mathematical documents</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -20850,7 +20860,7 @@ Education Systems</bib-title>
  howpublished = {\url{http://kwarc.info/publications/papers/KLMMR_NfAD.pdf}}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:STS-RelaxNG08" type="inproceedings" xml:id="bib.bib886">
+      <bibentry key="Kohlhase:STS-RelaxNG08" type="inproceedings" xml:id="bib.bib887">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20863,7 +20873,7 @@ Education Systems</bib-title>
   crossref = {JEM08}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSuc:mwssse07" type="unpublished" xml:id="bib.bib887">
+      <bibentry key="KohSuc:mwssse07" type="unpublished" xml:id="bib.bib888">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -20880,7 +20890,7 @@ Education Systems</bib-title>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="xslt:web" type="misc" xml:id="bib.bib888">
+      <bibentry key="xslt:web" type="misc" xml:id="bib.bib889">
         <bib-key>xslt</bib-key>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -20899,7 +20909,7 @@ Education Systems</bib-title>
       note = {\seen January      2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="mmlkit:web" type="unpublished" xml:id="bib.bib889">
+      <bibentry key="mmlkit:web" type="unpublished" xml:id="bib.bib890">
         <bib-key>mmlkit</bib-key>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -20926,7 +20936,7 @@ Education Systems</bib-title>
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:ssl13" type="article" xml:id="bib.bib890">
+      <bibentry key="KohKoh:ssl13" type="article" xml:id="bib.bib891">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -20970,7 +20980,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {akohlhase,mkohlhase,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="vzamdzhiev:bscthesis" type="misc" xml:id="bib.bib891">
+      <bibentry key="vzamdzhiev:bscthesis" type="misc" xml:id="bib.bib892">
         <bib-name role="author">
           <surname>Zamdzhiev</surname>
           <givenname>Vladimir</givenname>
@@ -20989,7 +20999,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {vzamdzhiev,bscthesis,mmt,omdoc,openmath}}
 </bib-data>
       </bibentry>
-      <bibentry key="mcirlanaru:bscthesis" type="misc" xml:id="bib.bib892">
+      <bibentry key="mcirlanaru:bscthesis" type="misc" xml:id="bib.bib893">
         <bib-name role="author">
           <surname>Cîrlănaru</surname>
           <givenname>Mihai</givenname>
@@ -21008,7 +21018,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {mcirlanaru,bscthesis,unitsbibliography}}
 </bib-data>
       </bibentry>
-      <bibentry key="OntoIOpOASIS2001" type="misc" xml:id="bib.bib893">
+      <bibentry key="OntoIOpOASIS2001" type="misc" xml:id="bib.bib894">
         <bib-name role="author">
           <surname>Mossakowski</surname>
           <givenname>Till</givenname>
@@ -21034,7 +21044,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
        url = {http://www.oasis-project.eu/index.php/lang-en/news-topmenu-19/20-general-news/406-oasis_symposium_at_iswc_2011_a}}
 </bib-data>
       </bibentry>
-      <bibentry key="Stamerjohanns:latexmleditor" type="website" xml:id="bib.bib894">
+      <bibentry key="Stamerjohanns:latexmleditor" type="website" xml:id="bib.bib895">
         <bib-name role="author">
           <surname>Stamerjohanns</surname>
           <givenname>Heinrich</givenname>
@@ -21049,7 +21059,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
    urldate = {2010-10-10}}
 </bib-data>
       </bibentry>
-      <bibentry key="AA:IPRaaCT" type="misc" xml:id="bib.bib895">
+      <bibentry key="AA:IPRaaCT" type="misc" xml:id="bib.bib896">
         <bib-title>Improving Panta Rhei as a Community Tool</bib-title>
         <bib-name role="author">
           <surname>Aiordachioaie</surname>
@@ -21068,7 +21078,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDoc:wiki" type="misc" xml:id="bib.bib896">
+      <bibentry key="OMDoc:wiki" type="misc" xml:id="bib.bib897">
         <bib-key>OMDoc Wiki</bib-key>
         <bib-title>The OMDoc wiki</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://www.mathweb.org/omdoc/wiki/">http://www.mathweb.org/omdoc/wiki/</ref></bib-note>
@@ -21080,7 +21090,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
        url = {http://www.mathweb.org/omdoc/wiki/}}
 </bib-data>
       </bibentry>
-      <bibentry key="OMDocUG:web" type="misc" xml:id="bib.bib897">
+      <bibentry key="OMDocUG:web" type="misc" xml:id="bib.bib898">
         <bib-key>OMDoc</bib-key>
         <bib-title>People involved with the OMDoc project</bib-title>
         <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://omdoc.org/people.html">http://omdoc.org/people.html</ref></bib-note>
@@ -21094,7 +21104,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       note = {\seen{\July} 2005}}
 </bib-data>
       </bibentry>
-      <bibentry key="Grigore-10" type="misc" xml:id="bib.bib898">
+<!--  %**** String Line 900 **** -->      <bibentry key="Grigore-10" type="misc" xml:id="bib.bib899">
         <bib-name role="author">
           <surname>Grigore</surname>
           <givenname>Mihai</givenname>
@@ -21119,7 +21129,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       year = {2010}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 900 **** -->      <bibentry key="latexml-daemon" type="website" xml:id="bib.bib899">
+      <bibentry key="latexml-daemon" type="website" xml:id="bib.bib900">
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -21136,7 +21146,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {dginev,llamapun}}
 </bib-data>
       </bibentry>
-      <bibentry key="latexml-showcase" type="website" xml:id="bib.bib900">
+      <bibentry key="latexml-showcase" type="website" xml:id="bib.bib901">
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -21153,7 +21163,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {dginev,arXMLiv}}
 </bib-data>
       </bibentry>
-      <bibentry key="Ginev:OnDigitalCorpora" type="unpublished" xml:id="bib.bib901">
+      <bibentry key="Ginev:OnDigitalCorpora" type="unpublished" xml:id="bib.bib902">
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -21174,7 +21184,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="Ginev:TowardsABuildSystemForDigitalCorpora" type="unpublished" xml:id="bib.bib902">
+      <bibentry key="Ginev:TowardsABuildSystemForDigitalCorpora" type="unpublished" xml:id="bib.bib903">
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -21195,7 +21205,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="MGG:email" type="misc" xml:id="bib.bib903">
+      <bibentry key="MGG:email" type="misc" xml:id="bib.bib904">
         <bib-name role="author">
           <surname>Grigore</surname>
           <givenname>Mihai</givenname>
@@ -21208,12 +21218,12 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       note = {February 23 2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kuryla:OWLtoOMDocTranslation09" type="misc" xml:id="bib.bib904">
+      <bibentry key="Kuryla:OWLtoOMDocTranslation09" type="misc" xml:id="bib.bib905">
         <bib-name role="author">
           <surname>Kuryla</surname>
           <givenname>Siarhei</givenname>
         </bib-name>
-        <bib-title>OMDoc as an ontology language: OWL<Math mode="inline" tex="\to" text="to" xml:id="bib.bib904.m1">
+        <bib-title>OMDoc as an ontology language: OWL<Math mode="inline" tex="\to" text="to" xml:id="bib.bib905.m1">
             <XMath>
               <XMTok name="to" role="ARROW">→</XMTok>
             </XMath>
@@ -21231,7 +21241,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {docOnto,omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="Ontohub:site" type="website" xml:id="bib.bib905">
+      <bibentry key="Ontohub:site" type="website" xml:id="bib.bib906">
         <bib-title>Ontohub</bib-title>
         <bib-url href="http://ontohub.oor.net">Link</bib-url>
         <bib-data role="urldate">2012-12-03</bib-data>
@@ -21243,7 +21253,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {clange,ontoiop}}
 </bib-data>
       </bibentry>
-      <bibentry key="Ontohub" type="website" xml:id="bib.bib906">
+      <bibentry key="Ontohub" type="website" xml:id="bib.bib907">
         <bib-name role="author">
           <surname>Couto Vale</surname>
           <givenname>Daniel</givenname>
@@ -21276,7 +21286,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {clange,ontoiop}}
 </bib-data>
       </bibentry>
-      <bibentry key="JucEth12:redsys" type="inproceedings" xml:id="bib.bib907">
+      <bibentry key="JucEth12:redsys" type="inproceedings" xml:id="bib.bib908">
         <bib-title>Cost-effective integration of mkm semantic services into editing environments</bib-title>
         <bib-name role="author">
           <surname>Jucovschi</surname>
@@ -21295,7 +21305,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {cjucovschi,sissi,sally}}
 </bib-data>
       </bibentry>
-      <bibentry key="lange05:wiki" type="book" xml:id="bib.bib908">
+      <bibentry key="lange05:wiki" type="book" xml:id="bib.bib909">
         <bib-title>Wiki – Planen, Einrichten, Verwalten</bib-title>
         <bib-publisher>C&amp;L Computer- und Literaturverlag</bib-publisher>
         <bib-date role="publication">2005-09</bib-date>
@@ -21318,7 +21328,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
  hyphenation = {ngerman}}
 </bib-data>
       </bibentry>
-      <bibentry key="lange06:wikiblog" type="book" xml:id="bib.bib909">
+      <bibentry key="lange06:wikiblog" type="book" xml:id="bib.bib910">
         <bib-title>Wikis und blogs – Planen, Einrichten, Verwalten</bib-title>
         <bib-publisher>C&amp;L Computer- und Literaturverlag</bib-publisher>
         <bib-date role="publication">2006-09</bib-date>
@@ -21341,7 +21351,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
  hyphenation = {ngerman}}
 </bib-data>
       </bibentry>
-      <bibentry key="Koh:NavigationInMathDocs2012" type="inproceedings" xml:id="bib.bib910">
+      <bibentry key="Koh:NavigationInMathDocs2012" type="inproceedings" xml:id="bib.bib911">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -21362,7 +21372,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {akohlhase,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="CorneliDumitru:OpenMathUIWiP2012" type="inproceedings" xml:id="bib.bib911">
+      <bibentry key="CorneliDumitru:OpenMathUIWiP2012" type="inproceedings" xml:id="bib.bib912">
         <bib-title>PlanetMath/Planetary</bib-title>
         <bib-name role="author">
           <surname>Corneli</surname>
@@ -21383,7 +21393,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
   crossref = {OpenMathUIWiP2012}}
 </bib-data>
       </bibentry>
-      <bibentry key="GinCor:nnexus:14" type="inproceedings" xml:id="bib.bib912">
+      <bibentry key="GinCor:nnexus:14" type="inproceedings" xml:id="bib.bib913">
         <bib-title>NNexus reloaded</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
@@ -21408,7 +21418,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {dginev,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="HamKoh:fsm15" type="inproceedings" xml:id="bib.bib913">
+      <bibentry key="HamKoh:fsm15" type="inproceedings" xml:id="bib.bib914">
         <bib-title>Faceted search for mathematics</bib-title>
         <bib-name role="author">
           <surname>Hambasan</surname>
@@ -21431,7 +21441,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
   crossref = {MACIS15}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohlhaseEtAl:FullSemanticTransparency:2013" type="inproceedings" xml:id="bib.bib914">
+      <bibentry key="KohlhaseEtAl:FullSemanticTransparency:2013" type="inproceedings" xml:id="bib.bib915">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -21464,7 +21474,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:HumanSpreadsheetInteraction:2013" type="inproceedings" xml:id="bib.bib915">
+      <bibentry key="Kohlhase:HumanSpreadsheetInteraction:2013" type="inproceedings" xml:id="bib.bib916">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -21483,7 +21493,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="Koh:Spshts_FromDataToKnowledgeInterface:2013" type="inproceedings" xml:id="bib.bib916">
+      <bibentry key="Koh:Spshts_FromDataToKnowledgeInterface:2013" type="inproceedings" xml:id="bib.bib917">
         <bib-title>Spreadsheets: from data interfaces to knowledge interfaces</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -21502,7 +21512,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {akohlhase,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="Ginev:CICM-WS-WiP2013" type="inproceedings" xml:id="bib.bib917">
+      <bibentry key="Ginev:CICM-WS-WiP2013" type="inproceedings" xml:id="bib.bib918">
         <bib-title>NNexus Glasses: a drop-in showcase for wikification</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
@@ -21517,7 +21527,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
   crossref = {CICM-WS-WiP2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="IancuEtAl:CICM-WS-WiP2013" type="inproceedings" xml:id="bib.bib918">
+      <bibentry key="IancuEtAl:CICM-WS-WiP2013" type="inproceedings" xml:id="bib.bib919">
         <bib-title>The Scala-REPL + MMT as a lightweight mathematical user interface</bib-title>
         <bib-name role="author">
           <surname>Iancu</surname>
@@ -21540,7 +21550,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
   crossref = {CICM-WS-WiP2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="ke-la-ro-14" type="report" xml:id="bib.bib919">
+      <bibentry key="ke-la-ro-14" type="report" xml:id="bib.bib920">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -21573,13 +21583,13 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {clange,formare}}
 </bib-data>
       </bibentry>
-      <bibentry key="BreiCodJuc:tospsme13" type="unpublished" xml:id="bib.bib920">
+      <bibentry key="BreiCodJuc:tospsme13" type="unpublished" xml:id="bib.bib921">
         <bib-data role="crossre">BreiCodJuc:tospsme13:biblatex</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{BreiCodJuc:tospsme13,
    crossre = {BreiCodJuc:tospsme13:biblatex}}
 </bib-data>
       </bibentry>
-      <bibentry key="BreiCodJuc:tospsme13:biblatex" type="unpublished" xml:id="bib.bib921">
+      <bibentry key="BreiCodJuc:tospsme13:biblatex" type="unpublished" xml:id="bib.bib922">
         <bib-name role="author">
           <surname>Breitsprecher</surname>
           <givenname>Thilo</givenname>
@@ -21617,7 +21627,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,cjucovschi,FormalCAD}}
 </bib-data>
       </bibentry>
-      <bibentry key="BreiCodJuc:ssedp13" type="unpublished" xml:id="bib.bib922">
+      <bibentry key="BreiCodJuc:ssedp13" type="unpublished" xml:id="bib.bib923">
         <bib-related bibrefs="BreiCodJuc:ssedp13:biblatex" role="host"/>
         <bib-note role="annotation">see <ref class="ltx_url" font="typewriter" href="http://kwarc.info/kohlhase/papers/fm13.pdf">http://kwarc.info/kohlhase/papers/fm13.pdf</ref></bib-note>
         <bib-name role="author">
@@ -21655,7 +21665,7 @@ Sandro Wartzack},
       year = {2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="BreiCodJuc:ssedp13:biblatex" type="inproceedings" xml:id="bib.bib923">
+<!--  %**** String Line 925 **** -->      <bibentry key="BreiCodJuc:ssedp13:biblatex" type="inproceedings" xml:id="bib.bib924">
         <bib-name role="author">
           <surname>Breitsprecher</surname>
           <givenname>Thilo</givenname>
@@ -21697,7 +21707,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,cjucovschi,sissi,FormalCAD}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 925 **** -->      <bibentry key="MathHub:authoring:on" type="website" xml:id="bib.bib924">
+      <bibentry key="MathHub:authoring:on" type="website" xml:id="bib.bib925">
         <bib-data role="label">MHA</bib-data>
         <bib-title>MathHub: authoring resources &amp; workflows</bib-title>
         <bib-url href="http://mathhub.info/help/authoring">Link</bib-url>
@@ -21709,7 +21719,7 @@ Sandro Wartzack},
    urldate = {2014-02-01}}
 </bib-data>
       </bibentry>
-      <bibentry key="katdemo:on" type="website" xml:id="bib.bib925">
+      <bibentry key="katdemo:on" type="website" xml:id="bib.bib926">
         <bib-data role="label">KD</bib-data>
         <bib-url href="http://kwarc.flanche.net/katGit/test/">Link</bib-url>
         <bib-data role="urldate">2014-02-15</bib-data>
@@ -21719,7 +21729,7 @@ Sandro Wartzack},
    urldate = {2014-02-15}}
 </bib-data>
       </bibentry>
-      <bibentry key="katdemo2:on" type="website" xml:id="bib.bib926">
+      <bibentry key="katdemo2:on" type="website" xml:id="bib.bib927">
         <bib-data role="label">KD</bib-data>
         <bib-url href="http://kwarc.github.io/KAT/">Link</bib-url>
         <bib-data role="urldate">2016-07-18</bib-data>
@@ -21729,7 +21739,7 @@ Sandro Wartzack},
    urldate = {2016-07-18}}
 </bib-data>
       </bibentry>
-      <bibentry key="KAT:github:on" type="website" xml:id="bib.bib927">
+      <bibentry key="KAT:github:on" type="website" xml:id="bib.bib928">
         <bib-data role="label">KG</bib-data>
         <bib-note role="annotation">GitHub repository</bib-note>
         <bib-url href="https://github.com/KWARC/KAT/">Link</bib-url>
@@ -21739,7 +21749,7 @@ Sandro Wartzack},
        url = {https://github.com/KWARC/KAT/}}
 </bib-data>
       </bibentry>
-      <bibentry key="CorTeX:github:on" type="website" xml:id="bib.bib928">
+      <bibentry key="CorTeX:github:on" type="website" xml:id="bib.bib929">
         <bib-data role="label">CG</bib-data>
         <bib-note role="annotation">GitHub repository</bib-note>
         <bib-url href="https://github.com/dginev/CorTeX/">Link</bib-url>
@@ -21749,7 +21759,7 @@ Sandro Wartzack},
        url = {https://github.com/dginev/CorTeX/}}
 </bib-data>
       </bibentry>
-      <bibentry key="SMGloM:gloss:on" type="website" xml:id="bib.bib929">
+      <bibentry key="SMGloM:gloss:on" type="website" xml:id="bib.bib930">
         <bib-data role="label">SMG</bib-data>
         <bib-title>SMGloM glossary</bib-title>
         <bib-data role="urldate">2014-04-21</bib-data>
@@ -21761,7 +21771,7 @@ Sandro Wartzack},
        url = {http://mathhub.info/mh/glossary}}
 </bib-data>
       </bibentry>
-      <bibentry key="SMGloM:URL" type="misc" xml:id="bib.bib930">
+      <bibentry key="SMGloM:URL" type="misc" xml:id="bib.bib931">
         <bib-related bibrefs="SMGloM:base" role="host"/>
         <bib-key>SMG</bib-key>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://smglom.mathhub.info">http://smglom.mathhub.info</ref></bib-note>
@@ -21773,7 +21783,7 @@ Sandro Wartzack},
       note = {System home page seen 2014-04-21}}
 </bib-data>
       </bibentry>
-      <bibentry key="SMGloM:on" type="website" xml:id="bib.bib931">
+      <bibentry key="SMGloM:on" type="website" xml:id="bib.bib932">
         <bib-related bibrefs="SMGloM:base" role="host"/>
         <bib-data role="label">SMG</bib-data>
         <bib-data role="urldate">2014-04-21</bib-data>
@@ -21783,7 +21793,7 @@ Sandro Wartzack},
    urldate = {2014-04-21}}
 </bib-data>
       </bibentry>
-      <bibentry key="SMGloM:base" type="misc" xml:id="bib.bib932">
+      <bibentry key="SMGloM:base" type="misc" xml:id="bib.bib933">
         <bib-title>SMGloM: a semantic, multilingual terminology for mathematics</bib-title>
         <bib-url href="http://smglom.mathhub.info">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{SMGloM:base,
@@ -21791,7 +21801,7 @@ Sandro Wartzack},
        url = {http://smglom.mathhub.info}}
 </bib-data>
       </bibentry>
-      <bibentry key="SMGloM:dict:on" type="website" xml:id="bib.bib933">
+      <bibentry key="SMGloM:dict:on" type="website" xml:id="bib.bib934">
         <bib-data role="label">SMD</bib-data>
         <bib-title>SMGloM dictionary</bib-title>
         <bib-data role="urldate">2015-04-04</bib-data>
@@ -21803,7 +21813,7 @@ Sandro Wartzack},
        url = {http://mathhub.info/mh/dictionary}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:sdsaloc14" type="inproceedings" xml:id="bib.bib934">
+      <bibentry key="KohKoh:sdsaloc14" type="inproceedings" xml:id="bib.bib935">
         <bib-title>System description: a semantics-aware LaTeX-to-office converter</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -21826,7 +21836,7 @@ Sandro Wartzack},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="IanJucKoh:sps15" type="unpublished" xml:id="bib.bib935">
+      <bibentry key="IanJucKoh:sps15" type="unpublished" xml:id="bib.bib936">
         <bib-title>The SMGLoM project and system</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
@@ -21873,7 +21883,7 @@ Sandro Wartzack},
       pubs = {miancu,mkohlhase,akohlhase,cjucovschi,llamapun,mathsearch,smglom}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:dmesmgm14" type="inproceedings" xml:id="bib.bib936">
+      <bibentry key="Kohlhase:dmesmgm14" type="inproceedings" xml:id="bib.bib937">
         <bib-title>A data model and encoding for a semantic, multilingual terminology of mathematics</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -21892,7 +21902,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,llamapun,mathsearch,smglom}}
 </bib-data>
       </bibentry>
-      <bibentry key="DumGinKoh:katsd14" type="unpublished" xml:id="bib.bib937">
+      <bibentry key="DumGinKoh:katsd14" type="unpublished" xml:id="bib.bib938">
         <bib-title>System description: KAT an annotation tool for STEM documents</bib-title>
         <bib-name role="author">
           <surname>Dumitru</surname>
@@ -21930,7 +21940,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,dginev,twiesing,llamapun}}
 </bib-data>
       </bibentry>
-      <bibentry key="IanJucKoh:sdm14" type="inproceedings" xml:id="bib.bib938">
+      <bibentry key="IanJucKoh:sdm14" type="inproceedings" xml:id="bib.bib939">
         <bib-title>System description: MathHub.info</bib-title>
         <bib-name role="author">
           <surname>Iancu</surname>
@@ -21961,7 +21971,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,cjucovschi,miancu,twiesing,oaf,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="DumGinKoh:katsdm14" type="misc" xml:id="bib.bib939">
+      <bibentry key="DumGinKoh:katsdm14" type="misc" xml:id="bib.bib940">
         <bib-title>KAT: an annotation tool for STEM documents; manual</bib-title>
         <bib-name role="author">
           <surname>Dumitru</surname>
@@ -21999,7 +22009,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,dginev,twiesing,llamapun}}
 </bib-data>
       </bibentry>
-      <bibentry key="CarFarKoh:rsckmt14" type="inproceedings" xml:id="bib.bib940">
+      <bibentry key="CarFarKoh:rsckmt14" type="inproceedings" xml:id="bib.bib941">
         <bib-name role="author">
           <surname>Carette</surname>
           <givenname>Jacques</givenname>
@@ -22028,7 +22038,7 @@ Sandro Wartzack},
       note = {MKM Best-Paper-Award}}
 </bib-data>
       </bibentry>
-      <bibentry key="Koh:SearchInterfacesMath:2014" type="inproceedings" xml:id="bib.bib941">
+      <bibentry key="Koh:SearchInterfacesMath:2014" type="inproceedings" xml:id="bib.bib942">
         <bib-title>Search interfaces for mathematicians</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -22047,7 +22057,7 @@ Sandro Wartzack},
       pubs = {akohlhase,mws,mathsearch}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:literal:14" type="unpublished" xml:id="bib.bib942">
+      <bibentry key="Rabe:literal:14" type="unpublished" xml:id="bib.bib943">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -22062,7 +22072,7 @@ Sandro Wartzack},
       pubs = {frabe,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="KalRab:hollight:14" type="inproceedings" xml:id="bib.bib943">
+      <bibentry key="KalRab:hollight:14" type="inproceedings" xml:id="bib.bib944">
         <bib-name role="author">
           <surname>Kaliszyk</surname>
           <givenname>Cezary</givenname>
@@ -22085,7 +22095,7 @@ Sandro Wartzack},
       pubs = {frabe,oaf,mmt,omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSpe:spsgm:15" type="inproceedings" xml:id="bib.bib944">
+      <bibentry key="KohSpe:spsgm:15" type="inproceedings" xml:id="bib.bib945">
         <bib-title>The SMGloM project or why we need a semantic glossary of mathematics</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -22112,7 +22122,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,smglom,omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="cjucovschi:interaction_integration:14" type="inproceedings" xml:id="bib.bib945">
+      <bibentry key="cjucovschi:interaction_integration:14" type="inproceedings" xml:id="bib.bib946">
         <bib-name role="author">
           <surname>Jucovschi</surname>
           <givenname>Constantin</givenname>
@@ -22131,7 +22141,7 @@ Sandro Wartzack},
       pubs = {cjucovschi,sissi,sally}}
 </bib-data>
       </bibentry>
-      <bibentry key="HKR:flexary:14" type="inproceedings" xml:id="bib.bib946">
+      <bibentry key="HKR:flexary:14" type="inproceedings" xml:id="bib.bib947">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Fulya</givenname>
@@ -22158,7 +22168,7 @@ Sandro Wartzack},
       pubs = {fhorozal,mkohlhase,frabe,mmt,omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="SPL:on" type="website" xml:id="bib.bib947">
+      <bibentry key="SPL:on" type="website" xml:id="bib.bib948">
         <bib-data role="label">SPL</bib-data>
         <bib-title>The smglom public license (spl) version 0.1</bib-title>
         <bib-name role="author">
@@ -22173,7 +22183,7 @@ Sandro Wartzack},
        url = {https://mathhub.info/help/spl0.1.html}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:InvasivesDesign:2014" type="unpublished" xml:id="bib.bib948">
+<!--  %**** String Line 950 **** -->      <bibentry key="KohKoh:InvasivesDesign:2014" type="unpublished" xml:id="bib.bib949">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -22190,7 +22200,7 @@ Sandro Wartzack},
  sooncrossref = {MuC2014}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 950 **** -->      <bibentry key="KohToa:Fency:2013" type="inproceedings" xml:id="bib.bib949">
+      <bibentry key="KohToa:Fency:2013" type="inproceedings" xml:id="bib.bib950">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -22211,7 +22221,7 @@ Sandro Wartzack},
       pubs = {akohlhase,atoader,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohGus:CoOccurrencesInSpreadsheets:2015" type="inproceedings" xml:id="bib.bib950">
+      <bibentry key="KohGus:CoOccurrencesInSpreadsheets:2015" type="inproceedings" xml:id="bib.bib951">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -22232,7 +22242,7 @@ Sandro Wartzack},
       pubs = {akohlhase,aguseva,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="Koh:FramingsOfInformation:2013" type="report" xml:id="bib.bib951">
+      <bibentry key="Koh:FramingsOfInformation:2013" type="report" xml:id="bib.bib952">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -22256,7 +22266,7 @@ Sandro Wartzack},
       pubs = {akohlhase,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="aguseva:bsc" type="misc" xml:id="bib.bib952">
+      <bibentry key="aguseva:bsc" type="misc" xml:id="bib.bib953">
         <bib-name role="author">
           <surname>Guseva</surname>
           <givenname>Ana</givenname>
@@ -22275,7 +22285,7 @@ Sandro Wartzack},
       pubs = {sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="agiurgiu:bsc" type="misc" xml:id="bib.bib953">
+      <bibentry key="agiurgiu:bsc" type="misc" xml:id="bib.bib954">
         <bib-name role="author">
           <surname>Giurgiu</surname>
           <givenname>Andrei-George</givenname>
@@ -22294,7 +22304,7 @@ Sandro Wartzack},
       pubs = {sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="alezza:bsc" type="misc" xml:id="bib.bib954">
+      <bibentry key="alezza:bsc" type="misc" xml:id="bib.bib955">
         <bib-name role="author">
           <surname>Lezza</surname>
           <givenname>Andra Lidia</givenname>
@@ -22313,7 +22323,7 @@ Sandro Wartzack},
       pubs = {sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="atoader:bsc" type="misc" xml:id="bib.bib955">
+      <bibentry key="atoader:bsc" type="misc" xml:id="bib.bib956">
         <bib-name role="author">
           <surname>Toader</surname>
           <givenname>Alexandru Valentin</givenname>
@@ -22330,7 +22340,7 @@ Sandro Wartzack},
       pubs = {sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="smirea:bsc" type="misc" xml:id="bib.bib956">
+      <bibentry key="smirea:bsc" type="misc" xml:id="bib.bib957">
         <bib-name role="author">
           <surname>Mirea</surname>
           <givenname>Stefan</givenname>
@@ -22349,7 +22359,7 @@ Sandro Wartzack},
       pubs = {mathsearch,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="YTInters" type="website" xml:id="bib.bib957">
+      <bibentry key="YTInters" type="website" xml:id="bib.bib958">
         <bib-data role="label">IntV15</bib-data>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -22366,7 +22376,7 @@ Sandro Wartzack},
    urldate = {2015-06-29}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMue:cicm15" type="unpublished" xml:id="bib.bib958">
+      <bibentry key="KohMue:cicm15" type="unpublished" xml:id="bib.bib959">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -22385,7 +22395,7 @@ Sandro Wartzack},
       year = {2015}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D3.3" type="report" xml:id="bib.bib959">
+      <bibentry key="ODK-D3.3" type="report" xml:id="bib.bib960">
         <bib-name role="author">
           <surname>Luca De Feo</surname>
           <givenname>Steve Linton</givenname>
@@ -22415,7 +22425,7 @@ Sandro Wartzack},
       pubs = {twiesing,mmt,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.2" type="report" xml:id="bib.bib960">
+      <bibentry key="ODK-D4.2" type="report" xml:id="bib.bib961">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22440,7 +22450,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,odk,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.3" type="report" xml:id="bib.bib961">
+      <bibentry key="ODK-D4.3" type="report" xml:id="bib.bib962">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22466,7 +22476,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,mathhub,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.9" type="report" xml:id="bib.bib962">
+      <bibentry key="ODK-D4.9" type="report" xml:id="bib.bib963">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22495,7 +22505,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,twiesing,odk,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib963">
+      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib964">
         <bib-data role="label">D6.1</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -22524,7 +22534,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,odk,mws}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib964">
+      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib965">
         <bib-data role="label">D6.2</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -22587,7 +22597,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib965">
+      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib966">
         <bib-data role="label">D6.3</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -22648,7 +22658,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib966">
+      <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib967">
         <bib-data role="label">PVS</bib-data>
         <bib-title>The pvs libraries in omdoc/mmt format</bib-title>
         <bib-url href="https://gl.mathhub.info/PVS">Link</bib-url>
@@ -22660,7 +22670,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
    urldate = {2017-06-29}}
 </bib-data>
       </bibentry>
-      <bibentry key="twiesing:msc17" type="thesis" xml:id="bib.bib967">
+      <bibentry key="twiesing:msc17" type="thesis" xml:id="bib.bib968">
         <bib-name role="author">
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
