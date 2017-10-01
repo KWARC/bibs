@@ -60,6 +60,26 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@manual{Concise-manual:on,
+  label = {CM},
+  author = {Ferenc Domes and Arnold Neumaier and Kevin Kofler and Peter Schodl and Hermann Schichl},
+  title = {Concise Manual},
+  url = {http://www.mat.univie.ac.at/~neum/ms/ConciseManual.pdf}}
+  
+@masterthesis{Pichler:srmk16,
+  author = {Andreas Pichler},
+  title = {Semantische Repr{\"a}sentation mathematischer Konzepte},
+  institution = {Faculty of Mathematics, University of Vienna},
+  year = {2016},
+  url = {http://www.mat.univie.ac.at/~neum/ms/pichlerMaster.pdf}}
+  
+@phdthesis{Kofler:dgpnml17,
+  author = {Kevin Kofler},
+  title = {Dynamic Generalized Parsing and Natural Mathematical Language},
+  institution = {Universit{\"a}t Wien},
+  url = {https://www.tigen.org/kevin.kofler/fmathl/dyngenpar/diss.pdf},
+  year = {2017}}
+  
 @online{swMath:tpmuseum:on,
   url = {http://swmath.org/?c4f=museum&which_search=advanced},
   title = {{swMath} -- Theorem Prover Museum},
@@ -1152,11 +1172,9 @@ type = {W3C Community Draft}}
 
 @InProceedings{helmert:domshlak:icaps-09,
   author =       "Malte Helmert and Carmel Domshlak",
-  title =        "Landmarks, Critical Paths and Abstractions:
-                  {What's} the Difference Anyway?",
+  title =        "Landmarks, Critical Paths and Abstractions: {What's} the Difference Anyway?",
   pages =        "162--169",
   crossref = "icaps09"}
-}
 
 @Article{richter:westphal:jair-10,
   author =       "Silvia Richter and Matthias Westphal",
@@ -29424,6 +29442,12 @@ pages= {325--329}}
   pages = {145--189},
   number = {2}}
 
+@online{GF:on,
+  label = {GF},
+  title = {GF - Grammatical Framework},
+  url = {http://www.grammaticalframework.org},
+  urldate = {2017-09-27}}
+  
 @Book{ranta-2011,
   author = {Aarne Ranta},
   title =  {{Grammatical Framework:
@@ -41858,8 +41882,7 @@ year = 2014,
   author = {Michael Kohlhase},
   crossref = {FGWM17},
   url = {http://kwarc.info/kohlhase/submit/lwda17-moi.pdf},
-  pubs = {mkohlhase},
-  note = {in press}}
+  pubs = {mkohlhase}}
 
 @online{ed:on,
   title = {ed -- Editorial Notes for {\LaTeX} documents},
@@ -41925,7 +41948,7 @@ url = {http://uniformal.github.io/doc/applications/jedit.html}}
 @inproceedings{KohMueOwr:mpagsiuf17,
   author = {Michael Kohlhase and Dennis M{\"u}ller and Sam Owre and Florian Rabe},
   title = {Making {PVS} Accessible to Generic Services by Interpretation in a Universal Format},
-  note = {accepted at ITP 2017},
+  crossref = {ITP17},  
   year = {2017},
   url  = {http://kwarc.info/kohlhase/submit/itp17-pvs.pdf},
   pubs = {mkohlhase,dmueller,frabe,oaf}}
@@ -47747,6 +47770,13 @@ pubs = {mkohlhase}}
   key = {MathWebSearch},
   label = {MWS}}
 
+@online{LaTeX-proposal:git,
+    label = {LP},
+    url = {http://github.com/KWARC/LaTeX-proposal/},
+    urldate = {2017-09-13},
+    title = {{LaTeX-proposal}: A set of {\LaTeX} classes for preparing grant proposals}
+    }
+
 @techreport{Kohlhase:pplp:ctan,crossref={Kohlhase:pplp:base},
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url = {http://mirror.ctan.org/macros/latex/contrib/proposal/base/proposal.pdf},
@@ -49237,18 +49267,16 @@ Frank Tompa and Martin Suda},
   pubs={mkohlhase}}
 
 @proceedings{CICM17,
-  SOONeditor = {},
-  SOONvenue = {},
-  eventdate = {2017-07-17/2017-07-21},
+  editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
   eventtitle = {Conferences on Intelligent Computer Mathematics},
   title = {Intelligent Computer Mathematics},
   booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
   publisher = {Springer},
+  doi = {10.1007/978-3-319-62075-6}
   series    = {LNAI},
-  SOONnumber    = {9791},
-  SOONisbn = {978-3-319-20615-8},
-  year = 2017,
-  note = {in press},
+  number    = {10383},
+  isbn = {978-3-319-62074-9},
+  year = {2017},
   keywords = {conference},
   pubs={frabe}
 }
@@ -49785,6 +49813,17 @@ eventdate = {2014-05-25},
   keywords = {conference},
   publisher = {Springer},
   doi       = {10.1007/978-3-319-42432-3}}
+
+@proceedings{ITP17,
+  year = {2017},
+  isbn = {978-3-319-66107-0},
+  title = {Interactive Theorem Proving 8th International Conference, ITP 2017},
+  booktitle = {Interactive Theorem Proving},
+  keywords = {conference},
+  volume = {10499},
+  series = {LNCS},
+  editor = {Ayala-Rinc{\'o}n, Mauricio, Mu{\~n}oz, C{\'e}sar A.},
+  publisher={Springer}}
 
 @proceedings{ITP13,
   year = {2013},
