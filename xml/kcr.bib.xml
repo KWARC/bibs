@@ -13921,7 +13921,9 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         
         <bib-part role="volume">21</bib-part>
         <bib-part role="number">4</bib-part>
-        <bib-data role="pubs">frabe,mmt,omdoc</bib-data>
+        <bib-identifier href="http://dx.doi.org/10.1017/S0960129511000144" id="10.1017/S0960129511000144" scheme="doi">Document</bib-identifier>
+        <bib-url href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2E3F3CC119D3AAAEFD3D21CE5BAD7E33/S0960129511000144a.pdf/formalising_foundations_of_mathematics.pdf">Link</bib-url>
+        <bib-data role="pubs">frabe,mmt,omdoc,miancu</bib-data>
         <bib-data role="self" type="BibTeX">@article{IR:foundations:10,
     author = {Mihnea Iancu and Florian Rabe},
      title = {{Formalizing Foundations of Mathematics}},
@@ -13930,7 +13932,9 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
    journal = {Mathematical Structures in Computer Science},
     volume = {21},
     number = {4},
-      pubs = {frabe,mmt,omdoc}}
+       doi = {10.1017/S0960129511000144},
+       url = {https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2E3F3CC119D3AAAEFD3D21CE5BAD7E33/S0960129511000144a.pdf/formalising_foundations_of_mathematics.pdf},
+      pubs = {frabe,mmt,omdoc,miancu}}
 </bib-data>
       </bibentry>
       <bibentry key="DLR:jobad:10" type="inproceedings" xml:id="bib.bib427">
