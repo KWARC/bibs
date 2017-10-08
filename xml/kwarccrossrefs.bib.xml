@@ -173,13 +173,25 @@ Frank Tompa and Martin Suda},
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier>
+        <bib-part role="series">LNAI</bib-part>
+        <bib-part role="number">10383</bib-part>
+        <bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier>
+        <bib-date role="publication">2017</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-data role="pubs">frabe</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
-       doi = {10.1007/978-3-319-62075-6}}
+       doi = {10.1007/978-3-319-62075-6},
+    series = {LNAI},
+    number = {10383},
+      isbn = {978-3-319-62074-9},
+      year = {2017},
+  keywords = {conference},
+      pubs = {frabe}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM16" type="proceedings" xml:id="bib.bib7">

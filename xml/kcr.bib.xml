@@ -478,15 +478,22 @@ Interface Theories},
         </bib-name><bib-name role="editor">
           <surname>Teschke</surname>
           <givenname>Olaf</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
-       doi = {10.1007/978-3-319-62075-6}}
+       doi = {10.1007/978-3-319-62075-6},
+    series = {LNAI},
+    number = {10383},
+      isbn = {978-3-319-62074-9},
+      year = {2017},
+  keywords = {conference},
+      pubs = {frabe}}
 </bib-data></bib-related>
         
+        <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKopMue:mmrdftg17,
     author = {Kohlhase, Michael and Koprucki, Thomas and M{\"u}ller, Dennis and Tabelow, Karsten},
      title = {Mathematical models as research data via flexiformal theory graphs},
@@ -494,7 +501,8 @@ Interface Theories},
       pubs = {mkohlhase,dmueller,odk},
   crossref = {CICM17},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
- publisher = {Springer}}
+ publisher = {Springer},
+      year = {2017}}
 </bib-data>
       </bibentry>
       <bibentry key="MueGauKal:cacfms17" type="inproceedings" xml:id="bib.bib21">
@@ -536,15 +544,22 @@ Interface Theories},
         </bib-name><bib-name role="editor">
           <surname>Teschke</surname>
           <givenname>Olaf</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
-       doi = {10.1007/978-3-319-62075-6}}
+       doi = {10.1007/978-3-319-62075-6},
+    series = {LNAI},
+    number = {10383},
+      isbn = {978-3-319-62074-9},
+      year = {2017},
+  keywords = {conference},
+      pubs = {frabe}}
 </bib-data></bib-related>
         
+        <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{MueGauKal:cacfms17,
      title = {Classification of Alignments between Concepts of Formal Mathematical Systems},
     author = {Dennis M{\"u}ller and  Thibault Gauthier and  Cezary Kaliszyk and Michael Kohlhase and  Florian Rabe},
@@ -552,7 +567,8 @@ Interface Theories},
       pubs = {mkohlhase,dmueller,frabe,oaf,odk},
   crossref = {CICM17},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
- publisher = {Springer}}
+ publisher = {Springer},
+      year = {2017}}
 </bib-data>
       </bibentry>
       <bibentry key="SperKoh:scsb17" type="inproceedings" xml:id="bib.bib22">
@@ -582,15 +598,22 @@ Interface Theories},
         </bib-name><bib-name role="editor">
           <surname>Teschke</surname>
           <givenname>Olaf</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
-       doi = {10.1007/978-3-319-62075-6}}
+       doi = {10.1007/978-3-319-62075-6},
+    series = {LNAI},
+    number = {10383},
+      isbn = {978-3-319-62074-9},
+      year = {2017},
+  keywords = {conference},
+      pubs = {frabe}}
 </bib-data></bib-related>
         
+        <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{SperKoh:scsb17,
      title = {Software Citations, Information Systems, and Beyond},
     author = {Wolfram Sperber and Michael Kohlhase},
@@ -598,7 +621,8 @@ Interface Theories},
       pubs = {mkohlhase},
   crossref = {CICM17},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
- publisher = {Springer}}
+ publisher = {Springer},
+      year = {2017}}
 </bib-data>
       </bibentry>
       <bibentry key="KohKohFue:scsb17" type="inproceedings" xml:id="bib.bib23">
@@ -632,15 +656,22 @@ Interface Theories},
         </bib-name><bib-name role="editor">
           <surname>Teschke</surname>
           <givenname>Olaf</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
-       doi = {10.1007/978-3-319-62075-6}}
+       doi = {10.1007/978-3-319-62075-6},
+    series = {LNAI},
+    number = {10383},
+      isbn = {978-3-319-62074-9},
+      year = {2017},
+  keywords = {conference},
+      pubs = {frabe}}
 </bib-data></bib-related>
         
+        <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKohFue:scsb17,
      title = {Visual Structure in Math Expressions},
     author = {Andrea Kohlhase and Michael Kohlhase and Michael F{\"u}rsich},
@@ -648,7 +679,8 @@ Interface Theories},
       pubs = {mkohlhase,akohlhase},
   crossref = {CICM17},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
- publisher = {Springer}}
+ publisher = {Springer},
+      year = {2017}}
 </bib-data>
       </bibentry>
       <bibentry key="MPDHub:on" type="website" xml:id="bib.bib24">
@@ -28357,13 +28389,25 @@ Frank Tompa and Martin Suda},
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier>
+        <bib-part role="series">LNAI</bib-part>
+        <bib-part role="number">10383</bib-part>
+        <bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier>
+        <bib-date role="publication">2017</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-data role="pubs">frabe</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
-       doi = {10.1007/978-3-319-62075-6}}
+       doi = {10.1007/978-3-319-62075-6},
+    series = {LNAI},
+    number = {10383},
+      isbn = {978-3-319-62074-9},
+      year = {2017},
+  keywords = {conference},
+      pubs = {frabe}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM16" type="proceedings" xml:id="bib.bib975">
