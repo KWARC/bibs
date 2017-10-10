@@ -70,8 +70,8 @@
      label = {TPL}}
 </bib-data>
       </bibentry>
-      <bibentry key="WieKohRab:vtuimkb17" type="unpublished" xml:id="bib.bib4">
-        <bib-title>REGULAR-t1: virtual theories – a uniform interface to mathematical knowledge bases</bib-title>
+      <bibentry key="WieKohRab:vtuimkb17" type="inproceedings" xml:id="bib.bib4">
+        <bib-title>Virtual theories – a uniform interface to mathematical knowledge bases</bib-title>
         <bib-name role="author">
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
@@ -84,19 +84,21 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
+        <bib-related bibrefs="MACIS17" role="host"/>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/submit.pdf">Link</bib-url>
-        <bib-note role="annotation">submitted to MACIS-2017</bib-note>
+        <bib-note role="annotation">accepted</bib-note>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,odk</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{WieKohRab:vtuimkb17,
-     title = {REGULAR-T1: Virtual Theories – A Uniform Interface to Mathematical Knowledge Bases},
+        <bib-data role="self" type="BibTeX">@inproceedings{WieKohRab:vtuimkb17,
+     title = {Virtual Theories – A Uniform Interface to Mathematical Knowledge Bases},
     author = {Tom Wiesing and Michael Kohlhase and Florian Rabe},
+  crossref = {MACIS17},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/submit.pdf},
-      note = {submitted to MACIS-2017},
+      note = {accepted},
       pubs = {twiesing,mkohlhase,frabe,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMuePfe:kbimss17" type="unpublished" xml:id="bib.bib5">
-        <bib-title>REGULAR-t1: knowledge-based interoperability for mathematical software systems</bib-title>
+      <bibentry key="KohMuePfe:kbimss17" type="inproceedings" xml:id="bib.bib5">
+        <bib-title>Knowledge-based interoperability for mathematical software systems</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -126,13 +128,15 @@
           <givenname>Tom</givenname>
         </bib-name>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/submit.pdf">Link</bib-url>
-        <bib-note role="annotation">submitted to MACIS-2017</bib-note>
+        <bib-related bibrefs="MACIS17" role="host"/>
+        <bib-note role="annotation">accepted</bib-note>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,dmueller,odk</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohMuePfe:kbimss17,
-     title = {REGULAR-T1: Knowledge-Based Interoperability for Mathematical Software Systems},
+        <bib-data role="self" type="BibTeX">@inproceedings{KohMuePfe:kbimss17,
+     title = {Knowledge-Based Interoperability for Mathematical Software Systems},
     author = {Michael Kohlhase and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas Thi{\'e}ry and Victor Vasilyev and Tom Wiesing},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/submit.pdf},
-      note = {submitted to MACIS-2017},
+  crossref = {MACIS17},
+      note = {accepted},
       pubs = {twiesing,mkohlhase,frabe,dmueller,odk}}
 </bib-data>
       </bibentry>
