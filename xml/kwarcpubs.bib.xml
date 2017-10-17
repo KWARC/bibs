@@ -85,16 +85,12 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-related bibrefs="MACIS17" role="host"/>
-        <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf">Link</bib-url>
-        <bib-note role="annotation">in press</bib-note>
-        <bib-data role="pubs">twiesing,mkohlhase,frabe,odk</bib-data>
+        <bib-data role="pubs">twiesing,mkohlhase,frabe,odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{WieKohRab:vtuimkb17,
      title = {Virtual Theories – A Uniform Interface to Mathematical Knowledge Bases},
     author = {Tom Wiesing and Michael Kohlhase and Florian Rabe},
   crossref = {MACIS17},
-       url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf},
-      note = {in press},
-      pubs = {twiesing,mkohlhase,frabe,odk}}
+      pubs = {twiesing,mkohlhase,frabe,odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="KohMuePfe:kbimss17" type="inproceedings" xml:id="bib.bib5">
@@ -129,15 +125,13 @@
         </bib-name>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf">Link</bib-url>
         <bib-related bibrefs="MACIS17" role="host"/>
-        <bib-note role="annotation">in press</bib-note>
-        <bib-data role="pubs">twiesing,mkohlhase,frabe,dmueller,odk</bib-data>
+        <bib-data role="pubs">twiesing,mkohlhase,frabe,dmueller,odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohMuePfe:kbimss17,
      title = {Knowledge-Based Interoperability for Mathematical Software Systems},
     author = {Michael Kohlhase and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas Thi{\'e}ry and Victor Vasilyev and Tom Wiesing},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf},
   crossref = {MACIS17},
-      note = {in press},
-      pubs = {twiesing,mkohlhase,frabe,dmueller,odk}}
+      pubs = {twiesing,mkohlhase,frabe,dmueller,odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="mitm:groups:on" type="website" xml:id="bib.bib6">
@@ -145,11 +139,13 @@
         <bib-url href="https://gl.mathhub.info/MitM/groups">Link</bib-url>
         <bib-data role="urldate">2017-09-01</bib-data>
         <bib-type>Math Archive</bib-type>
+        <bib-data role="pubs">odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@online{mitm:groups:on,
      title = {{MitM}/groups},
        url = {https://gl.mathhub.info/MitM/groups},
    urldate = {2017-09-01},
-      type = {Math Archive}}
+      type = {Math Archive},
+      pubs = {odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="mitm:foundation:on" type="website" xml:id="bib.bib7">
@@ -157,11 +153,13 @@
         <bib-url href="https://gl.mathhub.info/MitM/Foundation">Link</bib-url>
         <bib-data role="urldate">2017-09-01</bib-data>
         <bib-type>Math Archive</bib-type>
+        <bib-data role="pubs">odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@online{mitm:foundation:on,
      title = {{MitM/Foundation}},
        url = {https://gl.mathhub.info/MitM/Foundation},
    urldate = {2017-09-01},
-      type = {Math Archive}}
+      type = {Math Archive},
+      pubs = {odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:dddme17" type="inproceedings" xml:id="bib.bib8">
@@ -284,13 +282,13 @@ Interface Theories},
         <bib-title>A flexible, interactive theory-graph viewer</bib-title>
         <bib-related bibrefs="MathUI17" role="host"/>
         <bib-url href="http://kwarc.info/kohlhase/papers/mathui17-tgview.pdf">Link</bib-url>
-        <bib-data role="pubs">dmueller,mkohlhase,mrupprecht,odk,mathhub</bib-data>
+        <bib-data role="pubs">dmueller,mkohlhase,mrupprecht,odk,mathhub,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{RupKohMue:fitgv17,
     author = {Marcel Rupprecht and Michael Kohlhase and Dennis M{\"u}ller},
      title = {A Flexible, Interactive Theory-Graph Viewer},
   crossref = {MathUI17},
        url = {http://kwarc.info/kohlhase/papers/mathui17-tgview.pdf},
-      pubs = {dmueller,mkohlhase,mrupprecht,odk,mathhub}}
+      pubs = {dmueller,mkohlhase,mrupprecht,odk,mathhub,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="Rabe15:LRIpic" type="website" xml:id="bib.bib15">
@@ -427,13 +425,13 @@ Interface Theories},
         </bib-name>
         <bib-title>Mathematical models as research data via flexiformal theory graphs</bib-title>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-models.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dmueller,odk</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,odk,odkWP6</bib-data>
         <bib-related bibrefs="CICM17" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKopMue:mmrdftg17,
     author = {Kohlhase, Michael and Koprucki, Thomas and M{\"u}ller, Dennis and Tabelow, Karsten},
      title = {Mathematical models as research data via flexiformal theory graphs},
        url = {http://kwarc.info/kohlhase/papers/cicm17-models.pdf},
-      pubs = {mkohlhase,dmueller,odk},
+      pubs = {mkohlhase,dmueller,odk,odkWP6},
   crossref = {CICM17}}
 </bib-data>
       </bibentry>
@@ -460,13 +458,13 @@ Interface Theories},
           <givenname>Florian</givenname>
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-alignments.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dmueller,frabe,oaf,odk</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,frabe,oaf,odk,odkWP6</bib-data>
         <bib-related bibrefs="CICM17" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{MueGauKal:cacfms17,
      title = {Classification of Alignments between Concepts of Formal Mathematical Systems},
     author = {Dennis M{\"u}ller and  Thibault Gauthier and  Cezary Kaliszyk and Michael Kohlhase and  Florian Rabe},
        url = {http://kwarc.info/kohlhase/papers/cicm17-alignments.pdf},
-      pubs = {mkohlhase,dmueller,frabe,oaf,odk},
+      pubs = {mkohlhase,dmueller,frabe,oaf,odk,odkWP6},
   crossref = {CICM17}}
 </bib-data>
       </bibentry>
@@ -601,20 +599,24 @@ Interface Theories},
         <bib-title>MitM: the math-in-the-middle ontology</bib-title>
         <bib-url href="https://mathhub.info/MitM">Link</bib-url>
         <bib-data role="urldate">2017-02-05</bib-data>
+        <bib-data role="pubs">odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@online{MitM:on,
      title = {MitM: The Math-in-the-Middle Ontology},
        url = {https://mathhub.info/MitM},
-   urldate = {2017-02-05}}
+   urldate = {2017-02-05},
+      pubs = {odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="ODKsysonto:on" type="website" xml:id="bib.bib30">
         <bib-title>ODK: opendreamkit system ontologies</bib-title>
         <bib-url href="https://mathhub.info/MitM">Link</bib-url>
         <bib-data role="urldate">2017-02-05</bib-data>
+        <bib-data role="pubs">odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@online{ODKsysonto:on,
      title = {ODK: OpenDreamKit System Ontologies},
        url = {https://mathhub.info/MitM},
-   urldate = {2017-02-05}}
+   urldate = {2017-02-05},
+      pubs = {odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="MitMInter:on" type="website" xml:id="bib.bib31">
@@ -1022,14 +1024,14 @@ Interface Theories},
           <givenname>Tom</givenname>
         </bib-name>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/CICM2016/published.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dmueller,miancu,twiesing,frabe,odk</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,miancu,twiesing,frabe,odk,odkWP6</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-related bibrefs="CICM16" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{DehKohKon:iop16,
      title = {Interoperability in the {OpenDreamKit} Project: The Math-in-the-Middle Approach},
     author = {Paul-Olivier Dehaye and Mihnea Iancu and Michael Kohlhase and Alexander Konovalov and Samuel Leli{\`e}vre and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas M. Thi{\'e}ry and Tom Wiesing},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/CICM2016/published.pdf},
-      pubs = {mkohlhase,dmueller,miancu,twiesing,frabe,odk},
+      pubs = {mkohlhase,dmueller,miancu,twiesing,frabe,odk,odkWP6},
   keywords = {conference},
   crossref = {CICM16}}
 </bib-data>
@@ -1101,13 +1103,13 @@ Interface Theories},
           <givenname>Florian</givenname>
         </bib-name>
         <bib-url href="http://ceur-ws.org/Vol-1785/W24.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dmueller,frabe,oaf,odk</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,frabe,oaf,odk,odkWP6</bib-data>
         <bib-related bibrefs="CICM16WIP" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{KalKohMue:samc16,
      title = {A Standard for Aligning Mathematical Concepts},
     author = {Cezary Kaliszyk and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe},
        url = {http://ceur-ws.org/Vol-1785/W24.pdf},
-      pubs = {mkohlhase,dmueller,frabe,oaf,odk},
+      pubs = {mkohlhase,dmueller,frabe,oaf,odk,odkWP6},
   crossref = {CICM16WIP}}
 </bib-data>
       </bibentry>
@@ -1130,13 +1132,11 @@ Interface Theories},
           <givenname>Florian</givenname>
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/alignments16.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dmueller,frabe,oaf,odk</bib-data>
         <bib-related bibrefs="CPP16" role="host"/>
         <bib-data role="self" type="BibTeX">@unpublished{KalKohMue:alfms16,
      title = {Aligning the Libraries of Formal Mathematical Systems},
     author = {Cezary Kaliszyk and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe},
        url = {http://kwarc.info/kohlhase/submit/alignments16.pdf},
-      pubs = {mkohlhase,dmueller,frabe,oaf,odk},
   crossref = {CPP16}}
 </bib-data>
       </bibentry>
@@ -22550,7 +22550,7 @@ Sandro Wartzack},
         <bib-type>Deliverable</bib-type>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.1/report-final.pdf">Link</bib-url>
         <bib-part role="number">D6.1</bib-part>
-        <bib-data role="pubs">mkohlhase,odk,mws</bib-data>
+        <bib-data role="pubs">mkohlhase,odk,mws,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@techreport{ODK-D6.1,
      label = {D6.1},
     author = {Michael Kohlhase and Alexandru Glontaru},
@@ -22560,7 +22560,7 @@ Sandro Wartzack},
       type = {Deliverable},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.1/report-final.pdf},
     number = {D6.1},
-      pubs = {mkohlhase,odk,mws}}
+      pubs = {mkohlhase,odk,mws,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib966">
@@ -22611,7 +22611,7 @@ Sandro Wartzack},
         <bib-type>Deliverable</bib-type>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.2/report-final.pdf">Link</bib-url>
         <bib-part role="number">D6.2</bib-part>
-        <bib-data role="pubs">mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk</bib-data>
+        <bib-data role="pubs">mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@techreport{ODK-D6.2,
      label = {D6.2},
     author = {Paul-Olivier Dehaye and Mihnea Iancu and Michael Kohlhase and Alexander Konovalov and Samuel Leli{\`e}vre and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas~M.~Thi{\'e}ry and Tom Wiesing},
@@ -22623,7 +22623,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       type = {Deliverable},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.2/report-final.pdf},
     number = {D6.2},
-      pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk}}
+      pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib967">
@@ -22674,7 +22674,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
         <bib-type>Deliverable</bib-type>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.2/report-final.pdf">Link</bib-url>
         <bib-part role="number">D6.2</bib-part>
-        <bib-data role="pubs">mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk</bib-data>
+        <bib-data role="pubs">mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@techreport{ODK-D6.3,
      label = {D6.3},
     author = {Paul-Olivier Dehaye and Mihnea Iancu and Michael Kohlhase and Alexander Konovalov and Samuel Leli{\`e}vre and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas~M.~Thi{\'e}ry and Tom Wiesing},
@@ -22684,7 +22684,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       type = {Deliverable},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.2/report-final.pdf},
     number = {D6.2},
-      pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk}}
+      pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib968">
