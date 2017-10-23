@@ -86,11 +86,15 @@
         </bib-name>
         <bib-related bibrefs="MACIS17" role="host"/>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,odk,odkWP6</bib-data>
+        <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf">Link</bib-url>
+        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@inproceedings{WieKohRab:vtuimkb17,
      title = {Virtual Theories – A Uniform Interface to Mathematical Knowledge Bases},
     author = {Tom Wiesing and Michael Kohlhase and Florian Rabe},
   crossref = {MACIS17},
-      pubs = {twiesing,mkohlhase,frabe,odk,odkWP6}}
+      pubs = {twiesing,mkohlhase,frabe,odk,odkWP6},
+       url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf},
+      note = {in press}}
 </bib-data>
       </bibentry>
       <bibentry key="KohMuePfe:kbimss17" type="inproceedings" xml:id="bib.bib5">
@@ -126,12 +130,14 @@
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf">Link</bib-url>
         <bib-related bibrefs="MACIS17" role="host"/>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,dmueller,odk,odkWP6</bib-data>
+        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@inproceedings{KohMuePfe:kbimss17,
      title = {Knowledge-Based Interoperability for Mathematical Software Systems},
     author = {Michael Kohlhase and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas Thi{\'e}ry and Victor Vasilyev and Tom Wiesing},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf},
   crossref = {MACIS17},
-      pubs = {twiesing,mkohlhase,frabe,dmueller,odk,odkWP6}}
+      pubs = {twiesing,mkohlhase,frabe,dmueller,odk,odkWP6},
+      note = {in press}}
 </bib-data>
       </bibentry>
       <bibentry key="mitm:groups:on" type="website" xml:id="bib.bib6">
@@ -3904,12 +3910,14 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-title>SMGloM primer</bib-title>
         <bib-note role="annotation">SMGloM Blue Note</bib-note>
         <bib-url href="http://gl.kwarc.info/smglom/manuals/raw/master/primer/primer.pdf">Link</bib-url>
+        <bib-data role="pubs">smglom,mkohlhase</bib-data>
         <bib-date role="publication">2014</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:sp14,
     author = {Michael Kohlhase},
      title = {SMGloM Primer},
       note = {SMGloM Blue Note},
        url = {http://gl.kwarc.info/smglom/manuals/raw/master/primer/primer.pdf},
+      pubs = {smglom,mkohlhase},
       year = {2014}}
 </bib-data>
       </bibentry>
@@ -3958,12 +3966,14 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-title>SMGloM: a semantic multilingual glossary system for mathematics</bib-title>
         <bib-note role="annotation">SMGloM Blue Note</bib-note>
         <bib-url href="http://gl.kwarc.info/smglom/blue/raw/master/smglom/note.pdf">Link</bib-url>
+        <bib-data role="pubs">smglom</bib-data>
         <bib-date role="publication">2013</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:tsmgs13,
     author = {Michael Kohlhase},
      title = {{SMGloM}: a Semantic Multilingual Glossary System for Mathematics},
       note = {SMGloM Blue Note},
        url = {http://gl.kwarc.info/smglom/blue/raw/master/smglom/note.pdf},
+      pubs = {smglom},
       year = {2013}}
 </bib-data>
       </bibentry>
@@ -3979,12 +3989,14 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-title>Editing workflows in smglom</bib-title>
         <bib-note role="annotation">SMGloM Blue Note</bib-note>
         <bib-url href="http://gl.kwarc.info/smglom/blue/raw/master/editing/note.pdf">Link</bib-url>
+        <bib-data role="pubs">smglom</bib-data>
         <bib-date role="publication">2014</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{KohJuc:edsmglom14,
     author = {Michael Kohlhase and Constantin Jucovschi},
      title = {Editing Workflows in SMGloM},
       note = {SMGloM Blue Note},
        url = {http://gl.kwarc.info/smglom/blue/raw/master/editing/note.pdf},
+      pubs = {smglom},
       year = {2014}}
 </bib-data>
       </bibentry>
@@ -3996,12 +4008,14 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-title>Content management in smglom</bib-title>
         <bib-note role="annotation">SMGloM Blue Note</bib-note>
         <bib-url href="http://gl.kwarc.info/smglom/blue/raw/master/contmgt/note.pdf">Link</bib-url>
+        <bib-data role="pubs">smglom</bib-data>
         <bib-date role="publication">2014</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:cmsmglom14,
     author = {Michael Kohlhase},
      title = {Content Management in SMGloM},
       note = {SMGloM Blue Note},
        url = {http://gl.kwarc.info/smglom/blue/raw/master/contmgt/note.pdf},
+      pubs = {smglom},
       year = {2014}}
 </bib-data>
       </bibentry>
@@ -21865,54 +21879,7 @@ Sandro Wartzack},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="IanJucKoh:sps15" type="unpublished" xml:id="bib.bib937">
-        <bib-title>The SMGLoM project and system</bib-title>
-        <bib-name role="author">
-          <surname>Ginev</surname>
-          <givenname>Deyan</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Iancu</surname>
-          <givenname>Mihnea</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Jucovschi</surname>
-          <givenname>Constantin</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Andrea</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Kröger</surname>
-          <givenname>Heinz</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Schefter</surname>
-          <givenname>Jürgen</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Sperber</surname>
-          <givenname>Wolfram</givenname>
-        </bib-name>
-        <bib-date role="publication">2015</bib-date>
-        <bib-url href="http://kwarc.info/kohlhase/submit/cicm15-smglom.pdf">Link</bib-url>
-        <bib-data role="pubs">miancu,mkohlhase,akohlhase,cjucovschi,llamapun,mathsearch,smglom</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{IanJucKoh:sps15,
-     title = {The {SMGLoM} Project and System},
-    author = {Deyan Ginev and Mihnea Iancu and Constantin Jucovschi and Andrea Kohlhase and
-                  Michael Kohlhase and Heinz Kr{\"o}ger and J{\"u}rgen Schefter and
-                  Wolfram Sperber},
-      year = {2015},
-       url = {http://kwarc.info/kohlhase/submit/cicm15-smglom.pdf},
-      pubs = {miancu,mkohlhase,akohlhase,cjucovschi,llamapun,mathsearch,smglom}}
-</bib-data>
-      </bibentry>
-      <bibentry key="Kohlhase:dmesmgm14" type="inproceedings" xml:id="bib.bib938">
+      <bibentry key="Kohlhase:dmesmgm14" type="inproceedings" xml:id="bib.bib937">
         <bib-title>A data model and encoding for a semantic, multilingual terminology of mathematics</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -21931,7 +21898,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,llamapun,mathsearch,smglom}}
 </bib-data>
       </bibentry>
-      <bibentry key="DumGinKoh:katsd14" type="unpublished" xml:id="bib.bib939">
+      <bibentry key="DumGinKoh:katsd14" type="unpublished" xml:id="bib.bib938">
         <bib-title>System description: KAT an annotation tool for STEM documents</bib-title>
         <bib-name role="author">
           <surname>Dumitru</surname>
@@ -21969,7 +21936,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,dginev,twiesing,llamapun}}
 </bib-data>
       </bibentry>
-      <bibentry key="IanJucKoh:sdm14" type="inproceedings" xml:id="bib.bib940">
+      <bibentry key="IanJucKoh:sdm14" type="inproceedings" xml:id="bib.bib939">
         <bib-title>System description: MathHub.info</bib-title>
         <bib-name role="author">
           <surname>Iancu</surname>
@@ -22000,7 +21967,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,cjucovschi,miancu,twiesing,oaf,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="DumGinKoh:katsdm14" type="misc" xml:id="bib.bib941">
+      <bibentry key="DumGinKoh:katsdm14" type="misc" xml:id="bib.bib940">
         <bib-title>KAT: an annotation tool for STEM documents; manual</bib-title>
         <bib-name role="author">
           <surname>Dumitru</surname>
@@ -22038,7 +22005,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,dginev,twiesing,llamapun}}
 </bib-data>
       </bibentry>
-      <bibentry key="CarFarKoh:rsckmt14" type="inproceedings" xml:id="bib.bib942">
+      <bibentry key="CarFarKoh:rsckmt14" type="inproceedings" xml:id="bib.bib941">
         <bib-name role="author">
           <surname>Carette</surname>
           <givenname>Jacques</givenname>
@@ -22067,7 +22034,7 @@ Sandro Wartzack},
       note = {MKM Best-Paper-Award}}
 </bib-data>
       </bibentry>
-      <bibentry key="Koh:SearchInterfacesMath:2014" type="inproceedings" xml:id="bib.bib943">
+      <bibentry key="Koh:SearchInterfacesMath:2014" type="inproceedings" xml:id="bib.bib942">
         <bib-title>Search interfaces for mathematicians</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -22086,7 +22053,7 @@ Sandro Wartzack},
       pubs = {akohlhase,mws,mathsearch}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:literal:14" type="unpublished" xml:id="bib.bib944">
+      <bibentry key="Rabe:literal:14" type="unpublished" xml:id="bib.bib943">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -22101,7 +22068,7 @@ Sandro Wartzack},
       pubs = {frabe,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="KalRab:hollight:14" type="inproceedings" xml:id="bib.bib945">
+      <bibentry key="KalRab:hollight:14" type="inproceedings" xml:id="bib.bib944">
         <bib-name role="author">
           <surname>Kaliszyk</surname>
           <givenname>Cezary</givenname>
@@ -22124,7 +22091,7 @@ Sandro Wartzack},
       pubs = {frabe,oaf,mmt,omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSpe:spsgm:15" type="inproceedings" xml:id="bib.bib946">
+      <bibentry key="KohSpe:spsgm:15" type="inproceedings" xml:id="bib.bib945">
         <bib-title>The SMGloM project or why we need a semantic glossary of mathematics</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -22151,7 +22118,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,smglom,omdoc}}
 </bib-data>
       </bibentry>
-      <bibentry key="cjucovschi:interaction_integration:14" type="inproceedings" xml:id="bib.bib947">
+      <bibentry key="cjucovschi:interaction_integration:14" type="inproceedings" xml:id="bib.bib946">
         <bib-name role="author">
           <surname>Jucovschi</surname>
           <givenname>Constantin</givenname>
@@ -22170,7 +22137,7 @@ Sandro Wartzack},
       pubs = {cjucovschi,sissi,sally}}
 </bib-data>
       </bibentry>
-      <bibentry key="HKR:flexary:14" type="inproceedings" xml:id="bib.bib948">
+      <bibentry key="HKR:flexary:14" type="inproceedings" xml:id="bib.bib947">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>Fulya</givenname>
@@ -22197,7 +22164,7 @@ Sandro Wartzack},
       pubs = {fhorozal,mkohlhase,frabe,mmt,omdoc}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 950 **** -->      <bibentry key="SPL:on" type="website" xml:id="bib.bib949">
+      <bibentry key="SPL:on" type="website" xml:id="bib.bib948">
         <bib-data role="label">SPL</bib-data>
         <bib-title>The smglom public license (spl) version 0.1</bib-title>
         <bib-name role="author">
@@ -22205,14 +22172,16 @@ Sandro Wartzack},
           <givenname>Michael</givenname>
         </bib-name>
         <bib-url href="https://mathhub.info/help/spl0.1.html">Link</bib-url>
+        <bib-data role="pubs">smglom</bib-data>
         <bib-data role="self" type="BibTeX">@online{SPL:on,
      label = {SPL},
      title = {The SMGloM Public License (SPL) Version 0.1},
     author = {Michael Kohlhase},
-       url = {https://mathhub.info/help/spl0.1.html}}
+       url = {https://mathhub.info/help/spl0.1.html},
+      pubs = {smglom}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:InvasivesDesign:2014" type="unpublished" xml:id="bib.bib950">
+<!--  %**** String Line 950 **** -->      <bibentry key="KohKoh:InvasivesDesign:2014" type="unpublished" xml:id="bib.bib949">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -22229,7 +22198,7 @@ Sandro Wartzack},
  sooncrossref = {MuC2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohToa:Fency:2013" type="inproceedings" xml:id="bib.bib951">
+      <bibentry key="KohToa:Fency:2013" type="inproceedings" xml:id="bib.bib950">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -22250,7 +22219,7 @@ Sandro Wartzack},
       pubs = {akohlhase,atoader,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohGus:CoOccurrencesInSpreadsheets:2015" type="inproceedings" xml:id="bib.bib952">
+      <bibentry key="KohGus:CoOccurrencesInSpreadsheets:2015" type="inproceedings" xml:id="bib.bib951">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -22271,7 +22240,7 @@ Sandro Wartzack},
       pubs = {akohlhase,aguseva,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="Koh:FramingsOfInformation:2013" type="report" xml:id="bib.bib953">
+      <bibentry key="Koh:FramingsOfInformation:2013" type="report" xml:id="bib.bib952">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -22295,7 +22264,7 @@ Sandro Wartzack},
       pubs = {akohlhase,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="aguseva:bsc" type="misc" xml:id="bib.bib954">
+      <bibentry key="aguseva:bsc" type="misc" xml:id="bib.bib953">
         <bib-name role="author">
           <surname>Guseva</surname>
           <givenname>Ana</givenname>
@@ -22314,7 +22283,7 @@ Sandro Wartzack},
       pubs = {sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="agiurgiu:bsc" type="misc" xml:id="bib.bib955">
+      <bibentry key="agiurgiu:bsc" type="misc" xml:id="bib.bib954">
         <bib-name role="author">
           <surname>Giurgiu</surname>
           <givenname>Andrei-George</givenname>
@@ -22333,7 +22302,7 @@ Sandro Wartzack},
       pubs = {sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="alezza:bsc" type="misc" xml:id="bib.bib956">
+      <bibentry key="alezza:bsc" type="misc" xml:id="bib.bib955">
         <bib-name role="author">
           <surname>Lezza</surname>
           <givenname>Andra Lidia</givenname>
@@ -22352,7 +22321,7 @@ Sandro Wartzack},
       pubs = {sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="atoader:bsc" type="misc" xml:id="bib.bib957">
+      <bibentry key="atoader:bsc" type="misc" xml:id="bib.bib956">
         <bib-name role="author">
           <surname>Toader</surname>
           <givenname>Alexandru Valentin</givenname>
@@ -22369,7 +22338,7 @@ Sandro Wartzack},
       pubs = {sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="smirea:bsc" type="misc" xml:id="bib.bib958">
+      <bibentry key="smirea:bsc" type="misc" xml:id="bib.bib957">
         <bib-name role="author">
           <surname>Mirea</surname>
           <givenname>Stefan</givenname>
@@ -22388,7 +22357,7 @@ Sandro Wartzack},
       pubs = {mathsearch,sissi}}
 </bib-data>
       </bibentry>
-      <bibentry key="YTInters" type="website" xml:id="bib.bib959">
+      <bibentry key="YTInters" type="website" xml:id="bib.bib958">
         <bib-data role="label">IntV15</bib-data>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -22405,7 +22374,7 @@ Sandro Wartzack},
    urldate = {2015-06-29}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMue:cicm15" type="unpublished" xml:id="bib.bib960">
+      <bibentry key="KohMue:cicm15" type="unpublished" xml:id="bib.bib959">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -22424,7 +22393,7 @@ Sandro Wartzack},
       year = {2015}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D3.3" type="report" xml:id="bib.bib961">
+      <bibentry key="ODK-D3.3" type="report" xml:id="bib.bib960">
         <bib-name role="author">
           <surname>Luca De Feo</surname>
           <givenname>Steve Linton</givenname>
@@ -22454,7 +22423,7 @@ Sandro Wartzack},
       pubs = {twiesing,mmt,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.2" type="report" xml:id="bib.bib962">
+      <bibentry key="ODK-D4.2" type="report" xml:id="bib.bib961">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22479,7 +22448,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,odk,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.3" type="report" xml:id="bib.bib963">
+      <bibentry key="ODK-D4.3" type="report" xml:id="bib.bib962">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22505,7 +22474,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,mathhub,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D4.9" type="report" xml:id="bib.bib964">
+      <bibentry key="ODK-D4.9" type="report" xml:id="bib.bib963">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22534,7 +22503,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,twiesing,odk,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib965">
+      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib964">
         <bib-data role="label">D6.1</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -22563,7 +22532,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,odk,mws,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib966">
+      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib965">
         <bib-data role="label">D6.2</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -22626,7 +22595,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib967">
+      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib966">
         <bib-data role="label">D6.3</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -22687,7 +22656,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib968">
+      <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib967">
         <bib-data role="label">PVS</bib-data>
         <bib-title>The pvs libraries in omdoc/mmt format</bib-title>
         <bib-url href="https://gl.mathhub.info/PVS">Link</bib-url>
@@ -22699,7 +22668,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
    urldate = {2017-06-29}}
 </bib-data>
       </bibentry>
-      <bibentry key="twiesing:msc17" type="thesis" xml:id="bib.bib969">
+      <bibentry key="twiesing:msc17" type="thesis" xml:id="bib.bib968">
         <bib-name role="author">
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
