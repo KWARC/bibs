@@ -47,13 +47,13 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-note role="annotation">accepted:Journal of Optical and Quantum Electronics</bib-note>
+        <bib-note role="annotation">accepted: Journal of Optical and Quantum Electronics</bib-note>
         <bib-data role="pubs">mkohlhase,dmueller,odk,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KopKohTab:mpdrmm17,
      title = {Model pathway diagrams for the representation of mathematical models},
     author = {Thomas Koprucki and Michael Kohlhase and Karsten Tabelow and Dennis M{\"u}ller and
           Florian Rabe},
-      note = {accepted:Journal of Optical and Quantum Electronics},
+      note = {accepted: Journal of Optical and Quantum Electronics},
       pubs = {mkohlhase,dmueller,odk,frabe}}
 </bib-data>
       </bibentry>
