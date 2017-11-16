@@ -51,13 +51,13 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-note role="annotation">accepted: Journal of Optical and Quantum Electronics</bib-note>
-        <bib-data role="pubs">mkohlhase,dmueller,odk,frabe</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,odk,frabe,MaMoRed</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KopKohTab:mpdrmm17,
      title = {Model pathway diagrams for the representation of mathematical models},
     author = {Thomas Koprucki and Michael Kohlhase and Karsten Tabelow and Dennis M{\"u}ller and
           Florian Rabe},
       note = {accepted: Journal of Optical and Quantum Electronics},
-      pubs = {mkohlhase,dmueller,odk,frabe}}
+      pubs = {mkohlhase,dmueller,odk,frabe,MaMoRed}}
 </bib-data>
       </bibentry>
       <bibentry key="WIAS2431" type="report" xml:id="bib.bib3">
@@ -86,7 +86,7 @@
         <bib-part role="number">2431</bib-part>
         <bib-date role="publication">2017</bib-date>
         <bib-identifier href="http://dx.doi.org/10.20347/WIAS.PREPRINT.2431" id="10.20347/WIAS.PREPRINT.2431" scheme="doi">Document</bib-identifier>
-        <bib-data role="pubs">mkohlhase,dmueller,odk,frabe</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,odk,frabe,MaMoReD</bib-data>
         <bib-data role="self" type="BibTeX">@techreport{WIAS2431,
      title = {Model pathway diagrams for the representation of mathematical models},
     author = {Thomas Koprucki and Michael Kohlhase and Karsten Tabelow and Dennis M{\"u}ller and
@@ -95,7 +95,7 @@
     number = {2431},
       year = {2017},
        doi = {10.20347/WIAS.PREPRINT.2431},
-      pubs = {mkohlhase,dmueller,odk,frabe}}
+      pubs = {mkohlhase,dmueller,odk,frabe,MaMoReD}}
 </bib-data>
       </bibentry>
       <bibentry key="tpmuseum:tpbl:on" type="website" xml:id="bib.bib4">
@@ -199,13 +199,13 @@
         <bib-url href="https://gl.mathhub.info/MitM/Foundation">Link</bib-url>
         <bib-data role="urldate">2017-09-01</bib-data>
         <bib-type>Math Archive</bib-type>
-        <bib-data role="pubs">odk,odkWP6</bib-data>
+        <bib-data role="pubs">odk,odkWP6,MaMoReD</bib-data>
         <bib-data role="self" type="BibTeX">@online{mitm:foundation:on,
      title = {{MitM/Foundation}},
        url = {https://gl.mathhub.info/MitM/Foundation},
    urldate = {2017-09-01},
       type = {Math Archive},
-      pubs = {odk,odkWP6}}
+      pubs = {odk,odkWP6,MaMoReD}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:dddme17" type="inproceedings" xml:id="bib.bib9">
@@ -225,20 +225,22 @@
   crossref = {MathUI17}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:moitrdm17" type="unpublished" xml:id="bib.bib10">
+      <bibentry key="Kohlhase:moitrdm17" type="inproceedings" xml:id="bib.bib10">
         <bib-title>Math object identifiers – towards research data in mathematics</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-related bibrefs="FGWM17" role="host"/>
-        <bib-url href="http://kwarc.info/kohlhase/submit/lwda17-moi.pdf">Link</bib-url>
+        <bib-part role="pages">214–252</bib-part>
+        <bib-url href="http://ceur-ws.org/Vol-1917/paper33.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:moitrdm17,
+        <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:moitrdm17,
      title = {Math Object Identifiers – Towards Research Data in Mathematics},
     author = {Michael Kohlhase},
   crossref = {FGWM17},
-       url = {http://kwarc.info/kohlhase/submit/lwda17-moi.pdf},
+     pages = {214–252},
+       url = {http://ceur-ws.org/Vol-1917/paper33.pdf},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
@@ -441,7 +443,7 @@ Interface Theories},
         <bib-date role="publication">2017</bib-date>
         <bib-title>Mathematical models as research data via flexiformal theory graphs</bib-title>
         <bib-identifier href="http://dx.doi.org/10.20347/WIAS.PREPRINT.2385" id="10.20347/WIAS.PREPRINT.2385" scheme="doi">Document</bib-identifier>
-        <bib-data role="pubs">mkohlhase,dmueller,odk</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,odk,MaMoReD</bib-data>
         <bib-data role="self" type="BibTeX">@techreport{WIAS2385,
     author = {Kohlhase, Michael and Koprucki, Thomas and M{\"u}ller, Dennis and Tabelow, Karsten},
       type = {WIAS Preprint},
@@ -449,7 +451,7 @@ Interface Theories},
       year = {2017},
      title = {Mathematical models as research data via flexiformal theory graphs},
        doi = {10.20347/WIAS.PREPRINT.2385},
-      pubs = {mkohlhase,dmueller,odk}}
+      pubs = {mkohlhase,dmueller,odk,MaMoReD}}
 </bib-data>
       </bibentry>
       <bibentry key="KohKopMue:mmrdftg17" type="inproceedings" xml:id="bib.bib22">
@@ -471,13 +473,13 @@ Interface Theories},
         </bib-name>
         <bib-title>Mathematical models as research data via flexiformal theory graphs</bib-title>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-models.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dmueller,odk,odkWP6</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,odk,odkWP6,MaMoReD</bib-data>
         <bib-related bibrefs="CICM17" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKopMue:mmrdftg17,
     author = {Kohlhase, Michael and Koprucki, Thomas and M{\"u}ller, Dennis and Tabelow, Karsten},
      title = {Mathematical models as research data via flexiformal theory graphs},
        url = {http://kwarc.info/kohlhase/papers/cicm17-models.pdf},
-      pubs = {mkohlhase,dmueller,odk,odkWP6},
+      pubs = {mkohlhase,dmueller,odk,odkWP6,MaMoReD},
   crossref = {CICM17}}
 </bib-data>
       </bibentry>
@@ -634,23 +636,25 @@ Interface Theories},
         <bib-title>A case study for active documents and formalization in math models: the van roosbroeck model</bib-title>
         <bib-url href="Https://mathhub.info/MitM/models">Link</bib-url>
         <bib-data role="urldate">2017-02-05</bib-data>
+        <bib-data role="pubs">MaMoReD</bib-data>
         <bib-data role="self" type="BibTeX">@online{KohKopMueTab:RCS,
     author = {Michael Kohlhase and Thomas Koprucki and Dennis M{\"u}ller and Karsten Tabelow},
      title = {A Case study for Active Documents and Formalization in Math Models: The van Roosbroeck Model},
        url = {Https://mathhub.info/MitM/models},
-   urldate = {2017-02-05}}
+   urldate = {2017-02-05},
+      pubs = {MaMoReD}}
 </bib-data>
       </bibentry>
       <bibentry key="MitM:on" type="website" xml:id="bib.bib30">
         <bib-title>MitM: the math-in-the-middle ontology</bib-title>
         <bib-url href="https://mathhub.info/MitM">Link</bib-url>
         <bib-data role="urldate">2017-02-05</bib-data>
-        <bib-data role="pubs">odk,odkWP6</bib-data>
+        <bib-data role="pubs">odk,odkWP6,MaMoReD</bib-data>
         <bib-data role="self" type="BibTeX">@online{MitM:on,
      title = {MitM: The Math-in-the-Middle Ontology},
        url = {https://mathhub.info/MitM},
    urldate = {2017-02-05},
-      pubs = {odk,odkWP6}}
+      pubs = {odk,odkWP6,MaMoReD}}
 </bib-data>
       </bibentry>
       <bibentry key="ODKsysonto:on" type="website" xml:id="bib.bib31">
@@ -22685,7 +22689,7 @@ Sandro Wartzack},
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
         </bib-name>
-        <bib-title>Report on OpenDreamKit deliverables d6.2: initial d/k/s base design (including base survey and requirements workshop report) and d6.3: design of triform (d/k/s) theories (specification/rnc schema/examples) and implementation of triform theories in the mmt api</bib-title>
+        <bib-title>Report on OpenDreamKit deliverables d6.2: initial D/K/S base design (including base survey and requirements workshop report) and d6.3: design of triform (D/K/S) theories (specification/RNC schema/examples) and implementation of triform theories in the mmt api</bib-title>
         <bib-organization>OpenDreamKit</bib-organization>
         <bib-date role="publication">2016</bib-date>
         <bib-type>Deliverable</bib-type>
@@ -22696,8 +22700,8 @@ Sandro Wartzack},
      label = {D6.2},
     author = {Paul-Olivier Dehaye and Mihnea Iancu and Michael Kohlhase and Alexander Konovalov and Samuel Leli{\`e}vre and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas~M.~Thi{\'e}ry and Tom Wiesing},
      title = {Report on {OpenDreamKit} deliverables
-D6.2: Initial D/K/S base Design (including base survey and Requirements Workshop Report) and
-D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) and Implementation of Triform Theories in the MMT API},
+D6.2: Initial {D/K/S} base Design (including base survey and Requirements Workshop Report) and
+D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples) and Implementation of Triform Theories in the MMT API},
  institution = {OpenDreamKit},
       year = {2016},
       type = {Deliverable},
@@ -22748,7 +22752,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
         </bib-name>
-        <bib-title>Report on OpenDreamKit deliverable d6.3: design of triform (d/k/s) theories (specification/rnc schema/examples) and implementation of triform theories in the mmt api</bib-title>
+        <bib-title>Report on OpenDreamKit deliverable d6.3: design of triform (D/K/S) theories (specification/rnc schema/examples) and implementation of triform theories in the MMT API</bib-title>
         <bib-organization>OpenDreamKit</bib-organization>
         <bib-date role="publication">2016</bib-date>
         <bib-type>Deliverable</bib-type>
@@ -22758,7 +22762,7 @@ D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) an
         <bib-data role="self" type="BibTeX">@techreport{ODK-D6.3,
      label = {D6.3},
     author = {Paul-Olivier Dehaye and Mihnea Iancu and Michael Kohlhase and Alexander Konovalov and Samuel Leli{\`e}vre and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas~M.~Thi{\'e}ry and Tom Wiesing},
-     title = {Report on {OpenDreamKit} deliverable D6.3:  Design of Triform (D/K/S) Theories (Specification/RNC Schema/Examples) and Implementation of Triform Theories in the MMT API},
+     title = {Report on {OpenDreamKit} deliverable D6.3:  Design of Triform ({D/K/S}) Theories (Specification/RNC Schema/Examples) and Implementation of Triform Theories in the {MMT API}},
  institution = {OpenDreamKit},
       year = {2016},
       type = {Deliverable},

@@ -17,7 +17,7 @@
           <givenname>Eric</givenname>
         </bib-name>
         <bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title>
-        <bib-note role="annotation">Workshop at LWDA 2017, published as part of <cite class="ltx_citemacro_cite">[<bibref bibrefs="LWA17" separator="," show="Refnum" yyseparator=","/>]</cite></bib-note>
+        <bib-note role="annotation">Workshop at LWDA 2017</bib-note>
         <bib-date role="publication">2017-10</bib-date>
         <bib-data role="month">October</bib-data>
         <bib-data role="pubs">akohlhase</bib-data>
@@ -25,7 +25,7 @@
     editor = {Andrea Kohlhase and Eric K{\"u}bler},
      title = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
-      note = {Workshop at LWDA 2017, published as part of~\cite{LWA17}},
+      note = {Workshop at LWDA 2017},
       year = {2017},
      month = {October},
       pubs = {akohlhase}}
