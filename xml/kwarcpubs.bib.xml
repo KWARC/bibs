@@ -28,7 +28,7 @@
    urldate = {2017-10-07}}
 </bib-data>
       </bibentry>
-      <bibentry key="KopKohTab:mpdrmm17" type="unpublished" xml:id="bib.bib2">
+      <bibentry key="KopKohTab:mpdrmm17" type="article" xml:id="bib.bib2">
         <bib-title>Model pathway diagrams for the representation of mathematical models</bib-title>
         <bib-name role="author">
           <surname>Koprucki</surname>
@@ -50,13 +50,17 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-note role="annotation">accepted: Journal of Optical and Quantum Electronics</bib-note>
+        <bib-note role="annotation">accepted</bib-note>
+        <bib-related role="host" type="journal">
+          <bib-title>Journal of Optical and Quantum Electronics</bib-title>
+        </bib-related>
         <bib-data role="pubs">mkohlhase,dmueller,odk,frabe,MaMoRed</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KopKohTab:mpdrmm17,
+        <bib-data role="self" type="BibTeX">@article{KopKohTab:mpdrmm17,
      title = {Model pathway diagrams for the representation of mathematical models},
     author = {Thomas Koprucki and Michael Kohlhase and Karsten Tabelow and Dennis M{\"u}ller and
           Florian Rabe},
-      note = {accepted: Journal of Optical and Quantum Electronics},
+      note = {accepted},
+   journal = {Journal of Optical and Quantum Electronics},
       pubs = {mkohlhase,dmueller,odk,frabe,MaMoRed}}
 </bib-data>
       </bibentry>
