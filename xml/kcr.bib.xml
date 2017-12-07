@@ -13,7 +13,7 @@
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
         </bib-name>
-        <bib-title>Irreführende mentale modelle beim smart-tv(misleading mental models for smart-tvs)</bib-title>
+        <bib-title>Irreführende mentale modelle beim smart-tv (misleading mental models for smart-tvs)</bib-title>
         <bib-part role="pages">200–212</bib-part>
         <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Kohlhase</surname>
@@ -36,7 +36,7 @@
         <bib-data role="month">October</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{UcaKoh:immstmms17,
     author = {Gamze Ucar and Andrea Kohlhase},
-     title = {Irref{\"{u}}hrende mentale Modelle beim Smart-TV(Misleading Mental
+     title = {Irref{\"{u}}hrende mentale Modelle beim Smart-TV (Misleading Mental
                Models for Smart-TVs)},
      pages = {200–212},
   crossref = {FGWM17},

@@ -16,13 +16,13 @@
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
         </bib-name>
-        <bib-title>Irreführende mentale modelle beim smart-tv(misleading mental models for smart-tvs)</bib-title>
+        <bib-title>Irreführende mentale modelle beim smart-tv (misleading mental models for smart-tvs)</bib-title>
         <bib-part role="pages">200–212</bib-part>
         <bib-related bibrefs="FGWM17" role="host"/>
         <bib-url href="http://ceur-ws.org/Vol-1917/paper29.pdf">Link</bib-url>
         <bib-data role="self" type="BibTeX">@inproceedings{UcaKoh:immstmms17,
     author = {Gamze Ucar and Andrea Kohlhase},
-     title = {Irref{\"{u}}hrende mentale Modelle beim Smart-TV(Misleading Mental
+     title = {Irref{\"{u}}hrende mentale Modelle beim Smart-TV (Misleading Mental
                Models for Smart-TVs)},
      pages = {200–212},
   crossref = {FGWM17},
