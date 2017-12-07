@@ -43,6 +43,7 @@
         <bib-title>Mathematical user interfaces workshop at CICM</bib-title>
         <bib-url href="http://www.cermat.org/events/MathUI/15/proceedings">Link</bib-url>
         <bib-date role="publication">2015-07</bib-date>
+        <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI15,
     editor = {Andrea Kohlhase and Paul Libbrecht},
@@ -50,6 +51,7 @@
  booktitle = {Mathematical User Interfaces Workshop},
        url = {http://www.cermat.org/events/MathUI/15/proceedings},
       year = {2015},
+      pubs = {akohlhase},
      month = {July}}
 </bib-data>
       </bibentry>
@@ -65,6 +67,7 @@
         <bib-title>Mathematical user interfaces workshop at CICM</bib-title>
         <bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url>
         <bib-date role="publication">2016-07</bib-date>
+        <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI16,
     editor = {Andrea Kohlhase and Paul Libbrecht},
@@ -72,6 +75,7 @@
  booktitle = {Mathematical User Interfaces Workshop},
        url = {http://ceur-ws.org/Vol-1785/},
       year = {2016},
+      pubs = {akohlhase},
      month = {July}}
 </bib-data>
       </bibentry>
@@ -86,12 +90,14 @@
         </bib-name>
         <bib-title>MathUI 2017: the 12th workshop on mathematical user interfaces</bib-title>
         <bib-data role="soonurl">http://ceur-ws.org/Vol-1785/</bib-data>
+        <bib-data role="pubs">akohlhase</bib-data>
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI17,
     editor = {Andrea Kohlhase and Marco Pollanen},
      title = {MathUI 2017: The 12th Workshop on Mathematical User Interfaces},
  booktitle = {MathUI 2017: The 12th Workshop on Mathematical User Interfaces},
    soonurl = {http://ceur-ws.org/Vol-1785/},
+      pubs = {akohlhase},
       year = {2017}}
 </bib-data>
       </bibentry>
@@ -136,7 +142,7 @@
           <surname>Suda</surname>
           <givenname>Martin</givenname>
         </bib-name>
-        <bib-data role="pubs">mkohlhase</bib-data>
+        <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM16WIP,
      title = {Intelligent Computer Mathematics – Work in Progress Papers},
  booktitle = {{Intelligent Computer Mathematics – Work in Progress Papers}},
@@ -145,7 +151,7 @@
        url = {http://ceur-ws.org/Vol-1785/},
     editor = {Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
 Frank Tompa and Martin Suda},
-      pubs = {mkohlhase}}
+      pubs = {mkohlhase,akohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM17" type="proceedings" xml:id="bib.bib6">
@@ -1074,7 +1080,7 @@ Frank Tompa and Martin Suda},
         <bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier>
         <bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url>
         <bib-data role="venue">Bath, UK</bib-data>
-        <bib-data role="eventdate">2013-07-08/2013-07-12</bib-data>
+        <bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2013},
@@ -1086,7 +1092,7 @@ Frank Tompa and Martin Suda},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1010},
      venue = {Bath, UK},
- eventdate = {2013-07-08/2013-07-12}}
+      pubs = {mkohlhase,akohlhase,clange,frabe}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM-WS-WiP2014" type="proceedings" xml:id="bib.bib32">
@@ -1142,7 +1148,7 @@ Frank Tompa and Martin Suda},
         <bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier>
         <bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url>
         <bib-data role="venue">Coimbra, PT</bib-data>
-        <bib-data role="eventdate">2013-07-07/2013-07-12</bib-data>
+        <bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2014},
@@ -1157,7 +1163,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1186},
      venue = {Coimbra, PT},
- eventdate = {2013-07-07/2013-07-12}}
+      pubs = {mkohlhase,akohlhase,clange,frabe}}
 </bib-data>
       </bibentry>
       <bibentry key="OpenMathUIWiP2012" type="proceedings" xml:id="bib.bib33">
