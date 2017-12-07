@@ -20,13 +20,15 @@
         <bib-part role="pages">200–212</bib-part>
         <bib-related bibrefs="FGWM17" role="host"/>
         <bib-url href="http://ceur-ws.org/Vol-1917/paper29.pdf">Link</bib-url>
+        <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{UcaKoh:immstmms17,
     author = {Gamze Ucar and Andrea Kohlhase},
      title = {Irref{\"{u}}hrende mentale Modelle beim Smart-TV (Misleading Mental
                Models for Smart-TVs)},
      pages = {200–212},
   crossref = {FGWM17},
-       url = {http://ceur-ws.org/Vol-1917/paper29.pdf}}
+       url = {http://ceur-ws.org/Vol-1917/paper29.pdf},
+      pubs = {akohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="KohMue:mtm17" type="website" xml:id="bib.bib2">
@@ -41,12 +43,14 @@
         </bib-name>
         <bib-title>OMDoc/MMT tutorial for mathematicians</bib-title>
         <bib-url href="https://gl.mathhub.info/Teaching/KRMT/blob/master/source/tutorial/mmt-math-tutorial.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase,dmueller,mmt,odk</bib-data>
         <bib-data role="urldate">2017-10-07</bib-data>
         <bib-data role="self" type="BibTeX">@online{KohMue:mtm17,
      label = {OMT},
     author = {Michael Kohlhase and Dennis M{\"u}ller},
      title = {{OMDoc/MMT} Tutorial for Mathematicians},
        url = {https://gl.mathhub.info/Teaching/KRMT/blob/master/source/tutorial/mmt-math-tutorial.pdf},
+      pubs = {mkohlhase,dmueller,mmt,odk},
    urldate = {2017-10-07}}
 </bib-data>
       </bibentry>

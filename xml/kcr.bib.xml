@@ -31,6 +31,7 @@
       pubs = {akohlhase}}
 </bib-data></bib-related>
         <bib-url href="http://ceur-ws.org/Vol-1917/paper29.pdf">Link</bib-url>
+        <bib-data role="pubs">akohlhase</bib-data>
         
         <bib-date role="publication">2017-10</bib-date>
         <bib-data role="month">October</bib-data>
@@ -41,6 +42,7 @@
      pages = {200–212},
   crossref = {FGWM17},
        url = {http://ceur-ws.org/Vol-1917/paper29.pdf},
+      pubs = {akohlhase},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
       year = {2017},
      month = {October}}
@@ -58,12 +60,14 @@
         </bib-name>
         <bib-title>OMDoc/MMT tutorial for mathematicians</bib-title>
         <bib-url href="https://gl.mathhub.info/Teaching/KRMT/blob/master/source/tutorial/mmt-math-tutorial.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase,dmueller,mmt,odk</bib-data>
         <bib-data role="urldate">2017-10-07</bib-data>
         <bib-data role="self" type="BibTeX">@online{KohMue:mtm17,
      label = {OMT},
     author = {Michael Kohlhase and Dennis M{\"u}ller},
      title = {{OMDoc/MMT} Tutorial for Mathematicians},
        url = {https://gl.mathhub.info/Teaching/KRMT/blob/master/source/tutorial/mmt-math-tutorial.pdf},
+      pubs = {mkohlhase,dmueller,mmt,odk},
    urldate = {2017-10-07}}
 </bib-data>
       </bibentry>
@@ -2453,7 +2457,7 @@ Frank Tompa and Martin Suda},
         </bib-name><bib-name role="editor">
           <surname>Watt</surname>
           <givenname>Stephen M.</givenname>
-        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
+        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-07/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2014},
       year = {2014},
@@ -2467,7 +2471,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1186},
      venue = {Coimbra, PT},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-07/2013-07-12}}
 </bib-data></bib-related>
         <bib-data role="pubs">mkohlhase,mathsearch,omdoc,mmt</bib-data>
         
@@ -2566,7 +2571,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name><bib-name role="editor">
           <surname>Watt</surname>
           <givenname>Stephen M.</givenname>
-        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
+        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-07/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2014},
       year = {2014},
@@ -2580,7 +2585,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1186},
      venue = {Coimbra, PT},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-07/2013-07-12}}
 </bib-data></bib-related>
         <bib-data role="pubs">mkohlhase,openmath</bib-data>
         
@@ -2959,7 +2965,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name><bib-name role="editor">
           <surname>Windsteiger</surname>
           <givenname>Wolfgang</givenname>
-        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
+        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-08/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2013},
       year = {2013},
@@ -2970,7 +2976,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1010},
      venue = {Bath, UK},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-08/2013-07-12}}
 </bib-data></bib-related>
         <bib-data role="pubs">mkohlhase,mathsearch</bib-data>
         
@@ -8449,7 +8456,7 @@ Rudnicki and Josef Urban},
         </bib-name><bib-name role="editor">
           <surname>Windsteiger</surname>
           <givenname>Wolfgang</givenname>
-        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
+        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-08/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2013},
       year = {2013},
@@ -8460,7 +8467,8 @@ Rudnicki and Josef Urban},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1010},
      venue = {Bath, UK},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-08/2013-07-12}}
 </bib-data></bib-related>
         <bib-data role="pubs">miancu,frabe,mmt</bib-data>
         
@@ -13217,7 +13225,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         </bib-name><bib-name role="editor">
           <surname>Watt</surname>
           <givenname>Stephen M.</givenname>
-        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
+        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-07/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2014},
       year = {2014},
@@ -13231,7 +13239,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1186},
      venue = {Coimbra, PT},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-07/2013-07-12}}
 </bib-data></bib-related>
         <bib-title>OpenMathMap: interaction</bib-title>
         <bib-url href="http://ceur-ws.org/Vol-1186/paper-01.pdf">Link</bib-url>
@@ -13286,7 +13295,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name><bib-name role="editor">
           <surname>Watt</surname>
           <givenname>Stephen M.</givenname>
-        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
+        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-07/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2014},
       year = {2014},
@@ -13300,7 +13309,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1186},
      venue = {Coimbra, PT},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-07/2013-07-12}}
 </bib-data></bib-related>
         <bib-title>Design of search interfaces for mathematicians</bib-title>
         <bib-url href="http://ceur-ws.org/Vol-1186/paper-02.pdf">Link</bib-url>
@@ -13359,7 +13369,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name><bib-name role="editor">
           <surname>Watt</surname>
           <givenname>Stephen M.</givenname>
-        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
+        </bib-name><bib-part role="number">1186</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url><bib-data role="venue">Coimbra, PT</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-07/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2014},
       year = {2014},
@@ -13373,7 +13383,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1186},
      venue = {Coimbra, PT},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-07/2013-07-12}}
 </bib-data></bib-related>
         <bib-title>FEncy: spreadsheet formulae exploration</bib-title>
         <bib-url href="http://ceur-ws.org/Vol-1186/paper-03.pdf">Link</bib-url>
@@ -26858,7 +26869,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
         </bib-name><bib-name role="editor">
           <surname>Windsteiger</surname>
           <givenname>Wolfgang</givenname>
-        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
+        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-08/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2013},
       year = {2013},
@@ -26869,7 +26880,8 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1010},
      venue = {Bath, UK},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-08/2013-07-12}}
 </bib-data></bib-related>
         <bib-extract role="keywords">workshop</bib-extract>
         <bib-data role="pubs">akohlhase,sissi</bib-data>
@@ -26926,7 +26938,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
         </bib-name><bib-name role="editor">
           <surname>Windsteiger</surname>
           <givenname>Wolfgang</givenname>
-        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
+        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-08/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2013},
       year = {2013},
@@ -26937,7 +26949,8 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1010},
      venue = {Bath, UK},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-08/2013-07-12}}
 </bib-data></bib-related>
         
         <bib-date role="publication">2013</bib-date>
@@ -26998,7 +27011,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
         </bib-name><bib-name role="editor">
           <surname>Windsteiger</surname>
           <givenname>Wolfgang</givenname>
-        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
+        </bib-name><bib-part role="number">1010</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-place>Aachen</bib-place><bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier><bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url><bib-data role="venue">Bath, UK</bib-data><bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data><bib-data role="eventdate">2013-07-08/2013-07-12</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2013},
       year = {2013},
@@ -27009,7 +27022,8 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1010},
      venue = {Bath, UK},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-08/2013-07-12}}
 </bib-data></bib-related>
         
         <bib-date role="publication">2013</bib-date>
@@ -29528,6 +29542,7 @@ Frank Tompa and Martin Suda},
         <bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url>
         <bib-data role="venue">Bath, UK</bib-data>
         <bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data>
+        <bib-data role="eventdate">2013-07-08/2013-07-12</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2013},
@@ -29539,7 +29554,8 @@ Frank Tompa and Martin Suda},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1010},
      venue = {Bath, UK},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-08/2013-07-12}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM-WS-WiP2014" type="proceedings" xml:id="bib.bib1006">
@@ -29596,6 +29612,7 @@ Frank Tompa and Martin Suda},
         <bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url>
         <bib-data role="venue">Coimbra, PT</bib-data>
         <bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data>
+        <bib-data role="eventdate">2013-07-07/2013-07-12</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2014},
@@ -29610,7 +29627,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1186},
      venue = {Coimbra, PT},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-07/2013-07-12}}
 </bib-data>
       </bibentry>
       <bibentry key="OpenMathUIWiP2012" type="proceedings" xml:id="bib.bib1007">

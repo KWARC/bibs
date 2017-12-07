@@ -1081,6 +1081,7 @@ Frank Tompa and Martin Suda},
         <bib-url href="http://ceur-ws.org/Vol-1010">Link</bib-url>
         <bib-data role="venue">Bath, UK</bib-data>
         <bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data>
+        <bib-data role="eventdate">2013-07-08/2013-07-12</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2013,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2013},
@@ -1092,7 +1093,8 @@ Frank Tompa and Martin Suda},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1010},
      venue = {Bath, UK},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-08/2013-07-12}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM-WS-WiP2014" type="proceedings" xml:id="bib.bib32">
@@ -1149,6 +1151,7 @@ Frank Tompa and Martin Suda},
         <bib-url href="http://ceur-ws.org/Vol-1186">Link</bib-url>
         <bib-data role="venue">Coimbra, PT</bib-data>
         <bib-data role="pubs">mkohlhase,akohlhase,clange,frabe</bib-data>
+        <bib-data role="eventdate">2013-07-07/2013-07-12</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM-WS-WiP2014,
  booktitle = {{MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics},
      title = {Joint Proceedings of the {MathUI}, {OpenMath}, {PLMMS}, and {ThEdu} Workshops and Work in Progress at the Conference on Intelligent Computer Mathematics 2014},
@@ -1163,7 +1166,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       issn = {1613-0073},
        url = {http://ceur-ws.org/Vol-1186},
      venue = {Coimbra, PT},
-      pubs = {mkohlhase,akohlhase,clange,frabe}}
+      pubs = {mkohlhase,akohlhase,clange,frabe},
+ eventdate = {2013-07-07/2013-07-12}}
 </bib-data>
       </bibentry>
       <bibentry key="OpenMathUIWiP2012" type="proceedings" xml:id="bib.bib33">
