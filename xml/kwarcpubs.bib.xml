@@ -76,7 +76,8 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-note role="annotation">accepted</bib-note>
+        <bib-note role="annotation">in Press</bib-note>
+        <bib-date role="publication">2017</bib-date>
         <bib-related role="host" type="journal">
           <bib-title>Journal of Optical and Quantum Electronics</bib-title>
         </bib-related>
@@ -85,7 +86,8 @@
      title = {Model pathway diagrams for the representation of mathematical models},
     author = {Thomas Koprucki and Michael Kohlhase and Karsten Tabelow and Dennis M{\"u}ller and
           Florian Rabe},
-      note = {accepted},
+      note = {in Press},
+      year = {2017},
    journal = {Journal of Optical and Quantum Electronics},
       pubs = {mkohlhase,dmueller,odk,frabe,MaMoRed}}
 </bib-data>
