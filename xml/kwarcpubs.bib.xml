@@ -82,7 +82,7 @@
           <bib-title>Journal of Optical and Quantum Electronics</bib-title>
         </bib-related>
         <bib-publisher>Springer Verlag</bib-publisher>
-        <bib-data role="pubs">mkohlhase,dmueller,odk,frabe,MaMoRed</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,odk,frabe,MaMoReD</bib-data>
         <bib-data role="self" type="BibTeX">@article{KopKohTab:mpdrmm18,
      title = {Model pathway diagrams for the representation of mathematical models},
     author = {Thomas Koprucki and Michael Kohlhase and Karsten Tabelow and Dennis M{\"u}ller and
@@ -91,7 +91,7 @@
       year = {2018},
    journal = {Journal of Optical and Quantum Electronics},
  publisher = {Springer Verlag},
-      pubs = {mkohlhase,dmueller,odk,frabe,MaMoRed}}
+      pubs = {mkohlhase,dmueller,odk,frabe,MaMoReD}}
 </bib-data>
       </bibentry>
       <bibentry key="WIAS2431" type="report" xml:id="bib.bib4">
