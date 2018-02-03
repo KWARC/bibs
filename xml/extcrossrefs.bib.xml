@@ -2958,7 +2958,7 @@ Techniques and Applications</bib-title>
           <surname>Simos</surname>
           <givenname>Dimitris</givenname>
         </bib-name>
-        <bib-data role="soonnumber">9582</bib-data>
+        <bib-part role="number">10693</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-extract role="keywords">conference</bib-extract>
@@ -2966,7 +2966,7 @@ Techniques and Applications</bib-title>
      title = {MACIS 2017},
       year = {2017},
     editor = {Johannes Bl{\"o}mer and Temur Kutsia and Dimitris Simos},
- soonnumber = {9582},
+    number = {10693},
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},

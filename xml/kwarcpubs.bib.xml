@@ -158,17 +158,17 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
+        <bib-part role="pages">243–257</bib-part>
         <bib-related bibrefs="MACIS17" role="host"/>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,odk,odkWP6</bib-data>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf">Link</bib-url>
-        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@inproceedings{WieKohRab:vtuimkb17,
      title = {Virtual Theories – A Uniform Interface to Mathematical Knowledge Bases},
     author = {Tom Wiesing and Michael Kohlhase and Florian Rabe},
+     pages = {243–257},
   crossref = {MACIS17},
       pubs = {twiesing,mkohlhase,frabe,odk,odkWP6},
-       url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf},
-      note = {in press}}
+       url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf}}
 </bib-data>
       </bibentry>
       <bibentry key="KohMuePfe:kbimss17" type="inproceedings" xml:id="bib.bib7">
@@ -202,16 +202,16 @@
           <givenname>Tom</givenname>
         </bib-name>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf">Link</bib-url>
+        <bib-part role="pages">195–210</bib-part>
         <bib-related bibrefs="MACIS17" role="host"/>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,dmueller,odk,odkWP6</bib-data>
-        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@inproceedings{KohMuePfe:kbimss17,
      title = {Knowledge-Based Interoperability for Mathematical Software Systems},
     author = {Michael Kohlhase and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas Thi{\'e}ry and Victor Vasilyev and Tom Wiesing},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf},
+     pages = {195–210},
   crossref = {MACIS17},
-      pubs = {twiesing,mkohlhase,frabe,dmueller,odk,odkWP6},
-      note = {in press}}
+      pubs = {twiesing,mkohlhase,frabe,dmueller,odk,odkWP6}}
 </bib-data>
       </bibentry>
       <bibentry key="mitm:groups:on" type="website" xml:id="bib.bib8">

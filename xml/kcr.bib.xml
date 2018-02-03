@@ -173,6 +173,7 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
+        <bib-part role="pages">243–257</bib-part>
         <bib-related role="host" type="proceedings"><bib-title>MACIS 2017</bib-title><bib-date role="publication">2017</bib-date><bib-name role="editor">
           <surname>Blömer</surname>
           <givenname>Johannes</givenname>
@@ -182,11 +183,11 @@
         </bib-name><bib-name role="editor">
           <surname>Simos</surname>
           <givenname>Dimitris</givenname>
-        </bib-name><bib-data role="soonnumber">9582</bib-data><bib-part role="series">LNCS</bib-part><bib-publisher>Springer Verlag</bib-publisher><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{MACIS17,
+        </bib-name><bib-part role="number">10693</bib-part><bib-part role="series">LNCS</bib-part><bib-publisher>Springer Verlag</bib-publisher><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{MACIS17,
      title = {MACIS 2017},
       year = {2017},
     editor = {Johannes Bl{\"o}mer and Temur Kutsia and Dimitris Simos},
- soonnumber = {9582},
+    number = {10693},
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},
@@ -194,16 +195,15 @@
 </bib-data></bib-related>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,odk,odkWP6</bib-data>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf">Link</bib-url>
-        <bib-note role="annotation">in press</bib-note>
         
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{WieKohRab:vtuimkb17,
      title = {Virtual Theories – A Uniform Interface to Mathematical Knowledge Bases},
     author = {Tom Wiesing and Michael Kohlhase and Florian Rabe},
+     pages = {243–257},
   crossref = {MACIS17},
       pubs = {twiesing,mkohlhase,frabe,odk,odkWP6},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf},
-      note = {in press},
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},
  publisher = {Springer Verlag},
       year = {2017}}
@@ -240,6 +240,7 @@
           <givenname>Tom</givenname>
         </bib-name>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf">Link</bib-url>
+        <bib-part role="pages">195–210</bib-part>
         <bib-related role="host" type="proceedings"><bib-title>MACIS 2017</bib-title><bib-date role="publication">2017</bib-date><bib-name role="editor">
           <surname>Blömer</surname>
           <givenname>Johannes</givenname>
@@ -249,27 +250,26 @@
         </bib-name><bib-name role="editor">
           <surname>Simos</surname>
           <givenname>Dimitris</givenname>
-        </bib-name><bib-data role="soonnumber">9582</bib-data><bib-part role="series">LNCS</bib-part><bib-publisher>Springer Verlag</bib-publisher><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{MACIS17,
+        </bib-name><bib-part role="number">10693</bib-part><bib-part role="series">LNCS</bib-part><bib-publisher>Springer Verlag</bib-publisher><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{MACIS17,
      title = {MACIS 2017},
       year = {2017},
     editor = {Johannes Bl{\"o}mer and Temur Kutsia and Dimitris Simos},
- soonnumber = {9582},
+    number = {10693},
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},
   keywords = {conference}}
 </bib-data></bib-related>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,dmueller,odk,odkWP6</bib-data>
-        <bib-note role="annotation">in press</bib-note>
         
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{KohMuePfe:kbimss17,
      title = {Knowledge-Based Interoperability for Mathematical Software Systems},
     author = {Michael Kohlhase and Dennis M{\"u}ller and Markus Pfeiffer and Florian Rabe and Nicolas Thi{\'e}ry and Victor Vasilyev and Tom Wiesing},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf},
+     pages = {195–210},
   crossref = {MACIS17},
       pubs = {twiesing,mkohlhase,frabe,dmueller,odk,odkWP6},
-      note = {in press},
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},
  publisher = {Springer Verlag},
       year = {2017}}
@@ -33059,7 +33059,7 @@ Techniques and Applications</bib-title>
           <surname>Simos</surname>
           <givenname>Dimitris</givenname>
         </bib-name>
-        <bib-data role="soonnumber">9582</bib-data>
+        <bib-part role="number">10693</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-extract role="keywords">conference</bib-extract>
@@ -33067,7 +33067,7 @@ Techniques and Applications</bib-title>
      title = {MACIS 2017},
       year = {2017},
     editor = {Johannes Bl{\"o}mer and Temur Kutsia and Dimitris Simos},
- soonnumber = {9582},
+    number = {10693},
     series = {LNCS},
  publisher = {Springer Verlag},
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},
