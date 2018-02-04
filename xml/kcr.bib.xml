@@ -4,7 +4,28 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="UcaKoh:immstmms17" type="inproceedings" xml:id="bib.bib1">
+      <bibentry key="MueRabKoh:tatreport18" type="website" xml:id="bib.bib1">
+        <bib-name role="author">
+          <surname>Müller</surname>
+          <givenname>Dennis</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-title>Theories as types</bib-title>
+        <bib-url href="http://kwarc.info/kohlhase/submit/tatreport.pdf">Link</bib-url>
+        <bib-data role="self" type="BibTeX">@online{MueRabKoh:tatreport18,
+    author = {Dennis M{\"u}ller and Florian Rabe and Michael Kohlhase},
+     title = {Theories as Types},
+       url = {http://kwarc.info/kohlhase/submit/tatreport.pdf}}
+</bib-data>
+      </bibentry>
+      <bibentry key="UcaKoh:immstmms17" type="inproceedings" xml:id="bib.bib2">
         <bib-name role="author">
           <surname>Ucar</surname>
           <givenname>Gamze</givenname>
@@ -48,7 +69,7 @@
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMue:mtm17" type="website" xml:id="bib.bib2">
+      <bibentry key="KohMue:mtm17" type="website" xml:id="bib.bib3">
         <bib-data role="label">OMT</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -71,7 +92,7 @@
    urldate = {2017-10-07}}
 </bib-data>
       </bibentry>
-      <bibentry key="KopKohTab:mpdrmm18" type="article" xml:id="bib.bib3">
+      <bibentry key="KopKohTab:mpdrmm18" type="article" xml:id="bib.bib4">
         <bib-title>Model pathway diagrams for the representation of mathematical models</bib-title>
         <bib-name role="author">
           <surname>Koprucki</surname>
@@ -109,7 +130,7 @@
       pubs = {mkohlhase,dmueller,odk,frabe,MaMoReD}}
 </bib-data>
       </bibentry>
-      <bibentry key="WIAS2431" type="report" xml:id="bib.bib4">
+      <bibentry key="WIAS2431" type="report" xml:id="bib.bib5">
         <bib-title>Model pathway diagrams for the representation of mathematical models</bib-title>
         <bib-name role="author">
           <surname>Koprucki</surname>
@@ -147,7 +168,7 @@
       pubs = {mkohlhase,dmueller,odk,frabe,MaMoReD}}
 </bib-data>
       </bibentry>
-      <bibentry key="tpmuseum:tpbl:on" type="website" xml:id="bib.bib5">
+      <bibentry key="tpmuseum:tpbl:on" type="website" xml:id="bib.bib6">
         <bib-title>Theorem provers believed lost</bib-title>
         <bib-url href="http://theoremprover-museum.github.io/systems-believed-lost.html">Link</bib-url>
         <bib-data role="urldate">2017-09-02</bib-data>
@@ -159,7 +180,7 @@
      label = {TPL}}
 </bib-data>
       </bibentry>
-      <bibentry key="WieKohRab:vtuimkb17" type="inproceedings" xml:id="bib.bib6">
+      <bibentry key="WieKohRab:vtuimkb17" type="inproceedings" xml:id="bib.bib7">
         <bib-title>Virtual theories – a uniform interface to mathematical knowledge bases</bib-title>
         <bib-name role="author">
           <surname>Wiesing</surname>
@@ -209,7 +230,7 @@
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMuePfe:kbimss17" type="inproceedings" xml:id="bib.bib7">
+      <bibentry key="KohMuePfe:kbimss17" type="inproceedings" xml:id="bib.bib8">
         <bib-title>Knowledge-based interoperability for mathematical software systems</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -275,7 +296,7 @@
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="mitm:groups:on" type="website" xml:id="bib.bib8">
+      <bibentry key="mitm:groups:on" type="website" xml:id="bib.bib9">
         <bib-title>MitM/groups</bib-title>
         <bib-url href="https://gl.mathhub.info/MitM/groups">Link</bib-url>
         <bib-data role="urldate">2017-09-01</bib-data>
@@ -289,7 +310,7 @@
       pubs = {odk,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="mitm:smglom:on" type="website" xml:id="bib.bib9">
+      <bibentry key="mitm:smglom:on" type="website" xml:id="bib.bib10">
         <bib-title>MitM/smglom</bib-title>
         <bib-url href="https://gl.mathhub.info/MitM/smglom">Link</bib-url>
         <bib-data role="urldate">2018-02-01</bib-data>
@@ -303,7 +324,7 @@
       pubs = {odk,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="mitm:foundation:on" type="website" xml:id="bib.bib10">
+      <bibentry key="mitm:foundation:on" type="website" xml:id="bib.bib11">
         <bib-title>MitM/Foundation</bib-title>
         <bib-url href="https://gl.mathhub.info/MitM/Foundation">Link</bib-url>
         <bib-data role="urldate">2017-09-01</bib-data>
@@ -317,7 +338,7 @@
       pubs = {odk,odkWP6,MaMoReD}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:dddme17" type="inproceedings" xml:id="bib.bib11">
+      <bibentry key="Kohlhase:dddme17" type="inproceedings" xml:id="bib.bib12">
         <bib-title>Domain-dependant decoding of math expressions</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -351,7 +372,7 @@
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:moitrdm17" type="inproceedings" xml:id="bib.bib12">
+      <bibentry key="Kohlhase:moitrdm17" type="inproceedings" xml:id="bib.bib13">
         <bib-title>Math object identifiers – towards research data in mathematics</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -390,7 +411,7 @@
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="ed:on" type="website" xml:id="bib.bib13">
+      <bibentry key="ed:on" type="website" xml:id="bib.bib14">
         <bib-title>Ed – editorial notes for LaTeX documents</bib-title>
         <bib-data role="label">ED</bib-data>
         <bib-data role="urldate">2017-06-23</bib-data>
@@ -402,7 +423,7 @@
        url = {https://www.ctan.org/pkg/ed}}
 </bib-data>
       </bibentry>
-      <bibentry key="KBibs:on" type="website" xml:id="bib.bib14">
+      <bibentry key="KBibs:on" type="website" xml:id="bib.bib15">
         <bib-title>The joint bibliography of the KWARC group</bib-title>
         <bib-data role="label">KB</bib-data>
         <bib-data role="urldate">2017-06-23</bib-data>
@@ -414,7 +435,7 @@
        url = {https://github.com/KWARC/bibs}}
 </bib-data>
       </bibentry>
-      <bibentry key="BlueNote:on" type="website" xml:id="bib.bib15">
+      <bibentry key="BlueNote:on" type="website" xml:id="bib.bib16">
         <bib-title>KWARC blue notes class</bib-title>
         <bib-data role="label">KB</bib-data>
         <bib-data role="urldate">2017-06-23</bib-data>
@@ -426,7 +447,7 @@
        url = {https://github.com/KWARC/LaTeX-bluenote}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueRoYuRa:abtafs17" type="inproceedings" xml:id="bib.bib16">
+      <bibentry key="MueRoYuRa:abtafs17" type="inproceedings" xml:id="bib.bib17">
         <bib-title>Alignment-based translations across formal systems using interface theories</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -458,7 +479,7 @@ Interface Theories},
       pubs = {dmueller,frabe,crothgang,yliu,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="RupKohMue:fitgv17" type="inproceedings" xml:id="bib.bib17">
+      <bibentry key="RupKohMue:fitgv17" type="inproceedings" xml:id="bib.bib18">
         <bib-name role="author">
           <surname>Rupprecht</surname>
           <givenname>Marcel</givenname>
@@ -500,7 +521,7 @@ Interface Theories},
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe15:LRIpic" type="website" xml:id="bib.bib18">
+      <bibentry key="Rabe15:LRIpic" type="website" xml:id="bib.bib19">
         <bib-data role="label">LRI</bib-data>
         <bib-title>The LATIN theory graph on an extremely large touchscreen</bib-title>
         <bib-url href="https://kwarc.info/people/frabe/Research/florian_rabe_latin_graph_at_lri.jpg">Link</bib-url>
@@ -512,7 +533,7 @@ Interface Theories},
       date = {September 2015}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:tldm:on" type="website" xml:id="bib.bib19">
+      <bibentry key="Rabe:tldm:on" type="website" xml:id="bib.bib20">
         <bib-data role="label">LDT</bib-data>
         <bib-title>Tutorial: language design in MMT</bib-title>
         <bib-url href="http://uniformal.github.io/doc/tutorials/prototyping/">Link</bib-url>
@@ -524,7 +545,7 @@ Interface Theories},
    urldate = {2017-05-13}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:tadm:on" type="website" xml:id="bib.bib20">
+      <bibentry key="Rabe:tadm:on" type="website" xml:id="bib.bib21">
         <bib-data role="label">ADT</bib-data>
         <bib-title>Tutorial: application development with MMT</bib-title>
         <bib-url href="http://uniformal.github.io/doc/tutorials/applications/">Link</bib-url>
@@ -536,7 +557,7 @@ Interface Theories},
    urldate = {2017-05-13}}
 </bib-data>
       </bibentry>
-      <bibentry key="JEdit-IDE:on" type="website" xml:id="bib.bib21">
+      <bibentry key="JEdit-IDE:on" type="website" xml:id="bib.bib22">
         <bib-data role="label">JE</bib-data>
         <bib-name role="author">
           <surname>Rabe</surname>
@@ -551,7 +572,7 @@ Interface Theories},
        url = {http://uniformal.github.io/doc/applications/jedit.html}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMueOwr:mpagsiuf17" type="inproceedings" xml:id="bib.bib22">
+      <bibentry key="KohMueOwr:mpagsiuf17" type="inproceedings" xml:id="bib.bib23">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -597,7 +618,7 @@ Interface Theories},
  publisher = {Springer}}
 </bib-data>
       </bibentry>
-      <bibentry key="WIAS2385" type="report" xml:id="bib.bib23">
+      <bibentry key="WIAS2385" type="report" xml:id="bib.bib24">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -630,7 +651,7 @@ Interface Theories},
       pubs = {mkohlhase,dmueller,odk,MaMoReD}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKopMue:mmrdftg17" type="inproceedings" xml:id="bib.bib24">
+      <bibentry key="KohKopMue:mmrdftg17" type="inproceedings" xml:id="bib.bib25">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -692,7 +713,7 @@ Interface Theories},
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueGauKal:cacfms17" type="inproceedings" xml:id="bib.bib25">
+      <bibentry key="MueGauKal:cacfms17" type="inproceedings" xml:id="bib.bib26">
         <bib-title>Classification of alignments between concepts of formal mathematical systems</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -758,7 +779,7 @@ Interface Theories},
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="SperKoh:scsb17" type="inproceedings" xml:id="bib.bib26">
+      <bibentry key="SperKoh:scsb17" type="inproceedings" xml:id="bib.bib27">
         <bib-title>Software citations, information systems, and beyond</bib-title>
         <bib-name role="author">
           <surname>Sperber</surname>
@@ -812,7 +833,7 @@ Interface Theories},
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKohFue:scsb17" type="inproceedings" xml:id="bib.bib27">
+      <bibentry key="KohKohFue:scsb17" type="inproceedings" xml:id="bib.bib28">
         <bib-title>Visual structure in math expressions</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -870,7 +891,7 @@ Interface Theories},
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="MPDHub:on" type="website" xml:id="bib.bib28">
+      <bibentry key="MPDHub:on" type="website" xml:id="bib.bib29">
         <bib-data role="label">MPDHub</bib-data>
         <bib-url href="https://github.com/WIAS-BERLIN/MPDHub/wiki/">Link</bib-url>
         <bib-title>MPDHub wiki</bib-title>
@@ -882,7 +903,7 @@ Interface Theories},
    urldate = {2017-03-22}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohFue:umeets16" type="inproceedings" xml:id="bib.bib29">
+      <bibentry key="KohFue:umeets16" type="inproceedings" xml:id="bib.bib30">
         <bib-title>Understanding mathematical expressions: an eye-tracking study</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -923,7 +944,7 @@ Interface Theories},
      month = {July}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:mwsiggm16" type="inproceedings" xml:id="bib.bib30">
+      <bibentry key="Kohlhase:mwsiggm16" type="inproceedings" xml:id="bib.bib31">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -942,7 +963,7 @@ Interface Theories},
       pubs = {akohlhase,mws}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKopMueTab:RCS" type="website" xml:id="bib.bib31">
+      <bibentry key="KohKopMueTab:RCS" type="website" xml:id="bib.bib32">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -971,7 +992,7 @@ Interface Theories},
       pubs = {MaMoReD}}
 </bib-data>
       </bibentry>
-      <bibentry key="MitM:on" type="website" xml:id="bib.bib32">
+      <bibentry key="MitM:on" type="website" xml:id="bib.bib33">
         <bib-title>MitM: the math-in-the-middle ontology</bib-title>
         <bib-url href="https://mathhub.info/MitM">Link</bib-url>
         <bib-data role="urldate">2017-02-05</bib-data>
@@ -983,7 +1004,7 @@ Interface Theories},
       pubs = {odk,odkWP6,MaMoReD}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODKsysonto:on" type="website" xml:id="bib.bib33">
+      <bibentry key="ODKsysonto:on" type="website" xml:id="bib.bib34">
         <bib-title>ODK: opendreamkit system ontologies</bib-title>
         <bib-url href="https://mathhub.info/MitM">Link</bib-url>
         <bib-data role="urldate">2017-02-05</bib-data>
@@ -995,7 +1016,7 @@ Interface Theories},
       pubs = {odk,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="MitMInter:on" type="website" xml:id="bib.bib34">
+      <bibentry key="MitMInter:on" type="website" xml:id="bib.bib35">
         <bib-title>MitM/interfaces</bib-title>
         <bib-url href="https://mathhub.info/MitM/interfaces">Link</bib-url>
         <bib-data role="urldate">2017-06-21</bib-data>
@@ -1005,7 +1026,7 @@ Interface Theories},
    urldate = {2017-06-21}}
 </bib-data>
       </bibentry>
-      <bibentry key="lmh:on" type="website" xml:id="bib.bib35">
+      <bibentry key="lmh:on" type="website" xml:id="bib.bib36">
         <bib-data role="label">lmh</bib-data>
         <bib-title><text font="typewriter">lmh</text>: a cross-repository administration tool for the local authoring in mathhub.info</bib-title>
         <bib-url href="https://github.com/KWARC/localmh">Link</bib-url>
@@ -1017,7 +1038,7 @@ Interface Theories},
    urldate = {2017-02-05}}
 </bib-data>
       </bibentry>
-      <bibentry key="lmh-docker:on" type="website" xml:id="bib.bib36">
+      <bibentry key="lmh-docker:on" type="website" xml:id="bib.bib37">
         <bib-data role="label">lmhd</bib-data>
         <bib-title>Docker wrapper for lmh</bib-title>
         <bib-url href="https://github.com/KWARC/localmh_docker">Link</bib-url>
@@ -1029,7 +1050,7 @@ Interface Theories},
    urldate = {2017-02-05}}
 </bib-data>
       </bibentry>
-      <bibentry key="py-openmath:on" type="website" xml:id="bib.bib37">
+      <bibentry key="py-openmath:on" type="website" xml:id="bib.bib38">
         <bib-data role="label">POM</bib-data>
         <bib-title>An OpenMath 2.0 implementation in Python</bib-title>
         <bib-url href="https://github.com/OpenMath/py-openmath">Link</bib-url>
@@ -1041,7 +1062,7 @@ Interface Theories},
    urldate = {2016-09-04}}
 </bib-data>
       </bibentry>
-      <bibentry key="py-scscp:on" type="website" xml:id="bib.bib38">
+      <bibentry key="py-scscp:on" type="website" xml:id="bib.bib39">
         <bib-data role="label">POM</bib-data>
         <bib-title>An SCSCP module for Python</bib-title>
         <bib-url href="https://github.com/OpenMath/py-scscp">Link</bib-url>
@@ -1053,7 +1074,7 @@ Interface Theories},
    urldate = {2016-09-04}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:howto:14" type="article" xml:id="bib.bib39">
+      <bibentry key="rabe:howto:14" type="article" xml:id="bib.bib40">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -1070,7 +1091,7 @@ Interface Theories},
    journal = {Journal of Logic and Computation}}
 </bib-data>
       </bibentry>
-      <bibentry key="mmt:buildsys:on" type="website" xml:id="bib.bib40">
+      <bibentry key="mmt:buildsys:on" type="website" xml:id="bib.bib41">
         <bib-url href="http://uniformal.github.io/doc/applications/building.html">Link</bib-url>
         <bib-title>The MMT language and system; building documents</bib-title>
         <bib-data role="urldate">2017-02-12</bib-data>
@@ -1080,7 +1101,7 @@ Interface Theories},
    urldate = {2017-02-12}}
 </bib-data>
       </bibentry>
-      <bibentry key="Iancu:phd" type="thesis" xml:id="bib.bib41">
+      <bibentry key="Iancu:phd" type="thesis" xml:id="bib.bib42">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -1098,7 +1119,7 @@ Interface Theories},
    address = {Bremen, Germany}}
 </bib-data>
       </bibentry>
-      <bibentry key="uniformal:URL" type="misc" xml:id="bib.bib42">
+      <bibentry key="uniformal:URL" type="misc" xml:id="bib.bib43">
         
         <bib-key>MMT</bib-key>
         <bib-note role="publication">project web site at <ref class="ltx_url" font="typewriter" href="https://uniformal.github.io/">https://uniformal.github.io/</ref></bib-note>
@@ -1108,7 +1129,7 @@ Interface Theories},
  howpublished = {project web site at \url{https://uniformal.github.io/}}}
 </bib-data>
       </bibentry>
-      <bibentry key="uniformal:on" type="website" xml:id="bib.bib43">
+      <bibentry key="uniformal:on" type="website" xml:id="bib.bib44">
         
         <bib-data role="label">MMT</bib-data>
         <bib-data role="urldate">2016-08-30</bib-data>
@@ -1120,7 +1141,7 @@ Interface Theories},
       note = {project web site}}
 </bib-data>
       </bibentry>
-      <bibentry key="uniformal:base" type="misc" xml:id="bib.bib44">
+      <bibentry key="uniformal:base" type="misc" xml:id="bib.bib45">
         <bib-data role="label">MMT</bib-data>
         <bib-title>MMT – language and system for the uniform representation of knowledge</bib-title>
         <bib-url href="https://uniformal.github.io/">Link</bib-url>
@@ -1130,7 +1151,7 @@ Interface Theories},
        url = {https://uniformal.github.io/}}
 </bib-data>
       </bibentry>
-      <bibentry key="MWS-git:on" type="website" xml:id="bib.bib45">
+      <bibentry key="MWS-git:on" type="website" xml:id="bib.bib46">
         <bib-data role="label">MWS</bib-data>
         <bib-title>MathWebSearch</bib-title>
         <bib-url href="https://github.com/KWARC/MWS">Link</bib-url>
@@ -1142,7 +1163,7 @@ Interface Theories},
    urldate = {2016-06-11}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rochau:bsc16" type="thesis" xml:id="bib.bib46">
+      <bibentry key="Rochau:bsc16" type="thesis" xml:id="bib.bib47">
         <bib-name role="author">
           <surname>Rochau</surname>
           <givenname>Denis</givenname>
@@ -1159,7 +1180,7 @@ Interface Theories},
       type = {B.Sc. Thesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Luzhnica:bsc16" type="thesis" xml:id="bib.bib47">
+      <bibentry key="Luzhnica:bsc16" type="thesis" xml:id="bib.bib48">
         <bib-name role="author">
           <surname>Luzhnica</surname>
           <givenname>Enxhell</givenname>
@@ -1178,7 +1199,7 @@ Interface Theories},
       type = {B.\,Sc.\ Thesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="twiesing:bsc15" type="thesis" xml:id="bib.bib48">
+      <bibentry key="twiesing:bsc15" type="thesis" xml:id="bib.bib49">
         <bib-name role="author">
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
@@ -1199,7 +1220,7 @@ Interface Theories},
       pubs = {twiesing,mws,odk,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="LuzKoh:fsarfo16" type="inproceedings" xml:id="bib.bib49">
+      <bibentry key="LuzKoh:fsarfo16" type="inproceedings" xml:id="bib.bib50">
         <bib-name role="author">
           <surname>Luzhnica</surname>
           <givenname>Enxhell</givenname>
@@ -1249,7 +1270,7 @@ Interface Theories},
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="GinIanJuc:spsttom16" type="inproceedings" xml:id="bib.bib50">
+      <bibentry key="GinIanJuc:spsttom16" type="inproceedings" xml:id="bib.bib51">
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -1333,7 +1354,7 @@ Interface Theories},
       year = {2016}}
 </bib-data>
       </bibentry>
-      <bibentry key="Schaefer:bsc16" type="thesis" xml:id="bib.bib51">
+      <bibentry key="Schaefer:bsc16" type="thesis" xml:id="bib.bib52">
         <bib-name role="author">
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
@@ -1341,30 +1362,13 @@ Interface Theories},
         <bib-title>Declaration spotting in mathematical documents</bib-title>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2016</bib-date>
-        <bib-type>B. Sc. Thesis</bib-type>
+        <bib-type>B. Sc. @mastersthesis</bib-type>
         <bib-data role="self" type="BibTeX">@mastersthesis{Schaefer:bsc16,
     author = {Jan Frederik Schaefer},
      title = {Declaration Spotting in Mathematical Documents},
     school = {Jacobs University Bremen},
       year = {2016},
-      type = {B.\,Sc.\ Thesis}}
-</bib-data>
-      </bibentry>
-      <bibentry key="Ion:bsc16" type="thesis" xml:id="bib.bib52">
-        <bib-name role="author">
-          <surname>Toloaca</surname>
-          <givenname>Ion</givenname>
-        </bib-name>
-        <bib-title>MathSemantifier – a notation-based semantification study</bib-title>
-        <bib-organization>Jacobs University Bremen</bib-organization>
-        <bib-date role="publication">2016</bib-date>
-        <bib-type>B. Sc. Thesis</bib-type>
-        <bib-data role="self" type="BibTeX">@mastersthesis{Ion:bsc16,
-    author = {Ion Toloaca},
-     title = {{MathSemantifier} – A Notation-Based Semantification Study},
-    school = {Jacobs University Bremen},
-      year = {2016},
-      type = {B.\,Sc.\ Thesis}}
+      type = {B.\,Sc.\ @mastersthesis}}
 </bib-data>
       </bibentry>
       <bibentry key="TolKoh:nbs16" type="inproceedings" xml:id="bib.bib53">
