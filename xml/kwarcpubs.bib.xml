@@ -4169,10 +4169,14 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
       <bibentry key="mmtlfx:git" type="website" xml:id="bib.bib170">
         <bib-title>MathHub MMT/LFX git repository</bib-title>
         <bib-url href="http://gl.mathhub.info/MMT/LFX">Link</bib-url>
+        <bib-data role="label">LFX</bib-data>
+        <bib-key>LFX</bib-key>
         <bib-data role="urldate">2015-05-15</bib-data>
         <bib-data role="self" type="BibTeX">@online{mmtlfx:git,
      title = {MathHub {MMT/LFX} Git Repository},
        url = {http://gl.mathhub.info/MMT/LFX},
+     label = {LFX},
+       key = {LFX},
    urldate = {2015-05-15}}
 </bib-data>
       </bibentry>
