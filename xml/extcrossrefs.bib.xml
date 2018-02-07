@@ -5796,8 +5796,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-part role="volume">7006</bib-part>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{ki11,
-    editor = {Joscha Bach and
-               Stefan Edelkamp},
+    editor = {Joscha Bach and Stefan Edelkamp},
      title = {Proceedings of the 34th Annual German Conference on Artificial Intelligence (KI'11)},
  booktitle = {Proceedings of the 34th Annual German Conference on Artificial Intelligence (KI'11)},
  publisher = {Springer},
