@@ -22941,7 +22941,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
         </bib-name>
-        <bib-title>Enabling Cross-System Communication Using Virtual Theories and QMT</bib-title>
+        <bib-title>Enabling cross-system communication using virtual theories and QMT</bib-title>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-place>Bremen, Germany</bib-place>
         <bib-type>Master’s Thesis</bib-type>
@@ -22951,7 +22951,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-date role="publication">2017-08</bib-date>
         <bib-data role="self" type="BibTeX">@mastersthesis{twiesing:msc17,
     author = {Tom Wiesing},
-     title = {{Enabling Cross-System Communication Using Virtual Theories and QMT}},
+     title = {Enabling Cross-System Communication Using Virtual Theories and {QMT}},
     school = {Jacobs University Bremen},
    address = {Bremen, Germany},
       type = {Master's Thesis},
@@ -22966,7 +22966,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <surname>Pollinger</surname>
           <givenname>Theresa</givenname>
         </bib-name>
-        <bib-title>Knowledge representation for modeling and simulation â bridging the gap between informal pde theory and simulations practice</bib-title>
+        <bib-title>Knowledge representation for modeling and simulation â bridging the gap between informal PDE theory and simulations practice</bib-title>
         <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
         <bib-type>Master’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf">Link</bib-url>
@@ -22974,7 +22974,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@mastersthesis{Pollinger:msc17,
     author = {Theresa Pollinger},
-     title = {Knowledge Representation for Modeling and Simulation – Bridging the Gap Between Informal PDE Theory and Simulations Practice},
+     title = {Knowledge Representation for Modeling and Simulation – Bridging the Gap Between Informal {PDE} Theory and Simulations Practice},
     school = {Informatik, FAU Erlangen-N\"urnberg},
       type = {Master's Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf},
@@ -22987,7 +22987,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <surname>Rabenstein</surname>
           <givenname>Ullrich</givenname>
         </bib-name>
-        <bib-title>Meaning extraction and semantic services in stem-documents – a case study on quantity expressions and units</bib-title>
+        <bib-title>Meaning extraction and semantic services in STEM-documents – a case study on quantity expressions and units</bib-title>
         <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
         <bib-type>Master’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/urabenstein/Rabenstein.pdf">Link</bib-url>
@@ -22995,7 +22995,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@mastersthesis{Rabenstein:msc17,
     author = {Ullrich Rabenstein},
-     title = {Meaning Extraction and Semantic Services in STEM-Documents – A case study on Quantity Expressions and Units},
+     title = {Meaning Extraction and Semantic Services in {STEM}-Documents – A case study on Quantity Expressions and Units},
     school = {Informatik, FAU Erlangen-N\"urnberg},
       type = {Master's Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/urabenstein/Rabenstein.pdf},
