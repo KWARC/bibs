@@ -98,10 +98,15 @@ the publication pages http://kwarc.github.io/foo and http://kwarc.github.io/bar.
 
 ## The Build Process
 In a nutshell,  the build process transforms `kwarcpubs.bib` and `kwarccrossrefs.bib` to LTXML format via
-[LaTeXML](http://dlmf.nist.gov/LaTeXML/) and then runs the script `src/pubs/publist.xsl`
-over it. For details see the `Makefile`. The results are on the `gh-pages` branch. 
+[LaTeXML](http://dlmf.nist.gov/LaTeXML/). Then we run the script `src/pubs/publist.xsl`
+over it for all the values from the `pubs=` field in the bibTeX entries that are registered
+in the `bibs.do` variable in the `Makefile`. `publist.xsl`
+selects the respective items and makes a html file from that. The results are committed to
+[the `gh-pages` branch](https://github.com/KWARC/bibs/tree/gh-pages) and are then hosted by GitHub. 
 
-## Adding a Person or Project to the publication pages
+For details see the top-level `Makefile`. 
+
+## Adding a Person or Project Page to the Publication Pages (Generation)
 To add a person to the publication pages 
 1. update the `bib.people` variable in the top-level `Makefile` and add the username of the person to add
 2. update the `<xsl:choose>` statement in `src/pubs/publist.xsl` to set the real name of the person to be added.
