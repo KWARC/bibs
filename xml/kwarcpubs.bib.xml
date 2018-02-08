@@ -22965,7 +22965,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-type>Master’s Thesis</bib-type>
         <bib-data role="month">August</bib-data>
         <bib-url href="https://github.com/tkw1536/MasterThesis/raw/master/thesis.pdf">Link</bib-url>
-        <bib-data role="pubs">twiesing,odk</bib-data>
+        <bib-data role="pubs">twiesing,odk,mscthesis</bib-data>
         <bib-date role="publication">2017-08</bib-date>
         <bib-data role="self" type="BibTeX">@mastersthesis{twiesing:msc17,
     author = {Tom Wiesing},
@@ -22975,7 +22975,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       type = {Master's Thesis},
      month = {August},
        url = {https://github.com/tkw1536/MasterThesis/raw/master/thesis.pdf},
-      pubs = {twiesing,odk},
+      pubs = {twiesing,odk,mscthesis},
       year = {2017}}
 </bib-data>
       </bibentry>
@@ -22988,7 +22988,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
         <bib-type>Master’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf">Link</bib-url>
-        <bib-data role="pubs">tpollinger,odk,MaMoReD</bib-data>
+        <bib-data role="pubs">tpollinger,odk,MaMoReD,mscthesis</bib-data>
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@mastersthesis{Pollinger:msc17,
     author = {Theresa Pollinger},
@@ -22996,7 +22996,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
     school = {Informatik, FAU Erlangen-N\"urnberg},
       type = {Master's Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf},
-      pubs = {tpollinger,odk,MaMoReD},
+      pubs = {tpollinger,odk,MaMoReD,mscthesis},
       year = {2017}}
 </bib-data>
       </bibentry>
@@ -23009,7 +23009,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
         <bib-type>Master’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/urabenstein/Rabenstein.pdf">Link</bib-url>
-        <bib-data role="pubs">urabenstein</bib-data>
+        <bib-data role="pubs">urabenstein,mscthesis</bib-data>
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@mastersthesis{Rabenstein:msc17,
     author = {Ullrich Rabenstein},
@@ -23017,7 +23017,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
     school = {Informatik, FAU Erlangen-N\"urnberg},
       type = {Master's Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/urabenstein/Rabenstein.pdf},
-      pubs = {urabenstein},
+      pubs = {urabenstein,mscthesis},
       year = {2017}}
 </bib-data>
       </bibentry>
