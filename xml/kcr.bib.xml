@@ -215,6 +215,7 @@
   keywords = {conference}}
 </bib-data></bib-related>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,odk,odkWP6</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf">Link</bib-url>
         
         <bib-date role="publication">2017</bib-date>
@@ -224,6 +225,7 @@
      pages = {243–257},
   crossref = {MACIS17},
       pubs = {twiesing,mkohlhase,frabe,odk,odkWP6},
+  keywords = {conference},
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf},
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},
  publisher = {Springer Verlag},
@@ -281,6 +283,7 @@
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},
   keywords = {conference}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">twiesing,mkohlhase,frabe,dmueller,odk,odkWP6</bib-data>
         
         <bib-date role="publication">2017</bib-date>
@@ -290,6 +293,7 @@
        url = {https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf},
      pages = {195–210},
   crossref = {MACIS17},
+  keywords = {conference},
       pubs = {twiesing,mkohlhase,frabe,dmueller,odk,odkWP6},
  booktitle = {MACIS 2017: Seventh International Conference on Mathematical Aspects of Computer and Information Sciences},
  publisher = {Springer Verlag},
@@ -346,6 +350,7 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-eyetracking.pdf">Link</bib-url>
         <bib-data role="pubs">akohlhase</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -367,6 +372,7 @@
     author = {Andrea Kohlhase},
        url = {http://kwarc.info/kohlhase/papers/cicm17-eyetracking.pdf},
       pubs = {akohlhase},
+  keywords = {conference},
   crossref = {MathUI17},
  booktitle = {MathUI 2017: The 12th Workshop on Mathematical User Interfaces},
       year = {2017}}
@@ -605,6 +611,7 @@ Interface Theories},
 </bib-data></bib-related>
         <bib-date role="publication">2017</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/itp17-pvs.pdf">Link</bib-url>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,dmueller,frabe,oaf</bib-data>
         
         <bib-data role="self" type="BibTeX">@inproceedings{KohMueOwr:mpagsiuf17,
@@ -613,6 +620,7 @@ Interface Theories},
   crossref = {ITP17},
       year = {2017},
        url = {http://kwarc.info/kohlhase/submit/itp17-pvs.pdf},
+  keywords = {conference},
       pubs = {mkohlhase,dmueller,frabe,oaf},
  booktitle = {Interactive Theorem Proving},
  publisher = {Springer}}
@@ -671,6 +679,7 @@ Interface Theories},
         <bib-title>Mathematical models as research data via flexiformal theory graphs</bib-title>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-models.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,odk,odkWP6,MaMoReD</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Geuvers</surname>
           <givenname>Herman</givenname>
@@ -707,6 +716,7 @@ Interface Theories},
      title = {Mathematical models as research data via flexiformal theory graphs},
        url = {http://kwarc.info/kohlhase/papers/cicm17-models.pdf},
       pubs = {mkohlhase,dmueller,odk,odkWP6,MaMoReD},
+  keywords = {conference},
   crossref = {CICM17},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
@@ -737,6 +747,7 @@ Interface Theories},
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-alignments.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,frabe,oaf,odk,odkWP6</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Geuvers</surname>
           <givenname>Herman</givenname>
@@ -773,6 +784,7 @@ Interface Theories},
     author = {Dennis M{\"u}ller and  Thibault Gauthier and  Cezary Kaliszyk and Michael Kohlhase and  Florian Rabe},
        url = {http://kwarc.info/kohlhase/papers/cicm17-alignments.pdf},
       pubs = {mkohlhase,dmueller,frabe,oaf,odk,odkWP6},
+  keywords = {conference},
   crossref = {CICM17},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
  publisher = {Springer},
@@ -790,6 +802,7 @@ Interface Theories},
           <givenname>Michael</givenname>
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-softwarecitations.pdf">Link</bib-url>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Geuvers</surname>
@@ -826,6 +839,7 @@ Interface Theories},
      title = {Software Citations, Information Systems, and Beyond},
     author = {Wolfram Sperber and Michael Kohlhase},
        url = {http://kwarc.info/kohlhase/papers/cicm17-softwarecitations.pdf},
+  keywords = {conference},
       pubs = {mkohlhase},
   crossref = {CICM17},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
@@ -848,6 +862,7 @@ Interface Theories},
           <givenname>Michael</givenname>
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-eyetracking.pdf">Link</bib-url>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
         <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Geuvers</surname>
@@ -884,6 +899,7 @@ Interface Theories},
      title = {Visual Structure in Math Expressions},
     author = {Andrea Kohlhase and Michael Kohlhase and Michael F{\"u}rsich},
        url = {http://kwarc.info/kohlhase/papers/cicm17-eyetracking.pdf},
+  keywords = {conference},
       pubs = {mkohlhase,akohlhase},
   crossref = {CICM17},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2017},
