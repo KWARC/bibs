@@ -90,11 +90,23 @@ common fields, not suitable for citation
 
 We use the Travis job to generate  
 [publication websites](https://kwarc.github.io/bibs/) with the help of
-[LaTeXML](http://dlmf.nist.gov/LaTeXML/) - see (far below).  Additionally, we generate
+[LaTeXML](http://dlmf.nist.gov/LaTeXML/).  Additionally, we generate
 specific publication pages for [KWARC members](http://kwarc.info/people/), 
 [KWARC projects](http://kwarc.info/projects/), and theses. This behavior is triggered by
 the `pubs` key in the bibTeX entries: an entry with `pubs = {foo,bar}` will be listed in
-the publication pages http://kwarc.github.io/foo and http://kwarc.github.io/bar. 
+the publication pages http://kwarc.github.io/foo and http://kwarc.github.io/bar.
+
+## The Build Process
+In a nutshell,  the build process transforms `kwarcpubs.bib` and `kwarccrossrefs.bib` to LTXML format via
+[LaTeXML](http://dlmf.nist.gov/LaTeXML/) and then runs the script `src/pubs/publist.xsl`
+over it. For details see the `Makefile`. The results are on the `gh-pages` branch. 
+
+## Adding a Person or Project to the publication pages
+To add a person to the publication pages 
+1. update the `bib.people` variable in the top-level `Makefile` and add the username of the person to add
+2. update the `<xsl:choose>` statement in `src/pubs/publist.xsl` to set the real name of the person to be added.
+Travis will re-build the web page (takes about 30 min), but you should probably test by
+building locally first. 
  
 ## Building locally
 The website and concatenated files are generated and pushed automatically via
