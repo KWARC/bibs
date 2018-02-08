@@ -145,6 +145,7 @@
 	  <xsl:when test="$id='phdthesis'"><title>KWARC Ph.D. Theses</title></xsl:when>
 	  <xsl:when test="$id='mscthesis'"><title>KWARC Masters Theses</title></xsl:when>
 	  <xsl:when test="$id='bscthesis'"><title>KWARC Bachelors Theses</title></xsl:when>
+	  <xsl:when test="$id='theses'"><title>KWARC Theses</title></xsl:when>
 	  <xsl:otherwise>
 	    <title><xsl:value-of select="$name"/>: Selected Publications</title>
 	  </xsl:otherwise>
@@ -172,6 +173,7 @@
 		<xsl:when test="$id='phdthesis'"><H1>KWARC Ph.D. Theses</H1></xsl:when>
 		<xsl:when test="$id='mscthesis'"><H1>KWARC Masters Theses</H1></xsl:when>
 		<xsl:when test="$id='bscthesis'"><H1>KWARC Bachelors Theses</H1></xsl:when>
+		<xsl:when test="$id='theses'"><H1>KWARC Theses</H1></xsl:when>
 		<xsl:otherwise>
 		  <h1><xsl:value-of select="$name"/>: Selected Publications</h1>
 		  <blockquote>
