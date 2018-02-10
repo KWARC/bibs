@@ -1127,6 +1127,7 @@ Interface Theories},
         <bib-date role="publication">2017</bib-date>
         <bib-place>Bremen, Germany</bib-place>
         <bib-url href="https://opus.jacobs-university.de/frontdoor/index/index/docId/721">Link</bib-url>
+        <bib-data role="pubs">phdthesis</bib-data>
         <bib-type>Ph.D. Thesis</bib-type>
         <bib-data role="self" type="BibTeX">@phdthesis{Iancu:phd,
     author = {Mihnea Iancu},
@@ -1134,7 +1135,8 @@ Interface Theories},
     school = {Jacobs University},
       year = {2017},
    address = {Bremen, Germany},
-       url = {https://opus.jacobs-university.de/frontdoor/index/index/docId/721}}
+       url = {https://opus.jacobs-university.de/frontdoor/index/index/docId/721},
+      pubs = {phdthesis}}
 </bib-data>
       </bibentry>
       <bibentry key="uniformal:URL" type="misc" xml:id="bib.bib43">
