@@ -2762,7 +2762,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
           <givenname>Mihnea</givenname>
         </bib-name>
         <bib-title>Co-representing structure and meaning of mathematical documents</bib-title>
-        <bib-url href="http://kwarc.info/kohlhase/papers/omdoc-semantics.pdf">Link</bib-url>
+        <bib-url href="Http://kwarc.info/kohlhase/papers/omdoc-semantics.pdf">Link</bib-url>
         
         <bib-note role="annotation">Special Issue “The language of mathematics – computational, linguistic and logical aspects”</bib-note>
         <bib-date role="publication">2014</bib-date>
@@ -2773,7 +2773,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-data role="self" type="BibTeX">@article{KohIan:crsmmd14,
     author = {Michael Kohlhase and Mihnea Iancu},
      title = {Co-Representing Structure and Meaning of Mathematical Documents},
-       url = {http://kwarc.info/kohlhase/papers/omdoc-semantics.pdf},
+       url = {Http://kwarc.info/kohlhase/papers/omdoc-semantics.pdf},
    journal = {Sprache und Datenverarbeitung, International Journal for
                   Language Data Processing},
       note = {Special Issue ``The language of mathematics – computational, linguistic and logical aspects''},
