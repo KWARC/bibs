@@ -63,14 +63,14 @@
           <givenname>Dennis</givenname>
         </bib-name>
         <bib-title>OMDoc/MMT tutorial for mathematicians</bib-title>
-        <bib-url href="https://gl.mathhub.info/Teaching/KRMT/blob/master/source/tutorial/mmt-math-tutorial.pdf">Link</bib-url>
+        <bib-url href="https://gl.mathhub.info/Tutorials/Mathematicians/blob/master/tutorial/mmt-math-tutorial.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,mmt,odk</bib-data>
         <bib-data role="urldate">2017-10-07</bib-data>
         <bib-data role="self" type="BibTeX">@online{KohMue:mtm17,
      label = {OMT},
     author = {Michael Kohlhase and Dennis M{\"u}ller},
      title = {{OMDoc/MMT} Tutorial for Mathematicians},
-       url = {https://gl.mathhub.info/Teaching/KRMT/blob/master/source/tutorial/mmt-math-tutorial.pdf},
+       url = {https://gl.mathhub.info/Tutorials/Mathematicians/blob/master/tutorial/mmt-math-tutorial.pdf},
       pubs = {mkohlhase,dmueller,mmt,odk},
    urldate = {2017-10-07}}
 </bib-data>
