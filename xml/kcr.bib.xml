@@ -1389,6 +1389,7 @@ Interface Theories},
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2016</bib-date>
         <bib-type>B. Sc. Thesis</bib-type>
+        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/schaefer-frederick.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Schaefer:bsc16,
     author = {Jan Frederik Schaefer},
@@ -1396,6 +1397,7 @@ Interface Theories},
     school = {Jacobs University Bremen},
       year = {2016},
       type = {B.\,Sc.\ Thesis},
+       url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/schaefer-frederick.pdf},
       pubs = {bscthesis}}
 </bib-data>
       </bibentry>
@@ -1408,6 +1410,7 @@ Interface Theories},
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2016</bib-date>
         <bib-type>B. Sc. Thesis</bib-type>
+        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/toloaca-ion.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@masterthesis{Ion:bsc16,
     author = {Ion Toloaca},
@@ -1415,6 +1418,7 @@ Interface Theories},
     school = {Jacobs University Bremen},
       year = {2016},
       type = {B.\,Sc.\ Thesis},
+       url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/toloaca-ion.pdf},
       pubs = {bscthesis}}
 </bib-data>
       </bibentry>
