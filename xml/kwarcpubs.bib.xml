@@ -1895,7 +1895,7 @@ Interface Theories},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-url href="http://www.ems-ph.org/journals/newsletter/pdf/2014-06-92.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/mkohlhase/papers/ems13.pdf">Link</bib-url>
         <bib-part role="pages">22–27</bib-part>
         <bib-related role="host" type="journal">
           <bib-title>EMS Newsletter</bib-title>
@@ -1906,7 +1906,7 @@ Interface Theories},
         <bib-data role="self" type="BibTeX">@article{Kohlhase:mkmtobbtg14,
      title = {Mathematical Knowledge Management: Transcending the One-Brain-Barrier with Theory Graphs},
     author = {Michael Kohlhase},
-       url = {http://www.ems-ph.org/journals/newsletter/pdf/2014-06-92.pdf},
+       url = {https://kwarc.info/people/mkohlhase/papers/ems13.pdf},
      pages = {22–27},
    journal = {EMS Newsletter},
      month = {June},
