@@ -1192,6 +1192,7 @@ Interface Theories},
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2016</bib-date>
         <bib-type>B.Sc. Thesis</bib-type>
+        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/rochau_denis.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Rochau:bsc16,
     author = {Denis Rochau},
@@ -1199,6 +1200,7 @@ Interface Theories},
     school = {Jacobs University Bremen},
       year = {2016},
       type = {B.Sc. Thesis},
+       url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/rochau_denis.pdf},
       pubs = {bscthesis}}
 </bib-data>
       </bibentry>
@@ -1775,12 +1777,12 @@ Frank Tompa and Martin Suda},
           <givenname>Hang</givenname>
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/mmt-stex16.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,miancu,frabe,omdoc,mmt</bib-data>
+        <bib-data role="pubs">mkohlhase,miancu,frabe,omdoc,mmt,sTeX</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{IanKohRab:mslo16,
      title = {Mixing Surface Languages for {OMDoc}},
     author = {Mihnea Iancu and  Michael Kohlhase and Florian Rabe and Hang Yuan},
        url = {http://kwarc.info/kohlhase/submit/mmt-stex16.pdf},
-      pubs = {mkohlhase,miancu,frabe,omdoc,mmt}}
+      pubs = {mkohlhase,miancu,frabe,omdoc,mmt,sTeX}}
 </bib-data>
       </bibentry>
       <bibentry key="MMTsurface:on" type="website" xml:id="bib.bib62">
@@ -1898,7 +1900,7 @@ Frank Tompa and Martin Suda},
      month = {July}}
 </bib-data></bib-related>
         <bib-url href="http://www.cermat.org/events/MathUI/15/proceedings/Lal-Kohlhase-Ginev_KAT_annotations_MathUI_15.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun</bib-data>
+        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun,kat</bib-data>
         
         <bib-date role="publication">2015-07</bib-date>
         <bib-data role="month">July</bib-data>
@@ -1907,7 +1909,7 @@ Frank Tompa and Martin Suda},
      title = {{KAT}: an Annotation Tool for {STEM} Documents},
   crossref = {MathUI15},
        url = {http://www.cermat.org/events/MathUI/15/proceedings/Lal-Kohlhase-Ginev_KAT_annotations_MathUI_15.pdf},
-      pubs = {mkohlhase,dginev,twiesing,llamapun},
+      pubs = {mkohlhase,dginev,twiesing,llamapun,kat},
  booktitle = {Mathematical User Interfaces Workshop},
       year = {2015},
      month = {July}}
@@ -5264,7 +5266,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-date role="publication">2010</bib-date>
         <bib-type>B. Sc. Thesis</bib-type>
         <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2010/cdavid.pdf">Link</bib-url>
-        <bib-data role="pubs">cdavid,bscthesis,mathhub</bib-data>
+        <bib-data role="pubs">cdavid,bscthesis,mathhub,jobad</bib-data>
         <bib-data role="self" type="BibTeX">@misc{cdavid:bscthesis,
     author = {Catalin David},
      title = {Interactive Documents as Interfaces to Computer Algebra Systems: {JOBAD} and {Wolfram|Alpha}},
@@ -5272,7 +5274,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
       year = {2010},
       type = {B.\,Sc.\ Thesis},
        url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2010/cdavid.pdf},
-      pubs = {cdavid,bscthesis,mathhub}}
+      pubs = {cdavid,bscthesis,mathhub,jobad}}
 </bib-data>
       </bibentry>
       <bibentry key="doerrie:oamim13" type="misc" xml:id="bib.bib156">
@@ -8188,7 +8190,7 @@ Rudnicki and Josef Urban},
         <bib-data role="eprintclass">cs.SE</bib-data>
         <bib-identifier href="http://dx.doi.org/10.1145/1839707.1839712" id="10.1145/1839707.1839712" scheme="doi">Document</bib-identifier>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">mkohlhase,akohlhase,clange,docOnto,ikyda2012</bib-data>
+        <bib-data role="pubs">mkohlhase,akohlhase,clange,docOnto,ikyda2012,sTeX</bib-data>
         
         <bib-date role="publication">2010</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKohLan:ssffld10:biblatex,
@@ -8200,7 +8202,7 @@ Rudnicki and Josef Urban},
  eprintclass = {cs.SE},
        doi = {10.1145/1839707.1839712},
   keywords = {conference},
-      pubs = {mkohlhase,akohlhase,clange,docOnto,ikyda2012},
+      pubs = {mkohlhase,akohlhase,clange,docOnto,ikyda2012,sTeX},
  booktitle = {Proceedings of the 6\textsuperscript{th} International Conference on Semantic Systems ({I-Semantics}) and the 5\textsuperscript{th} International Conference on Pragmatic Web},
  publisher = {ACM},
       year = {2010}}
@@ -27561,14 +27563,14 @@ Sandro Wartzack},
         </bib-name>
         <bib-date role="publication">2014</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm14-kat.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun</bib-data>
+        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun,kat</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{DumGinKoh:katsd14,
      title = {System Description: {KAT} an Annotation Tool for {STEM} Documents},
     author = {Mircea Alex Dumitru and Deyan Ginev and Michael Kohlhase and Vlad Merticariu
                   and Stefan Mirea and Tom Wiesing},
       year = {2014},
        url = {http://kwarc.info/kohlhase/submit/cicm14-kat.pdf},
-      pubs = {mkohlhase,dginev,twiesing,llamapun}}
+      pubs = {mkohlhase,dginev,twiesing,llamapun,kat}}
 </bib-data>
       </bibentry>
       <bibentry key="IanJucKoh:sdm14" type="inproceedings" xml:id="bib.bib947">
@@ -27667,14 +27669,14 @@ Sandro Wartzack},
         </bib-name>
         <bib-url href="https://github.com/KWARC/KAT/blob/master/doc/manual/katmanual.pdf">Link</bib-url>
         <bib-date role="publication">2014</bib-date>
-        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun</bib-data>
+        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun,kat</bib-data>
         <bib-data role="self" type="BibTeX">@misc{DumGinKoh:katsdm14,
      title = {{KAT}: An Annotation Tool for {STEM} Documents; Manual},
     author = {Alex Dumitru and Deyan Ginev and Michael Kohlhase
        and Vlad Merticariu and  Stefan Mirea and Tom Wiesing},
        url = {https://github.com/KWARC/KAT/blob/master/doc/manual/katmanual.pdf},
       year = {2014},
-      pubs = {mkohlhase,dginev,twiesing,llamapun}}
+      pubs = {mkohlhase,dginev,twiesing,llamapun,kat}}
 </bib-data>
       </bibentry>
       <bibentry key="CarFarKoh:rsckmt14" type="inproceedings" xml:id="bib.bib949">
