@@ -36,6 +36,7 @@
       <xsl:when test="$id='mmt'"><xsl:text>Project MMT (Meta Meta Theories/Toolkit)</xsl:text></xsl:when>
       <xsl:when test="$id='mws'"><xsl:text>Project MathWebSearch</xsl:text></xsl:when>
       <xsl:when test="$id='omdoc'"><xsl:text>Project OMDoc</xsl:text></xsl:when>
+      <xsl:when test="$id='kat'"><xsl:text>Project KAT</xsl:text></xsl:when>
       <xsl:when test="$id='openmathmap'"><xsl:text>Project OpenMathMap</xsl:text></xsl:when>
       <xsl:when test="$id='sTeX'"><xsl:text>Project sTeX</xsl:text></xsl:when>
       <xsl:when test="$id='sally'"><xsl:text>Project Semantic Alliance</xsl:text></xsl:when>
