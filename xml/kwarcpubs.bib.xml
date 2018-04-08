@@ -44,11 +44,15 @@
         <bib-title>Theories as types</bib-title>
         <bib-related bibrefs="IJCAR18" role="host"/>
         <bib-note role="annotation">accepted</bib-note>
+        <bib-data role="soonurl">http://kwarc.info/kohlhase/submit/tatreport.pdf</bib-data>
+        <bib-data role="pubs">dmueller,mkohlhase,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{MueRabKoh:tat18,
     author = {Dennis M{\"u}ller and Florian Rabe and Michael Kohlhase},
      title = {Theories as Types},
   crossref = {IJCAR18},
-      note = {accepted}}
+      note = {accepted},
+   soonurl = {http://kwarc.info/kohlhase/submit/tatreport.pdf},
+      pubs = {dmueller,mkohlhase,frabe}}
 </bib-data>
       </bibentry>
       <bibentry key="UcaKoh:immstmms17" type="inproceedings" xml:id="bib.bib3">

@@ -54,6 +54,8 @@
       year = {2018}}
 </bib-data></bib-related>
         <bib-note role="annotation">accepted</bib-note>
+        <bib-data role="soonurl">http://kwarc.info/kohlhase/submit/tatreport.pdf</bib-data>
+        <bib-data role="pubs">dmueller,mkohlhase,frabe</bib-data>
         
         <bib-date role="publication">2018</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{MueRabKoh:tat18,
@@ -61,6 +63,8 @@
      title = {Theories as Types},
   crossref = {IJCAR18},
       note = {accepted},
+   soonurl = {http://kwarc.info/kohlhase/submit/tatreport.pdf},
+      pubs = {dmueller,mkohlhase,frabe},
  publisher = {Springer Verlag},
       year = {2018}}
 </bib-data>
