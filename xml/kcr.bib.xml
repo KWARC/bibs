@@ -5167,7 +5167,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-title>Automated theory interpretation</bib-title>
         <bib-organization>Jacobs University</bib-organization>
         <bib-date role="publication">2008</bib-date>
-        <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/phd-2008/normann.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/archive/pubs/phd-2008/normann.pdf">Link</bib-url>
         <bib-place>Bremen, Germany</bib-place>
         <bib-data role="pubs">phdthesis</bib-data>
         <bib-type>Ph.D. Thesis</bib-type>
@@ -5176,7 +5176,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
      title = {Automated Theory Interpretation},
     school = {Jacobs University},
       year = {2008},
-       url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/phd-2008/normann.pdf},
+       url = {https://kwarc.info/people/archive/pubs/phd-2008/normann.pdf},
    address = {Bremen, Germany},
       pubs = {phdthesis}}
 </bib-data>
@@ -5321,7 +5321,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2010</bib-date>
         <bib-type>B. Sc. Thesis</bib-type>
-        <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2010/cdavid.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/archive/pubs/bsc-2010/cdavid.pdf">Link</bib-url>
         <bib-data role="pubs">cdavid,bscthesis,mathhub,jobad</bib-data>
         <bib-data role="self" type="BibTeX">@misc{cdavid:bscthesis,
     author = {Catalin David},
@@ -5329,7 +5329,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
     school = {Jacobs University Bremen},
       year = {2010},
       type = {B.\,Sc.\ Thesis},
-       url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2010/cdavid.pdf},
+       url = {https://kwarc.info/people/archive/pubs/bsc-2010/cdavid.pdf},
       pubs = {cdavid,bscthesis,mathhub,jobad}}
 </bib-data>
       </bibentry>
@@ -5342,7 +5342,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2013</bib-date>
         <bib-type>B. Sc. Thesis</bib-type>
-        <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2013/jdoerrie.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/archive/pubs/bsc-2013/jdoerrie.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis,mathsearch</bib-data>
         <bib-data role="self" type="BibTeX">@misc{doerrie:oamim13,
     author = {Jan Wilken Doerrie},
@@ -5350,7 +5350,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
     school = {Jacobs University Bremen},
       year = {2013},
       type = {B.\,Sc.\ Thesis},
-       url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2013/jdoerrie.pdf},
+       url = {https://kwarc.info/people/archive/pubs/bsc-2013/jdoerrie.pdf},
       pubs = {bscthesis,mathsearch}}
 </bib-data>
       </bibentry>
@@ -8739,7 +8739,7 @@ Rudnicki and Josef Urban},
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2009</bib-date>
         <bib-type>Bachelor’s Thesis</bib-type>
-        <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2009/dginev.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/archive/pubs/bsc-2009/dginev.pdf">Link</bib-url>
         <bib-extract role="keywords">lamapunbibs</bib-extract>
         <bib-data role="pubs">dginev,bscthesis,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@misc{Ginev:armlocc09,
@@ -8748,7 +8748,7 @@ Rudnicki and Josef Urban},
     school = {Jacobs University Bremen},
       year = {2009},
       type = {Bachelor's Thesis},
-       url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2009/dginev.pdf},
+       url = {https://kwarc.info/people/archive/pubs/bsc-2009/dginev.pdf},
   keywords = {lamapunbibs},
       pubs = {dginev,bscthesis,omdoc}}
 </bib-data>
@@ -8762,7 +8762,7 @@ Rudnicki and Josef Urban},
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2009</bib-date>
         <bib-type>Bachelor’s Thesis</bib-type>
-        <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2009/aiacob.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/archive/pubs/bsc-2009/aiacob.pdf">Link</bib-url>
         <bib-data role="pubs">aiacob,bscthesis,mmt,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@misc{Iacob:ratm09,
     author = {Alin Iacob},
@@ -8770,7 +8770,7 @@ Rudnicki and Josef Urban},
     school = {Jacobs University Bremen},
       year = {2009},
       type = {Bachelor's Thesis},
-       url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2009/aiacob.pdf},
+       url = {https://kwarc.info/people/archive/pubs/bsc-2009/aiacob.pdf},
       pubs = {aiacob,bscthesis,mmt,omdoc}}
 </bib-data>
       </bibentry>
@@ -18837,7 +18837,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
         </bib-name>
         <bib-title>Using theory graphs to map mathematics: a case study and a prototype.</bib-title>
         <bib-organization>Jacobs University</bib-organization>
-        <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/msc-2007/blaubner.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/archive/pubs/msc-2007/blaubner.pdf">Link</bib-url>
         <bib-date role="publication">2007-08</bib-date>
         <bib-place>Bremen</bib-place>
         <bib-data role="month">August</bib-data>
@@ -18847,7 +18847,7 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
     author = {Bastian Laubner},
      title = {Using Theory Graphs to Map Mathematics: A Case Study and a Prototype.},
     school = {Jacobs University},
-       url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/msc-2007/blaubner.pdf},
+       url = {https://kwarc.info/people/archive/pubs/msc-2007/blaubner.pdf},
       year = {2007},
    address = {Bremen},
      month = {August},
@@ -22571,7 +22571,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
         <bib-title>Integrating web services into active mathematical documents</bib-title>
         <bib-organization>Computer Science, Jacobs University, Bremen</bib-organization>
         <bib-date role="publication">2009</bib-date>
-        <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2009/jgiceva.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/archive/pubs/bsc-2009/jgiceva.pdf">Link</bib-url>
         <bib-data role="pubs">jgiceva,omdoc,bscthesis</bib-data>
         <bib-type>Bachelor’s Thesis</bib-type>
         <bib-data role="self" type="BibTeX">@misc{Giceva:WSActiveMathDoc09,
@@ -22579,7 +22579,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
      title = {Integrating Web Services into Active Mathematical Documents},
     school = {Computer Science, Jacobs University, Bremen},
       year = {2009},
-       url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/bsc-2009/jgiceva.pdf},
+       url = {https://kwarc.info/people/archive/pubs/bsc-2009/jgiceva.pdf},
       pubs = {jgiceva,omdoc,bscthesis},
       type = {Bachelor's Thesis}}
 </bib-data>
@@ -25769,7 +25769,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
         <bib-data role="pubs">mscthesis</bib-data>
         <bib-type>Master’s Thesis</bib-type>
         <bib-extract role="keywords">lamapunbibs</bib-extract>
-        <bib-url href="https://svn.eecs.jacobs-university.de/svn/eecs/archive/msc-2009/aanca.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/archive/pubs/msc-2009/aanca.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Anca:NLMPforATS09,
     author = {{\c S}tefan Anca},
@@ -25779,7 +25779,7 @@ AISC’2000</bib-title><bib-data role="self" type="BibTeX">@proceedings{AISC00,
       pubs = {sanca,llamapun,mws},
       type = {Master's Thesis},
   keywords = {lamapunbibs},
-       url = {https://svn.eecs.jacobs-university.de/svn/eecs/archive/msc-2009/aanca.pdf},
+       url = {https://kwarc.info/people/archive/pubs/msc-2009/aanca.pdf},
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
