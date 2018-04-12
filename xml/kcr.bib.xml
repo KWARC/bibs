@@ -1151,12 +1151,14 @@ Interface Theories},
         <bib-date role="publication">2014</bib-date>
         <bib-identifier href="http://dx.doi.org/10.1093/logcom/exu079" id="10.1093/logcom/exu079" scheme="doi">Document</bib-identifier>
         
+        <bib-data role="pubs">frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@article{rabe:howto:14,
     author = {Florian Rabe},
      title = {{How to Identify, Translate, and Combine Logics?}},
       year = {2014},
        doi = {10.1093/logcom/exu079},
-   journal = {Journal of Logic and Computation}}
+   journal = {Journal of Logic and Computation},
+      pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="mmt:buildsys:on" type="website" xml:id="bib.bib42">
