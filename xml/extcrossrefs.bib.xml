@@ -213,6 +213,11 @@
         <bib-part role="series">LNCS</bib-part>
         <bib-name role="editor">
           <surname>Ayala-Rincón</surname>
+          <givenname>Mauricio</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Muñoz</surname>
+          <givenname>César A.</givenname>
         </bib-name>
         <bib-publisher>Springer</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{ITP17,
@@ -223,7 +228,7 @@
   keywords = {conference},
     volume = {10499},
     series = {LNCS},
-    editor = {Ayala-Rinc{\'o}n, Mauricio, Mu{\~n}oz, C{\'e}sar A.},
+    editor = {Ayala-Rinc{\'o}n, Mauricio and Mu{\~n}oz, C{\'e}sar A.},
  publisher = {Springer}}
 </bib-data>
       </bibentry>
