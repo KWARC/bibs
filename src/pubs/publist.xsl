@@ -22,7 +22,8 @@
       <xsl:when test="$id='cmueller'"><xsl:text>Christine Müller</xsl:text></xsl:when>
       <xsl:when test="$id='nmueller'"><xsl:text>Normen Müller</xsl:text></xsl:when>
       <xsl:when test="$id='fhorozal'"><xsl:text>Fulya Horozal</xsl:text></xsl:when>
-      
+      <xsl:when test="$id='jbetzendahl'"><xsl:text>Jonas Betzendahl</xsl:text></xsl:when> 
+     
       <xsl:when test="$id='sissi'"><xsl:text>Project SiSsI</xsl:text></xsl:when>
       <xsl:when test="$id='tetrapod'"><xsl:text>Project TetraPod</xsl:text></xsl:when>
       <xsl:when test="$id='TNTBase'"><xsl:text>Project TNTBase</xsl:text></xsl:when>
