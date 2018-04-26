@@ -1328,7 +1328,7 @@ Interface Theories},
         <bib-organization>Friedrich-Alexander-UniversitÃ¤t Erlangen-NÃ¼rnberg</bib-organization>
         <bib-date role="publication">2017</bib-date>
         <bib-type>M. Sc. Thesis</bib-type>
-        <bib-note role="annotation">Supervised by Prof. Dr. Michael Kohlhase</bib-note>
+        <bib-data role="pubs">tpollinger,odk,MaMoReD</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{tpollinger:mscthesis,
     author = {Pollinger, Theresa},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf},
@@ -1337,7 +1337,7 @@ Interface Theories},
     school = {Friedrich-Alexander-Universität Erlangen-Nürnberg},
       year = {2017},
       type = {M.\,Sc.\ Thesis},
-      note = {Supervised by Prof. Dr. Michael Kohlhase}}
+      pubs = {tpollinger,odk,MaMoReD}}
 </bib-data>
       </bibentry>
       <bibentry key="Iancu:phd" type="thesis" xml:id="bib.bib52">
