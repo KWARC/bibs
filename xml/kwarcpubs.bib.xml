@@ -55,15 +55,13 @@
         </bib-name>
         <bib-title>Theories as types</bib-title>
         <bib-related bibrefs="IJCAR18" role="host"/>
-        <bib-note role="annotation">accepted</bib-note>
-        <bib-data role="soonurl">http://kwarc.info/kohlhase/submit/tatreport.pdf</bib-data>
+        <bib-url href="http://kwarc.info/kohlhase/papers/cicm18-records.pdf">Link</bib-url>
         <bib-data role="pubs">dmueller,mkohlhase,frabe,oaf,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{MueRabKoh:tat18,
     author = {Dennis M{\"u}ller and Florian Rabe and Michael Kohlhase},
      title = {Theories as Types},
   crossref = {IJCAR18},
-      note = {accepted},
-   soonurl = {http://kwarc.info/kohlhase/submit/tatreport.pdf},
+       url = {http://kwarc.info/kohlhase/papers/cicm18-records.pdf},
       pubs = {dmueller,mkohlhase,frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
