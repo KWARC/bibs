@@ -381,14 +381,12 @@
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
         </bib-name>
-        <bib-url href="http://kwarc.info/kohlhase/papers/cicm17-eyetracking.pdf">Link</bib-url>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-related bibrefs="MathUI17" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:dddme17,
      title = {Domain-Dependant Decoding of Math Expressions},
     author = {Andrea Kohlhase},
-       url = {http://kwarc.info/kohlhase/papers/cicm17-eyetracking.pdf},
       pubs = {akohlhase},
   keywords = {conference},
   crossref = {MathUI17}}
