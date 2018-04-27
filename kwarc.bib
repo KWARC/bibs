@@ -60,6 +60,12 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{exastencils.on,
+  label={EXA},
+  title = {Advanced Stencil-Code Engineering (ExaStencils)},
+  url = {http://exastencils.org},
+  urldate = {2018-04-25}}
+  
 @online{wiki:human_intelligence,
   label = {WHI},
   title = "Human intelligence --- Wikipedia{,} The Free Encyclopedia",
@@ -13834,7 +13840,7 @@ year      = {1993}}
   crossref = {CADE00}}
 
 @INPROCEEDINGS{FaGu:lt92,
-  author = {William M. Farmer and Josuah Guttman and Xavier Thayer},
+  author = {William M. Farmer and Josuah Guttman and Javier Thayer},
   firstkey = {Farmer, Guttman, \& Thayer},
   title = {Little Theories},
   pages = {467--581},
@@ -42011,9 +42017,34 @@ pages="288--295"}
 
 
 @string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
-@STRING{stexyear = 2017}
+@STRING{stexyear = 2018}
 @STRING{testing = 16}
 
+@unpublished{PolKohKoe:kacse18,
+  title = {Knowledge Amalgamation for Computational Science and Engineering},
+  author = {Theresa Pollinger and Michael Kohlhase and Harald K{\"o}stler},
+  url = {http://kwarc.info/kohlhase/submit/cicm18-mosis.pdf},
+  note = {submitted to CICM 2018},
+  pubs = {mkohlhase,tpollinger,MaMoReD,mmt,odk}}
+  
+@online{mmt:repo:on,
+  label = {MMT},
+  title = {{UniFormal/MMT} -- The {MMT} Language and System},
+  url = {https://github.com/UniFormal/MMT},
+  urldate = {2017-10-24}}
+
+@online{MoSIS-demo:on,
+  label = {MoS},
+  url = {http://mosis.mathhub.info},
+  title = {JupyterHub - MoSIS Demo},
+  urldate = {2018-04-15}}
+  
+@online{OAFproject:on,
+  label = {OAF},
+  url = {https://kwarc.info/projects/oaf/},
+  title = {{OAF}: An Open Archive for Formalizations},
+  urldate = {2018-04-26}}
+  
 @online{MueRabKoh:tatreport18,
  author = {Dennis M{\"u}ller and Florian Rabe and Michael Kohlhase},
  title = {Theories as Types},
@@ -42023,8 +42054,7 @@ pages="288--295"}
  author = {Dennis M{\"u}ller and Florian Rabe and Michael Kohlhase},
  title = {Theories as Types},
  crossref = {IJCAR18},
- note = {accepted},
- SOONurl = {http://kwarc.info/kohlhase/submit/tatreport.pdf},
+ url = {http://kwarc.info/kohlhase/papers/ijcar18-records.pdf},
  pubs = {dmueller,mkohlhase,frabe,oaf,mmt}}
 
 @inproceedings{UcaKoh:immstmms17,
@@ -42118,7 +42148,6 @@ pages="288--295"}
 @inproceedings{Kohlhase:dddme17,
   title = {Domain-Dependant Decoding of Math Expressions},
   author = {Andrea Kohlhase},
-  url = {http://kwarc.info/kohlhase/papers/cicm17-eyetracking.pdf},
   pubs = {akohlhase},
   keywords = {conference},
   crossref = {MathUI17}}
@@ -42187,7 +42216,7 @@ urldate = {2017-05-13}
 }
 
 @online{Rabe:mmtsrv:on,
-	label = {MMTSrv}
+	label = {MMTSrv},
 	title = {The {MMT} Server},
 	author = {Rabe, Florian},
 	url = {http://uniformal.github.io/doc/applications/server.html},
@@ -42364,16 +42393,14 @@ urldate = {2017-02-05}}
 	date = {2017-11-09}
 }
 
-@mastersthesis{tpollinger:mscthesis,
-	author =   {Pollinger, Theresa},
-	url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf},
-	title =    {Knowledge Representation for Modeling and Simulation},
-	subtitle = {Bridging the Gap Between Informal PDE Theory and Simulations Practice},
-	school =   {Friedrich-Alexander-Universität Erlangen-Nürnberg},
-	year =     2017,
-	type =     {M.\,Sc.\ Thesis},
-	note =  {Supervised by Prof. Dr. Michael Kohlhase}
-}
+@MastersThesis{Pollinger:msc17,
+  author =   {Theresa Pollinger},
+  title =    {Knowledge Representation for Modeling and Simulation – Bridging the Gap Between Informal {PDE} Theory and Simulations Practice},
+  school =   {Informatik, FAU Erlangen-N\"urnberg},
+  type =     {Master's Thesis},
+  url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf},
+  pubs = {tpollinger,odk,MaMoReD,mscthesis},
+  year =     {2017}}
 
 @PhdThesis{Iancu:phd,
   author =	 {Mihnea Iancu},
@@ -44238,7 +44265,7 @@ crossref = {CICM-WS-WiP2013},
  url = {http://kwarc.info/kohlhase/papers/cimp13.pdf},
  publisher = {EMIS},
  pages = {81-98},
- year = {2013},
+ Year = {2013},
  pubs = {mkohlhase,mathsearch}}
 
 @inProceedings{GinJucAnc:alsaacl09,
@@ -49485,7 +49512,7 @@ url ={http://www.cermat.org/events/MathUI/15/proceedings/Kohlhase-Guseva-Cooccur
 
 @TechReport{ODK-D4.9,
   author = 	 {Michael Kohlhase and Tom Wiesing},
-  label = {D4.9},
+  label = {ODK},
   title = 	 {In-place computation in active documents (context/computation)},
   institution =  {OpenDreamKit},
   year = 	 2017,
@@ -49547,14 +49574,16 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
   pubs = {twiesing,odk,mscthesis},
   year =     {2017}}
 
-@MastersThesis{Pollinger:msc17,
-  author =   {Theresa Pollinger},
-  title =    {Knowledge Representation for Modeling and Simulation – Bridging the Gap Between Informal {PDE} Theory and Simulations Practice},
-  school =   {Informatik, FAU Erlangen-N\"urnberg},
+
+@MastersThesis{jbetzendahl:msc18,
+  author =   {Jonas Betzendahl},
+  title =    {Translating the {IMPS} Theory Library to {MMT} / {OMDoc}},
+  school =   {Informatik, Universität Bielefeld},
   type =     {Master's Thesis},
-  url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf},
-  pubs = {tpollinger,odk,MaMoReD,mscthesis},
-  year =     {2017}}
+  month =    {April},
+  url =      {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2018/jbetzendahl/thesis_imps2omdoc.pdf},
+  pubs =     {jbetzendahl,oaf,imps,mscthesis},
+  year =     {2018}}
 
 @MastersThesis{Rabenstein:msc17,
   author =   {Ullrich Rabenstein},
@@ -49571,7 +49600,9 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
   year = "2017",
   pages = "170--188",
   booktitle = "Recent Trends in Algebraic Development Techniques",
-  editor = "P. James and M. Roggenbach",
+  series = {LNCS},
+  number = {10644},
+  Editor = "P. James and M. Roggenbach",
   publisher = "Springer",
   pubs = {frabe,oaf}
 }
@@ -50323,7 +50354,7 @@ eventdate = {2014-05-25},
   keywords = {conference},
   volume = {10499},
   series = {LNCS},
-  editor = {Ayala-Rinc{\'o}n, Mauricio, Mu{\~n}oz, C{\'e}sar A.},
+  editor = {Ayala-Rinc{\'o}n, Mauricio and Mu{\~n}oz, C{\'e}sar A.},
   publisher={Springer}}
 
 @proceedings{ITP13,
