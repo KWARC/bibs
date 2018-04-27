@@ -1020,27 +1020,25 @@ Interface Theories},
       date = {2017-11-09}}
 </bib-data>
       </bibentry>
-      <bibentry key="tpollinger:mscthesis" type="thesis" xml:id="bib.bib51">
+      <bibentry key="Pollinger:msc17" type="thesis" xml:id="bib.bib51">
         <bib-name role="author">
           <surname>Pollinger</surname>
           <givenname>Theresa</givenname>
         </bib-name>
+        <bib-title>Knowledge representation for modeling and simulation â bridging the gap between informal PDE theory and simulations practice</bib-title>
+        <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
+        <bib-type>Master’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf">Link</bib-url>
-        <bib-title>Knowledge representation for modeling and simulation</bib-title>
-        <bib-subtitle>Bridging the Gap Between Informal PDE Theory and Simulations Practice</bib-subtitle>
-        <bib-organization>Friedrich-Alexander-UniversitÃ¤t Erlangen-NÃ¼rnberg</bib-organization>
+        <bib-data role="pubs">tpollinger,odk,MaMoReD,mscthesis</bib-data>
         <bib-date role="publication">2017</bib-date>
-        <bib-type>M. Sc. Thesis</bib-type>
-        <bib-data role="pubs">tpollinger,odk,MaMoReD</bib-data>
-        <bib-data role="self" type="BibTeX">@mastersthesis{tpollinger:mscthesis,
-    author = {Pollinger, Theresa},
+        <bib-data role="self" type="BibTeX">@mastersthesis{Pollinger:msc17,
+    author = {Theresa Pollinger},
+     title = {Knowledge Representation for Modeling and Simulation – Bridging the Gap Between Informal {PDE} Theory and Simulations Practice},
+    school = {Informatik, FAU Erlangen-N\"urnberg},
+      type = {Master's Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf},
-     title = {Knowledge Representation for Modeling and Simulation},
-  subtitle = {Bridging the Gap Between Informal PDE Theory and Simulations Practice},
-    school = {Friedrich-Alexander-Universität Erlangen-Nürnberg},
-      year = {2017},
-      type = {M.\,Sc.\ Thesis},
-      pubs = {tpollinger,odk,MaMoReD}}
+      pubs = {tpollinger,odk,MaMoReD,mscthesis},
+      year = {2017}}
 </bib-data>
       </bibentry>
       <bibentry key="Iancu:phd" type="thesis" xml:id="bib.bib52">
@@ -23098,28 +23096,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="Pollinger:msc17" type="thesis" xml:id="bib.bib983">
-        <bib-name role="author">
-          <surname>Pollinger</surname>
-          <givenname>Theresa</givenname>
-        </bib-name>
-        <bib-title>Knowledge representation for modeling and simulation â bridging the gap between informal PDE theory and simulations practice</bib-title>
-        <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
-        <bib-type>Master’s Thesis</bib-type>
-        <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf">Link</bib-url>
-        <bib-data role="pubs">tpollinger,odk,MaMoReD,mscthesis</bib-data>
-        <bib-date role="publication">2017</bib-date>
-        <bib-data role="self" type="BibTeX">@mastersthesis{Pollinger:msc17,
-    author = {Theresa Pollinger},
-     title = {Knowledge Representation for Modeling and Simulation – Bridging the Gap Between Informal {PDE} Theory and Simulations Practice},
-    school = {Informatik, FAU Erlangen-N\"urnberg},
-      type = {Master's Thesis},
-       url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2017/tpollinger/thesis.pdf},
-      pubs = {tpollinger,odk,MaMoReD,mscthesis},
-      year = {2017}}
-</bib-data>
-      </bibentry>
-      <bibentry key="jbetzendahl:msc18" type="thesis" xml:id="bib.bib984">
+      <bibentry key="jbetzendahl:msc18" type="thesis" xml:id="bib.bib983">
         <bib-name role="author">
           <surname>Betzendahl</surname>
           <givenname>Jonas</givenname>
@@ -23142,7 +23119,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2018}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabenstein:msc17" type="thesis" xml:id="bib.bib985">
+      <bibentry key="Rabenstein:msc17" type="thesis" xml:id="bib.bib984">
         <bib-name role="author">
           <surname>Rabenstein</surname>
           <givenname>Ullrich</givenname>
@@ -23163,7 +23140,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib986">
+      <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib985">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>M.</givenname>
@@ -23207,7 +23184,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="CMR:selecting:16" type="inproceedings" xml:id="bib.bib987">
+      <bibentry key="CMR:selecting:16" type="inproceedings" xml:id="bib.bib986">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>M.</givenname>
@@ -23243,7 +23220,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib988">
+      <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib987">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23266,7 +23243,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib989">
+      <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib988">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23296,7 +23273,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="universality:16" type="article" xml:id="bib.bib990">
+      <bibentry key="universality:16" type="article" xml:id="bib.bib989">
         <bib-name role="author">
           <surname>Dowek</surname>
           <givenname>G.</givenname>
@@ -23335,7 +23312,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="KRS:thf1:16" type="inproceedings" xml:id="bib.bib991">
+      <bibentry key="KRS:thf1:16" type="inproceedings" xml:id="bib.bib990">
         <bib-name role="author">
           <surname>Kaliszyk</surname>
           <givenname>C.</givenname>
@@ -23377,7 +23354,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:standard:16" type="inproceedings" xml:id="bib.bib992">
+      <bibentry key="rabe:mmt:standard:16" type="inproceedings" xml:id="bib.bib991">
         <bib-name role="author">
           <surname>Kumar</surname>
           <givenname>R.</givenname>
@@ -23421,7 +23398,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib993">
+      <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib992">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23461,7 +23438,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib994">
+      <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib993">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23484,7 +23461,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib995">
+      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib994">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23511,7 +23488,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="HR:tptp:12" type="inproceedings" xml:id="bib.bib996">
+      <bibentry key="HR:tptp:12" type="inproceedings" xml:id="bib.bib995">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>F.</givenname>
@@ -23559,7 +23536,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib997">
+      <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib996">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23603,7 +23580,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib998">
+      <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib997">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23669,7 +23646,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1000 **** -->      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib999">
+      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib998">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -23701,6 +23678,6 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {miancu,frabe,mmt}}
 </bib-data>
       </bibentry>
-    </biblist>
+<!--  %**** String Line 1000 **** -->    </biblist>
   </bibliography>
 </document>
