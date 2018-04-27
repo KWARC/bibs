@@ -23094,7 +23094,30 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="jbetzendahl:msc18" type="thesis" xml:id="bib.bib983">
+      <bibentry key="jbetzendahl:bsc14" type="thesis" xml:id="bib.bib983">
+        <bib-name role="author">
+          <surname>Betzendahl</surname>
+          <givenname>Jonas</givenname>
+        </bib-name>
+        <bib-title>Implementation of inverse coupled rewrite systems – a case study</bib-title>
+        <bib-organization>Informatik, UniversitÃ¤t Bielefeld</bib-organization>
+        <bib-type>Bachelor’s Thesis</bib-type>
+        <bib-data role="month">August</bib-data>
+        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2014/betzendahl_jonas/jbetzend_implementing_icores.pdf">Link</bib-url>
+        <bib-data role="pubs">jbetzendahl,haskell,icores,bscthesis</bib-data>
+        <bib-date role="publication">2014-08</bib-date>
+        <bib-data role="self" type="BibTeX">@thesis{jbetzendahl:bsc14,
+    author = {Jonas Betzendahl},
+     title = {Implementation of Inverse Coupled Rewrite Systems – A case study},
+    school = {Informatik, Universität Bielefeld},
+      type = {Bachelor's Thesis},
+     month = {August},
+       url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2014/betzendahl_jonas/jbetzend_implementing_icores.pdf},
+      pubs = {jbetzendahl,haskell,icores,bscthesis},
+      year = {2014}}
+</bib-data>
+      </bibentry>
+      <bibentry key="jbetzendahl:msc18" type="thesis" xml:id="bib.bib984">
         <bib-name role="author">
           <surname>Betzendahl</surname>
           <givenname>Jonas</givenname>
@@ -23106,7 +23129,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2018/jbetzendahl/thesis_imps2omdoc.pdf">Link</bib-url>
         <bib-data role="pubs">jbetzendahl,oaf,imps,mscthesis</bib-data>
         <bib-date role="publication">2018-04</bib-date>
-        <bib-data role="self" type="BibTeX">@mastersthesis{jbetzendahl:msc18,
+        <bib-data role="self" type="BibTeX">@thesis{jbetzendahl:msc18,
     author = {Jonas Betzendahl},
      title = {Translating the {IMPS} Theory Library to {MMT} / {OMDoc}},
     school = {Informatik, Universität Bielefeld},
@@ -23117,7 +23140,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2018}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabenstein:msc17" type="thesis" xml:id="bib.bib984">
+      <bibentry key="Rabenstein:msc17" type="thesis" xml:id="bib.bib985">
         <bib-name role="author">
           <surname>Rabenstein</surname>
           <givenname>Ullrich</givenname>
@@ -23138,7 +23161,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib985">
+      <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib986">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>M.</givenname>
@@ -23182,7 +23205,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="CMR:selecting:16" type="inproceedings" xml:id="bib.bib986">
+      <bibentry key="CMR:selecting:16" type="inproceedings" xml:id="bib.bib987">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>M.</givenname>
@@ -23218,7 +23241,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib987">
+      <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib988">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23241,7 +23264,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib988">
+      <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib989">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23271,7 +23294,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="universality:16" type="article" xml:id="bib.bib989">
+      <bibentry key="universality:16" type="article" xml:id="bib.bib990">
         <bib-name role="author">
           <surname>Dowek</surname>
           <givenname>G.</givenname>
@@ -23310,7 +23333,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="KRS:thf1:16" type="inproceedings" xml:id="bib.bib990">
+      <bibentry key="KRS:thf1:16" type="inproceedings" xml:id="bib.bib991">
         <bib-name role="author">
           <surname>Kaliszyk</surname>
           <givenname>C.</givenname>
@@ -23352,7 +23375,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:standard:16" type="inproceedings" xml:id="bib.bib991">
+      <bibentry key="rabe:mmt:standard:16" type="inproceedings" xml:id="bib.bib992">
         <bib-name role="author">
           <surname>Kumar</surname>
           <givenname>R.</givenname>
@@ -23396,7 +23419,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib992">
+      <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib993">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23436,7 +23459,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib993">
+      <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib994">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23459,7 +23482,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib994">
+      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib995">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23486,7 +23509,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="HR:tptp:12" type="inproceedings" xml:id="bib.bib995">
+      <bibentry key="HR:tptp:12" type="inproceedings" xml:id="bib.bib996">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>F.</givenname>
@@ -23534,7 +23557,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib996">
+      <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib997">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23578,7 +23601,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib997">
+      <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib998">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23644,7 +23667,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib998">
+<!--  %**** String Line 1000 **** -->      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib999">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -23676,6 +23699,6 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {miancu,frabe,mmt}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1000 **** -->    </biblist>
+    </biblist>
   </bibliography>
 </document>
