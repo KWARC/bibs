@@ -250,7 +250,6 @@
         <bib-date role="publication">2018</bib-date>
         
         <bib-publisher>Springer Verlag</bib-publisher>
-        <bib-url href="https://doi.org/10.1007/s11082-018-1321-7">Link</bib-url>
         <bib-identifier href="http://dx.doi.org/10.1007/s11082-018-1321-7" id="10.1007/s11082-018-1321-7" scheme="doi">Document</bib-identifier>
         <bib-data role="pubs">mkohlhase,dmueller,odk,frabe,MaMoReD,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@article{KopKohTab:mpdrmm18,
@@ -263,7 +262,6 @@
       year = {2018},
    journal = {Journal of Optical and Quantum Electronics},
  publisher = {Springer Verlag},
-       url = {https://doi.org/10.1007/s11082-018-1321-7},
        doi = {10.1007/s11082-018-1321-7},
       pubs = {mkohlhase,dmueller,odk,frabe,MaMoReD,mmt}}
 </bib-data>
@@ -2526,7 +2524,6 @@ Frank Tompa and Martin Suda},
  publisher = {{IOS} Press},
       isbn = {978-1-61499-437-4}}
 </bib-data></bib-related>
-        <bib-url href="http://dx.doi.org/10.3233/978-1-61499-438-1-427">Link</bib-url>
         <bib-identifier href="http://dx.doi.org/10.3233/978-1-61499-438-1-427" id="10.3233/978-1-61499-438-1-427" scheme="doi">Document</bib-identifier>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,cjucovschi,FormalCAD</bib-data>
@@ -2543,7 +2540,6 @@ Frank Tompa and Martin Suda},
       year = {2014},
      pages = {427–432},
   crossref = {FOIS14},
-       url = {http://dx.doi.org/10.3233/978-1-61499-438-1-427},
        doi = {10.3233/978-1-61499-438-1-427},
   keywords = {conference},
       pubs = {mkohlhase,cjucovschi,FormalCAD},
@@ -2602,7 +2598,7 @@ Frank Tompa and Martin Suda},
         </bib-name><bib-name role="editor">
           <surname>Yap</surname>
           <givenname>Chee</givenname>
-        </bib-name><bib-title>Mathematical software - ICMS 2014 - 4th international congress</bib-title><bib-part role="series">LNCS</bib-part><bib-date role="publication">2014</bib-date><bib-part role="volume">8592</bib-part><bib-extract role="keywords">conference</bib-extract><bib-publisher>Springer</bib-publisher><bib-url href="http://dx.doi.org/10.1007/978-3-662-44199-2">Link</bib-url><bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier><bib-identifier id="978-3-662-44198-5" scheme="isbn">ISBN 978-3-662-44198-5</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{ICMS14,
+        </bib-name><bib-title>Mathematical software - ICMS 2014 - 4th international congress</bib-title><bib-part role="series">LNCS</bib-part><bib-date role="publication">2014</bib-date><bib-part role="volume">8592</bib-part><bib-extract role="keywords">conference</bib-extract><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier><bib-identifier id="978-3-662-44198-5" scheme="isbn">ISBN 978-3-662-44198-5</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{ICMS14,
     editor = {Hoon Hong and Chee Yap},
      title = {Mathematical Software - {ICMS} 2014 - 4th International Congress},
  booktitle = {Mathematical Software - {ICMS} 2014 - 4th International Congress},
@@ -2611,11 +2607,9 @@ Frank Tompa and Martin Suda},
     volume = {8592},
   keywords = {conference},
  publisher = {Springer},
-       url = {http://dx.doi.org/10.1007/978-3-662-44199-2},
        doi = {10.1007/978-3-662-44199-2},
       isbn = {978-3-662-44198-5}}
 </bib-data></bib-related>
-        <bib-url href="http://dx.doi.org/10.1007/978-3-662-44199-2_5">Link</bib-url>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2_5" id="10.1007/978-3-662-44199-2_5" scheme="doi">Document</bib-identifier>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,cprodescu,miancu,mathsearch,mws,omdoc,mmt</bib-data>
@@ -2628,7 +2622,6 @@ Frank Tompa and Martin Suda},
       year = {2014},
      pages = {26–30},
   crossref = {ICMS14},
-       url = {http://dx.doi.org/10.1007/978-3-662-44199-2_5},
        doi = {10.1007/978-3-662-44199-2_5},
   keywords = {conference},
       pubs = {mkohlhase,cprodescu,miancu,mathsearch,mws,omdoc,mmt},
@@ -2654,7 +2647,7 @@ Frank Tompa and Martin Suda},
         </bib-name><bib-name role="editor">
           <surname>Yap</surname>
           <givenname>Chee</givenname>
-        </bib-name><bib-title>Mathematical software - ICMS 2014 - 4th international congress</bib-title><bib-part role="series">LNCS</bib-part><bib-date role="publication">2014</bib-date><bib-part role="volume">8592</bib-part><bib-extract role="keywords">conference</bib-extract><bib-publisher>Springer</bib-publisher><bib-url href="http://dx.doi.org/10.1007/978-3-662-44199-2">Link</bib-url><bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier><bib-identifier id="978-3-662-44198-5" scheme="isbn">ISBN 978-3-662-44198-5</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{ICMS14,
+        </bib-name><bib-title>Mathematical software - ICMS 2014 - 4th international congress</bib-title><bib-part role="series">LNCS</bib-part><bib-date role="publication">2014</bib-date><bib-part role="volume">8592</bib-part><bib-extract role="keywords">conference</bib-extract><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier><bib-identifier id="978-3-662-44198-5" scheme="isbn">ISBN 978-3-662-44198-5</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{ICMS14,
     editor = {Hoon Hong and Chee Yap},
      title = {Mathematical Software - {ICMS} 2014 - 4th International Congress},
  booktitle = {Mathematical Software - {ICMS} 2014 - 4th International Congress},
@@ -2663,11 +2656,9 @@ Frank Tompa and Martin Suda},
     volume = {8592},
   keywords = {conference},
  publisher = {Springer},
-       url = {http://dx.doi.org/10.1007/978-3-662-44199-2},
        doi = {10.1007/978-3-662-44199-2},
       isbn = {978-3-662-44198-5}}
 </bib-data></bib-related>
-        <bib-url href="http://dx.doi.org/10.1007/978-3-662-44199-2_7">Link</bib-url>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2_7" id="10.1007/978-3-662-44199-2_7" scheme="doi">Document</bib-identifier>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,miancu,omdoc,mmt,mathsearch</bib-data>
@@ -2679,7 +2670,6 @@ Frank Tompa and Martin Suda},
       year = {2014},
      pages = {36–40},
   crossref = {ICMS14},
-       url = {http://dx.doi.org/10.1007/978-3-662-44199-2_7},
        doi = {10.1007/978-3-662-44199-2_7},
   keywords = {conference},
       pubs = {mkohlhase,miancu,omdoc,mmt,mathsearch},
@@ -2820,7 +2810,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name><bib-name role="editor">
           <surname>Yap</surname>
           <givenname>Chee</givenname>
-        </bib-name><bib-title>Mathematical software - ICMS 2014 - 4th international congress</bib-title><bib-part role="series">LNCS</bib-part><bib-date role="publication">2014</bib-date><bib-part role="volume">8592</bib-part><bib-extract role="keywords">conference</bib-extract><bib-publisher>Springer</bib-publisher><bib-url href="http://dx.doi.org/10.1007/978-3-662-44199-2">Link</bib-url><bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier><bib-identifier id="978-3-662-44198-5" scheme="isbn">ISBN 978-3-662-44198-5</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{ICMS14,
+        </bib-name><bib-title>Mathematical software - ICMS 2014 - 4th international congress</bib-title><bib-part role="series">LNCS</bib-part><bib-date role="publication">2014</bib-date><bib-part role="volume">8592</bib-part><bib-extract role="keywords">conference</bib-extract><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier><bib-identifier id="978-3-662-44198-5" scheme="isbn">ISBN 978-3-662-44198-5</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{ICMS14,
     editor = {Hoon Hong and Chee Yap},
      title = {Mathematical Software - {ICMS} 2014 - 4th International Congress},
  booktitle = {Mathematical Software - {ICMS} 2014 - 4th International Congress},
@@ -2829,11 +2819,9 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     volume = {8592},
   keywords = {conference},
  publisher = {Springer},
-       url = {http://dx.doi.org/10.1007/978-3-662-44199-2},
        doi = {10.1007/978-3-662-44199-2},
       isbn = {978-3-662-44198-5}}
 </bib-data></bib-related>
-        <bib-url href="http://dx.doi.org/10.1007/978-3-662-44199-2_88">Link</bib-url>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2_88" id="10.1007/978-3-662-44199-2_88" scheme="doi">Document</bib-identifier>
         <bib-data role="pubs">akohlhase,mathsearch,mws</bib-data>
         
@@ -2843,7 +2831,6 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       year = {2014},
      pages = {586–593},
   crossref = {ICMS14},
-       url = {http://dx.doi.org/10.1007/978-3-662-44199-2_88},
        doi = {10.1007/978-3-662-44199-2_88},
       pubs = {akohlhase,mathsearch,mws},
  booktitle = {Mathematical Software - {ICMS} 2014 - 4th International Congress},
@@ -6905,7 +6892,7 @@ Daniela Zaharie},
         <bib-part role="pages">97–106</bib-part>
         <bib-data role="numpages">10</bib-data>
         <bib-url href="http://doi.acm.org/10.1145/1860559.1860580">Link</bib-url>
-        <bib-identifier href="http://dx.doi.org/http://doi.acm.org/10.1145/1860559.1860580" id="http://doi.acm.org/10.1145/1860559.1860580" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="http://dx.doi.org/10.1145/1860559.1860580" id="10.1145/1860559.1860580" scheme="doi">Document</bib-identifier>
         <bib-data role="acmid">1860580</bib-data>
         <bib-extract role="keywords">change impact analysis, document collections, document management, graph rewriting, semantics</bib-extract>
         <bib-data role="pubs">nmueller,omoc,omdoc</bib-data>
@@ -6918,7 +6905,7 @@ Daniela Zaharie},
      pages = {97–106},
   numpages = {10},
        url = {http://doi.acm.org/10.1145/1860559.1860580},
-       doi = {http://doi.acm.org/10.1145/1860559.1860580},
+       doi = {10.1145/1860559.1860580},
      acmid = {1860580},
   keywords = {change impact analysis, document collections, document management, graph rewriting, semantics},
       pubs = {nmueller,omoc,omdoc},
@@ -19548,7 +19535,6 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
         <bib-date role="publication">2004</bib-date>
         <bib-part role="pages">117–120</bib-part>
         <bib-url href="http://www.springerlink.com/content/j1552255x22990u7/fulltext.pdf">Link</bib-url>
-        <bib-data role="ee">http://dx.doi.org/10.1023/B:JLLI.0000024788.38738.bb</bib-data>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@article{BlaKoh:ics04,
     author = {Patrick Blackburn and Michael Kohlhase},
@@ -19559,7 +19545,6 @@ University</bib-place><bib-key>UITP1998</bib-key><bib-data role="self" type="Bib
       year = {2004},
      pages = {117–120},
        url = {http://www.springerlink.com/content/j1552255x22990u7/fulltext.pdf},
-        ee = {http://dx.doi.org/10.1023/B:JLLI.0000024788.38738.bb},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
@@ -30939,7 +30924,6 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-part role="volume">8592</bib-part>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
-        <bib-url href="http://dx.doi.org/10.1007/978-3-662-44199-2">Link</bib-url>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier>
         <bib-identifier id="978-3-662-44198-5" scheme="isbn">ISBN 978-3-662-44198-5</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS14,
@@ -30951,7 +30935,6 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     volume = {8592},
   keywords = {conference},
  publisher = {Springer},
-       url = {http://dx.doi.org/10.1007/978-3-662-44199-2},
        doi = {10.1007/978-3-662-44199-2},
       isbn = {978-3-662-44198-5}}
 </bib-data>
@@ -42121,7 +42104,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-date role="publication">2010</bib-date>
         <bib-identifier id="978-3-642-14417-2" scheme="isbn">ISBN 978-3-642-14417-2</bib-identifier>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-642-14418-9" id="10.1007/978-3-642-14418-9" scheme="doi">Document</bib-identifier>
-        <bib-data role="ee">http://dx.doi.org/10.1007/978-3-642-14418-9</bib-data>
+        <bib-identifier href="http://dx.doi.org/10.1007/978-3-642-14418-9" id="10.1007/978-3-642-14418-9" scheme="doi">Document</bib-identifier>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{cnl2009,
     editor = {Norbert E. Fuchs},
@@ -42135,7 +42118,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2010},
       isbn = {978-3-642-14417-2},
        doi = {10.1007/978-3-642-14418-9},
-        ee = {http://dx.doi.org/10.1007/978-3-642-14418-9},
+       doi = {10.1007/978-3-642-14418-9},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
