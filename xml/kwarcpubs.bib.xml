@@ -1507,11 +1507,13 @@ Interface Theories},
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
+        <bib-date role="publication">2016</bib-date>
         <bib-data role="pubs">mkohlhase,miancu,frabe,omdoc,mmt</bib-data>
         <bib-url href="http://kwarc.info/kohlhase/submit/structural-extensions16.pdf">Link</bib-url>
         <bib-data role="self" type="BibTeX">@unpublished{IanKohRab:upmsm16,
      title = {Understanding the Pragmatics of Module Systems for Mathematics},
     author = {Mihnea Iancu and Michael Kohlhase and  Florian Rabe},
+      year = {2016},
       pubs = {mkohlhase,miancu,frabe,omdoc,mmt},
        url = {http://kwarc.info/kohlhase/submit/structural-extensions16.pdf}}
 </bib-data>
@@ -1616,11 +1618,13 @@ Interface Theories},
           <givenname>Hang</givenname>
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/mmt-stex16.pdf">Link</bib-url>
+        <bib-date role="publication">2016</bib-date>
         <bib-data role="pubs">mkohlhase,miancu,frabe,omdoc,mmt,sTeX</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{IanKohRab:mslo16,
      title = {Mixing Surface Languages for {OMDoc}},
     author = {Mihnea Iancu and  Michael Kohlhase and Florian Rabe and Hang Yuan},
        url = {http://kwarc.info/kohlhase/submit/mmt-stex16.pdf},
+      year = {2016},
       pubs = {mkohlhase,miancu,frabe,omdoc,mmt,sTeX}}
 </bib-data>
       </bibentry>
@@ -1674,11 +1678,13 @@ Interface Theories},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
+        <bib-date role="publication">2012</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/activeex-2012.pdf">Link</bib-url>
         <bib-date role="publication">2012</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{KohKoh:faetd12,
      title = {Frames: Active Examples for Technical Documents},
     author = {Andrea Kohlhase and Michael Kohlhase},
+      year = {2012},
        url = {http://kwarc.info/kohlhase/submit/activeex-2012.pdf},
       year = {2012}}
 </bib-data>
@@ -1800,11 +1806,13 @@ Interface Theories},
           <givenname>Andrea</givenname>
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm15-assessment.pdf">Link</bib-url>
+        <bib-date role="publication">2015</bib-date>
         <bib-data role="pubs">mkohlhase,akohlhase,atoader,sissi</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{ToaKohKoh:sfstg15,
      title = {Assessment for Spreadsheets via Theory Graphs},
     author = {Alexandru Toader and Michael Kohlhase and  Andrea Kohlhase},
        url = {http://kwarc.info/kohlhase/submit/cicm15-assessment.pdf},
+      year = {2015},
       pubs = {mkohlhase,akohlhase,atoader,sissi}}
 </bib-data>
       </bibentry>
@@ -2491,11 +2499,13 @@ Language Data Processing</bib-title>
           <givenname>Vlad</givenname>
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm13-sepcomp.pdf">Link</bib-url>
+        <bib-date role="publication">2013</bib-date>
         <bib-data role="pubs">mkohlhase,latin,frabe,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohGinMer:fspmco13,
      title = {A Framework for Semantic Publishing of Modular Content Objects},
     author = {Michael Kohlhase and Deyan Ginev and Vlad Merticariu},
        url = {http://kwarc.info/kohlhase/papers/cicm13-sepcomp.pdf},
+      year = {2013},
       pubs = {mkohlhase,latin,frabe,omdoc}}
 </bib-data>
       </bibentry>
@@ -6184,11 +6194,13 @@ Rudnicki and Josef Urban},
         </bib-name>
         <bib-title>TNTBase – a versioned XML database</bib-title>
         <bib-url href="http://kwarc.info/vzholudev/pubs/xsym2010.pdf">Link</bib-url>
+        <bib-date role="publication">2010</bib-date>
         <bib-data role="pubs">vzholudev,clange,tntbase</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{ZhoLan:tntbaseXSYM10,
     author = {Vyacheslav Zholudev and Christoph Lange},
      title = {{TNTBase} – a Versioned {XML} Database},
        url = {http://kwarc.info/vzholudev/pubs/xsym2010.pdf},
+      year = {2010},
       pubs = {vzholudev,clange,tntbase}}
 </bib-data>
       </bibentry>
@@ -21335,10 +21347,12 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Towards a conceptual model for flexible formalization</bib-title>
+        <bib-date role="publication">2010</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/mkm10-flexiform.pdf">Link</bib-url>
         <bib-data role="self" type="BibTeX">@unpublished{KohKoh:tcmff10,
     author = {Andrea Kohlhase and Michael Kohlhase},
      title = {Towards a Conceptual Model for Flexible Formalization},
+      year = {2010},
        url = {http://kwarc.info/kohlhase/submit/mkm10-flexiform.pdf}}
 </bib-data>
       </bibentry>
