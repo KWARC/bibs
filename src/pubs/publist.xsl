@@ -92,8 +92,7 @@
   </xsl:variable>
 
   <xsl:variable name="book">
-    <xsl:for-each select="document(concat($id,'-book.html'))//x:ul[@class='ltx_biblist']/x:li|
-				                           document(concat($id,'-cbook.html'))//x:ul[@class='ltx_biblist']/x:li">
+    <xsl:for-each select="document(concat($id,'-cbook.html'))//x:ul[@class='ltx_biblist']/x:li">
       <xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]"/>
       <xsl:copy-of select="."/>
     </xsl:for-each>
