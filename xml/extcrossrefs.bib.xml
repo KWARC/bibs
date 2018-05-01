@@ -1565,9 +1565,7 @@ and Linking of Structured Knowledge ({CK})},
           <givenname>Dana</givenname>
         </bib-name>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
-        <bib-organization/>
         <bib-place>Trento, Italy</bib-place>
-        <bib-data role="month"></bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{icaps03,
        key = {ICAPS-03},
      title = {Proceedings of the 13th International Conference on
@@ -1577,9 +1575,7 @@ and Linking of Structured Knowledge ({CK})},
       year = {2003},
     editor = {Enrico Giunchiglia and Nicola Muscettola and Dana Nau},
  publisher = {Morgan Kaufmann},
- organization = {},
-   address = {Trento, Italy},
-     month = {}}
+   address = {Trento, Italy}}
 </bib-data>
       </bibentry>
       <bibentry key="icaps04" type="proceedings" xml:id="bib.bib54">
@@ -1599,9 +1595,7 @@ and Linking of Structured Knowledge ({CK})},
           <givenname>Jana</givenname>
         </bib-name>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
-        <bib-organization/>
         <bib-place>Whistler, Canada</bib-place>
-        <bib-data role="month"></bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{icaps04,
        key = {ICAPS-04},
      title = {Proceedings of the 14th International Conference on
@@ -1611,9 +1605,7 @@ and Linking of Structured Knowledge ({CK})},
       year = {2004},
     editor = {Sven Koenig and Shlomo Zilberstein and Jana Koehler},
  publisher = {Morgan Kaufmann},
- organization = {},
-   address = {Whistler, Canada},
-     month = {}}
+   address = {Whistler, Canada}}
 </bib-data>
       </bibentry>
       <bibentry key="icaps05" type="proceedings" xml:id="bib.bib55">
@@ -1633,9 +1625,7 @@ and Linking of Structured Knowledge ({CK})},
           <givenname>Kanna</givenname>
         </bib-name>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
-        <bib-organization/>
         <bib-place>Monterey, CA, USA</bib-place>
-        <bib-data role="month"></bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{icaps05,
        key = {ICAPS-05},
      title = {Proceedings of the 15th International Conference on
@@ -1645,9 +1635,7 @@ and Linking of Structured Knowledge ({CK})},
       year = {2005},
     editor = {Susanne Biundo and Karen Myers and Kanna Rajan},
  publisher = {Morgan Kaufmann},
- organization = {},
-   address = {Monterey, CA, USA},
-     month = {}}
+   address = {Monterey, CA, USA}}
 </bib-data>
       </bibentry>
       <bibentry key="icaps06" type="proceedings" xml:id="bib.bib56">
@@ -1663,9 +1651,7 @@ and Linking of Structured Knowledge ({CK})},
           <givenname>Stephen</givenname>
         </bib-name>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
-        <bib-data role="optorganization"></bib-data>
         <bib-place>Ambleside, UK</bib-place>
-        <bib-data role="optmonth"></bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{icaps06,
        key = {ICAPS-06},
      title = {Proceedings of the 16th International Conference on
@@ -1675,9 +1661,7 @@ and Linking of Structured Knowledge ({CK})},
       year = {2006},
     editor = {Derek Long and Stephen Smith},
  publisher = {Morgan Kaufmann},
- optorganization = {},
-   address = {Ambleside, UK},
-  optmonth = {}}
+   address = {Ambleside, UK}}
 </bib-data>
       </bibentry>
       <bibentry key="icaps07" type="proceedings" xml:id="bib.bib57">
@@ -1697,9 +1681,7 @@ and Linking of Structured Knowledge ({CK})},
           <givenname>Sylvie</givenname>
         </bib-name>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
-        <bib-data role="optorganization"></bib-data>
         <bib-place>Providence, Rhode Island, USA</bib-place>
-        <bib-data role="optmonth"></bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{icaps07,
        key = {ICAPS-07},
      title = {Proceedings of the 17th International Conference on
@@ -1709,9 +1691,7 @@ and Linking of Structured Knowledge ({CK})},
       year = {2007},
     editor = {Mark Boddy and Maria Fox and Sylvie Thiebaux},
  publisher = {Morgan Kaufmann},
- optorganization = {},
-   address = {Providence, Rhode Island, USA},
-  optmonth = {}}
+   address = {Providence, Rhode Island, USA}}
 </bib-data>
       </bibentry>
       <bibentry key="icaps08" type="proceedings" xml:id="bib.bib58">

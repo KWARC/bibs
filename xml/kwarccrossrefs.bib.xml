@@ -645,6 +645,7 @@ Frank Tompa and Martin Suda},
           <givenname>Michael</givenname>
         </bib-name>
         <bib-publisher>Computational Linguistics, Saarland University</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{ICOS00,
      title = {{ICoS-2}. Inference in Computational Semantics. Workshop Proceedings},
@@ -652,6 +653,7 @@ Frank Tompa and Martin Suda},
     editor = {Johan Bos and Michael Kohlhase},
  publisher = {Computational Linguistics, Saarland University},
  booktitle = {Proceedings of Inference in Computational Semantics ICoS-2},
+  keywords = {conference},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>

@@ -2087,7 +2087,7 @@ Interface Theories},
         <bib-data role="pubs">dginev,llamapun</bib-data>
         <bib-data role="self" type="BibTeX">@online{CorTeX:on,
      label = {CT},
-     title = {{Cor\TeX} Framework},
+     title = {{CorTeX} Framework},
        url = {http://cortex.mathweb.org},
    urldate = {2014-02-14},
       pubs = {dginev,llamapun}}
@@ -2524,8 +2524,8 @@ Language Data Processing</bib-title>
           <givenname>Manfred</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Mossakowski</surname>
-          <givenname>Till</givenname>
+          <surname/>
+          <givenname>Till Mossakowski</givenname>
         </bib-name>
         <bib-name role="author">
           <surname>Rowat</surname>
@@ -2547,7 +2547,7 @@ Language Data Processing</bib-title>
         <bib-data role="pubs">clange,formare</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{LangeEtAl:CompProvAuctThy13,
      title = {A Qualitative Comparison of the Suitability of Four Theorem Provers for Basic Auction Theory},
-    author = {Christoph Lange\selfedit and Marco B. Caminati and Manfred Kerber and Till Mossakowski and Colin Rowat and Makarius Wenzel and Wolfgang Windsteiger},
+    author = {Christoph Lange and Marco B. Caminati and Manfred Kerber and Till Mossakowski and Colin Rowat and Makarius Wenzel and Wolfgang Windsteiger},
      pages = {200–215},
   crossref = {CICM13},
     eprint = {1303.4193},
@@ -2578,7 +2578,7 @@ Language Data Processing</bib-title>
         <bib-data role="pubs">clange,formare</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{LRK:FormareProject13,
      title = {The ForMaRE Project – Formal Mathematical Reasoning in Economics},
-    author = {Christoph Lange\selfedit and Colin Rowat and Manfred Kerber},
+    author = {Christoph Lange and Colin Rowat and Manfred Kerber},
      pages = {330–334},
   crossref = {CICM13},
     eprint = {1303.4194},
@@ -7371,7 +7371,7 @@ Rudnicki and Josef Urban},
         <bib-data role="pubs">mkohlhase,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:OMDoc1.6spec,
     author = {Michael Kohlhase},
-     title = {An Open Markup Format for Mathematical Documents {\omdoc} [Version 1.6 (pre-2.0)]},
+     title = {An Open Markup Format for Mathematical Documents {OMDoc} [Version 1.6 (pre-2.0)]},
       note = {Draft Specification},
        url = {https://github.com/OMDoc/OMDoc/blob/master/doc/spec/main.pdf},
       year = {2016},
@@ -7390,7 +7390,7 @@ Rudnicki and Josef Urban},
         <bib-data role="pubs">mkohlhase,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:OMDoc1.3,
     author = {Michael Kohlhase},
-     title = {An Open Markup Format for Mathematical Documents {\omdoc} [Version 1.3]},
+     title = {An Open Markup Format for Mathematical Documents {OMDoc} [Version 1.3]},
       note = {Draft Specification},
        url = {https://github.com/OMDoc/OMDoc1.3/spec/main.pdf},
       year = {2016},
@@ -7408,7 +7408,7 @@ Rudnicki and Josef Urban},
         <bib-data role="pubs">mkohlhase,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:OMDoc1.6book,
     author = {Michael Kohlhase},
-     title = {{\omdoc}: An Open Markup Format for Mathematical Documents; Language Specification, Primer,
+     title = {{OMDoc}: An Open Markup Format for Mathematical Documents; Language Specification, Primer,
                   Projects, Applications [Version 1.6 (pre-2.0)]},
        url = {https://github.com/OMDoc/OMDoc/book/main.pdf},
       year = {2009},
@@ -7426,7 +7426,7 @@ Rudnicki and Josef Urban},
         <bib-data role="pubs">mkohlhase,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:OMDoc1.6primer,
     author = {Michael Kohlhase},
-     title = {An {\omdoc} Primer [Version 1.6 (pre-2.0)]},
+     title = {An {OMDoc} Primer [Version 1.6 (pre-2.0)]},
        url = {https://github.com/OMDoc/OMDoc/primer/main.pdf},
       year = {2009},
       pubs = {mkohlhase,omdoc}}
@@ -9802,12 +9802,12 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="URL:SWiM" type="misc" xml:id="bib.bib387">
         <bib-related bibrefs="SWiM:base" role="host"/>
         <bib-key>SWiM</bib-key>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://old.kwarc.info/swim/">http://old.kwarc.info/swim/</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://old.kwarc.info/swim/">http://old.kwarc.info/swim/</ref></bib-note>
         <bib-note role="annotation">seen October 2008</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:SWiM,
   crossref = {SWiM:base},
        key = {SWiM},
- howpublished = {\webpageat\url{http://old.kwarc.info/swim/}},
+ howpublished = {Webpage at \url{http://old.kwarc.info/swim/}},
       note = {seen October  2008}}
 </bib-data>
       </bibentry>
@@ -11731,7 +11731,7 @@ und Adaptivität) conference proceedings</bib-title>
         <bib-data role="pubs">frabe,omdoc,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:graphs:07,
     author = {Florian Rabe},
-     title = {{{\omdoc} Theory Graphs Revisited}},
+     title = {{{OMDoc} Theory Graphs Revisited}},
  booktitle = {{Proceedings of the {OpenMath}/{JEM} workshop}},
       year = {2007},
       pubs = {frabe,omdoc,mmt}}
@@ -12281,11 +12281,11 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="OMDocDocOnto:web" type="misc" xml:id="bib.bib501">
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://old.kwarc.info/docOnto/omdoc.html">http://old.kwarc.info/docOnto/omdoc.html</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://old.kwarc.info/docOnto/omdoc.html">http://old.kwarc.info/docOnto/omdoc.html</ref></bib-note>
         <bib-note role="annotation">seen 2/2012</bib-note>
         <bib-related bibrefs="OMDocDocOnto:base" role="host"/>
         <bib-data role="self" type="BibTeX">@misc{OMDocDocOnto:web,
- howpublished = {\webpageat\url{http://old.kwarc.info/docOnto/omdoc.html}},
+ howpublished = {Webpage at \url{http://old.kwarc.info/docOnto/omdoc.html}},
       note = {seen 2/2012},
   crossref = {OMDocDocOnto:base}}
 </bib-data>
@@ -12306,12 +12306,12 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="KWARC:web" type="misc" xml:id="bib.bib503">
         <bib-key>KWARC</bib-key>
         <bib-related bibrefs="KWARC:base" role="host"/>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://kwarc.info/">http://kwarc.info/</ref></bib-note>
+        <bib-note role="publication">Webpage at<ref class="ltx_url" font="typewriter" href="http://kwarc.info/">http://kwarc.info/</ref></bib-note>
         <bib-note role="annotation">seen June 2008</bib-note>
         <bib-data role="self" type="BibTeX">@misc{KWARC:web,
        key = {{KWARC}},
   crossref = {KWARC:base},
- howpublished = {\webpageat\url{http://kwarc.info/}},
+ howpublished = {Webpage at\url{http://kwarc.info/}},
       note = {seen June  2008}}
 </bib-data>
       </bibentry>
@@ -12771,7 +12771,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://arxmliv.kwarc.info">http://arxmliv.kwarc.info</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{arXMLiv-buildsys:URL,
   crossref = {arXMLiv-buildsys:base},
-      note = {\seen May 2010},
+      note = {seen  May 2010},
  howpublished = {\url{http://arxmliv.kwarc.info}}}
 </bib-data>
       </bibentry>
@@ -12801,7 +12801,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://arxivdemo.mathweb.org">http://arxivdemo.mathweb.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{arXMLiv-frontend:URL,
   crossref = {arXMLiv-frontend:base},
-      note = {\seen Sept.      2010},
+      note = {seen  Sept.      2010},
  howpublished = {\url{http://arxivdemo.mathweb.org}}}
 </bib-data>
       </bibentry>
@@ -12825,12 +12825,12 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="URL:arXMLiv" type="misc" xml:id="bib.bib542">
         <bib-related bibrefs="arXMLiv:base" role="host"/>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/">http://trac.kwarc.info/arXMLiv/</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/">http://trac.kwarc.info/arXMLiv/</ref></bib-note>
         <bib-note role="annotation">seen April 2010</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:arXMLiv,
   crossref = {arXMLiv:base},
- howpublished = {\webpageat\url{http://trac.kwarc.info/arXMLiv/}},
-      note = {\seen{\April} 2010}}
+ howpublished = {Webpage at \url{http://trac.kwarc.info/arXMLiv/}},
+      note = {seen April 2010}}
 </bib-data>
       </bibentry>
       <bibentry key="arXMLiv:base" type="misc" xml:id="bib.bib543">
@@ -12855,12 +12855,12 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="URL:demo:arXMLiv" type="misc" xml:id="bib.bib545">
         <bib-related bibrefs="arXMLiv:demo:base" role="host"/>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/wiki/Demo">http://trac.kwarc.info/arXMLiv/wiki/Demo</ref></bib-note>
+        <bib-note role="publication">Webpage at<ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/wiki/Demo">http://trac.kwarc.info/arXMLiv/wiki/Demo</ref></bib-note>
         <bib-note role="annotation">seen March 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:demo:arXMLiv,
   crossref = {arXMLiv:demo:base},
- howpublished = {\webpageat\url{http://trac.kwarc.info/arXMLiv/wiki/Demo}},
-      note = {\seen{\March} 2011}}
+ howpublished = {Webpage at\url{http://trac.kwarc.info/arXMLiv/wiki/Demo}},
+      note = {seen March 2011}}
 </bib-data>
       </bibentry>
       <bibentry key="arXMLiv:demo:base" type="misc" xml:id="bib.bib546">
@@ -12885,12 +12885,12 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="URL:sTeXIDE" type="misc" xml:id="bib.bib548">
         <bib-related bibrefs="sTeXIDE:base" role="host"/>
-        <bib-note role="publication">project page at <ref class="ltx_url" font="typewriter" href="http://stexide.googlecode.com/">http://stexide.googlecode.com/</ref></bib-note>
+        <bib-note role="publication">Project page at <ref class="ltx_url" font="typewriter" href="http://stexide.googlecode.com/">http://stexide.googlecode.com/</ref></bib-note>
         <bib-note role="annotation">seen April 2010</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:sTeXIDE,
   crossref = {sTeXIDE:base},
- howpublished = {\projectpageat\url{http://stexide.googlecode.com/}},
-      note = {\seen{\April} 2010}}
+ howpublished = {Project page at \url{http://stexide.googlecode.com/}},
+      note = {seen April 2010}}
 </bib-data>
       </bibentry>
 <!--  %**** String Line 550 **** -->      <bibentry key="sTeXIDE:base" type="misc" xml:id="bib.bib549">
@@ -14194,7 +14194,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
        key = {OMDoc Mailing Lists},
     author = {Michael Kohlhase},
      title = {{OMDoc} Mailing Lists},
-      note = {\seen May 2008},
+      note = {seen  May 2008},
  howpublished = {\url{http://omdoc.org/resources/mailing-lists.html}},
        url = {http://omdoc.org/resources/mailing-lists.html}}
 </bib-data>
@@ -14212,7 +14212,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
        key = {MKM-IG Mailing Lists},
     author = {Michael Kohlhase},
      title = {{MKM-IG} Mailing Lists},
-      note = {\seen May 2008},
+      note = {seen  May 2008},
        url = {http://lists.jacobs-university.de/mailman/admin/projects-mkm-ig}}
 </bib-data>
       </bibentry>
@@ -18462,7 +18462,7 @@ Education Systems</bib-title>
         <bib-data role="self" type="BibTeX">@misc{planetmathredux,
   crossref = {planetmathredux:base},
  howpublished = {\url{http://planetmath.mathweb.org}},
-      note = {\seen{\January} 2011}}
+      note = {seen January 2011}}
 </bib-data>
       </bibentry>
       <bibentry key="planetmathredux:base" type="misc" xml:id="bib.bib747">
@@ -18492,7 +18492,7 @@ Education Systems</bib-title>
         <bib-data role="self" type="BibTeX">@misc{pantarheiredux,
   crossref = {pantarheiredux:base},
  howpublished = {\url{http://planetary.mathweb.org/wiki/PantaRheiRedux}},
-      note = {\seen{\September} 2010}}
+      note = {seen September 2010}}
 </bib-data>
       </bibentry>
       <bibentry key="pantarheiredux:base" type="misc" xml:id="bib.bib750">
@@ -18516,7 +18516,7 @@ Education Systems</bib-title>
         <bib-data role="self" type="BibTeX">@misc{MathWebSearch:Web,
   crossref = {URL:MathWebSearch:base},
  howpublished = {\url{https://trac.mathweb.org/MWS/}},
-      note = {\seen Jan. 2011}}
+      note = {seen  Jan. 2011}}
 </bib-data>
       </bibentry>
       <bibentry key="MathWebSearch:online" type="website" xml:id="bib.bib752">
@@ -18534,7 +18534,7 @@ Education Systems</bib-title>
         <bib-data role="self" type="BibTeX">@misc{URL:MathWebSearch,
   crossref = {URL:MathWebSearch:base},
  howpublished = {\url{https://trac.mathweb.org/MWS/}},
-      note = {\seen Jan. 2011}}
+      note = {seen  Jan. 2011}}
 </bib-data>
       </bibentry>
       <bibentry key="URL:MathWebSearch:base" type="misc" xml:id="bib.bib754">
@@ -20326,12 +20326,12 @@ Education Systems</bib-title>
       </bibentry>
 <!--  %**** String Line 850 **** -->      <bibentry key="krextor" type="misc" xml:id="bib.bib849">
         <bib-related bibrefs="krextor:base" role="host"/>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/krextor/">http://trac.kwarc.info/krextor/</ref></bib-note>
+        <bib-note role="publication">Webpage at<ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/krextor/">http://trac.kwarc.info/krextor/</ref></bib-note>
         <bib-data role="month">January</bib-data>
         <bib-date role="publication">2013-01</bib-date>
         <bib-data role="self" type="BibTeX">@misc{krextor,
   crossref = {krextor:base},
- howpublished = {\webpageat\url{http://trac.kwarc.info/krextor/}},
+ howpublished = {Webpage at\url{http://trac.kwarc.info/krextor/}},
      month = {January},
       year = {2013}}
 </bib-data>
@@ -20472,7 +20472,7 @@ Education Systems</bib-title>
      title = {The {Flyspeck} wiki case study},
  howpublished = {\url{http://mathweb.org/wiki/Flyspeck}},
        url = {http://mathweb.org/wiki/Flyspeck},
-      note = {\seen November      2007}}
+      note = {seen  November      2007}}
 </bib-data>
       </bibentry>
       <bibentry key="swim-bugzilla" type="misc" xml:id="bib.bib857">
@@ -20482,16 +20482,16 @@ Education Systems</bib-title>
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
         </bib-name>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/swim/">http://trac.kwarc.info/swim/</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/swim/">http://trac.kwarc.info/swim/</ref></bib-note>
         <bib-url href="http://trac.kwarc.info/swim/">Link</bib-url>
         <bib-note role="annotation">seen September 2007</bib-note>
         <bib-data role="self" type="BibTeX">@misc{swim-bugzilla,
        key = {SWiM},
      title = {{\sc{SWiM}} Trac},
     author = {Christoph Lange and others},
- howpublished = {\webpageat\url{http://trac.kwarc.info/swim/}},
+ howpublished = {Webpage at \url{http://trac.kwarc.info/swim/}},
        url = {http://trac.kwarc.info/swim/},
-      note = {\seen{\September} 2007}}
+      note = {seen September 2007}}
 </bib-data>
       </bibentry>
       <bibentry key="swim-roadmap" type="misc" xml:id="bib.bib858">
@@ -20500,13 +20500,13 @@ Education Systems</bib-title>
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
         </bib-name>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/swim/roadmap/">http://trac.kwarc.info/swim/roadmap/</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/swim/roadmap/">http://trac.kwarc.info/swim/roadmap/</ref></bib-note>
         <bib-url href="http://trac.kwarc.info/swim/roadmap/">Link</bib-url>
         <bib-note role="annotation">seen November 2007</bib-note>
         <bib-data role="self" type="BibTeX">@misc{swim-roadmap,
      title = {{\sc{SWiM}} Development Roadmap},
     author = {Christoph Lange},
- howpublished = {\webpageat\url{http://trac.kwarc.info/swim/roadmap/}},
+ howpublished = {Webpage at \url{http://trac.kwarc.info/swim/roadmap/}},
        url = {http://trac.kwarc.info/swim/roadmap/},
       note = {seen November  2007}}
 </bib-data>
@@ -20753,12 +20753,12 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="PlanetGenCS:URL" type="misc" xml:id="bib.bib878">
         <bib-related bibrefs="PantaRhei:base" role="host"/>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://panta.kwarc.info">http://panta.kwarc.info</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://panta.kwarc.info">http://panta.kwarc.info</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{PlanetGenCS:URL,
   crossref = {PantaRhei:base},
- howpublished = {\webpageat\url{http://panta.kwarc.info}},
-      note = {\seen{\January} 2011}}
+ howpublished = {Webpage at \url{http://panta.kwarc.info}},
+      note = {seen January 2011}}
 </bib-data>
       </bibentry>
       <bibentry key="PantaRhei:base" type="misc" xml:id="bib.bib879">
@@ -20781,12 +20781,12 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="PlanetLATIN:URL" type="misc" xml:id="bib.bib881">
         <bib-related bibrefs="PlanetLATIN:base" role="host"/>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="logicatlas.omdoc.org">logicatlas.omdoc.org</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="logicatlas.omdoc.org">logicatlas.omdoc.org</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{PlanetLATIN:URL,
   crossref = {PlanetLATIN:base},
- howpublished = {\webpageat\url{logicatlas.omdoc.org}},
-      note = {\seen{\January} 2011}}
+ howpublished = {Webpage at \url{logicatlas.omdoc.org}},
+      note = {seen January 2011}}
 </bib-data>
       </bibentry>
       <bibentry key="PlanetLATIN:base" type="misc" xml:id="bib.bib882">
@@ -20807,12 +20807,12 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="PlanetBox:URL" type="misc" xml:id="bib.bib884">
         <bib-related bibrefs="PlanetBox:base" role="host"/>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://planetbox.kwarc.info">http://planetbox.kwarc.info</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://planetbox.kwarc.info">http://planetbox.kwarc.info</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{PlanetBox:URL,
   crossref = {PlanetBox:base},
- howpublished = {\webpageat\url{http://planetbox.kwarc.info}},
-      note = {\seen{\January} 2011}}
+ howpublished = {Webpage at \url{http://planetbox.kwarc.info}},
+      note = {seen January 2011}}
 </bib-data>
       </bibentry>
       <bibentry key="PlanetBox:base" type="misc" xml:id="bib.bib885">
@@ -21517,7 +21517,7 @@ Education Systems</bib-title>
      title = {{XSLT Stylesheet for converting OMDoc documents into XHTML.}},
  howpublished = {\url{http://kwarc.info/xslt}},
        url = {http://kwarc.info/xslt},
-      note = {\seen January      2008}}
+      note = {seen  January      2008}}
 </bib-data>
       </bibentry>
       <bibentry key="mmlkit:web" type="unpublished" xml:id="bib.bib913">
@@ -21685,15 +21685,15 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       <bibentry key="OMDocUG:web" type="misc" xml:id="bib.bib920">
         <bib-key>OMDoc</bib-key>
         <bib-title>People involved with the OMDoc project</bib-title>
-        <bib-note role="publication">web page at <ref class="ltx_url" font="typewriter" href="http://omdoc.org/people.html">http://omdoc.org/people.html</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://omdoc.org/people.html">http://omdoc.org/people.html</ref></bib-note>
         <bib-url href="http://omdoc.org/people.html">Link</bib-url>
         <bib-note role="annotation">seen July 2005</bib-note>
         <bib-data role="self" type="BibTeX">@misc{OMDocUG:web,
        key = {OMDoc},
-     title = {People involved with the {\omdoc} Project},
- howpublished = {\webpageat\url{http://omdoc.org/people.html}},
+     title = {People involved with the {OMDoc} Project},
+ howpublished = {Webpage at \url{http://omdoc.org/people.html}},
        url = {http://omdoc.org/people.html},
-      note = {\seen{\July} 2005}}
+      note = {seen July 2005}}
 </bib-data>
       </bibentry>
       <bibentry key="Grigore-10" type="misc" xml:id="bib.bib921">
