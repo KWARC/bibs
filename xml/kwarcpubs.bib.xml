@@ -23210,7 +23210,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <givenname>Jonas</givenname>
         </bib-name>
         <bib-title>Implementation of inverse coupled rewrite systems – a case study</bib-title>
-        <bib-organization>Informatik, UniversitÃ¤t Bielefeld</bib-organization>
+        <bib-organization>Informatik, Universität Bielefeld</bib-organization>
         <bib-type>Bachelor’s Thesis</bib-type>
         <bib-data role="month">August</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2014/betzendahl_jonas/jbetzend_implementing_icores.pdf">Link</bib-url>
@@ -23219,7 +23219,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-data role="self" type="BibTeX">@thesis{jbetzendahl:bsc14,
     author = {Jonas Betzendahl},
      title = {Implementation of Inverse Coupled Rewrite Systems – A case study},
-    school = {Informatik, Universität Bielefeld},
+    school = {Informatik, Universit{\"a}t Bielefeld},
       type = {Bachelor's Thesis},
      month = {August},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2014/betzendahl_jonas/jbetzend_implementing_icores.pdf},
@@ -23233,7 +23233,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <givenname>Jonas</givenname>
         </bib-name>
         <bib-title>Translating the IMPS theory library to MMT / OMDoc</bib-title>
-        <bib-organization>Informatik, UniversitÃ¤t Bielefeld</bib-organization>
+        <bib-organization>Informatik, Universität Bielefeld</bib-organization>
         <bib-type>Master’s Thesis</bib-type>
         <bib-data role="month">April</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2018/jbetzendahl/thesis_imps2omdoc.pdf">Link</bib-url>
@@ -23242,7 +23242,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-data role="self" type="BibTeX">@thesis{jbetzendahl:msc18,
     author = {Jonas Betzendahl},
      title = {Translating the {IMPS} Theory Library to {MMT} / {OMDoc}},
-    school = {Informatik, Universität Bielefeld},
+    school = {Informatik, Universit{\"a}t Bielefeld},
       type = {Master's Thesis},
      month = {April},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2018/jbetzendahl/thesis_imps2omdoc.pdf},
