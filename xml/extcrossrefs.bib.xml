@@ -1564,7 +1564,7 @@ and Linking of Structured Knowledge ({CK})},
           <surname>Nau</surname>
           <givenname>Dana</givenname>
         </bib-name>
-        <bib-publisher>kauf</bib-publisher>
+        <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-organization/>
         <bib-place>Trento, Italy</bib-place>
         <bib-data role="month"></bib-data>
@@ -1576,7 +1576,7 @@ and Linking of Structured Knowledge ({CK})},
                   Automated Planning and Scheduling (ICAPS'03)},
       year = {2003},
     editor = {Enrico Giunchiglia and Nicola Muscettola and Dana Nau},
- publisher = {kauf},
+ publisher = {Morgan Kaufmann},
  organization = {},
    address = {Trento, Italy},
      month = {}}
@@ -1598,7 +1598,7 @@ and Linking of Structured Knowledge ({CK})},
           <surname>Koehler</surname>
           <givenname>Jana</givenname>
         </bib-name>
-        <bib-publisher>kauf</bib-publisher>
+        <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-organization/>
         <bib-place>Whistler, Canada</bib-place>
         <bib-data role="month"></bib-data>
@@ -1610,7 +1610,7 @@ and Linking of Structured Knowledge ({CK})},
                   Automated Planning and Scheduling (ICAPS'04)},
       year = {2004},
     editor = {Sven Koenig and Shlomo Zilberstein and Jana Koehler},
- publisher = {kauf},
+ publisher = {Morgan Kaufmann},
  organization = {},
    address = {Whistler, Canada},
      month = {}}
@@ -1632,7 +1632,7 @@ and Linking of Structured Knowledge ({CK})},
           <surname>Rajan</surname>
           <givenname>Kanna</givenname>
         </bib-name>
-        <bib-publisher>kauf</bib-publisher>
+        <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-organization/>
         <bib-place>Monterey, CA, USA</bib-place>
         <bib-data role="month"></bib-data>
@@ -1644,7 +1644,7 @@ and Linking of Structured Knowledge ({CK})},
                   Automated Planning and Scheduling (ICAPS-05)},
       year = {2005},
     editor = {Susanne Biundo and Karen Myers and Kanna Rajan},
- publisher = {kauf},
+ publisher = {Morgan Kaufmann},
  organization = {},
    address = {Monterey, CA, USA},
      month = {}}
@@ -1662,7 +1662,7 @@ and Linking of Structured Knowledge ({CK})},
           <surname>Smith</surname>
           <givenname>Stephen</givenname>
         </bib-name>
-        <bib-publisher>kauf</bib-publisher>
+        <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-data role="optorganization"></bib-data>
         <bib-place>Ambleside, UK</bib-place>
         <bib-data role="optmonth"></bib-data>
@@ -1674,7 +1674,7 @@ and Linking of Structured Knowledge ({CK})},
                   Automated Planning and Scheduling (ICAPS'06)},
       year = {2006},
     editor = {Derek Long and Stephen Smith},
- publisher = {kauf},
+ publisher = {Morgan Kaufmann},
  optorganization = {},
    address = {Ambleside, UK},
   optmonth = {}}
@@ -1696,7 +1696,7 @@ and Linking of Structured Knowledge ({CK})},
           <surname>Thiebaux</surname>
           <givenname>Sylvie</givenname>
         </bib-name>
-        <bib-publisher>kauf</bib-publisher>
+        <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-data role="optorganization"></bib-data>
         <bib-place>Providence, Rhode Island, USA</bib-place>
         <bib-data role="optmonth"></bib-data>
@@ -1708,7 +1708,7 @@ and Linking of Structured Knowledge ({CK})},
                   Automated Planning and Scheduling (ICAPS'07)},
       year = {2007},
     editor = {Mark Boddy and Maria Fox and Sylvie Thiebaux},
- publisher = {kauf},
+ publisher = {Morgan Kaufmann},
  optorganization = {},
    address = {Providence, Rhode Island, USA},
   optmonth = {}}
@@ -2009,7 +2009,7 @@ and Linking of Structured Knowledge ({CK})},
           <surname>Borrajo</surname>
           <givenname>D.</givenname>
         </bib-name>
-        <bib-publisher>spring</bib-publisher>
+        <bib-publisher>Springer-Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{ecp01,
      title = {Proceedings of the 6th European
                   Conference on Planning (ECP'01)},
@@ -2017,7 +2017,7 @@ and Linking of Structured Knowledge ({CK})},
                   Conference on Planning (ECP'01)},
       year = {2001},
     editor = {A. Cesta and D. Borrajo},
- publisher = {spring}}
+ publisher = {Springer-Verlag}}
 </bib-data>
       </bibentry>
       <bibentry key="ECAI92" type="proceedings" xml:id="bib.bib68">
@@ -2028,7 +2028,7 @@ and Linking of Structured Knowledge ({CK})},
         </bib-name>
         <bib-title>Proceedings of the 10th european conference on artificial intelligence (ecai’92)</bib-title>
         <bib-date role="publication">1992-08</bib-date>
-        <bib-publisher>wil</bib-publisher>
+        <bib-publisher>Wiley</bib-publisher>
         <bib-place>Vienna, Austria</bib-place>
         <bib-data role="month">August</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{ECAI92,
@@ -2039,7 +2039,7 @@ and Linking of Structured Knowledge ({CK})},
  booktitle = {Proceedings of the 10th European Conference on Artificial
                   Intelligence (ECAI'92)},
       year = {1992},
- publisher = {wil},
+ publisher = {Wiley},
    address = {Vienna, Austria},
      month = {August}}
 </bib-data>
@@ -2485,7 +2485,7 @@ University</bib-place>
           <surname>Boutilier</surname>
           <givenname>C.</givenname>
         </bib-name>
-        <bib-publisher>kauf</bib-publisher>
+        <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-place>Pasadena, California, USA</bib-place>
         <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{ijcai09,
@@ -2495,7 +2495,7 @@ University</bib-place>
                   Artificial Intelligence ({IJCAI}'09)},
       year = {2009},
     editor = {C. Boutilier},
- publisher = {kauf},
+ publisher = {Morgan Kaufmann},
    address = {Pasadena, California, USA},
      month = {July}}
 </bib-data>
@@ -2738,7 +2738,7 @@ University</bib-place>
           <surname>Rich</surname>
           <givenname>C.</givenname>
         </bib-name>
-        <bib-publisher>kauf</bib-publisher>
+        <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-place>Cambridge, MA</bib-place>
         <bib-data role="month">October</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{kr92,
@@ -2751,7 +2751,7 @@ University</bib-place>
 		  3rd International Conference (KR-92)},
       year = {1992},
     editor = {Nebel, B. and W. Swartout and C. Rich},
- publisher = {kauf},
+ publisher = {Morgan Kaufmann},
    address = {Cambridge, MA},
      month = {October}}
 </bib-data>
@@ -5872,7 +5872,7 @@ Intelligence (IJCAI)</bib-title>
           <surname>Fox</surname>
           <givenname>M.</givenname>
         </bib-name>
-        <bib-publisher>spring</bib-publisher>
+        <bib-publisher>Springer-Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{ecp99,
      title = {Proceedings of the 5th European
                   Conference on Planning (ECP'99)},
@@ -5880,7 +5880,7 @@ Intelligence (IJCAI)</bib-title>
                   Conference on Planning (ECP'99)},
       year = {1999},
     editor = {S. Biundo and M. Fox},
- publisher = {spring}}
+ publisher = {Springer-Verlag}}
 </bib-data>
       </bibentry>
       <bibentry key="FOSSACS02" type="proceedings" xml:id="bib.bib202">
@@ -12150,7 +12150,7 @@ Daniela Zaharie},
           <surname>Alami</surname>
           <givenname>R.</givenname>
         </bib-name>
-        <bib-publisher>spring</bib-publisher>
+        <bib-publisher>Springer-Verlag</bib-publisher>
         <bib-data role="self" type="BibTeX">@proceedings{ecp97,
      title = {Proceedings of the 4th European
                   Conference on Planning (ECP'97)},
@@ -12158,7 +12158,7 @@ Daniela Zaharie},
                   Conference on Planning (ECP'97)},
       year = {1997},
     editor = {S. Steel and R. Alami},
- publisher = {spring}}
+ publisher = {Springer-Verlag}}
 </bib-data>
       </bibentry>
     </biblist>
