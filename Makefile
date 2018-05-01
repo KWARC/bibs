@@ -72,7 +72,7 @@ clean-xml:
 $(kwarc.ltxml.out): $(ltxml.dist)%.xml: $(bib.src)% $(kwarc.ltxml.in)
 	latexmlc $< --quiet --bibtex --includestyles --path=$(ltxml.src) --preload=$(bib.sty).ltxml --destination=$@ 2> >(tee $@.ltxlog >&2)
 
-# kcr.bib.xlm --> use latexmlc after generating kcr.bib
+# kcr.bib.xml --> use latexmlc after generating kcr.bib
 $(kcr.ltxml.in): $(kcr.src)
 	cat $(kcr.src) > $@
 $(kcr.ltxml.out): $(kcr.ltxml.in)
