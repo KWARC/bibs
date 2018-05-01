@@ -37,9 +37,7 @@
 		      @type='proceedings' and not(ltx:bib-extract[@role='keywords']='conference')]"/>
 	</xsl:when>
 	<xsl:when test="$type='cbook'">
-	  <xsl:apply-templates
-	      select="//ltx:bibentry[ltx:bib-data[@role='pubs'] and
-		      @type='book']"/>
+	  <xsl:apply-templates select="//ltx:bibentry[ltx:bib-data[@role='pubs'] and @type='book']"/>
 	</xsl:when>
 	<xsl:when test="$type='incollection'">
 	  <xsl:apply-templates
