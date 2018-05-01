@@ -39,31 +39,31 @@
       pubs = {jbetzendahl,mkohlhase,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKohOuy:dpmd18" type="unpublished" xml:id="bib.bib3">
-        <bib-title>Discourse phenomena in math documents</bib-title>
+      <bibentry key="MueKohRab:aftmkm18" type="unpublished" xml:id="bib.bib3">
+        <bib-title>Automatically finding theory morphisms for knowledge management</bib-title>
         <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Andrea</givenname>
+          <surname>Müller</surname>
+          <givenname>Dennis</givenname>
         </bib-name>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Ouypornkochagorn</surname>
-          <givenname>Taweechai</givenname>
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
         </bib-name>
-        <bib-url href="http://kwarc.info/kohlhase/submit/cicm18-discourse.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/submit/cicm18-viewfinder.pdf">Link</bib-url>
         <bib-note role="annotation">submitted to CICM 2018</bib-note>
         <bib-date role="publication">2018</bib-date>
-        <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohKohOuy:dpmd18,
-     title = {Discourse Phenomena in Math Documents},
-    author = {Andrea Kohlhase and Michael Kohlhase and Taweechai Ouypornkochagorn},
-       url = {http://kwarc.info/kohlhase/submit/cicm18-discourse.pdf},
+        <bib-data role="pubs">dmueller,mkohlhase,frabe,oaf</bib-data>
+        <bib-data role="self" type="BibTeX">@unpublished{MueKohRab:aftmkm18,
+     title = {Automatically Finding Theory Morphisms for Knowledge Management},
+    author = {Dennis M{\"u}ller and Michael Kohlhase and Florian Rabe},
+       url = {http://kwarc.info/kohlhase/submit/cicm18-viewfinder.pdf},
       note = {submitted to CICM 2018},
       year = {2018},
-      pubs = {mkohlhase,akohlhase}}
+      pubs = {dmueller,mkohlhase,frabe,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="KohKohOuy:dpmd18" type="unpublished" xml:id="bib.bib4">
@@ -217,10 +217,11 @@
         </bib-name><bib-name role="editor">
           <surname>Sebastiani</surname>
           <givenname>Roberto</givenname>
-        </bib-name><bib-publisher>Springer Verlag</bib-publisher><bib-date role="publication">2018</bib-date><bib-data role="self" type="BibTeX">@proceedings{IJCAR18,
+        </bib-name><bib-publisher>Springer Verlag</bib-publisher><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{IJCAR18,
     editor = {Didier Galmiche and Stephan Schulz and Roberto Sebastiani},
  publisher = {Springer Verlag},
-      year = {2018}}
+      year = {2018},
+  keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="http://kwarc.info/kohlhase/papers/ijcar18-records.pdf">Link</bib-url>
         <bib-data role="pubs">dmueller,mkohlhase,frabe,oaf,mmt</bib-data>
@@ -30890,10 +30891,12 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-date role="publication">2018</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR18,
     editor = {Didier Galmiche and Stephan Schulz and Roberto Sebastiani},
  publisher = {Springer Verlag},
-      year = {2018}}
+      year = {2018},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="DOCENG13" type="proceedings" xml:id="bib.bib1052">

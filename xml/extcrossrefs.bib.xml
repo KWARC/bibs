@@ -22,10 +22,12 @@
         </bib-name>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-date role="publication">2018</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR18,
     editor = {Didier Galmiche and Stephan Schulz and Roberto Sebastiani},
  publisher = {Springer Verlag},
-      year = {2018}}
+      year = {2018},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="DOCENG13" type="proceedings" xml:id="bib.bib2">
