@@ -2768,7 +2768,6 @@ University</bib-place>
 </bib-data>
       </bibentry>
       <bibentry key="BibSch:adabfa98" type="book" xml:id="bib.bib96">
-        <bib-title>Automated deduction – a basis for applications</bib-title>
         <bib-publisher>Kluwer</bib-publisher>
         <bib-date role="publication">1998</bib-date>
         <bib-name role="editor">
@@ -2780,14 +2779,11 @@ University</bib-place>
           <givenname>Peter</givenname>
         </bib-name>
         <bib-data role="booktitle">Automated Deduction – A Basis for Applications</bib-data>
-        <bib-key>Bibel</bib-key>
         <bib-data role="self" type="BibTeX">@book{BibSch:adabfa98,
-     title = {Automated Deduction – A Basis for Applications},
  publisher = {Kluwer},
       year = {1998},
     editor = {Wolfgang Bibel and Peter Schmitt},
- booktitle = {Automated Deduction – A Basis for Applications},
-       key = {Bibel}}
+ booktitle = {Automated Deduction – A Basis for Applications}}
 </bib-data>
       </bibentry>
       <bibentry key="CeurWS181" type="proceedings" xml:id="bib.bib97">
