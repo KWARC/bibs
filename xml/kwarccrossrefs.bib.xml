@@ -184,7 +184,7 @@ Frank Tompa and Martin Suda},
         <bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier>
         <bib-date role="publication">2017</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">frabe</bib-data>
+        <bib-data role="pubs">frabe,odk,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
@@ -197,7 +197,7 @@ Frank Tompa and Martin Suda},
       isbn = {978-3-319-62074-9},
       year = {2017},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,odk,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM18" type="proceedings" xml:id="bib.bib7">
@@ -223,10 +223,10 @@ Frank Tompa and Martin Suda},
         <bib-part role="series">LNAI</bib-part>
         <bib-data role="soonnumber">10383</bib-data>
         <bib-data role="soonisbn">978-3-319-62074-9</bib-data>
-        <bib-note role="annotation">accepted</bib-note>
+        <bib-note role="annotation">in press</bib-note>
         <bib-date role="publication">2018</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">frabe</bib-data>
+        <bib-data role="pubs">frabe,oaf,odk</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM18,
     editor = {Florian Rabe and William Farmer and Abdou Youssef and \ldots},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
@@ -237,10 +237,10 @@ Frank Tompa and Martin Suda},
     series = {LNAI},
  soonnumber = {10383},
   soonisbn = {978-3-319-62074-9},
-      note = {accepted},
+      note = {in press},
       year = {2018},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,oaf,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM16" type="proceedings" xml:id="bib.bib8">

@@ -73,7 +73,7 @@
           <givenname>Abdou</givenname>
         </bib-name><bib-name role="editor">
           <surname>…</surname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">10383</bib-data><bib-data role="soonisbn">978-3-319-62074-9</bib-data><bib-note role="annotation">accepted</bib-note><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">10383</bib-data><bib-data role="soonisbn">978-3-319-62074-9</bib-data><bib-note role="annotation">in press</bib-note><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe,oaf,odk</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18,
     editor = {Florian Rabe and William Farmer and Abdou Youssef and \ldots},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
@@ -83,10 +83,10 @@
     series = {LNAI},
  soonnumber = {10383},
   soonisbn = {978-3-319-62074-9},
-      note = {accepted},
+      note = {in press},
       year = {2018},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,oaf,odk}}
 </bib-data></bib-related>
         <bib-data role="pubs">jbetzendahl,mkohlhase,oaf</bib-data>
         <bib-related role="host" type="proceedings">
@@ -131,7 +131,7 @@
           <givenname>Abdou</givenname>
         </bib-name><bib-name role="editor">
           <surname>…</surname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">10383</bib-data><bib-data role="soonisbn">978-3-319-62074-9</bib-data><bib-note role="annotation">accepted</bib-note><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">10383</bib-data><bib-data role="soonisbn">978-3-319-62074-9</bib-data><bib-note role="annotation">in press</bib-note><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe,oaf,odk</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18,
     editor = {Florian Rabe and William Farmer and Abdou Youssef and \ldots},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
@@ -141,10 +141,10 @@
     series = {LNAI},
  soonnumber = {10383},
   soonisbn = {978-3-319-62074-9},
-      note = {accepted},
+      note = {in press},
       year = {2018},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,oaf,odk}}
 </bib-data></bib-related>
         <bib-data role="pubs">dmueller,mkohlhase,frabe,oaf,odk</bib-data>
         <bib-related role="host" type="proceedings">
@@ -212,7 +212,7 @@
           <givenname>Abdou</givenname>
         </bib-name><bib-name role="editor">
           <surname>…</surname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">10383</bib-data><bib-data role="soonisbn">978-3-319-62074-9</bib-data><bib-note role="annotation">accepted</bib-note><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">10383</bib-data><bib-data role="soonisbn">978-3-319-62074-9</bib-data><bib-note role="annotation">in press</bib-note><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe,oaf,odk</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18,
     editor = {Florian Rabe and William Farmer and Abdou Youssef and \ldots},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
@@ -222,10 +222,10 @@
     series = {LNAI},
  soonnumber = {10383},
   soonisbn = {978-3-319-62074-9},
-      note = {accepted},
+      note = {in press},
       year = {2018},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,oaf,odk}}
 </bib-data></bib-related>
         <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
         <bib-related role="host" type="proceedings">
@@ -270,7 +270,7 @@
           <givenname>Abdou</givenname>
         </bib-name><bib-name role="editor">
           <surname>…</surname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">10383</bib-data><bib-data role="soonisbn">978-3-319-62074-9</bib-data><bib-note role="annotation">accepted</bib-note><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-data role="soonnumber">10383</bib-data><bib-data role="soonisbn">978-3-319-62074-9</bib-data><bib-note role="annotation">in press</bib-note><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe,oaf,odk</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18,
     editor = {Florian Rabe and William Farmer and Abdou Youssef and \ldots},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
@@ -280,10 +280,10 @@
     series = {LNAI},
  soonnumber = {10383},
   soonisbn = {978-3-319-62074-9},
-      note = {accepted},
+      note = {in press},
       year = {2018},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,oaf,odk}}
 </bib-data></bib-related>
         <bib-data role="pubs">mkohlhase,tpollinger,MaMoReD,mmt,odk</bib-data>
         <bib-related role="host" type="proceedings">
@@ -1139,7 +1139,7 @@ Interface Theories},
         </bib-name><bib-name role="editor">
           <surname>Teschke</surname>
           <givenname>Olaf</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe,odk,oaf</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
@@ -1151,7 +1151,7 @@ Interface Theories},
       isbn = {978-3-319-62074-9},
       year = {2017},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,odk,oaf}}
 </bib-data></bib-related>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2017</bib-title>
@@ -1210,7 +1210,7 @@ Interface Theories},
         </bib-name><bib-name role="editor">
           <surname>Teschke</surname>
           <givenname>Olaf</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe,odk,oaf</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
@@ -1222,7 +1222,7 @@ Interface Theories},
       isbn = {978-3-319-62074-9},
       year = {2017},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,odk,oaf}}
 </bib-data></bib-related>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2017</bib-title>
@@ -1269,7 +1269,7 @@ Interface Theories},
         </bib-name><bib-name role="editor">
           <surname>Teschke</surname>
           <givenname>Olaf</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe,odk,oaf</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
@@ -1281,7 +1281,7 @@ Interface Theories},
       isbn = {978-3-319-62074-9},
       year = {2017},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,odk,oaf}}
 </bib-data></bib-related>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2017</bib-title>
@@ -1332,7 +1332,7 @@ Interface Theories},
         </bib-name><bib-name role="editor">
           <surname>Teschke</surname>
           <givenname>Olaf</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">10383</bib-part><bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier><bib-date role="publication">2017</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">frabe,odk,oaf</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
@@ -1344,7 +1344,7 @@ Interface Theories},
       isbn = {978-3-319-62074-9},
       year = {2017},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,odk,oaf}}
 </bib-data></bib-related>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2017</bib-title>
@@ -31366,7 +31366,7 @@ Frank Tompa and Martin Suda},
         <bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier>
         <bib-date role="publication">2017</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">frabe</bib-data>
+        <bib-data role="pubs">frabe,odk,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM17,
     editor = {Herman Geuvers and Matthew England and Osman Hasan and Florian Rabe and Olaf Teschke},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
@@ -31379,7 +31379,7 @@ Frank Tompa and Martin Suda},
       isbn = {978-3-319-62074-9},
       year = {2017},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,odk,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM18" type="proceedings" xml:id="bib.bib1014">
@@ -31405,10 +31405,10 @@ Frank Tompa and Martin Suda},
         <bib-part role="series">LNAI</bib-part>
         <bib-data role="soonnumber">10383</bib-data>
         <bib-data role="soonisbn">978-3-319-62074-9</bib-data>
-        <bib-note role="annotation">accepted</bib-note>
+        <bib-note role="annotation">in press</bib-note>
         <bib-date role="publication">2018</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">frabe</bib-data>
+        <bib-data role="pubs">frabe,oaf,odk</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM18,
     editor = {Florian Rabe and William Farmer and Abdou Youssef and \ldots},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
@@ -31419,10 +31419,10 @@ Frank Tompa and Martin Suda},
     series = {LNAI},
  soonnumber = {10383},
   soonisbn = {978-3-319-62074-9},
-      note = {accepted},
+      note = {in press},
       year = {2018},
   keywords = {conference},
-      pubs = {frabe}}
+      pubs = {frabe,oaf,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM16" type="proceedings" xml:id="bib.bib1015">
