@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?latexml searchpaths="/home/travis/build/KWARC/bibs/src/ltxml,/home/travis/build/KWARC/bibs"?>
+<?latexml searchpaths="/home/travis/build/KWARC/bibs,/home/travis/build/KWARC/bibs/src/ltxml,/home/travis/build/KWARC/bibs"?>
 <?latexml package="src/ltxml/kwarcbibs.sty.ltxml"?>
 <?latexml RelaxNGSchema="LaTeXML"?>
 <document xmlns="http://dlmf.nist.gov/LaTeXML">
@@ -513,8 +513,8 @@
           <givenname>Mari Carmen</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname>ía-Castro</surname>
-          <givenname>Raúl Garc</givenname>
+          <surname>García-Castro</surname>
+          <givenname>Raúl</givenname>
         </bib-name>
         <bib-name role="editor">
           <surname>Montiel-Ponsoda</surname>
@@ -600,7 +600,7 @@
         </bib-name>
         <bib-name role="editor">
           <surname>Presutti</surname>
-          <givenname/>
+          <givenname>Valentina</givenname>
         </bib-name>
         <bib-data role="venue">Hersonissos, Crete, Greece</bib-data>
         <bib-data role="eventdate">2012-05-27/2012-05-31</bib-data>
@@ -646,7 +646,7 @@
         </bib-name>
         <bib-name role="editor">
           <surname>Parsia</surname>
-          <givenname/>
+          <givenname>Bijan</givenname>
         </bib-name>
         <bib-name role="editor">
           <surname>Plexousakis</surname>
@@ -822,7 +822,7 @@
         </bib-name>
         <bib-name role="editor">
           <surname>Greaves</surname>
-          <givenname/>
+          <givenname>Mark</givenname>
         </bib-name>
         <bib-part role="number">514</bib-part>
         <bib-part role="series">CEUR Workshop Proceedings</bib-part>
@@ -1963,7 +1963,7 @@ and Linking of Structured Knowledge ({CK})},
         </bib-name>
         <bib-name role="editor">
           <surname>Sanner</surname>
-          <givenname/>
+          <givenname>Scott</givenname>
         </bib-name>
         <bib-title>Proceedings of the 26th international conference on automated planning and scheduling (icaps’16)</bib-title>
         <bib-date role="publication">2016</bib-date>
@@ -3035,7 +3035,7 @@ Techniques and Applications</bib-title>
           <givenname>Volker</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname/>
+          <surname>Suzuki</surname>
           <givenname>Masakazu</givenname>
         </bib-name>
         <bib-name role="editor">
@@ -3109,8 +3109,12 @@ Techniques and Applications</bib-title>
           <givenname>David</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname>and</surname>
-          <givenname>Patrick D. F. Ion</givenname>
+          <surname>Ion</surname>
+          <givenname>Patrick D. F.</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Rideau</surname>
+          <givenname>Laurence</givenname>
         </bib-name>
         <bib-name role="editor">
           <surname>Rioboo</surname>
@@ -3276,7 +3280,7 @@ Techniques and Applications</bib-title>
         </bib-name>
         <bib-name role="editor">
           <surname>Sorge</surname>
-          <givenname/>
+          <givenname>Volker</givenname>
         </bib-name>
         <bib-data role="venue">Washington DC, USA</bib-data>
         <bib-data role="eventdate">2015-07-13/2015-07-17</bib-data>
@@ -8826,7 +8830,7 @@ Intelligence (IJCAI)</bib-title>
         </bib-name>
         <bib-name role="editor">
           <surname>Rutledge</surname>
-          <givenname/>
+          <givenname>Lloyd</givenname>
         </bib-name>
         <bib-title>Semantic web user interaction (SWUI), CHI</bib-title>
         <bib-subtitle>Exploring HCI Challenges</bib-subtitle>
@@ -9500,8 +9504,8 @@ Intelligence (IJCAI)</bib-title>
           <givenname>M. Scott</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname/>
-          <givenname>Eric Prud’hommeaux</givenname>
+          <surname>Prud’hommeaux</surname>
+          <givenname>Eric</givenname>
         </bib-name>
         <bib-name role="editor">
           <surname>Stephens</surname>
@@ -9747,8 +9751,8 @@ Intelligence (IJCAI)</bib-title>
           <givenname>Yunhao</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname/>
-          <givenname>Wei-Ying Ma</givenname>
+          <surname>Ma</surname>
+          <givenname>Wei-Ying</givenname>
         </bib-name>
         <bib-name role="editor">
           <surname>Tomkins</surname>
@@ -10314,8 +10318,8 @@ Intelligence (IJCAI)</bib-title>
           <givenname>Manuela</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname>’Neill</surname>
-          <givenname>Henrique O</givenname>
+          <surname>O’Neill</surname>
+          <givenname>Henrique</givenname>
         </bib-name>
         <bib-organization>ACM Special Interest Group for Design of Communication</bib-organization>
         <bib-publisher>ACM Press</bib-publisher>
@@ -11114,7 +11118,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         </bib-name>
         <bib-name role="editor">
           <surname>Maynard</surname>
-          <givenname/>
+          <givenname>Diana</givenname>
         </bib-name>
         <bib-name role="editor">
           <surname>Motta</surname>
@@ -11998,7 +12002,7 @@ Daniela Zaharie},
         </bib-name>
         <bib-name role="editor">
           <surname>Winckler</surname>
-          <givenname/>
+          <givenname>Marco</givenname>
         </bib-name>
         <bib-title>Human-computer interaction – interact 2013</bib-title>
         <bib-publisher>Springer</bib-publisher>
@@ -12040,7 +12044,7 @@ Daniela Zaharie},
         </bib-name>
         <bib-name role="editor">
           <surname>Winckler</surname>
-          <givenname/>
+          <givenname>Marco</givenname>
         </bib-name>
         <bib-title>Human-computer interaction – interact 2013</bib-title>
         <bib-publisher>Springer</bib-publisher>
