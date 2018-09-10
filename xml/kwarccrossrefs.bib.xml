@@ -7,57 +7,23 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="CICM16WIP" type="proceedings" xml:id="bib.bib1">
+      <bibentry key="CICM18WIP" type="proceedings" xml:id="bib.bib1">
         <bib-title>Intelligent computer mathematics – work in progress papers</bib-title>
-        <bib-key>CICM16WIP</bib-key>
-        <bib-date role="publication">2016</bib-date>
-        <bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url>
-        <bib-name role="editor">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Kohlhase</surname>
-          <givenname>Andrea</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Libbrecht</surname>
-          <givenname>Paul</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Miller</surname>
-          <givenname>Bruce</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Naumowicz</surname>
-          <givenname>Adam</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Neuper</surname>
-          <givenname>Walther</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Quaresma</surname>
-          <givenname>Pedro</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Tompa</surname>
-          <givenname>Frank</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Suda</surname>
-          <givenname>Martin</givenname>
-        </bib-name>
-        <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@proceedings{CICM16WIP,
+        <bib-key>CICM18WIP</bib-key>
+        <bib-date role="publication">2018</bib-date>
+        <bib-data role="soonurl">http://ceur-ws.org/Vol-1785/</bib-data>
+        <bib-data role="sooneditor">Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
+Frank Tompa and Martin Suda</bib-data>
+        <bib-data role="soonpubs">mkohlhase,akohlhase</bib-data>
+        <bib-data role="self" type="BibTeX">@proceedings{CICM18WIP,
      title = {Intelligent Computer Mathematics – Work in Progress Papers},
  booktitle = {{Intelligent Computer Mathematics – Work in Progress Papers}},
-       key = {CICM16WIP},
-      year = {2016},
-       url = {http://ceur-ws.org/Vol-1785/},
-    editor = {Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
+       key = {CICM18WIP},
+      year = {2018},
+   soonurl = {http://ceur-ws.org/Vol-1785/},
+ sooneditor = {Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
 Frank Tompa and Martin Suda},
-      pubs = {mkohlhase,akohlhase}}
+  soonpubs = {mkohlhase,akohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="FGWM17" type="proceedings" xml:id="bib.bib2">

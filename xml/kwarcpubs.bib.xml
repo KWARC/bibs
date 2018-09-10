@@ -23118,7 +23118,40 @@ Sandro Wartzack},
       pubs = {mkohlhase,twiesing,odk,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib988">
+      <bibentry key="ODK-D4.11" type="report" xml:id="bib.bib988">
+        <bib-name role="author">
+          <surname>Amann</surname>
+          <givenname>Kai</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
+        <bib-data role="label">D4.11</bib-data>
+        <bib-title>Notebook import into mathhub.info (interactive display)</bib-title>
+        <bib-organization>OpenDreamKit</bib-organization>
+        <bib-date role="publication">2018</bib-date>
+        <bib-type>Deliverable</bib-type>
+        <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP4/D4.11/report-final.pdf">Link</bib-url>
+        <bib-part role="number">D4.11</bib-part>
+        <bib-data role="pubs">mkohlhase,frabe,odk,mathhub</bib-data>
+        <bib-data role="self" type="BibTeX">@techreport{ODK-D4.11,
+    author = {Kai Amann and Michael Kohlhase and Florian Rabe},
+     label = {D4.11},
+     title = {Notebook Import into MathHub.info (interactive display)},
+ institution = {OpenDreamKit},
+      year = {2018},
+      type = {Deliverable},
+       url = {https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP4/D4.11/report-final.pdf},
+    number = {D4.11},
+      pubs = {mkohlhase,frabe,odk,mathhub}}
+</bib-data>
+      </bibentry>
+      <bibentry key="ODK-D6.1" type="report" xml:id="bib.bib989">
         <bib-data role="label">D6.1</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -23147,7 +23180,7 @@ Sandro Wartzack},
       pubs = {mkohlhase,odk,mws,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib989">
+      <bibentry key="ODK-D6.2" type="report" xml:id="bib.bib990">
         <bib-data role="label">D6.2</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -23210,7 +23243,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib990">
+      <bibentry key="ODK-D6.3" type="report" xml:id="bib.bib991">
         <bib-data role="label">D6.3</bib-data>
         <bib-name role="author">
           <surname>Dehaye</surname>
@@ -23271,7 +23304,105 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {mkohlhase,miancu,dmueller,frabe,twiesing,omdoc,mmt,odk,odkWP6}}
 </bib-data>
       </bibentry>
-      <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib991">
+      <bibentry key="ODK-D6.5" type="report" xml:id="bib.bib992">
+        <bib-data role="label">D6.5</bib-data>
+        <bib-name role="author">
+          <surname>Cremona</surname>
+          <givenname>John</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Müller</surname>
+          <givenname>Dennis</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Pfeiffer</surname>
+          <givenname>Markus</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Thiéry</surname>
+          <givenname>Nicolas M.</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Wiesing</surname>
+          <givenname>Tom</givenname>
+        </bib-name>
+        <bib-title>Report on OpenDreamKit deliverable d6.5: gap/sage/lmfdb interface theories and alignment in omdoc/mmt for system interoperability</bib-title>
+        <bib-organization>OpenDreamKit</bib-organization>
+        <bib-date role="publication">2018</bib-date>
+        <bib-type>Deliverable</bib-type>
+        <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.5/report-final.pdf">Link</bib-url>
+        <bib-part role="number">D6.5</bib-part>
+        <bib-data role="pubs">mkohlhase,dmueller,twiesing,odk</bib-data>
+        <bib-data role="self" type="BibTeX">@techreport{ODK-D6.5,
+     label = {D6.5},
+    author = {John Cremona and Dennis M\"uller and Michael Kohlhase and Markus Pfeiffer and Florian Rabe and Nicolas~M.~Thi{\'e}ry and Tom Wiesing},
+     title = {Report on {OpenDreamKit} deliverable D6.5:  GAP/SAGE/LMFDB Interface Theories and alignment in OMDoc/MMT for System Interoperability},
+ institution = {OpenDreamKit},
+      year = {2018},
+      type = {Deliverable},
+       url = {https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.5/report-final.pdf},
+    number = {D6.5},
+      pubs = {mkohlhase,dmueller,twiesing,odk}}
+</bib-data>
+      </bibentry>
+      <bibentry key="ODK-D6.8" type="report" xml:id="bib.bib993">
+        <bib-data role="label">D6.8</bib-data>
+        <bib-name role="author">
+          <surname>Cremona</surname>
+          <givenname>John</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Müller</surname>
+          <givenname>Dennis</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Pfeiffer</surname>
+          <givenname>Markus</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Thiéry</surname>
+          <givenname>Nicolas M.</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Wiesing</surname>
+          <givenname>Tom</givenname>
+        </bib-name>
+        <bib-title>Report on OpenDreamKit deliverable d6.8: gcurated math-in-the-middle ontology and alignments for gap/sage/lmfdb</bib-title>
+        <bib-organization>OpenDreamKit</bib-organization>
+        <bib-date role="publication">2018</bib-date>
+        <bib-type>Deliverable</bib-type>
+        <bib-url href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.8/report-final.pdf">Link</bib-url>
+        <bib-part role="number">D6.8</bib-part>
+        <bib-data role="pubs">mkohlhase,dmueller,frabe,twiesing,odk</bib-data>
+        <bib-data role="self" type="BibTeX">@techreport{ODK-D6.8,
+     label = {D6.8},
+    author = {John Cremona and Dennis M\"uller and Michael Kohlhase and Markus Pfeiffer and Florian Rabe and Nicolas~M.~Thi{\'e}ry and Tom Wiesing},
+     title = {Report on {OpenDreamKit} deliverable D6.8:  GCurated Math-in-the-Middle Ontology and Alignments for GAP/SAGE/LMFDB},
+ institution = {OpenDreamKit},
+      year = {2018},
+      type = {Deliverable},
+       url = {https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.8/report-final.pdf},
+    number = {D6.8},
+      pubs = {mkohlhase,dmueller,frabe,twiesing,odk}}
+</bib-data>
+      </bibentry>
+      <bibentry key="PVS@GL:on" type="website" xml:id="bib.bib994">
         <bib-data role="label">PVS</bib-data>
         <bib-title>The pvs libraries in omdoc/mmt format</bib-title>
         <bib-url href="https://gl.mathhub.info/PVS">Link</bib-url>
@@ -23283,7 +23414,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
    urldate = {2017-06-29}}
 </bib-data>
       </bibentry>
-      <bibentry key="twiesing:msc17" type="thesis" xml:id="bib.bib992">
+      <bibentry key="twiesing:msc17" type="thesis" xml:id="bib.bib995">
         <bib-name role="author">
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
@@ -23308,7 +23439,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="jbetzendahl:bsc14" type="thesis" xml:id="bib.bib993">
+      <bibentry key="jbetzendahl:bsc14" type="thesis" xml:id="bib.bib996">
         <bib-name role="author">
           <surname>Betzendahl</surname>
           <givenname>Jonas</givenname>
@@ -23331,7 +23462,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2014}}
 </bib-data>
       </bibentry>
-      <bibentry key="jbetzendahl:msc18" type="thesis" xml:id="bib.bib994">
+      <bibentry key="jbetzendahl:msc18" type="thesis" xml:id="bib.bib997">
         <bib-name role="author">
           <surname>Betzendahl</surname>
           <givenname>Jonas</givenname>
@@ -23354,7 +23485,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2018}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabenstein:msc17" type="thesis" xml:id="bib.bib995">
+      <bibentry key="Rabenstein:msc17" type="thesis" xml:id="bib.bib998">
         <bib-name role="author">
           <surname>Rabenstein</surname>
           <givenname>Ullrich</givenname>
@@ -23375,7 +23506,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib996">
+<!--  %**** String Line 1000 **** -->      <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib999">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>Mihai</givenname>
@@ -23415,7 +23546,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="CMR:selecting:16" type="inproceedings" xml:id="bib.bib997">
+      <bibentry key="CMR:selecting:16" type="inproceedings" xml:id="bib.bib1000">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>M.</givenname>
@@ -23451,7 +23582,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib998">
+      <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib1001">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23474,7 +23605,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1000 **** -->      <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib999">
+      <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib1002">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23504,7 +23635,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="universality:16" type="article" xml:id="bib.bib1000">
+      <bibentry key="universality:16" type="article" xml:id="bib.bib1003">
         <bib-name role="author">
           <surname>Dowek</surname>
           <givenname>G.</givenname>
@@ -23543,7 +23674,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="KRS:thf1:16" type="inproceedings" xml:id="bib.bib1001">
+      <bibentry key="KRS:thf1:16" type="inproceedings" xml:id="bib.bib1004">
         <bib-name role="author">
           <surname>Kaliszyk</surname>
           <givenname>C.</givenname>
@@ -23585,7 +23716,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:standard:16" type="inproceedings" xml:id="bib.bib1002">
+      <bibentry key="rabe:mmt:standard:16" type="inproceedings" xml:id="bib.bib1005">
         <bib-name role="author">
           <surname>Kumar</surname>
           <givenname>R.</givenname>
@@ -23629,7 +23760,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib1003">
+      <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib1006">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23669,7 +23800,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib1004">
+      <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib1007">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23692,7 +23823,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib1005">
+      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib1008">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23719,7 +23850,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="HR:tptp:12" type="inproceedings" xml:id="bib.bib1006">
+      <bibentry key="HR:tptp:12" type="inproceedings" xml:id="bib.bib1009">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>F.</givenname>
@@ -23767,7 +23898,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib1007">
+      <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib1010">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23811,7 +23942,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib1008">
+      <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib1011">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -23877,7 +24008,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib1009">
+      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib1012">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
