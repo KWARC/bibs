@@ -31,7 +31,7 @@
       <bibentry key="rabe:recon:17" type="article" xml:id="bib.bib3">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>A Modular Type Reconstruction Algorithm</bib-title>
         <bib-date role="publication">2017</bib-date>
@@ -41,7 +41,7 @@
         </bib-related>
         <bib-data role="pubs">frabe</bib-data>
         <bib-data role="self" type="BibTeX">@article{rabe:recon:17,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{A Modular Type Reconstruction Algorithm}},
       year = {2017},
       note = {accepted pending minor revision; see \url{https://kwarc.info/people/frabe/Research/rabe_recon_17.pdf}},
@@ -15344,14 +15344,14 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Kripke Semantics for Martin-Löf’s Extensional Type Theory</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-url href="http://kwarc.info/frabe/Research/LamKrip.pdf">Link</bib-url>
         <bib-data role="pubs">frabe</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{AR:lamkrip_long:09,
-    author = {S. Awodey and F. Rabe},
+    author = {S. Awodey and Florian Rabe},
      title = {{Kripke Semantics for Martin-L{\"o}f's Extensional Type Theory}},
       year = {2009},
        url = {http://kwarc.info/frabe/Research/LamKrip.pdf},
@@ -15392,7 +15392,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Kripke Semantics for Martin-Löf’s Extensional Type Theory</bib-title>
         <bib-date role="publication">2009</bib-date>
@@ -15410,7 +15410,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">frabe</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{AR:lamkrip:09,
-    author = {S. Awodey and F. Rabe},
+    author = {S. Awodey and Florian Rabe},
      title = {{Kripke Semantics for Martin-L{\"o}f's Extensional Type Theory}},
       year = {2009},
      pages = {249–263},
@@ -15430,7 +15430,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Representing Model Theory in a Type-Theoretical Logical Framework</bib-title>
         <bib-date role="publication">2011</bib-date>
@@ -15442,7 +15442,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-part role="number">37</bib-part>
         <bib-data role="pubs">frabe,mmt,latin</bib-data>
         <bib-data role="self" type="BibTeX">@article{HR:folsound:10,
-    author = {F. Horozal and F. Rabe},
+    author = {F. Horozal and Florian Rabe},
      title = {{Representing Model Theory in a Type-Theoretical Logical Framework}},
       year = {2011},
      pages = {4919–4945},
@@ -15538,7 +15538,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Translating the Mizar Mathematical Library into OMDoc format</bib-title>
         <bib-date role="publication">2011</bib-date>
@@ -15547,7 +15547,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-data role="pubs">frabe,mkohlhase,mathhub</bib-data>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{IKR:mizar:11,
-    author = {M. Iancu and M. Kohlhase and F. Rabe},
+    author = {M. Iancu and M. Kohlhase and Florian Rabe},
      title = {{Translating the {Mizar Mathematical Library} into {OMDoc} format}},
       year = {2011},
  institution = {Jacobs University Bremen},
@@ -15562,14 +15562,14 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>A Formal Semantics of Isabelle/HOL</bib-title>
         <bib-date role="publication">2010</bib-date>
         <bib-url href="https://svn.kwarc.info/repos/twelf/isabelle">Link</bib-url>
         <bib-data role="pubs">frabe,latin,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@misc{rabeEA:isabelle-lf:10,
-    author = {M. Iancu and F. Rabe},
+    author = {M. Iancu and Florian Rabe},
      title = {{A Formal Semantics of Isabelle/HOL}},
       year = {2010},
        url = {https://svn.kwarc.info/repos/twelf/isabelle},
@@ -15579,7 +15579,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       <bibentry key="RI:isabelle:10" type="unpublished" xml:id="bib.bib445">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-name role="author">
           <surname>Iancu</surname>
@@ -15590,7 +15590,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-url href="http://kwarc.info/frabe/Research/rabeEA_isabelle_10.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,latin,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RI:isabelle:10,
-    author = {F. Rabe and M. Iancu},
+    author = {Florian Rabe and M. Iancu},
      title = {{A Formalized Set-Theoretical Semantics of Isabelle/HOL}},
       year = {2010},
        url = {http://kwarc.info/frabe/Research/rabeEA_isabelle_10.pdf},
@@ -15600,7 +15600,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       <bibentry key="Rabe:lfcmpt13" type="article" xml:id="bib.bib446">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>A Logical Framework Combining Model and Proof Theory</bib-title>
         <bib-date role="publication">2013</bib-date>
@@ -15612,7 +15612,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-part role="number">5</bib-part>
         <bib-data role="pubs">frabe,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@article{Rabe:lfcmpt13,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{A Logical Framework Combining Model and Proof Theory}},
       year = {2013},
      pages = {945–1001},
@@ -15702,7 +15702,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>A Proof Theoretic Interpretation of Model Theoretic Hiding</bib-title>
         <bib-related role="host" type="proceedings"><bib-title>Recent Trends in Algebraic Development Techniques</bib-title><bib-name role="editor">
@@ -15728,7 +15728,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-related>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{CHKMR:hiding:11,
-    author = {M. Codescu and F. Horozal and M. Kohlhase and T. Mossakowski and F. Rabe},
+    author = {M. Codescu and F. Horozal and M. Kohlhase and T. Mossakowski and Florian Rabe},
      title = {{A Proof Theoretic Interpretation of Model Theoretic Hiding}},
   crossref = {WADT10},
   keywords = {conference},
@@ -15782,7 +15782,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Interactive Documents as Interfaces to Computer Algebra Systems: JOBAD and Wolfram—Alpha</bib-title>
         <bib-date role="publication">2010</bib-date>
@@ -15803,7 +15803,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">frabe,jobad,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{DLR:jobad:10,
-    author = {C. David and C. Lange and F. Rabe},
+    author = {C. David and C. Lange and Florian Rabe},
      title = {{Interactive Documents as Interfaces to Computer Algebra Systems: JOBAD and Wolfram|Alpha}},
       year = {2010},
      pages = {13–30},
@@ -15946,7 +15946,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       <bibentry key="rabe:isalf:10" type="inproceedings" xml:id="bib.bib456">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Representing Isabelle in LF</bib-title>
         <bib-date role="publication">2010</bib-date>
@@ -15967,7 +15967,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-related>
         <bib-data role="pubs">frabe,mmt,latin</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:isalf:10,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{Representing Isabelle in LF}},
       year = {2010},
      pages = {85–100},
@@ -16011,14 +16011,14 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>A Formal Proof of the Soundness of First-order Logic</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-url href="https://svn.kwarc.info/repos/twelf/fol-soundness.cfg">Link</bib-url>
         <bib-data role="pubs">frabe,mmt,latin</bib-data>
         <bib-data role="self" type="BibTeX">@misc{rabeEA:folsound-lf:09,
-    author = {F. Horozal and F. Rabe},
+    author = {F. Horozal and Florian Rabe},
      title = {{A Formal Proof of the Soundness of First-order Logic}},
       year = {2009},
        url = {https://svn.kwarc.info/repos/twelf/fol-soundness.cfg},
@@ -16028,7 +16028,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       <bibentry key="project:mmtlf" type="misc" xml:id="bib.bib459">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-name role="author">
           <surname>Schürmann</surname>
@@ -16039,7 +16039,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-url href="https://cvs.concert.cs.cmu.edu/twelf/branches/twelf-mod">Link</bib-url>
         <bib-data role="pubs">frabe,mmt,latin</bib-data>
         <bib-data role="self" type="BibTeX">@misc{project:mmtlf,
-    author = {F. Rabe and C. Sch{\"u}rmann},
+    author = {Florian Rabe and C. Sch{\"u}rmann},
      title = {{A Module System for Twelf}},
       year = {2009},
        url = {https://cvs.concert.cs.cmu.edu/twelf/branches/twelf-mod},
@@ -16049,7 +16049,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       <bibentry key="RS:twelfmod:09" type="inproceedings" xml:id="bib.bib460">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-name role="author">
           <surname>Schürmann</surname>
@@ -16074,7 +16074,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-related>
         <bib-data role="pubs">frabe,mmt,latin</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{RS:twelfmod:09,
-    author = {F. Rabe and C. Sch{\"u}rmann},
+    author = {Florian Rabe and C. Sch{\"u}rmann},
      title = {{A Practical Module System for LF}},
       year = {2009},
      pages = {40–48},
@@ -16105,7 +16105,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Notations for Active Mathematical Documents</bib-title>
         <bib-date role="publication">2009</bib-date>
@@ -16114,7 +16114,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-data role="pubs">frabe,mkohlhase,mmt,omdoc</bib-data>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{KLMMR:notations-tr:2009,
-    author = {M. Kohlhase and C. Lange and C. M{\"u}ller and N. M{\"u}ller and F. Rabe},
+    author = {M. Kohlhase and C. Lange and C. M{\"u}ller and N. M{\"u}ller and Florian Rabe},
      title = {{Notations for Active Mathematical Documents}},
       year = {2009},
  institution = {Jacobs University Bremen},
@@ -16141,13 +16141,13 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Notations for Active Mathematical Documents</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-data role="pubs">frabe</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{rabeEA:presentation:09,
-    author = {M. Kohlhase and C. Lange and C. M{\"u}ller and N. M{\"u}ller and F. Rabe},
+    author = {M. Kohlhase and C. Lange and C. M{\"u}ller and N. M{\"u}ller and Florian Rabe},
      title = {{Notations for Active Mathematical Documents}},
       year = {2009},
       pubs = {frabe}}
@@ -16156,7 +16156,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       <bibentry key="rabe:gi:09" type="inproceedings" xml:id="bib.bib463">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Representing Logics and Logic Translations</bib-title>
         <bib-date role="publication">2009</bib-date>
@@ -16174,7 +16174,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-related>
         <bib-data role="pubs">frabe,mmt,latin</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:gi:09,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{Representing Logics and Logic Translations}},
       year = {2009},
       note = {English title: Outstanding Dissertations in Computer Science 2008},
@@ -16194,7 +16194,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Representing Model Theory in a Type-Theoretical Logical Framework</bib-title>
         <bib-date role="publication">2009</bib-date>
@@ -16215,7 +16215,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-related>
         <bib-data role="pubs">frabe,mmt,latin</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{HR:folsound:09,
-    author = {F. Horozal and F. Rabe},
+    author = {F. Horozal and Florian Rabe},
      title = {{Representing Model Theory in a Type-Theoretical Logical Framework}},
       year = {2009},
      pages = {49–65},
@@ -16238,14 +16238,14 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>The LATIN Project</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-url href="https://trac.omdoc.org/LATIN/">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,latin,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@misc{project:latin,
-    author = {M. Kohlhase and T. Mossakowski and F. Rabe},
+    author = {M. Kohlhase and T. Mossakowski and Florian Rabe},
      title = {{The {LATIN} Project}},
       year = {2009},
        url = {https://trac.omdoc.org/LATIN/},
@@ -16255,13 +16255,13 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       <bibentry key="rabe:mmt:09" type="unpublished" xml:id="bib.bib466">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>The MMT Language</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-data role="pubs">frabe,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{rabe:mmt:09,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{The {MMT} Language}},
       year = {2009},
       pubs = {frabe,mmt}}
@@ -16274,7 +16274,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Translating Dependently-Typed Logic to First-Order Logic</bib-title>
         <bib-date role="publication">2009</bib-date>
@@ -16296,7 +16296,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">frabe,latin,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{SR:dfol_fol:08,
-    author = {K. Sojakova and F. Rabe},
+    author = {K. Sojakova and Florian Rabe},
      title = {{Translating Dependently-Typed Logic to First-Order Logic}},
       year = {2009},
      pages = {326–341},
@@ -30344,7 +30344,7 @@ Sandro Wartzack},
    urldate = {2015-06-29}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMue:cicm15" type="unpublished" xml:id="bib.bib983">
+      <bibentry key="KohMue:cicm15" type="inproceedings" xml:id="bib.bib983">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -30354,11 +30354,15 @@ Sandro Wartzack},
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Understanding mathematical theory formation via theory intersections in MMT</bib-title>
+        <bib-related role="host" type="proceedings">
+          <bib-title>FMM - Formal Mathematics for Mathematicians</bib-title>
+        </bib-related>
         <bib-url href="http://cicm-conference.org/2015/fm4m/FMM_2015_paper_2.pdf">Link</bib-url>
         <bib-date role="publication">2015</bib-date>
-        <bib-data role="self" type="BibTeX">@unpublished{KohMue:cicm15,
+        <bib-data role="self" type="BibTeX">@inproceedings{KohMue:cicm15,
     author = {Dennis M{\"u}ller and Michael Kohlhase},
      title = {Understanding Mathematical Theory Formation via Theory Intersections in {MMT}},
+ booktitle = {{FMM} - Formal Mathematics for Mathematicians},
        url = {http://cicm-conference.org/2015/fm4m/FMM_2015_paper_2.pdf},
       year = {2015}}
 </bib-data>
@@ -30912,7 +30916,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Selecting Colimits for Parameterisation and Networks of Specifications</bib-title>
         <bib-date role="publication">2016</bib-date>
@@ -30929,7 +30933,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-related>
         <bib-data role="pubs">frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{CMR:selecting:16,
-    author = {M. Codescu and T. Mossakowski and F. Rabe},
+    author = {M. Codescu and T. Mossakowski and Florian Rabe},
      title = {{Selecting Colimits for Parameterisation and Networks of Specifications}},
       year = {2016},
  booktitle = {Workshop on Algebraic Development Techniques},
@@ -30940,7 +30944,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib1001">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Morphism Axioms</bib-title>
         <bib-date role="publication">2017</bib-date>
@@ -30951,7 +30955,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-part role="volume">691</bib-part>
         <bib-data role="pubs">frabe,oaf,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@article{rabe:maxioms:16,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{Morphism Axioms}},
       year = {2017},
      pages = {55–80},
@@ -30963,7 +30967,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib1002">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>The MMT Perspective on Conservativity</bib-title>
         <bib-date role="publication">2017</bib-date>
@@ -30981,7 +30985,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-related>
         <bib-data role="pubs">frabe,oaf,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:cons:16,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{The MMT Perspective on Conservativity}},
       year = {2017},
      pages = {17–33},
@@ -31005,7 +31009,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Universality of Proofs (Dagstuhl Seminar 16421)</bib-title>
         <bib-date role="publication">2017</bib-date>
@@ -31018,7 +31022,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-part role="number">10</bib-part>
         <bib-data role="pubs">frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@article{universality:16,
-    author = {G. Dowek and C. Dubois and B. Pientka and F. Rabe},
+    author = {G. Dowek and C. Dubois and B. Pientka and Florian Rabe},
      title = {{Universality of Proofs (Dagstuhl Seminar 16421)}},
       year = {2017},
       note = {see \url{http://drops.dagstuhl.de/opus/volltexte/2017/6951/}},
@@ -31036,7 +31040,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-name role="author">
           <surname>Sutcliffe</surname>
@@ -31062,7 +31066,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-related>
         <bib-data role="pubs">frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KRS:thf1:16,
-    author = {C. Kaliszyk and F. Rabe and G. Sutcliffe},
+    author = {C. Kaliszyk and Florian Rabe and G. Sutcliffe},
      title = {{TH1: The TPTP Typed Higher-Order Form with Rank-1 Polymorphism}},
       year = {2016},
      pages = {41–55},
@@ -31078,7 +31082,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Breakout session on A standard for system integration and proof interchange</bib-title>
         <bib-date role="publication">2016</bib-date>
@@ -31099,18 +31103,18 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           </bib-name>
           <bib-name role="editor">
             <surname>Rabe</surname>
-            <givenname>F.</givenname>
+            <givenname>Florian</givenname>
           </bib-name>
           <bib-publisher>Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik</bib-publisher>
         </bib-related>
         <bib-data role="pubs">frabe,oaf,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:mmt:standard:16,
-    author = {R. Kumar and F. Rabe},
+    author = {R. Kumar and Florian Rabe},
      title = {{Breakout session on A standard for system integration and proof interchange}},
       year = {2016},
      pages = {94–94},
  booktitle = {Dagstuhl Seminar on Universality of Proofs},
-    editor = {G. Dowek and C. Dubois and B. Pientka and F. Rabe},
+    editor = {G. Dowek and C. Dubois and B. Pientka and Florian Rabe},
  publisher = {Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik},
       pubs = {frabe,oaf,mmt}}
 </bib-data>
@@ -31118,7 +31122,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib1006">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>MMT: A UniFormal Approach to Knowledge Representation</bib-title>
         <bib-date role="publication">2016</bib-date>
@@ -31139,18 +31143,18 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           </bib-name>
           <bib-name role="editor">
             <surname>Rabe</surname>
-            <givenname>F.</givenname>
+            <givenname>Florian</givenname>
           </bib-name>
           <bib-publisher>Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik</bib-publisher>
         </bib-related>
         <bib-data role="pubs">frabe,oaf,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:mmt:universality:16,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{MMT: A UniFormal Approach to Knowledge Representation}},
       year = {2016},
      pages = {88–88},
  booktitle = {Dagstuhl Seminar on Universality of Proofs},
-    editor = {G. Dowek and C. Dubois and B. Pientka and F. Rabe},
+    editor = {G. Dowek and C. Dubois and B. Pientka and Florian Rabe},
  publisher = {Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik},
       pubs = {frabe,oaf,mmt}}
 </bib-data>
@@ -31158,7 +31162,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib1007">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Lax Theory Morphisms</bib-title>
         <bib-date role="publication">2015</bib-date>
@@ -31169,7 +31173,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-part role="number">1</bib-part>
         <bib-data role="pubs">frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@article{rabe:lax:14,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{Lax Theory Morphisms}},
       year = {2015},
    journal = {ACM Transactions on Computational Logic},
@@ -31181,7 +31185,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       <bibentry key="rabe:future:15" type="article" xml:id="bib.bib1008">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>The Future of Logic: Foundation-Independence</bib-title>
         <bib-date role="publication">2015</bib-date>
@@ -31194,7 +31198,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-part role="number">1</bib-part>
         <bib-data role="pubs">frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@article{rabe:future:15,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{The Future of Logic: Foundation-Independence}},
       year = {2015},
       note = {10.1007/s11787-015-0132-x; Winner of the Contest ``The Future of Logic'' at the World Congress on Universal Logic},
@@ -31212,7 +31216,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Formal Logic Definitions for Interchange Languages</bib-title>
         <bib-date role="publication">2015</bib-date>
@@ -31233,7 +31237,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           </bib-name>
           <bib-name role="editor">
             <surname>Rabe</surname>
-            <givenname>F.</givenname>
+            <givenname>Florian</givenname>
           </bib-name>
           <bib-name role="editor">
             <surname>Sorge</surname>
@@ -31243,12 +31247,12 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-related>
         <bib-data role="pubs">frabe,oaf,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{HR:tptp:12,
-    author = {F. Horozal and F. Rabe},
+    author = {F. Horozal and Florian Rabe},
      title = {{Formal Logic Definitions for Interchange Languages}},
       year = {2015},
      pages = {171–186},
  booktitle = {Intelligent Computer Mathematics},
-    editor = {M. Kerber and J. Carette and C. Kaliszyk and F. Rabe and V. Sorge},
+    editor = {M. Kerber and J. Carette and C. Kaliszyk and Florian Rabe and V. Sorge},
  publisher = {Springer},
       pubs = {frabe,oaf,mmt}}
 </bib-data>
@@ -31256,7 +31260,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib1010">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>Generic Literals</bib-title>
         <bib-date role="publication">2015</bib-date>
@@ -31277,7 +31281,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           </bib-name>
           <bib-name role="editor">
             <surname>Rabe</surname>
-            <givenname>F.</givenname>
+            <givenname>Florian</givenname>
           </bib-name>
           <bib-name role="editor">
             <surname>Sorge</surname>
@@ -31287,12 +31291,12 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-related>
         <bib-data role="pubs">frabe,oaf,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:literals:14,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{Generic Literals}},
       year = {2015},
      pages = {102–117},
  booktitle = {Intelligent Computer Mathematics},
-    editor = {M. Kerber and J. Carette and C. Kaliszyk and F. Rabe and V. Sorge},
+    editor = {M. Kerber and J. Carette and C. Kaliszyk and Florian Rabe and V. Sorge},
  publisher = {Springer},
       pubs = {frabe,oaf,mmt}}
 </bib-data>
@@ -31300,7 +31304,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib1011">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>F.</givenname>
+          <givenname>Florian</givenname>
         </bib-name>
         <bib-title>MMT Objects</bib-title>
         <bib-date role="publication">2014</bib-date>
@@ -31354,7 +31358,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-related>
         <bib-data role="pubs">frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:mmtobjects:14,
-    author = {F. Rabe},
+    author = {Florian Rabe},
      title = {{MMT Objects}},
       year = {2014},
  booktitle = {Workshops and Work in Progress at CICM 2014: OpenMath Workshop},
