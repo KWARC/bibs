@@ -7,7 +7,7 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="rapp:socialchoice" type="inproceedings" xml:id="bib.bib1">
+      <bibentry key="Rapp:socialchoice" type="inproceedings" xml:id="bib.bib1">
         <bib-title>Social Choice and the Problem of Recommending Essential Readings</bib-title>
         <bib-name role="author">
           <surname>Hungerbühler</surname>
@@ -27,14 +27,14 @@
         </bib-name>
         <bib-related bibrefs="ESSLLI2018" role="host"/>
         <bib-data role="pubs">mrapp</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{rapp:socialchoice,
+        <bib-data role="self" type="BibTeX">@inproceedings{Rapp:socialchoice,
      title = {{Social Choice and the Problem of Recommending Essential Readings}},
     author = {Silvan Hungerb{\"u}hler and Haukur Páll J{\´o}hnsson and Grzegorz Lisowski and Max Rapp},
   crossref = {ESSLLI 2018},
       pubs = {mrapp}}
 </bib-data>
       </bibentry>
-      <bibentry key="rapp:tagmsp" type="inproceedings" xml:id="bib.bib2">
+      <bibentry key="Rapp:tagmsp" type="inproceedings" xml:id="bib.bib2">
         <bib-title>Is the Triviality of AGM a Serious Possibility</bib-title>
         <bib-name role="author">
           <surname>Lisowski</surname>
@@ -52,7 +52,7 @@
         <bib-data role="urldate">2018-10-13</bib-data>
         <bib-extract role="keywords">workshop</bib-extract>
         <bib-data role="pubs">mrapp</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{rapp:tagmsp,
+        <bib-data role="self" type="BibTeX">@inproceedings{Rapp:tagmsp,
      title = {{Is the Triviality of AGM a Serious Possibility}},
     author = {Grzegorz Lisowski and Max Rapp},
  booktitle = {Logic in the Wild: 6th workshop in the 'Logic, Reasoning \&amp; Rationality' series},
@@ -63,7 +63,7 @@
       pubs = {mrapp}}
 </bib-data>
       </bibentry>
-      <bibentry key="rapp:opushorribilis" type="inproceedings" xml:id="bib.bib3">
+      <bibentry key="Rapp:opushorribilis" type="inproceedings" xml:id="bib.bib3">
         <bib-title>Winning Questions: inquisitive semantics and the lottery paradox</bib-title>
         <bib-name role="author">
           <surname>Lisowski</surname>
@@ -85,7 +85,7 @@
         <bib-data role="urldate">2018-10-16</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mrapp</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{rapp:opushorribilis,
+        <bib-data role="self" type="BibTeX">@inproceedings{Rapp:opushorribilis,
      title = {{Winning Questions: inquisitive semantics and the lottery paradox}},
     author = {Grzegorz Lisowski and Dean McHugh and Max Rapp},
  booktitle = {5th LSE Graduate Conference in Philosophy of Probability},
