@@ -11620,13 +11620,15 @@ crossref = {wikipedia}}
   url = {http://www.inf.uni-konstanz.de/dbis/basex/},
   note = {seen December 2010}}
 
-@MISC{JSON:web,
-  key = {JSON},
+@online{JSON:on,crossref={JSON:base},
   label = {JSON},
-  title = {{JSON (JavaScript Object Notation)}},
-  note = {\url{http://json.org/}},
   url = {http://json.org/},
+  urldate = {2018-10-13}}
+@MISC{JSON:web,crossref={JSON:base},
+  key = {JSON},
+  howpublished = {\url{http://json.org/}},
   note = {seen March  2009}}
+@MISC{JSON:base,title = {{JSON (JavaScript Object Notation)}}}
 
 @MISC{XMLRPC:web,
   key = {XML-RPC},
@@ -45471,6 +45473,7 @@ url = {http://www.balisage.net/Proceedings/vol7/print/Hennum01/BalisageVol7-Henn
     crossref = {SemNet2007},
   pubs={clange,swim,krextor}}
 
+@online{CarlisleEd:MathML3:on,crossref={CarlisleEd:MathML3:base},label = {MML3}}
 @TECHREPORT{CarlisleEd:MathML3,crossref={CarlisleEd:MathML3:base},howpublished={\url{http://www.w3.org/TR/MathML3}}}
 @TECHREPORT{CarlisleEd:MathML3:base,
   author = {Ron Ausbrooks and Stephen Buswell and David Carlisle and
