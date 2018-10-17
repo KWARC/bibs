@@ -12,14 +12,14 @@
           <surname>Rapp</surname>
           <givenname>Max</givenname>
         </bib-name>
-        <bib-title>Braucht die Ãkonomie einen paradigmenwechsel? methodische vorschlÃ¤ge nach elinor ostrom</bib-title>
+        <bib-title>Braucht die Ökonomie einen paradigmenwechsel? methodische vorschlÃ¤ge nach elinor ostrom</bib-title>
         <bib-organization>Munich School of Philosophy</bib-organization>
         <bib-type>Bachelor’s Thesis</bib-type>
         <bib-data role="pubs">mrapp, bscthesis</bib-data>
         <bib-date role="publication">2013</bib-date>
         <bib-data role="self" type="BibTeX">@thesis{rapp:bathesis,
     author = {Max Rapp},
-     title = {Braucht die Ökonomie einen Paradigmenwechsel? Methodische Vorschläge nach Elinor Ostrom},
+     title = {Braucht die {\"O}konomie einen Paradigmenwechsel? Methodische Vorschläge nach Elinor Ostrom},
     school = {Munich School of Philosophy},
       type = {Bachelor's Thesis},
       pubs = {mrapp, bscthesis},
@@ -69,7 +69,7 @@
           <givenname>Silvan</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>J<ERROR class="undefined">\�</ERROR>´ohnsson</surname>
+          <surname>Jóhnsson</surname>
           <givenname>Haukur PÃ¡ll</givenname>
         </bib-name>
         <bib-name role="author">
@@ -84,12 +84,12 @@
         <bib-data role="pubs">mrapp</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{rapp:socialchoice,
      title = {{Social Choice and the Problem of Recommending Essential Readings}},
-    author = {Silvan Hungerb{\"u}hler and Haukur Páll J{\´o}hnsson and Grzegorz Lisowski and Max Rapp},
+    author = {Silvan Hungerb{\"u}hler and Haukur Páll J{\'o}hnsson and Grzegorz Lisowski and Max Rapp},
   crossref = {ESSLLI18},
       pubs = {mrapp}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rapp:tagmsp" type="inproceedings" xml:id="bib.bib5">
+      <bibentry key="rapp:tagmsp" type="inproceedings" xml:id="bib.bib5">
         <bib-title>Is the Triviality of AGM a Serious Possibility</bib-title>
         <bib-name role="author">
           <surname>Lisowski</surname>
@@ -107,7 +107,7 @@
         <bib-data role="urldate">2018-10-13</bib-data>
         <bib-extract role="keywords">workshop</bib-extract>
         <bib-data role="pubs">mrapp</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{Rapp:tagmsp,
+        <bib-data role="self" type="BibTeX">@inproceedings{rapp:tagmsp,
      title = {{Is the Triviality of AGM a Serious Possibility}},
     author = {Grzegorz Lisowski and Max Rapp},
  booktitle = {Logic in the Wild: 6th workshop in the 'Logic, Reasoning \&amp; Rationality' series},
@@ -118,7 +118,7 @@
       pubs = {mrapp}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rapp:opushorribilis" type="inproceedings" xml:id="bib.bib6">
+      <bibentry key="rapp:opushorribilis" type="inproceedings" xml:id="bib.bib6">
         <bib-title>Winning Questions: inquisitive semantics and the lottery paradox</bib-title>
         <bib-name role="author">
           <surname>Lisowski</surname>
@@ -140,7 +140,7 @@
         <bib-data role="urldate">2018-10-16</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mrapp</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{Rapp:opushorribilis,
+        <bib-data role="self" type="BibTeX">@inproceedings{rapp:opushorribilis,
      title = {{Winning Questions: inquisitive semantics and the lottery paradox}},
     author = {Grzegorz Lisowski and Dean McHugh and Max Rapp},
  booktitle = {5th LSE Graduate Conference in Philosophy of Probability},
