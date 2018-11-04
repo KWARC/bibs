@@ -1520,7 +1520,7 @@ Interface Theories},
         <bib-url href="https://github.com/tkw1536/BachelorThesis/blob/master/thesis/thesis.pdf">Link</bib-url>
         <bib-date role="publication">2015</bib-date>
         <bib-type>B. Sc. Thesis</bib-type>
-        <bib-data role="pubs">twiesing,mws,odk,odkWP6,bscthesis</bib-data>
+        <bib-data role="pubs">twiesing,mws,bscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{twiesing:bsc15,
     author = {Tom Wiesing},
      title = {Semantic Search For Quantity Expressions},
@@ -1528,7 +1528,7 @@ Interface Theories},
        url = {https://github.com/tkw1536/BachelorThesis/blob/master/thesis/thesis.pdf},
       year = {2015},
       type = {B.\,Sc.\ Thesis},
-      pubs = {twiesing,mws,odk,odkWP6,bscthesis}}
+      pubs = {twiesing,mws,bscthesis}}
 </bib-data>
       </bibentry>
       <bibentry key="LuzKoh:fsarfo16" type="inproceedings" xml:id="bib.bib78">
