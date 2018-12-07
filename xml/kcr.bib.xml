@@ -8,10 +8,12 @@
         <bib-data role="label">SML</bib-data>
         <bib-title>SIGMathLing – special interest group on maths linguistics</bib-title>
         <bib-url href="http://sigmathling.kwarc.info">Link</bib-url>
+        <bib-data role="urldate">2018-12-07</bib-data>
         <bib-data role="self" type="BibTeX">@online{SIGMathLing:on,
      label = {SML},
      title = {SIGMathLing – Special Interest Group on Maths Linguistics},
-       url = {http://sigmathling.kwarc.info}}
+       url = {http://sigmathling.kwarc.info},
+   urldate = {2018-12-07}}
 </bib-data>
       </bibentry>
       <bibentry key="rapp:bathesis" type="thesis" xml:id="bib.bib2">
