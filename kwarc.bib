@@ -60,20 +60,18 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
-@onlin{W3Schools:CSS-tutorial,
+@online{Wikipedia:CSS-specificity,
+  label = {CSS},
+  title = {{CSS} Specificity},
+  url = {https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Specificity},
+  urldate = {2018-12-03}}
+
+@online{W3Schools:CSS-tutorial,
   label={CSS},
   url = {https://www.w3schools.com/css/default.asp},
   title = {{CSS} Tutorial},
   urldate = {2018-12-02}}
   
-@Book{Brooks:tmmm75,
- author = {Brooks, Frederick},
- title = {The Mythical Man-Month: Essays on Software Engineering},
- publisher = {Addison-Wesley},
- year = {1975},
- address = {Reading, Mass},
- isbn = {0201006502}}
- 
 @online{MySQLdb-tuorial:on,
  label = {PMDA},
  title = {Python -- MySQL Database Access},
@@ -4957,8 +4955,8 @@ author = "Tjark Weber"}
   journal =  {Notices of the AMS},
   pages =    {1370--1380}}
 
-@Article{GG:FPTFCT,crossref=GG:FPTFCT:biblatex,
-  howpublished = {\url{http://www.ams.org/notices/200811/tx081101382p.pdf}}},
+@Article{GG:FPTFCT,crossref={GG:FPTFCT:biblatex},
+  howpublished = {\url{http://www.ams.org/notices/200811/tx081101382p.pdf}}}
 @Article{GG:FPTFCT:biblatex,
   author = {Georges Gonthier},
   title =    {Formal proof -- The Four-Color Theorem},
@@ -24998,12 +24996,12 @@ urldate = {2015-04-25}}
   pages = {20--32},
   doi = {10.1109/METRIC.1997.637156}}
 
-@book{Brooks:tmmm75,
-  author = {Fred Brooks},
-  title = {The Mythical Man-Month},
-  publisher = {Addison-Wesley},
-  year = {1975},
-  isbn = {0-201-00650-2}}
+@Book{Brooks:tmmm75,
+ author = {Brooks, Frederick},
+ title = {The Mythical Man-Month: Essays on Software Engineering},
+ publisher = {Addison-Wesley},
+ year = {1975},
+ isbn = {0-201-00650-2}}
 
 @online{gitflow:on,crossref={gitflow:base},urldate={2015-03-19},label={GITF}}
 @misc{gitflow:url,crossref={gitflow:base},urldate={2015-03-19},key={GITF},
@@ -42403,10 +42401,16 @@ pages="288--295"}
   note = {Accessed: 2018-10-14},
 }
 
-s@string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
+@string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
 @STRING{stexyear = 2018}
 @STRING{testing = 16}
 
+@online{SIGMathLing:on,
+   label = {SML},
+   title = {SIGMathLing -- Special Interest Group on Maths Linguistics},
+   url = {http://sigmathling.kwarc.info}
+   urldate = {2018-12-07}}
+   
 @thesis{rapp:bathesis,
   author =   {Max Rapp},
   title =    {{Braucht die {\"O}konomie einen Paradigmenwechsel? Methodische Vorschl{\"a}ge nach Elinor Ostrom}},
@@ -42979,7 +42983,6 @@ urldate = {2017-02-05}}
     pubs = {twiesing,mws,bscthesis}
 }
 
-
 @inproceedings{LuzKoh:fsarfo16,
   author =   {Enxhell Luzhnica and Michael Kohlhase},
   title =    {Formula Semantification and Automated Relation Finding in the {OEIS}},
@@ -43004,7 +43007,7 @@ urldate = {2017-02-05}}
   school =   {Jacobs University Bremen},
   year =     2016,
   type =     {B.\,Sc.\ Thesis},
-  url = {Https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/schaefer-frederick.pdf},
+  url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/schaefer-frederick.pdf},
   pubs={bscthesis}}
 
 @masterThesis{Ion:bsc16,
@@ -48974,6 +48977,16 @@ pubs = {mkohlhase}}
 @techreport{Kohlhase:smomdl:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{omdoc.sty/cls}: Semantic Markup for Open Mathematical Documents in {\LaTeX}},
+  type =     {Self-documenting {\LaTeX} package},
+  year = stexyear}
+
+@techreport{Kohlhase:mss:ctan,crossref={Kohlhase:mss:base},
+  institution = {Comprehensive {\TeX} Archive Network (CTAN)},
+  url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/mathhub/mathhub.pdf},
+  pubs = {mkohlhase,sTeX,omdoc}}
+@techreport{Kohlhase:mss:base,
+  author =   {Michael Kohlhase},
+  title =    {MathHub Support for s\TeX},
   type =     {Self-documenting {\LaTeX} package},
   year = stexyear}
 
