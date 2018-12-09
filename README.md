@@ -21,6 +21,7 @@ echo 'export BIBINPUTS = "$(BIBINPUTS):/path/to/your/setup/KWARC/bibs"' >> ~/.ba
 ```
 Of course you will have to replace ```/path/to/your/setup``` with a path appropriate to
 your system.
+Volker was here...
 
 If you want to use the KWARC in a revision control system for a larger group,  read (far) below. 
 
