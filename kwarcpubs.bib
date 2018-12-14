@@ -1,4 +1,4 @@
-s@string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
+@string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
 @STRING{stexyear = 2018}
 @STRING{testing = 16}
 
@@ -59,6 +59,28 @@ s@string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
   publisher = {Springer International Publishing},
   pubs = {kbercic}}
 
+@article{Costello:mopd09,
+  title = {Motivating Online Publication of Data},
+  author = {Mark J. Costello},
+  journal =  {BioScience},
+  volume = {59},
+  number = {5},
+  year = {2009},
+  pages  = {418--427},
+  url = {https://academic.oup.com/bioscience/article-lookup/doi/10.1525/bio.2009.59.5.9}}
+
+@online{data-citation:usgs:on,
+  label = {DC},
+  url = {https://www.usgs.gov/products/data-and-tools/data-management/data-citation},
+  title = {Data Citation},
+  urldate = {2018-12-07}}
+  
+@online{SIGMathLing:on,
+   label = {SML},
+   title = {SIGMathLing -- Special Interest Group on Maths Linguistics},
+   url = {http://sigmathling.kwarc.info},
+   urldate = {2018-12-07}}
+   
 @thesis{rapp:bathesis,
   author =   {Max Rapp},
   title =    {{Braucht die {\"O}konomie einen Paradigmenwechsel? Methodische Vorschl{\"a}ge nach Elinor Ostrom}},
@@ -631,7 +653,6 @@ urldate = {2017-02-05}}
     pubs = {twiesing,mws,bscthesis}
 }
 
-
 @inproceedings{LuzKoh:fsarfo16,
   author =   {Enxhell Luzhnica and Michael Kohlhase},
   title =    {Formula Semantification and Automated Relation Finding in the {OEIS}},
@@ -656,7 +677,7 @@ urldate = {2017-02-05}}
   school =   {Jacobs University Bremen},
   year =     2016,
   type =     {B.\,Sc.\ Thesis},
-  url = {Https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/schaefer-frederick.pdf},
+  url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/schaefer-frederick.pdf},
   pubs={bscthesis}}
 
 @masterThesis{Ion:bsc16,
@@ -6626,6 +6647,16 @@ pubs = {mkohlhase}}
 @techreport{Kohlhase:smomdl:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{omdoc.sty/cls}: Semantic Markup for Open Mathematical Documents in {\LaTeX}},
+  type =     {Self-documenting {\LaTeX} package},
+  year = stexyear}
+
+@techreport{Kohlhase:mss:ctan,crossref={Kohlhase:mss:base},
+  institution = {Comprehensive {\TeX} Archive Network (CTAN)},
+  url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/mathhub/mathhub.pdf},
+  pubs = {mkohlhase,sTeX,omdoc}}
+@techreport{Kohlhase:mss:base,
+  author =   {Michael Kohlhase},
+  title =    {MathHub Support for s\TeX},
   type =     {Self-documenting {\LaTeX} package},
   year = stexyear}
 
