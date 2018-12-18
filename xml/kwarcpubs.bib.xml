@@ -7,7 +7,7 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="bercic:cmo:wiki" type="thesis" xml:id="bib.bib1">
+      <bibentry key="Bercic:cmo:wiki" type="thesis" xml:id="bib.bib1">
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
@@ -18,7 +18,7 @@
         <bib-date role="publication">2015-05</bib-date>
         <bib-data role="pubs">kbercic,phdthesis</bib-data>
         <bib-type>Ph.D. Thesis</bib-type>
-        <bib-data role="self" type="BibTeX">@phdthesis{bercic:cmo:wiki,
+        <bib-data role="self" type="BibTeX">@phdthesis{Bercic:cmo:wiki,
     author = {Katja Ber\v{c}i\v{c}},
     school = {Faculty of Mathematics and Physics, University of Ljubljana},
      title = {Constructions and catalogisation of symmetric graphs : PhD thesis (in slovenian)},
@@ -27,7 +27,7 @@
       pubs = {kbercic,phdthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="bercic:cmo:wiki" type="thesis" xml:id="bib.bib2">
+      <bibentry key="Bercic:cmo:wiki" type="thesis" xml:id="bib.bib2">
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
@@ -38,7 +38,7 @@
         <bib-date role="publication">2015-05</bib-date>
         <bib-data role="pubs">kbercic,phdthesis</bib-data>
         <bib-type>Ph.D. Thesis</bib-type>
-        <bib-data role="self" type="BibTeX">@phdthesis{bercic:cmo:wiki,
+        <bib-data role="self" type="BibTeX">@phdthesis{Bercic:cmo:wiki,
     author = {Katja Ber\v{c}i\v{c}},
     school = {Faculty of Mathematics and Physics, University of Ljubljana},
      title = {Constructions and catalogisation of symmetric graphs : PhD thesis (in slovenian)},
@@ -47,7 +47,7 @@
       pubs = {kbercic,phdthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="bercic:phd:15" type="thesis" xml:id="bib.bib3">
+      <bibentry key="Bercic:phd:15" type="thesis" xml:id="bib.bib3">
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
@@ -58,7 +58,7 @@
         <bib-date role="publication">2015-05</bib-date>
         <bib-data role="pubs">kbercic,phdthesis</bib-data>
         <bib-type>Ph.D. Thesis</bib-type>
-        <bib-data role="self" type="BibTeX">@phdthesis{bercic:phd:15,
+        <bib-data role="self" type="BibTeX">@phdthesis{Bercic:phd:15,
     author = {Katja Ber\v{c}i\v{c}},
     school = {Faculty of Mathematics and Physics, University of Ljubljana},
      title = {Constructions and catalogisation of symmetric graphs : PhD thesis (in slovenian)},
