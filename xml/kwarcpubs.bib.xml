@@ -7,44 +7,34 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="Bercic:cmo:wiki" type="thesis" xml:id="bib.bib1">
+      <bibentry key="bercic:cmo:table" type="website" xml:id="bib.bib1">
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
         </bib-name>
-        <bib-organization>Faculty of Mathematics and Physics, University of Ljubljana</bib-organization>
-        <bib-title>Constructions and catalogisation of symmetric graphs : phd thesis (in slovenian)</bib-title>
-        <bib-data role="month">may</bib-data>
-        <bib-date role="publication">2015-05</bib-date>
-        <bib-data role="pubs">kbercic,phdthesis</bib-data>
-        <bib-type>Ph.D. Thesis</bib-type>
-        <bib-data role="self" type="BibTeX">@phdthesis{Bercic:cmo:wiki,
+        <bib-title>Math databases table</bib-title>
+        <bib-url href="https://mathdb.mathhub.info/">Link</bib-url>
+        <bib-data role="pubs">kbercic,cmo-survey</bib-data>
+        <bib-data role="self" type="BibTeX">@online{bercic:cmo:table,
     author = {Katja Ber\v{c}i\v{c}},
-    school = {Faculty of Mathematics and Physics, University of Ljubljana},
-     title = {Constructions and catalogisation of symmetric graphs : PhD thesis (in slovenian)},
-     month = {may},
-      year = {2015},
-      pubs = {kbercic,phdthesis}}
+     title = {Math Databases table},
+       url = {https://mathdb.mathhub.info/},
+      pubs = {kbercic,cmo-survey}}
 </bib-data>
       </bibentry>
-      <bibentry key="Bercic:cmo:wiki" type="thesis" xml:id="bib.bib2">
+      <bibentry key="Bercic:cmo:wiki" type="website" xml:id="bib.bib2">
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
         </bib-name>
-        <bib-organization>Faculty of Mathematics and Physics, University of Ljubljana</bib-organization>
-        <bib-title>Constructions and catalogisation of symmetric graphs : phd thesis (in slovenian)</bib-title>
-        <bib-data role="month">may</bib-data>
-        <bib-date role="publication">2015-05</bib-date>
-        <bib-data role="pubs">kbercic,phdthesis</bib-data>
-        <bib-type>Ph.D. Thesis</bib-type>
-        <bib-data role="self" type="BibTeX">@phdthesis{Bercic:cmo:wiki,
+        <bib-title>Math databases wiki</bib-title>
+        <bib-url href="https://github.com/MathHubInfo/Documentation/wiki/Math-Databases">Link</bib-url>
+        <bib-data role="pubs">kbercic,cmo-survey</bib-data>
+        <bib-data role="self" type="BibTeX">@online{Bercic:cmo:wiki,
     author = {Katja Ber\v{c}i\v{c}},
-    school = {Faculty of Mathematics and Physics, University of Ljubljana},
-     title = {Constructions and catalogisation of symmetric graphs : PhD thesis (in slovenian)},
-     month = {may},
-      year = {2015},
-      pubs = {kbercic,phdthesis}}
+     title = {Math Databases wiki},
+       url = {https://github.com/MathHubInfo/Documentation/wiki/Math-Databases},
+      pubs = {kbercic,cmo-survey}}
 </bib-data>
       </bibentry>
       <bibentry key="Bercic:phd:15" type="thesis" xml:id="bib.bib3">
@@ -201,18 +191,28 @@
           <givenname>Katja</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Janoš Vidali</surname>
+          <surname>Vidali</surname>
+          <givenname>Janoš</givenname>
         </bib-name>
+        <bib-url href="https://link.springer.com/chapter/10.1007/978-3-319-96418-8_5">Link</bib-url>
+        <bib-part role="pages">36–44</bib-part>
+        <bib-date role="publication">2018</bib-date>
+        <bib-related role="host" type="proceedings">
+          <bib-title>Mathematical Software – ICMS 2018</bib-title>
+          <bib-publisher>Springer International Publishing</bib-publisher>
+        </bib-related>
+        <bib-identifier id="978-3-319-96418-8" scheme="isbn">ISBN 978-3-319-96418-8</bib-identifier>
+        <bib-data role="pubs">kbercic</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BerVid:DZ:18,
      title = {DiscreteZOO: Towards a Fingerprint Database of Discrete Objects},
-    author = {Katja Ber\v{c}i\v{c} and Jano{\v{s} Vidali},
-  url = {https://link.springer.com/chapter/10.1007/978-3-319-96418-8_5},
-  pages = {36–44},
-  year = {2018},
-  booktitle = {Mathematical Software – ICMS 2018},
-  isbn = {978-3-319-96418-8},
-  publisher = {Springer International Publishing},
-  pubs = {kbercic}}}
+    author = {Katja Ber\v{c}i\v{c} and Jano{\v{s}} Vidali},
+       url = {https://link.springer.com/chapter/10.1007/978-3-319-96418-8_5},
+     pages = {36–44},
+      year = {2018},
+ booktitle = {Mathematical Software – ICMS 2018},
+      isbn = {978-3-319-96418-8},
+ publisher = {Springer International Publishing},
+      pubs = {kbercic}}
 </bib-data>
       </bibentry>
       <bibentry key="Costello:mopd09" type="article" xml:id="bib.bib8">
