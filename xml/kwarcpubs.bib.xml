@@ -14,11 +14,13 @@
         </bib-name>
         <bib-title>Math databases table</bib-title>
         <bib-url href="https://mathdb.mathhub.info/">Link</bib-url>
+        <bib-data role="urldate">2019-01-15</bib-data>
         <bib-data role="pubs">kbercic,cmo-survey</bib-data>
         <bib-data role="self" type="BibTeX">@online{bercic:cmo:table,
     author = {Katja Ber\v{c}i\v{c}},
      title = {Math Databases table},
        url = {https://mathdb.mathhub.info/},
+   urldate = {2019-01-15},
       pubs = {kbercic,cmo-survey}}
 </bib-data>
       </bibentry>
@@ -29,11 +31,13 @@
         </bib-name>
         <bib-title>Math databases wiki</bib-title>
         <bib-url href="https://github.com/MathHubInfo/Documentation/wiki/Math-Databases">Link</bib-url>
+        <bib-data role="urldate">2019-01-15</bib-data>
         <bib-data role="pubs">kbercic,cmo-survey</bib-data>
         <bib-data role="self" type="BibTeX">@online{Bercic:cmo:wiki,
     author = {Katja Ber\v{c}i\v{c}},
      title = {Math Databases wiki},
        url = {https://github.com/MathHubInfo/Documentation/wiki/Math-Databases},
+   urldate = {2019-01-15},
       pubs = {kbercic,cmo-survey}}
 </bib-data>
       </bibentry>
