@@ -60,6 +60,39 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{wikidata:on,
+  label = {WD},
+  title = {Wikidata:Introduction},
+  url = {https://wikidata.org/wiki/Wikidata:Introduction},
+  urldate = {2015-01-25}}
+  
+@TECHREPORT{w3c:WD-sparql11-query-20100601,
+  title = {{SPARQL} 1.1 Query Language},
+  institution = {World Wide Web Consortium ({W3C})},
+  type = {{W3C} {Working Draft}},
+  date = {2010-06-01},
+  author = {Steve Harris and Andy Seaborne},
+  url = {http://www.w3.org/TR/2010/WD-sparql11-query-20100601/}}
+
+@TECHREPORT{PruSea08:sparql,
+  title = {{SPARQL} Query Language for {RDF}},
+  institution = {World Wide Web Consortium ({W3C})},
+  year = {2008},
+  type = {{W3C} {Recommendation}},
+  month = jan,
+  date = {2008-01-15},
+  author = {Eric Prud'hommeaux and Andy Seaborne},
+  url = {http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/}}
+
+@TECHREPORT{PruSea06:sparql,
+  title = {{SPARQL} Query Language for {RDF}},
+  institution = {World Wide Web Consortium ({W3C})},
+  year = {2006},
+  type = {{W3C} {Candidate} {Recommendation}},
+  month = apr,
+  author = {Eric Prud'hommeaux and Andy Seaborne},
+  url = {http://www.w3.org/TR/2006/CR-rdf-sparql-query-20060406/}}
+
 
 @article{WilDumAal:FAIR16,
 	author = {Wilkinson, Mark D. and Dumontier, Michel and Aalbersberg, IJsbrand Jan and Appleton, Gabrielle and Axton, Myles and Baak, Arie and Blomberg, Niklas and Boiten, Jan-Willem and da Silva Santos, Luiz Bonino and Bourne, Philip E. and Bouwman, Jildau and Brookes, Anthony J. and Clark, Tim and Crosas, Merc{\`e} and Dillo, Ingrid and Dumon, Olivier and Edmunds, Scott and Evelo, Chris T. and Finkers, Richard and Gonzalez-Beltran, Alejandra and Gray, Alasdair J. G. and Groth, Paul and Goble, Carole and Grethe, Jeffrey S. and Heringa, Jaap and 't Hoen, Peter A. C and Hooft, Rob and Kuhn, Tobias and Kok, Ruben and Kok, Joost and Lusher, Scott J. and Martone, Maryann E. and Mons, Albert and Packer, Abel L. and Persson, Bengt and Rocca-Serra, Philippe and Roos, Marco and van Schaik, Rene and Sansone, Susanna-Assunta and Schultes, Erik and Sengstag, Thierry and Slater, Ted and Strawn, George and Swertz, Morris A. and Thompson, Mark and van der Lei, Johan and van Mulligen, Erik and Velterop, Jan and Waagmeester, Andra and Wittenburg, Peter and Wolstencroft, Katherine and Zhao, Jun and Mons, Barend},
@@ -182,7 +215,7 @@
 @online{mathematica:on,
   label = {WM},
   title = {{WOLFRAM MATHEMATICA} The world's definitive system for modern technical computing},
-  url = {https://www.wolfram.com/mathematica/}
+  url = {https://www.wolfram.com/mathematica/},
   urldate = {2019-01-24}}
 
 @online{Karsdorp:pph,
@@ -776,7 +809,7 @@ doi="10.1007/978-3-642-14052-5_23",
 
 @Article{Cremona:LMFDB16,
 author="Cremona, John",
-title="The L-Functions and Modular Forms Database Project",
+title="The {L}-Functions and Modular Forms Database Project",
 journal="Foundations of Computational Mathematics",
 year="2016",
 volume="16",
@@ -814,11 +847,17 @@ doi="10.1007/s10208-016-9306-z",
    url = {https://en.wikipedia.org/w/index.php?title=List_of_physical_quantities},
    urldate = {2017-03-22}}
 
+@online{OpenModelica:on,
+  label = {OM},
+  title = {OpenModelica},
+  url = {https://openmodelica.org/},
+  urldate = {2019-01-22}}
+
 @online{Modelica:on,
   title = {Modelica and the Modelica Association},
   label = {MO},
-  url = {https://www.modelica.org/},
-  urldate = {2017-03-12}}
+  url = {https://modelica.org/},
+  urldate = {2019-01-22}}
 
 @Techreport{FarRotDoa:nmddm16,
 address = {Berlin},
@@ -1115,7 +1154,7 @@ journal = {The Computer Journal}
 
 @online{SageMath:on,crossref={SageMath:base},
   label = {Sage},
-  urldate = {2016-09-30}}  
+  urldate = {2016-09-30}}
 @misc{sagemath,crossref={SageMath:base},
   key          = {SageMath},
   howpublished = {\url{http://www.sagemath.org}},
@@ -1138,7 +1177,14 @@ journal = {The Computer Journal}
   url = {http://www.open-axiom.org}
 }
 
-@online{lmfdb:on,crossref={lmfdb:base},urldate={2016-02-1},
+@online{lmfdb:github,
+ label = {LMFDB},
+ urldate = {2019-01-23},
+  title = {$L$-Functions and Modular Forms Database},
+  url = {https://github.com/LMFDB/lmfdb},
+  type = {GitHub Repository}}
+ 
+@online{lmfdb:on,crossref={lmfdb:base},urldate={2016-02-01},
   label = {LMFDB},
   url = {http://www.lmfdb.org}}
 @misc{lmfdb,crossref={lmfdb:base},
@@ -5100,6 +5146,7 @@ author = "Tjark Weber"}
   pages = {26--28}}
 
 @online{coq:on,
+  label = {Coq},
   crossref = {coq:URL:base},
   urldate =      {2010-07-31}}
 
@@ -12294,7 +12341,10 @@ crossref = {wikipedia}}
 author = {J. Hoffart and Suchanek, F. M. and K. Berberich and  G. Weikum},
 title = {YAGO2: A Spatially and Temporally Enhanced Knowledge Base from Wikipedia.},
 journal = {AI journal},
-url = {http://www.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf}}
+volume = {194},
+year = {2013},
+pages = {28--61},
+url = {https://www.sciencedirect.com/science/article/pii/S0004370212000719}}
 
 @article{LehIseJak:dlsmkbew13,
   author = {Jens Lehmann and Robert Isele and Max Jakob and Anja Jentzsch and Dimitris
@@ -34822,41 +34872,13 @@ Reference},
   author = {Ben Adida and Mark Birbeck and Shane McCarron and Steven Pemberton},
   url = {http://www.w3.org/TR/2008/REC-rdfa-syntax-20081014/}}
 
-@TECHREPORT{w3c:sparql11-query,crossref={w3c:WD-sparql11-query-20101014}}
-@TECHREPORT{w3c:WD-sparql11-query-20101014,
+@TECHREPORT{w3c:sparql11-query,
   title = {{SPARQL} 1.1 Query Language},
   institution = {World Wide Web Consortium ({W3C})},
-  type = {{W3C} {Working Draft}},
-  date = {2010-10-14},
+  type = {{W3C} Recommendation},
+  date = {2013-03-21},
   author = {Steve Harris and Andy Seaborne},
-  url = {http://www.w3.org/TR/2010/WD-sparql11-query-20101014/}}
-
-@TECHREPORT{w3c:WD-sparql11-query-20100601,
-  title = {{SPARQL} 1.1 Query Language},
-  institution = {World Wide Web Consortium ({W3C})},
-  type = {{W3C} {Working Draft}},
-  date = {2010-06-01},
-  author = {Steve Harris and Andy Seaborne},
-  url = {http://www.w3.org/TR/2010/WD-sparql11-query-20100601/}}
-
-@TECHREPORT{PruSea08:sparql,
-  title = {{SPARQL} Query Language for {RDF}},
-  institution = {World Wide Web Consortium ({W3C})},
-  year = {2008},
-  type = {{W3C} {Recommendation}},
-  month = jan,
-  date = {2008-01-15},
-  author = {Eric Prud'hommeaux and Andy Seaborne},
-  url = {http://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/}}
-
-@TECHREPORT{PruSea06:sparql,
-  title = {{SPARQL} Query Language for {RDF}},
-  institution = {World Wide Web Consortium ({W3C})},
-  year = {2006},
-  type = {{W3C} {Candidate} {Recommendation}},
-  month = apr,
-  author = {Eric Prud'hommeaux and Andy Seaborne},
-  url = {http://www.w3.org/TR/2006/CR-rdf-sparql-query-20060406/}}
+  url = {https://www.w3.org/TR/sparql11-query/}}
 
 @techreport{W3C:rdf-sparql-XMLres,crossref={W3C:REC-rdf-sparql-XMLres-20080115}}
 @TECHREPORT{W3C:REC-rdf-sparql-XMLres-20080115,
@@ -35535,6 +35557,7 @@ address = {Chiang Mai},
   howpublished = "\url{http://neilsloane.com/doc/eger.pdf}",
  }
 
+@Online{OEIS:on,crossref={oeis}}
 @Online{oeis,
   label = {OEIS},
   editor =	 {OEIS Foundation Inc.},
@@ -42437,6 +42460,13 @@ pages="288--295"}
 @string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
 @STRING{stexyear = 2018}
 @STRING{testing = 16}
+
+@online{kwarc:datahost:on,
+  label = {KDH},
+  title = {{KWARC} Data Host},
+  url = {https://datahost.kwarc.info/},
+  urldate = {2019-01-25}}
+
 
 @online{bercic:cmo:table,
   author = {Katja Ber\v{c}i\v{c}},
@@ -51127,6 +51157,14 @@ eventdate = {2014-05-25},
   keywords = {conference},
   publisher = {Springer},
   doi       = {10.1007/978-3-319-42432-3}}
+
+@proceedings{ICMS18,
+    booktitle = {Mathematical Software -- ICMS 2018. 6th international conference},
+    title = {Mathematical Software -- ICMS 2018. 6th international conference},
+    ISBN = {978-3-319-96417-1},
+    Year = {2018},
+    Publisher = {Springer},
+    Language = {English}}
 
 @proceedings{ITP17,
   year = {2017},
