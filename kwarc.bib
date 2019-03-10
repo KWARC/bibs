@@ -60,16 +60,19 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{ACM-CompClass:on,
+  label = {ACM},
+  title = {The 2012 {ACM} Computing Classification System},
+  url = {https://www.acm.org/publications/class-2012}
+  urldate = {2019-03-07}}
+
 @article{Yang2005,
 	title={Integration of metabolic networks and gene expression in virtual reality},
 	author={Yuting Yang and Levent Engin and Eve Syrkin Wurtele and Carolina Cruz-Neira and Julie A. Dickerson},
 	journal={Bioinformatics},
 	year={2005},
 	volume={21 18},
-	pages={
-	3645-50
-	}
-}
+	pages={3645--50}}
 
 @inproceedings{Yang:2006,
  author = {Yang, Yuting and Wurtele, Eve Syrkin and Cruz-Neira, Carolina and Dickerson, Julie A.},
@@ -140,6 +143,7 @@
 
 
 
+>>>>>>> c833da0170913a3c1ff52bbbdda8be90fd802932
 @online{cocalc:on,
   label = {CC},
   title = {{CoCalc}: Collaborative Calculation in the Cloud},
@@ -42563,13 +42567,11 @@ pages="288--295"}
 	urldate = {2019-03-07}
 }
 
-
 @online{kwarc:datahost:on,
   label = {KDH},
   title = {{KWARC} Data Host},
   url = {https://datahost.kwarc.info/},
   urldate = {2019-01-25}}
-
 
 @online{bercic:cmo:table,
   author = {Katja Ber\v{c}i\v{c}},
@@ -42935,6 +42937,22 @@ pages="288--295"}
   crossref = {FGWM17},
   pages = {214--252},
   url = {http://ceur-ws.org/Vol-1917/paper33.pdf},
+  pubs = {mkohlhase}}
+ 
+@inproceedings{Kohlhase:frme18,
+  title = {Factors for Reading Mathematical Expressions},
+  author = {Andrea Kohlhase},
+  crossref = {LWDA18},
+  pages = {195--202},
+  url = {http://ceur-ws.org/Vol-2191/paper24.pdf},
+  pubs = {akohlhase}}
+
+@inproceedings{Kohlhase:tcgal18,
+  title = {Towards Context Graphs for Argumentation Logics},
+  author = {Michael Kohlhase},
+  crossref = {LWDA18},
+  pages = {203--214},
+  url = {http://ceur-ws.org/Vol-2191/paper25.pdf},
   pubs = {mkohlhase}}
 
 @online{ed:on,
@@ -50675,19 +50693,37 @@ Frank Tompa and Martin Suda},
 }
 
 @proceedings{CICM18,
-  editor = {Florian Rabe and William Farmer and Abdou Youssef and \ldots},
+  editor    = {Florian Rabe and
+               William M. Farmer and
+               Grant O. Passmore and
+               Abdou Youssef},
   eventtitle = {Conferences on Intelligent Computer Mathematics},
   title = {Intelligent Computer Mathematics},
   booktitle = {{Intelligent Computer Mathematics} (CICM) 2018},
+  publisher = {Springer},
+  doi       = {10.1007/978-3-319-96812-4},
+  isbn      = {978-3-319-96811-7},
+  series    = {LNAI},
+  number    = {11006},
+  year = {2018},
+  keywords = {conference},
+  pubs={frabe,oaf,odk}
+}
+
+@proceedings{CICM19,
+  editor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen  and Andrea Kohlhase},
+  eventtitle = {Conferences on Intelligent Computer Mathematics},
+  title = {Intelligent Computer Mathematics},
+  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
   publisher = {Springer},
   SOONdoi = {10.1007/978-3-319-62075-6},
   series    = {LNAI},
   SOONnumber    = {10383},
   SOONisbn = {978-3-319-62074-9},
-  note = {in press},
-  year = {2018},
+  note = {in preparation},
+  year = {2019},
   keywords = {conference},
-  pubs={frabe,oaf,odk}
+  pubs={akohlhase}
 }
 
 @proceedings{CICM16,
@@ -51167,6 +51203,20 @@ eventdate = {2014-05-25},
 @STRING{wil      = "Wiley"}
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
+
+@proceedings{LWDA18,
+  editor    = {Rainer Gemulla and
+               Simone Paolo Ponzetto and
+               Christian Bizer and
+               Margret Keuper and
+               Heiner Stuckenschmidt},
+  title     = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2191},
+  publisher = {CEUR-WS.org},
+  year      = {2018},
+  url       = {http://ceur-ws.org/Vol-2191}}
+
 
 @online{TasMah:mc,
  author = {Assia Mahboubi and Enrico Tassi},
