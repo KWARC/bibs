@@ -118,15 +118,19 @@
         </bib-name>
         <bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title>
         <bib-note role="annotation">Workshop at LWDA 2017</bib-note>
-        <bib-date role="publication">2017</bib-date>
+        <bib-date role="publication">2017-10</bib-date>
         <bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url>
+        <bib-data role="month">October</bib-data>
+        <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{FGWM17,
     editor = {Andrea Kohlhase and Eric K{\"u}bler},
      title = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
       note = {Workshop at LWDA 2017},
       year = {2017},
-       url = {http://ceur-ws.org/Vol-1917/}}
+       url = {http://ceur-ws.org/Vol-1917/},
+     month = {October},
+      pubs = {akohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="MathUI15" type="proceedings" xml:id="bib.bib3">

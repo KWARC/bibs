@@ -968,20 +968,23 @@
         </bib-name><bib-name role="editor">
           <surname>Kübler</surname>
           <givenname>Eric</givenname>
-        </bib-name><bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title><bib-note role="annotation">Workshop at LWDA 2017</bib-note><bib-date role="publication">2017</bib-date><bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url><bib-data role="self" type="BibTeX">@proceedings{FGWM17,
+        </bib-name><bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title><bib-note role="annotation">Workshop at LWDA 2017</bib-note><bib-date role="publication">2017-10</bib-date><bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url><bib-data role="month">October</bib-data><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{FGWM17,
     editor = {Andrea Kohlhase and Eric K{\"u}bler},
      title = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
       note = {Workshop at LWDA 2017},
       year = {2017},
-       url = {http://ceur-ws.org/Vol-1917/}}
+       url = {http://ceur-ws.org/Vol-1917/},
+     month = {October},
+      pubs = {akohlhase}}
 </bib-data></bib-related>
         <bib-url href="http://ceur-ws.org/Vol-1917/paper29.pdf">Link</bib-url>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), FGWM</bib-title>
         </bib-related>
-        <bib-date role="publication">2017</bib-date>
+        <bib-date role="publication">2017-10</bib-date>
+        <bib-data role="month">October</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{UcaKoh:immstmms17,
     author = {Gamze Ucar and Andrea Kohlhase},
      title = {Irref{\"{u}}hrende mentale Modelle beim Smart-TV (Misleading Mental
@@ -991,7 +994,8 @@
        url = {http://ceur-ws.org/Vol-1917/paper29.pdf},
       pubs = {akohlhase},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
-      year = {2017}}
+      year = {2017},
+     month = {October}}
 </bib-data>
       </bibentry>
       <bibentry key="KohMue:mtm17" type="website" xml:id="bib.bib39">
@@ -1327,13 +1331,15 @@
         </bib-name><bib-name role="editor">
           <surname>Kübler</surname>
           <givenname>Eric</givenname>
-        </bib-name><bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title><bib-note role="annotation">Workshop at LWDA 2017</bib-note><bib-date role="publication">2017</bib-date><bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url><bib-data role="self" type="BibTeX">@proceedings{FGWM17,
+        </bib-name><bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title><bib-note role="annotation">Workshop at LWDA 2017</bib-note><bib-date role="publication">2017-10</bib-date><bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url><bib-data role="month">October</bib-data><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{FGWM17,
     editor = {Andrea Kohlhase and Eric K{\"u}bler},
      title = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
       note = {Workshop at LWDA 2017},
       year = {2017},
-       url = {http://ceur-ws.org/Vol-1917/}}
+       url = {http://ceur-ws.org/Vol-1917/},
+     month = {October},
+      pubs = {akohlhase}}
 </bib-data></bib-related>
         <bib-part role="pages">214–252</bib-part>
         <bib-url href="http://ceur-ws.org/Vol-1917/paper33.pdf">Link</bib-url>
@@ -1341,7 +1347,8 @@
         <bib-related role="host" type="proceedings">
           <bib-title>Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), FGWM</bib-title>
         </bib-related>
-        <bib-date role="publication">2017</bib-date>
+        <bib-date role="publication">2017-10</bib-date>
+        <bib-data role="month">October</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:moitrdm17,
      title = {Math Object Identifiers – Towards Research Data in Mathematics},
     author = {Michael Kohlhase},
@@ -1350,7 +1357,8 @@
        url = {http://ceur-ws.org/Vol-1917/paper33.pdf},
       pubs = {mkohlhase},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
-      year = {2017}}
+      year = {2017},
+     month = {October}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:frme18" type="inproceedings" xml:id="bib.bib50">
@@ -32224,15 +32232,19 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-name>
         <bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title>
         <bib-note role="annotation">Workshop at LWDA 2017</bib-note>
-        <bib-date role="publication">2017</bib-date>
+        <bib-date role="publication">2017-10</bib-date>
         <bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url>
+        <bib-data role="month">October</bib-data>
+        <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{FGWM17,
     editor = {Andrea Kohlhase and Eric K{\"u}bler},
      title = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
       note = {Workshop at LWDA 2017},
       year = {2017},
-       url = {http://ceur-ws.org/Vol-1917/}}
+       url = {http://ceur-ws.org/Vol-1917/},
+     month = {October},
+      pubs = {akohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="MathUI15" type="proceedings" xml:id="bib.bib1044">
