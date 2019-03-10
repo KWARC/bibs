@@ -968,22 +968,20 @@
         </bib-name><bib-name role="editor">
           <surname>Kübler</surname>
           <givenname>Eric</givenname>
-        </bib-name><bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title><bib-note role="annotation">Workshop at LWDA 2017</bib-note><bib-date role="publication">2017-10</bib-date><bib-data role="month">October</bib-data><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{FGWM17,
+        </bib-name><bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title><bib-note role="annotation">Workshop at LWDA 2017</bib-note><bib-date role="publication">2017</bib-date><bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url><bib-data role="self" type="BibTeX">@proceedings{FGWM17,
     editor = {Andrea Kohlhase and Eric K{\"u}bler},
      title = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
       note = {Workshop at LWDA 2017},
       year = {2017},
-     month = {October},
-      pubs = {akohlhase}}
+       url = {http://ceur-ws.org/Vol-1917/}}
 </bib-data></bib-related>
         <bib-url href="http://ceur-ws.org/Vol-1917/paper29.pdf">Link</bib-url>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), FGWM</bib-title>
         </bib-related>
-        <bib-date role="publication">2017-10</bib-date>
-        <bib-data role="month">October</bib-data>
+        <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{UcaKoh:immstmms17,
     author = {Gamze Ucar and Andrea Kohlhase},
      title = {Irref{\"{u}}hrende mentale Modelle beim Smart-TV (Misleading Mental
@@ -993,8 +991,7 @@
        url = {http://ceur-ws.org/Vol-1917/paper29.pdf},
       pubs = {akohlhase},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
-      year = {2017},
-     month = {October}}
+      year = {2017}}
 </bib-data>
       </bibentry>
       <bibentry key="KohMue:mtm17" type="website" xml:id="bib.bib39">
@@ -1330,14 +1327,13 @@
         </bib-name><bib-name role="editor">
           <surname>Kübler</surname>
           <givenname>Eric</givenname>
-        </bib-name><bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title><bib-note role="annotation">Workshop at LWDA 2017</bib-note><bib-date role="publication">2017-10</bib-date><bib-data role="month">October</bib-data><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{FGWM17,
+        </bib-name><bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title><bib-note role="annotation">Workshop at LWDA 2017</bib-note><bib-date role="publication">2017</bib-date><bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url><bib-data role="self" type="BibTeX">@proceedings{FGWM17,
     editor = {Andrea Kohlhase and Eric K{\"u}bler},
      title = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
       note = {Workshop at LWDA 2017},
       year = {2017},
-     month = {October},
-      pubs = {akohlhase}}
+       url = {http://ceur-ws.org/Vol-1917/}}
 </bib-data></bib-related>
         <bib-part role="pages">214–252</bib-part>
         <bib-url href="http://ceur-ws.org/Vol-1917/paper33.pdf">Link</bib-url>
@@ -1345,8 +1341,7 @@
         <bib-related role="host" type="proceedings">
           <bib-title>Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), FGWM</bib-title>
         </bib-related>
-        <bib-date role="publication">2017-10</bib-date>
-        <bib-data role="month">October</bib-data>
+        <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:moitrdm17,
      title = {Math Object Identifiers – Towards Research Data in Mathematics},
     author = {Michael Kohlhase},
@@ -1355,8 +1350,7 @@
        url = {http://ceur-ws.org/Vol-1917/paper33.pdf},
       pubs = {mkohlhase},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
-      year = {2017},
-     month = {October}}
+      year = {2017}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:frme18" type="inproceedings" xml:id="bib.bib50">
@@ -32120,22 +32114,103 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
 </bib-data>
       </bibentry>
       <bibentry key="CICM18WIP" type="proceedings" xml:id="bib.bib1042">
-        <bib-title>Intelligent computer mathematics – work in progress papers</bib-title>
+        <bib-title>Workshop papers at 11th conference on intelligent computer mathematics cicm 2018</bib-title>
         <bib-key>CICM18WIP</bib-key>
         <bib-date role="publication">2018</bib-date>
-        <bib-data role="soonurl">http://ceur-ws.org/Vol-1785/</bib-data>
-        <bib-data role="sooneditor">Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
-Frank Tompa and Martin Suda</bib-data>
-        <bib-data role="soonpubs">mkohlhase,akohlhase</bib-data>
+        <bib-url href="http://ceur-ws.org/Vol-2307/">Link</bib-url>
+        <bib-name role="editor">
+          <surname>Hasan</surname>
+          <givenname>Osman</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Youssef</surname>
+          <givenname>Abdou</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Naumowicz</surname>
+          <givenname>Adam</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Farmer</surname>
+          <givenname>William</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Kaliszyk</surname>
+          <givenname>Cezary</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Gallois-Wong</surname>
+          <givenname>Diane</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Reis</surname>
+          <givenname>Gabriel Dos</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Passmore</surname>
+          <givenname>Grant</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Davenport</surname>
+          <givenname>James</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Pfeiffer</surname>
+          <givenname>Markus</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Autexier</surname>
+          <givenname>Serge</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Tahar</surname>
+          <givenname>Sofiene</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Koprucki</surname>
+          <givenname>Thomas</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Siddique</surname>
+          <givenname>Umair</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Neuper</surname>
+          <givenname>Walther</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Windsteiger</surname>
+          <givenname>Wolfgang</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Schreiner</surname>
+          <givenname>Wolfgang</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Sperber</surname>
+          <givenname>Wolfram</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>KovÃ¡cs</surname>
+          <givenname>ZoltÃ¡n</givenname>
+        </bib-name>
+        <bib-data role="pubs">mkohlhase,akohlhase,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM18WIP,
-     title = {Intelligent Computer Mathematics – Work in Progress Papers},
- booktitle = {{Intelligent Computer Mathematics – Work in Progress Papers}},
+     title = {Workshop Papers at 11th Conference on Intelligent Computer Mathematics CICM 2018},
+ booktitle = {Workshop Papers at 11th Conference on Intelligent Computer Mathematics CICM 2018},
        key = {CICM18WIP},
       year = {2018},
-   soonurl = {http://ceur-ws.org/Vol-1785/},
- sooneditor = {Michael Kohlhase and Andrea Kohlhase and Paul Libbrecht and Bruce Miller and Adam Naumowicz and Walther Neuper and Pedro Quaresma and
-Frank Tompa and Martin Suda},
-  soonpubs = {mkohlhase,akohlhase}}
+       url = {http://ceur-ws.org/Vol-2307/},
+    editor = {Osman Hasan and Abdou Youssef and Adam Naumowicz and William Farmer and Cezary Kaliszyk and Diane Gallois-Wong and Florian Rabe and Gabriel Dos Reis and Grant Passmore and James Davenport and Markus Pfeiffer and Michael Kohlhase and Serge Autexier and Sofiene Tahar and Thomas Koprucki and Umair Siddique and Walther Neuper and Wolfgang Windsteiger and Wolfgang Schreiner and Wolfram Sperber and Zoltán Kovács},
+      pubs = {mkohlhase,akohlhase,frabe}}
 </bib-data>
       </bibentry>
       <bibentry key="FGWM17" type="proceedings" xml:id="bib.bib1043">
@@ -32149,17 +32224,15 @@ Frank Tompa and Martin Suda},
         </bib-name>
         <bib-title>Wissens- und erfahrungsmanagement (knowledge and experience management), FGWM</bib-title>
         <bib-note role="annotation">Workshop at LWDA 2017</bib-note>
-        <bib-date role="publication">2017-10</bib-date>
-        <bib-data role="month">October</bib-data>
-        <bib-data role="pubs">akohlhase</bib-data>
+        <bib-date role="publication">2017</bib-date>
+        <bib-url href="http://ceur-ws.org/Vol-1917/">Link</bib-url>
         <bib-data role="self" type="BibTeX">@proceedings{FGWM17,
     editor = {Andrea Kohlhase and Eric K{\"u}bler},
      title = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
  booktitle = {Wissens- und Erfahrungsmanagement (Knowledge and Experience Management), {FGWM}},
       note = {Workshop at LWDA 2017},
       year = {2017},
-     month = {October},
-      pubs = {akohlhase}}
+       url = {http://ceur-ws.org/Vol-1917/}}
 </bib-data>
       </bibentry>
       <bibentry key="MathUI15" type="proceedings" xml:id="bib.bib1044">
