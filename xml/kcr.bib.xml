@@ -9957,7 +9957,6 @@ Rudnicki and Josef Urban},
         <bib-part role="number">11</bib-part>
         <bib-identifier id="978-1-60750-840-3" scheme="isbn">ISBN 978-1-60750-840-3</bib-identifier>
         <bib-url href="http://www.semantic-web-studies.net">Link</bib-url>
-        <bib-note role="annotation">Book edition of thesis <cite class="ltx_citemacro_cite">[<bibref bibrefs="Lange:PhD" separator="," yyseparator=","/>]</cite></bib-note>
         <bib-data role="pubs">clange,docOnto,krextor,omdoc,jobad,swim,sTeX</bib-data>
         <bib-data role="self" type="BibTeX">@book{Lange:PhD:book,
     author = {Christoph Lange},
@@ -9969,7 +9968,6 @@ Rudnicki and Josef Urban},
     number = {11},
       isbn = {978-1-60750-840-3},
        url = {http://www.semantic-web-studies.net},
-      note = {Book edition of thesis \cite{Lange:PhD}},
       pubs = {clange,docOnto,krextor,omdoc,jobad,swim,sTeX}}
 </bib-data>
       </bibentry>
