@@ -61,10 +61,16 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
+        <bib-note role="annotation">submitted to CICM 2019</bib-note>
+        <bib-url href="https://kwarc.info/kohlhase/submit/cicm19-MDH.pdf">Link</bib-url>
+        <bib-data role="pubs">frabe,mkohlhase,kbercic</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{BerKohRab:tumdi19,
  sooncrossref = {CICM19},
      title = {Towards a Unified Mathematical Data Infrastructure: Database and Interface Generation},
-    author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe}}
+    author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
+      note = {submitted to CICM 2019},
+       url = {https://kwarc.info/kohlhase/submit/cicm19-MDH.pdf},
+      pubs = {frabe,mkohlhase,kbercic}}
 </bib-data>
       </bibentry>
       <bibentry key="MarKohRab:tsddvtg19" type="unpublished" xml:id="bib.bib3">
