@@ -87,14 +87,14 @@
         </bib-name>
         <bib-note role="annotation">submitted to CICM 2019</bib-note>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm19-tgview.pdf">Link</bib-url>
-        <bib-data role="pubs">frabe,mkohlhase</bib-data>
+        <bib-data role="pubs">frabe,mkohlhase,rmarcus</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{MarKohRab:tsddvtg19,
  sooncrossref = {CICM19},
      title = {{TGView3D} System Description: 3-Dimensional Visualization of Theory Graphs},
     author = {Richard Marcus and Michael Kohlhase and Florian Rabe},
       note = {submitted to CICM 2019},
        url = {https://kwarc.info/kohlhase/submit/cicm19-tgview.pdf},
-      pubs = {frabe,mkohlhase}}
+      pubs = {frabe,mkohlhase,rmarcus}}
 </bib-data>
       </bibentry>
       <bibentry key="AmaKohRab:ismddn19" type="unpublished" xml:id="bib.bib4">
@@ -117,15 +117,15 @@
           <givenname>Tom</givenname>
         </bib-name>
         <bib-note role="annotation">submitted to CICM 2019</bib-note>
-        <bib-url href="https://kwarc.info/kohlhase/submit/cicm19-tgview.pdf">Link</bib-url>
-        <bib-data role="pubs">frabe,mkohlhase</bib-data>
+        <bib-url href="https://kwarc.info/kohlhase/submit/cicm19-jupyter.pdf">Link</bib-url>
+        <bib-data role="pubs">frabe,mkohlhase,twiesing,kamann</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{AmaKohRab:ismddn19,
  sooncrossref = {CICM19},
      title = {Integrating Semantic Mathematical Documents and Dynamic Notebooks},
     author = {Kai Amann and Michael Kohlhase and Florian Rabe and Tom Wiesing},
       note = {submitted to CICM 2019},
-       url = {https://kwarc.info/kohlhase/submit/cicm19-tgview.pdf},
-      pubs = {frabe,mkohlhase}}
+       url = {https://kwarc.info/kohlhase/submit/cicm19-jupyter.pdf},
+      pubs = {frabe,mkohlhase,twiesing,kamann}}
 </bib-data>
       </bibentry>
       <bibentry key="ShaRab:dcm19" type="unpublished" xml:id="bib.bib5">
