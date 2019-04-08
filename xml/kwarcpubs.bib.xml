@@ -6589,7 +6589,7 @@ Rudnicki and Josef Urban},
 </bib-data>
       </bibentry>
       <bibentry key="GinStaKoh:latexmldaemon11" type="inproceedings" xml:id="bib.bib265">
-        <bib-title>The LaTeXML daemon: editable on math the collaborative web</bib-title>
+        <bib-title>The LaTeXML daemon: editable math on the collaborative web</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -6608,7 +6608,7 @@ Rudnicki and Josef Urban},
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">dginev,stamer,mkohlhase,llamapun</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{GinStaKoh:latexmldaemon11,
-     title = {The {{\LaTeX}ML} Daemon: Editable on Math the Collaborative Web},
+     title = {The {{\LaTeX}ML} Daemon: Editable Math on the Collaborative Web},
     author = {Deyan Ginev and Heinrich Stamerjohanns and Michael Kohlhase},
        url = {https://svn.kwarc.info/repos/arXMLiv/doc/cicm-systems11/paper.pdf},
      pages = {292–294},
