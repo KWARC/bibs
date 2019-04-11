@@ -16,11 +16,13 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-url href="https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf">Link</bib-url>
+        <bib-data role="pubs">dmueller,frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{MueRab:rpfsm,
       year = {2019},
      title = {Rapid Prototyping Formal Systems in MMT: Case Studies},
     author = {Dennis M{\"u}ller and Florian Rabe},
-       url = {https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf}}
+       url = {https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf},
+      pubs = {dmueller,frabe,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="zbf:on" type="website" xml:id="bib.bib2">
