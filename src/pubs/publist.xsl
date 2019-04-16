@@ -27,6 +27,7 @@
       <xsl:when test="$id='mrapp'"><xsl:text>Max Rapp</xsl:text></xsl:when> 
       <xsl:when test="$id='kbercic'"><xsl:text>Katja Bercic</xsl:text></xsl:when> 
       <xsl:when test="$id='cshi'"><xsl:text>Chenwei Schi</xsl:text></xsl:when> 
+      <xsl:when test="$id='fschaefer'"><xsl:text>Frederik Schaefer</xsl:text></xsl:when> 
      
       <xsl:when test="$id='sissi'"><xsl:text>Project SiSsI</xsl:text></xsl:when>
       <xsl:when test="$id='tetrapod'"><xsl:text>Project TetraPod</xsl:text></xsl:when>
