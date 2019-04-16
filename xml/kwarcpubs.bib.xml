@@ -2222,7 +2222,7 @@ Interface Theories},
         <bib-date role="publication">2016</bib-date>
         <bib-type>B. Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/schaefer-frederick.pdf">Link</bib-url>
-        <bib-data role="pubs">bscthesis,jfschaefer</bib-data>
+        <bib-data role="pubs">bscthesis,jfschaefer,comma</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Schaefer:bsc16,
     author = {Jan Frederik Schaefer},
      title = {Declaration Spotting in Mathematical Documents},
@@ -2230,7 +2230,7 @@ Interface Theories},
       year = {2016},
       type = {B.\,Sc.\ Thesis},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/schaefer-frederick.pdf},
-      pubs = {bscthesis,jfschaefer}}
+      pubs = {bscthesis,jfschaefer,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="Ion:bsc16" type="masterthesis" xml:id="bib.bib107">
@@ -2243,7 +2243,7 @@ Interface Theories},
         <bib-date role="publication">2016</bib-date>
         <bib-type>B. Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/toloaca-ion.pdf">Link</bib-url>
-        <bib-data role="pubs">bscthesis</bib-data>
+        <bib-data role="pubs">bscthesis,comma</bib-data>
         <bib-data role="self" type="BibTeX">@masterthesis{Ion:bsc16,
     author = {Ion Toloaca},
      title = {{MathSemantifier} – A Notation-Based Semantification Study},
@@ -2251,7 +2251,7 @@ Interface Theories},
       year = {2016},
       type = {B.\,Sc.\ Thesis},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/toloaca-ion.pdf},
-      pubs = {bscthesis}}
+      pubs = {bscthesis,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="TolKoh:nbs16" type="inproceedings" xml:id="bib.bib108">
