@@ -97,12 +97,16 @@
         <bib-related role="host" type="journal">
           <bib-title>Mathematics in Computer Science</bib-title>
         </bib-related>
-        <bib-note role="annotation">accepted; see <ref class="ltx_url" font="typewriter" href="https://arxiv.org/pdf/1812.05921.pdf">https://arxiv.org/pdf/1812.05921.pdf</ref></bib-note>
+        <bib-note role="annotation">accepted</bib-note>
+        <bib-url href="https://arxiv.org/pdf/1812.05921.pdf">Link</bib-url>
+        <bib-data role="pubs">kbercic</bib-data>
         <bib-data role="self" type="BibTeX">@article{BerVid:DZ19,
     author = {Katja Ber\v{c}i\v{c} and Jano\v{s} Vidali},
      title = {DiscreteZOO: a Fingerprint Database of Discrete Objects},
    journal = {Mathematics in Computer Science},
-      note = {accepted; see \url{https://arxiv.org/pdf/1812.05921.pdf}}}
+      note = {accepted},
+       url = {https://arxiv.org/pdf/1812.05921.pdf},
+      pubs = {kbercic}}
 </bib-data>
       </bibentry>
       <bibentry key="MueRabSac:cltg19" type="unpublished" xml:id="bib.bib6">
