@@ -5,13 +5,13 @@
     <title/>
     <biblist>
       <bibentry key="KohhasebSch:GLF19" type="unpublished" xml:id="bib.bib1">
-        <bib-title>The theorem prover museum – onserving the system heritage of automated reasoning</bib-title>
+        <bib-title>The theorem prover museum – conserving the system heritage of automated reasoning</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-data role="self" type="BibTeX">@unpublished{KohhasebSch:GLF19,
-     title = {The Theorem Prover Museum – onserving the System Heritage of Automated Reasoning},
+     title = {The Theorem Prover Museum – Conserving the System Heritage of Automated Reasoning},
     author = {Michael Kohlhase}}
 </bib-data>
       </bibentry>
