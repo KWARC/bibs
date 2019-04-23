@@ -95,11 +95,13 @@
  year = "2007"
 }
 
-@online{AgdaWiki:on,
+@online{AgdaWiki:on,crossref={AgdaWiki:base},urldate={2019-04-12}}
+@misc{AgdaWiki:url,crossref={AgdaWiki:base},
+  howpublished = {\url{http://wiki.portal.chalmers.se/agda}}}
+@misc{AgdaWiki:base,
  author = "Ulf. Norell",
  title = "{The Agda WiKi}",
- url = {http://wiki.portal.chalmers.se/agda},
- urldate = {2019-04-12}}
+ url = {http://wiki.portal.chalmers.se/agda}}
 
 
 @article{CarFarJer:mlspe11,
@@ -919,11 +921,15 @@ doi = {10.1108/IDD-06-2018-0022}}
 	volume = {3},
 	year = {2016}}
 
-@online{AITP:on,
+
+@misc{AITP:url,crossref={AITP:base},key={AITP},
+  howpublished = {\url{http://aitp-conference.org/}}}
+@online{AITP:on,crossref={AITP:base},
+  urldate = {2018-12-21}}
+@misc{AITP:base,
   label = {AITP},
   title = {{AITP}: Conference on Artificial Intelligence and Theorem Proving},
-  url = {http://aitp-conference.org/},
-  urldate = {2018-12-21}}
+  url = {http://aitp-conference.org/}}
   
 @inproceedings{MouKonAvi:tltp15,
   title = {The Lean Theorem Prover},
@@ -1056,17 +1062,21 @@ doi = {10.1108/IDD-06-2018-0022}}
   publisher = {Birkh{\"a}user},
   isbn = {3-7643-3211-5}}
 
-@online{GapSmallGroups:on,
-  title = {SmallGrp -- The GAP Small Groups Library},
+@online{GapSmallGroups:on,crossref={GapSmallGroups:base},urldate = {2018-10-13}}
+@misc{GapSmallGroups:url,crossref={GapSmallGroups:base},
+  howpublished = {\url{https://www.gap-system.org/Manuals/pkg/SmallGrp-1.3/doc/chap1.html}}}
+@misc{GapSmallGroups:base,
+  title = {{SmallGrp} -- The GAP Small Groups Library},
   author = {Bettina Eick and Hans Ulrich Besche  and Eamonn O'Brien}, 
-  url = {https://www.gap-system.org/Manuals/pkg/SmallGrp-1.3/doc/chap1.html},
-  urldate = {2018-10-13}}
+  url = {https://www.gap-system.org/Manuals/pkg/SmallGrp-1.3/doc/chap1.html}}
   
-@online{SmallGroups:on,
+@online{SmallGroups:on,crossref={SmallGroups:base},urldate = {2019-04-16}}
+@misc{SmallGroups:url,crossref={SmallGroups:base},key={SGL},
+  howpublished = {\url{http://www.icm.tu-bs.de/ag_algebra/software/small/small.html}}}
+@misc{SmallGroups:base,
   label = {SGL},
   title = {The Small Groups Library},
-  url = {http://www.icm.tu-bs.de/ag_algebra/software/small/small.html},
-  urldate = {2019-04-16}}
+  url = {http://www.icm.tu-bs.de/ag_algebra/software/small/small.html}}
   
 @article{HalAdaBau:fpkc17,
   title = {A formal proof of the {Kepler} conjecture},
@@ -1353,10 +1363,13 @@ year = {2012}
     urldate = {2017-10-09}
   }
 
-@online{idris:doc,
+@misc{idris:doc:url,crossref={idris:doc:base},key={ID},
+  howpublished = {\url{http://docs.idris-lang.org/en/latest/}}}
+@online{idris:doc,crossref={idris:doc:base},
+  urldate = {2018-02-04}}
+@misc{idris:doc:base,
   title = "Documentation for the Idris Language",
   url = "http://docs.idris-lang.org/en/latest/",
-  urldate = {2018-02-04}
 }
 
 @InProceedings{luo:manifestfields,
@@ -3793,7 +3806,6 @@ crossref={SIGDOC10},
   author = {Martin Hilbert and  Priscila L{\'o}pez},
   journal = {Science},
   volume = {331},
-  month = {feb},
   year = {2011},
   url = {http://www.sciencemag.org/content/331/6018/692.full.pdf},
   doi = {10.1126/science.1200970}}
@@ -7876,8 +7888,6 @@ author = "Tjark Weber"}
   type = {{W3C} Recommendation},
   institution = {World Wide Web Consortium ({W3C})},
   url = {http://www.w3.org/TR/2009/REC-owl2-overview-20091027/},
-  year =     2009,
-  month = oct,
   date = {2009-10-27}}
 
 @TechReport{w3c:owl2-xml,
@@ -10467,6 +10477,17 @@ PAGES = {259--286}}
       volume  = 37,
       pages   = {405--423}}
 
+@book{Hales:DenseSpherePackings12,
+  author = {Thomas Hales},
+  title = {Dense Sphere Packings},
+  subtitle = {A Blueprint for Formal Proofs},
+  publisher = {Cambridge University Press},
+  date = {2012-09-06},
+  year = {2012},
+  series = {London Mathematical Society Lecture Note Series},
+  number = 400,
+}
+
 @InProceedings{hales:DSP:2006:432,
   author =      {Thomas C. Hales},
   title =       {Introduction to the Flyspeck Project},
@@ -12149,10 +12170,9 @@ number = {2605},
   url = {http://vast.uah.edu/SensorML/home.html},
   note = {seen May      2007}}
 
-@online{Openmath:on,
+@online{OpenMath:on,
   urldate = {2018-10-22},
   crossref = {Openmath:base}}
-
 @Misc{Openmath:web,
   howpublished = {{\url{http://www.openmath.org}}},
    note = {seen May 2009},
@@ -34811,7 +34831,6 @@ title = {Web Map}}
   institution = {World Wide Web Consortium ({W3C})},
   type = {{W3C} Recommendation},
   date = {2004-02-10},
-  year = 2004,
   author = {Graham Klyne and Jeremy J. Carroll},
   url = {http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/}}
 
@@ -35490,7 +35509,6 @@ Andrew Shellshear},
   subtitle = {A Vocabulary and Associated {APIs} for {HTML} and {XHTML}},
   institution = {World Wide Web Consortium ({W3C})},
   date = {2014-10-28},
-  year = 2014,
   type = {{W3C} {Recommentation}},
   author = {Ian Hickson and Robin Berjon and Steve Faulkner and Travis Leithead and Erika
                   Doyle Navara and Edward O'Connor and Silvia Pfeiffer},
@@ -35578,22 +35596,12 @@ Reference},
   url = {http://www.w3.org/TR/2010/WD-rdfa-api-20100608/}}
 
 @TECHREPORT{w3c:rdfa-primer,crossref={w3c:WGN-rdfa-primer-20130822}}
-@TECHREPORT{w3c:WD-rdfa-primer-20110419,
-  author = {Mark Birbeck and Ben Adida and Ivan Herman and Manu Sporny},
-  title = {{RDFa} 1.1 Primer},
-  subtitle = {Rich Structured Data Markup for Web Documents},
-  institution = {World Wide Web Consortium ({W3C})},
-  date = {2011-04-19},
-  type = {{W3C} {Working Draft}},
-  url = {http://www.w3.org/TR/2011/WD-rdfa-primer-20110419/}}
-
 @TECHREPORT{w3c:WGN-rdfa-primer-20130822,
   author = {Ivan Herman and Ben Adida and Manu Sporny and Mark Birbeck},
   title = {{RDFa} 1.1 Primer -- Second Edition},
   subtitle = {Rich Structured Data Markup for Web Documents},
   institution = {World Wide Web Consortium ({W3C})},
   date = {2013-04-19},
-  year = {2013},
   type = {{W3C} {Working Goup Note}},
   url = {http://www.w3.org/TR/xhtml-rdfa-primer/}}
 
@@ -42457,16 +42465,6 @@ crossref = {CICM-WS-WiP2013},
   url = {http://www.w3.org/blog/2006/02/content-negotiation/},
 }
 
-@book{Hales:DenseSpherePackings12,
-  author = {Thomas Hales},
-  title = {Dense Sphere Packings},
-  subtitle = {A Blueprint for Formal Proofs},
-  publisher = {Cambridge University Press},
-  date = {2012-09-06},
-  series = {London Mathematical Society Lecture Note Series},
-  number = 400,
-}
-
 @BOOK{WardEtAl:Visualization_2010,
 	author = {Ward, Matthew O. and Grinstein, Georges and Keim, Daniel A.},
 	month = May,
@@ -43388,7 +43386,7 @@ year = {2017},
 
 @unpublished{KohhasebSch:GLF19,
   title = {The Theorem Prover Museum -- Conserving the System Heritage of Automated Reasoning},
-  author =   {Michael Kohlhase}
+  author =   {Michael Kohlhase},
   note = {submitted},
   url = {https://kwarc.info/kohlhase/submit/tpm-jar19.pdf},
   pubs = {mkohlhase}}
@@ -43501,11 +43499,15 @@ pubs = {dmueller,frabe,oaf}}
   urldate = {2019-01-15},
   pubs = {kbercic,cmo-survey}}
 
-@online{Bercic:cmo:wiki,
+@online{Bercic:cmo:wiki,crossref={Bercic:cmo:wiki:base},
+  urldate = {2019-01-15},
+}
+@misc{Bercic:cmo:wiki:url,crossref={Bercic:cmo:wiki:base},
+ howpublished = {\url{https://github.com/MathHubInfo/Documentation/wiki/Math-Databases}}}
+@misc{Bercic:cmo:wiki:base,
   author = {Katja Ber\v{c}i\v{c}},
   title = {Math Databases wiki},
   url = {https://github.com/MathHubInfo/Documentation/wiki/Math-Databases},
-  urldate = {2019-01-15},
   pubs = {kbercic,cmo-survey}}
 
 @phdthesis{Bercic:phd:15,
@@ -52148,17 +52150,21 @@ eventdate = {2014-05-25},
   year      = {2018},
   url       = {http://ceur-ws.org/Vol-2191}}
 
-
-@online{TasMah:mc,
+@misc{TasMah:mc:url,crossref={TasMah:mc:base},
+ howpublished = {\url{https://math-comp.github.io/mcb/book.pdf}}}
+@online{TasMah:mc,crossref={TasMah:mc:base},
+ urldate =  {2018-12-18}}
+@misc{TasMah:mc:base,
  author = {Assia Mahboubi and Enrico Tassi},
  title =  {Mathematical Components},
  url = {https://math-comp.github.io/mcb/book.pdf},
- urldate =  {2018-12-18},
  note = {online book}}
  
+
 @proceedings{CADE25,
   editor    = {Amy P. Felty and Aart Middeldorp},
   title     = {Automated Deduction - {CADE-25}},
+  booktitle     = {Automated Deduction - {CADE-25}},
   series    = {Lecture Notes in Computer Science},
   volume    = {9195},
   publisher = {Springer},
