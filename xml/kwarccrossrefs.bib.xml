@@ -348,7 +348,22 @@ Frank Tompa and Martin Suda},
 </bib-data>
       </bibentry>
       <bibentry key="CICM19" type="proceedings" xml:id="bib.bib9">
-        <bib-data role="sooneditor">Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen  and Andrea Kohlhase</bib-data>
+        <bib-name role="editor">
+          <surname>Kaliszyck</surname>
+          <givenname>Cezary</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Brady</surname>
+          <givenname>Edwin</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Sacerdoti-Coen</surname>
+          <givenname>Claudio</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Andrea</givenname>
+        </bib-name>
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-data role="soonpublisher">Springer</bib-data>
@@ -361,7 +376,7 @@ Frank Tompa and Martin Suda},
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM19,
- sooneditor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen  and Andrea Kohlhase},
+    editor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen and Andrea Kohlhase},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
