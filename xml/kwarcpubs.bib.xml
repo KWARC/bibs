@@ -136,13 +136,11 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-note role="annotation">submitted</bib-note>
         <bib-url href="http://arxiv.org/abs/1904.10414">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{Kohhase:tpm19,
      title = {The Theorem Prover Museum – Conserving the System Heritage of Automated Reasoning},
     author = {Michael Kohlhase},
-      note = {submitted},
        url = {http://arxiv.org/abs/1904.10414},
       pubs = {mkohlhase}}
 </bib-data>
@@ -299,13 +297,13 @@
           <surname>Wenzel</surname>
           <givenname>Makarius</givenname>
         </bib-name>
-        <bib-url href="https://kwarc.info/kohlhase/submit/cicm19-ulo.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-ulo.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,dmueller</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{ConKohMue:rdaml19,
   crossref = {CICM19},
      title = {Relational Data Across Mathematical Libraries},
     author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Claudio Sacerdoti Coen and Makarius Wenzel},
-       url = {https://kwarc.info/kohlhase/submit/cicm19-ulo.pdf},
+       url = {https://kwarc.info/kohlhase/papers/cicm19-ulo.pdf},
       pubs = {frabe,mkohlhase,dmueller}}
 </bib-data>
       </bibentry>
@@ -324,13 +322,13 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-url href="https://kwarc.info/kohlhase/submit/cicm19-MDH.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,kbercic</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BerKohRab:tumdi19,
   crossref = {CICM19},
      title = {Towards a Unified Mathematical Data Infrastructure: Database and Interface Generation},
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
-       url = {https://kwarc.info/kohlhase/submit/cicm19-MDH.pdf},
+       url = {https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf},
       pubs = {frabe,mkohlhase,kbercic}}
 </bib-data>
       </bibentry>
@@ -376,13 +374,13 @@
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
         </bib-name>
-        <bib-url href="https://kwarc.info/kohlhase/submit/cicm19-jupyter.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,twiesing,kamann</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{AmaKohRab:ismddn19,
   crossref = {CICM19},
      title = {Integrating Semantic Mathematical Documents and Dynamic Notebooks},
     author = {Kai Amann and Michael Kohlhase and Florian Rabe and Tom Wiesing},
-       url = {https://kwarc.info/kohlhase/submit/cicm19-jupyter.pdf},
+       url = {https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf},
       pubs = {frabe,mkohlhase,twiesing,kamann}}
 </bib-data>
       </bibentry>
