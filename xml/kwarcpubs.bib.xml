@@ -348,12 +348,12 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-url href="https://kwarc.info/kohlhase/submit/cicm19-tgview.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/kohlhase/submit/tgview3D.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,rmarcus</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{MarKohRab:tsddvtg19,
      title = {{TGView3D} System Description: 3-Dimensional Visualization of Theory Graphs},
     author = {Richard Marcus and Michael Kohlhase and Florian Rabe},
-       url = {https://kwarc.info/kohlhase/submit/cicm19-tgview.pdf},
+       url = {https://kwarc.info/kohlhase/submit/tgview3D.pdf},
       pubs = {frabe,mkohlhase,rmarcus}}
 </bib-data>
       </bibentry>
@@ -24480,7 +24480,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-type>Bachelor’s Thesis</bib-type>
         <bib-data role="month">August</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2014/betzendahl_jonas/jbetzend_implementing_icores.pdf">Link</bib-url>
-        <bib-data role="pubs">jbetzendahl,haskell,icores,bscthesis</bib-data>
+        <bib-data role="pubs">jbetzendahl,haskell,icores</bib-data>
         <bib-date role="publication">2014-08</bib-date>
         <bib-data role="self" type="BibTeX">@thesis{jbetzendahl:bsc14,
     author = {Jonas Betzendahl},
@@ -24489,7 +24489,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       type = {Bachelor's Thesis},
      month = {August},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2014/betzendahl_jonas/jbetzend_implementing_icores.pdf},
-      pubs = {jbetzendahl,haskell,icores,bscthesis},
+      pubs = {jbetzendahl,haskell,icores},
       year = {2014}}
 </bib-data>
       </bibentry>
