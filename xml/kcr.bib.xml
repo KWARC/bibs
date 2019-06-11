@@ -651,13 +651,13 @@
           <givenname>Katja</givenname>
         </bib-name>
         <bib-title>Math databases table</bib-title>
-        <bib-url href="https://mathdb.mathhub.info/">Link</bib-url>
+        <bib-url href="Https://mathdb.mathhub.info/">Link</bib-url>
         <bib-data role="urldate">2019-01-15</bib-data>
         <bib-data role="pubs">kbercic,cmo-survey</bib-data>
         <bib-data role="self" type="BibTeX">@online{bercic:cmo:table,
     author = {Katja Ber\v{c}i\v{c}},
      title = {Math Databases table},
-       url = {https://mathdb.mathhub.info/},
+       url = {Https://mathdb.mathhub.info/},
    urldate = {2019-01-15},
       pubs = {kbercic,cmo-survey}}
 </bib-data>
@@ -21114,6 +21114,7 @@ on the Web</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
+        <bib-data role="pubs">mkohlhase</bib-data>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:NTCIR10-topics,
      title = {Topics for the {NTCIR-10} Math Task; Math Retrieval Subtask},
@@ -21121,7 +21122,8 @@ on the Web</bib-title>
       year = {2012},
  institution = {NTCIR},
        url = {https://kwarc.info/kohlhase/papers/NTCIR10-topics.pdf},
-    editor = {Michael Kohlhase}}
+    editor = {Michael Kohlhase},
+      pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:NTCIR11-topics" type="report" xml:id="bib.bib651">
@@ -21133,13 +21135,15 @@ on the Web</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
+        <bib-data role="pubs">mkohlhase</bib-data>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:NTCIR11-topics,
      title = {Formats for Topics and Submissions for the  Math-2 Task at NTCIR-11},
       year = {2014},
  institution = {NTCIR},
        url = {http://ntcir-math.nii.ac.jp/wp-content/blogs.dir/13/files/2014/05/NTCIR11-Math-topics.pdf},
-    editor = {Michael Kohlhase}}
+    editor = {Michael Kohlhase},
+      pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:NTCIR12-topics" type="report" xml:id="bib.bib652">
@@ -21151,13 +21155,15 @@ on the Web</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
+        <bib-data role="pubs">mkohlhase</bib-data>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:NTCIR12-topics,
      title = {Formats for Topics and Submissions for the  Math-3 Task at NTCIR-12},
       year = {2015},
  institution = {NTCIR},
      nourl = {http://ntcir-math.nii.ac.jp/wp-content/blogs.dir/13/files/2014/05/NTCIR11-Math-topics.pdf},
-    editor = {Michael Kohlhase}}
+    editor = {Michael Kohlhase},
+      pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="ek:dsxcc" type="misc" xml:id="bib.bib653">
