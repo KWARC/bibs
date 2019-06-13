@@ -145,7 +145,7 @@
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSch:GLF19" type="unpublished" xml:id="bib.bib7">
+      <bibentry key="KohSch:GLF19" type="inproceedings" xml:id="bib.bib7">
         <bib-title>GF + mmt = glf – from language to semantics through lf</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -155,15 +155,15 @@
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
         </bib-name>
-        <bib-note role="annotation">submitted to LFMTP 2019</bib-note>
-        <bib-url href="https://kwarc.info/kohlhase/submit/lfmtp-19.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,jfschaefer,comma</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohSch:GLF19,
+        <bib-related role="host" type="proceedings">
+          <bib-title>LFMTP 2019, Proceedings</bib-title>
+          <bib-publisher>Electronic Proceedings in Theoretical Computer Science (EPTCS)</bib-publisher>
+        </bib-related>
+        <bib-data role="self" type="BibTeX">@inproceedings{KohSch:GLF19,
      title = {GF + MMT = GLF – From Language to Semantics through LF},
     author = {Michael Kohlhase and Jan Frederik Schaefer},
-      note = {submitted to LFMTP 2019},
-       url = {https://kwarc.info/kohlhase/submit/lfmtp-19.pdf},
-      pubs = {mkohlhase,jfschaefer,comma}}
+ booktitle = {LFMTP 2019, Proceedings},
+ publisher = {Electronic Proceedings in Theoretical Computer Science (EPTCS)}}
 </bib-data>
       </bibentry>
       <bibentry key="SchKoh:16" type="inproceedings" xml:id="bib.bib8">
@@ -189,7 +189,7 @@
       pubs = {mkohlhase,jfschaefer,comma}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueRab:rpfsm" type="unpublished" xml:id="bib.bib9">
+      <bibentry key="MueRab:rpfsm" type="inproceedings" xml:id="bib.bib9">
         <bib-date role="publication">2019</bib-date>
         <bib-title>Rapid prototyping formal systems in mmt: case studies</bib-title>
         <bib-name role="author">
@@ -200,14 +200,16 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-url href="https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf">Link</bib-url>
-        <bib-data role="pubs">dmueller,frabe,oaf</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{MueRab:rpfsm,
+        <bib-related role="host" type="proceedings">
+          <bib-title>LFMTP 2019</bib-title>
+          <bib-publisher>Electronic Proceedings in Theoretical Computer Science (EPTCS)</bib-publisher>
+        </bib-related>
+        <bib-data role="self" type="BibTeX">@inproceedings{MueRab:rpfsm,
       year = {2019},
      title = {Rapid Prototyping Formal Systems in MMT: Case Studies},
     author = {Dennis M{\"u}ller and Florian Rabe},
-       url = {https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf},
-      pubs = {dmueller,frabe,oaf}}
+ booktitle = {LFMTP 2019},
+ publisher = {Electronic Proceedings in Theoretical Computer Science (EPTCS)}}
 </bib-data>
       </bibentry>
       <bibentry key="zbf:on" type="website" xml:id="bib.bib10">
