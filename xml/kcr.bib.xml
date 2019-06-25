@@ -46935,6 +46935,35 @@ Daniela Zaharie},
  publisher = {Springer-Verlag}}
 </bib-data>
       </bibentry>
+      <bibentry key="ArgHandbook" type="book" xml:id="bib.bib1586">
+        <bib-name role="editor">
+          <surname>Baroni</surname>
+          <givenname>Pietro</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Gabbay</surname>
+          <givenname>Dov</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Giacomin</surname>
+          <givenname>Massimiliano</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>van der Torre</surname>
+          <givenname>Leendert</givenname>
+        </bib-name>
+        <bib-data role="bookitle">Handbook of Formal Argumentation</bib-data>
+        <bib-title>Handbook of formal argumentation</bib-title>
+        <bib-publisher>College Publications</bib-publisher>
+        <bib-date role="publication">2018</bib-date>
+        <bib-data role="self" type="BibTeX">@book{ArgHandbook,
+    editor = {Baroni, Pietro and Gabbay, Dov and Giacomin, Massimiliano and van der Torre, Leendert},
+  bookitle = {Handbook of Formal Argumentation},
+     title = {Handbook of Formal Argumentation},
+ publisher = {College Publications},
+      year = {2018}}
+</bib-data>
+      </bibentry>
     </biblist>
   </bibliography>
 </document>
