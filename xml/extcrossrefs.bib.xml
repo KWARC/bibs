@@ -3000,7 +3000,7 @@ University</bib-place>
         <bib-title>Proceedings of the <Math mode="inline" tex="4^{th}" text="4 ^ (t * h)" xml:id="bib.bib106.m1">
             <XMath>
               <XMApp>
-                <XMTok role="SUPERSCRIPTOP" scriptpos="post4"/>
+                <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
                 <XMTok meaning="4" role="NUMBER">4</XMTok>
                 <XMApp>
                   <XMTok meaning="times" role="MULOP">⁢</XMTok>
@@ -3867,7 +3867,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-title>Proceedings of the <Math mode="inline" tex="3^{rd}" text="3 ^ (r * d)" xml:id="bib.bib133.m1">
             <XMath>
               <XMApp>
-                <XMTok role="SUPERSCRIPTOP" scriptpos="post4"/>
+                <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
                 <XMTok meaning="3" role="NUMBER">3</XMTok>
                 <XMApp>
                   <XMTok meaning="times" role="MULOP">⁢</XMTok>
@@ -4143,7 +4143,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-title>Proceedings of the <Math mode="inline" tex="7^{th}" text="7 ^ (t * h)" xml:id="bib.bib144.m1">
             <XMath>
               <XMApp>
-                <XMTok role="SUPERSCRIPTOP" scriptpos="post4"/>
+                <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
                 <XMTok meaning="7" role="NUMBER">7</XMTok>
                 <XMApp>
                   <XMTok meaning="times" role="MULOP">⁢</XMTok>
@@ -4757,7 +4757,7 @@ Science Lab</bib-part>
         <bib-title>Proceedings of the <Math mode="inline" tex="6^{th}" text="6 ^ (t * h)" xml:id="bib.bib162.m1">
             <XMath>
               <XMApp>
-                <XMTok role="SUPERSCRIPTOP" scriptpos="post4"/>
+                <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
                 <XMTok meaning="6" role="NUMBER">6</XMTok>
                 <XMApp>
                   <XMTok meaning="times" role="MULOP">⁢</XMTok>
@@ -5176,7 +5176,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
         <bib-title>Proceedings of the <Math mode="inline" tex="5^{th}" text="5 ^ (t * h)" xml:id="bib.bib177.m1">
             <XMath>
               <XMApp>
-                <XMTok role="SUPERSCRIPTOP" scriptpos="post4"/>
+                <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
                 <XMTok meaning="5" role="NUMBER">5</XMTok>
                 <XMApp>
                   <XMTok meaning="times" role="MULOP">⁢</XMTok>
@@ -5599,6 +5599,9 @@ AISC’2000</bib-title>
         <bib-name role="editor">
           <surname>Corsaro</surname>
           <givenname>Angelo</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>others</surname>
         </bib-name>
         <bib-part role="number">3292</bib-part>
         <bib-part role="series">LNCS</bib-part>

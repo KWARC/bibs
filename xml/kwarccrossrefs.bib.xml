@@ -93,8 +93,8 @@
           <givenname>Wolfram</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname>KovÃ¡cs</surname>
-          <givenname>ZoltÃ¡n</givenname>
+          <surname>Kovács</surname>
+          <givenname>Zoltán</givenname>
         </bib-name>
         <bib-data role="pubs">mkohlhase,akohlhase,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM18WIP,
