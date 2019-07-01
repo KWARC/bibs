@@ -20921,7 +20921,7 @@ on the Web</bib-title>
         <bib-related role="host" type="proceedings"><bib-title>Automated deduction — cade-18</bib-title><bib-date role="publication">2002</bib-date><bib-name role="editor">
           <surname>Voronkov</surname>
           <givenname>Andrei</givenname>
-        </bib-name><bib-part role="number">2392</bib-part><bib-part role="series">LNAI</bib-part><bib-publisher>Springer Verlag</bib-publisher><bib-extract role="keywords">conference</bib-extract><bib-extract role="keywords">conference</bib-extract><bib-key>CADE2002</bib-key><bib-data role="self" type="BibTeX">@proceedings{CADE02,
+        </bib-name><bib-part role="number">2392</bib-part><bib-part role="series">LNAI</bib-part><bib-publisher>Springer Verlag</bib-publisher><bib-extract role="keywords">conference</bib-extract><bib-key>CADE2002</bib-key><bib-data role="self" type="BibTeX">@proceedings{CADE02,
      title = {Automated Deduction — CADE-18},
       year = {2002},
     editor = {Andrei Voronkov},
@@ -20929,7 +20929,6 @@ on the Web</bib-title>
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {Automated Deduction — CADE-18},
-  keywords = {conference},
   keywords = {conference},
        key = {CADE2002}}
 </bib-data></bib-related>
@@ -26204,7 +26203,7 @@ Education Systems</bib-title>
         <bib-related role="host" type="proceedings"><bib-title>Automated deduction — cade-18</bib-title><bib-date role="publication">2002</bib-date><bib-name role="editor">
           <surname>Voronkov</surname>
           <givenname>Andrei</givenname>
-        </bib-name><bib-part role="number">2392</bib-part><bib-part role="series">LNAI</bib-part><bib-publisher>Springer Verlag</bib-publisher><bib-extract role="keywords">conference</bib-extract><bib-extract role="keywords">conference</bib-extract><bib-key>CADE2002</bib-key><bib-data role="self" type="BibTeX">@proceedings{CADE02,
+        </bib-name><bib-part role="number">2392</bib-part><bib-part role="series">LNAI</bib-part><bib-publisher>Springer Verlag</bib-publisher><bib-extract role="keywords">conference</bib-extract><bib-key>CADE2002</bib-key><bib-data role="self" type="BibTeX">@proceedings{CADE02,
      title = {Automated Deduction — CADE-18},
       year = {2002},
     editor = {Andrei Voronkov},
@@ -26212,7 +26211,6 @@ Education Systems</bib-title>
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {Automated Deduction — CADE-18},
-  keywords = {conference},
   keywords = {conference},
        key = {CADE2002}}
 </bib-data></bib-related>
@@ -41532,7 +41530,6 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE2002</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE02,
      title = {Automated Deduction — CADE-18},
@@ -41542,7 +41539,6 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {Automated Deduction — CADE-18},
-  keywords = {conference},
   keywords = {conference},
        key = {CADE2002}}
 </bib-data>

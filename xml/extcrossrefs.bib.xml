@@ -6829,7 +6829,6 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
         <bib-part role="series">LNAI</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-extract role="keywords">conference</bib-extract>
         <bib-key>CADE2002</bib-key>
         <bib-data role="self" type="BibTeX">@proceedings{CADE02,
      title = {Automated Deduction — CADE-18},
@@ -6839,7 +6838,6 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     series = {LNAI},
  publisher = {Springer Verlag},
  booktitle = {Automated Deduction — CADE-18},
-  keywords = {conference},
   keywords = {conference},
        key = {CADE2002}}
 </bib-data>
