@@ -2113,7 +2113,7 @@
 </bib-data></bib-related>
         <bib-part role="pages">203–214</bib-part>
         <bib-url href="http://ceur-ws.org/Vol-2191/paper25.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase</bib-data>
+        <bib-data role="pubs">mkohlhase,almanac</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-publisher>CEUR-WS.org</bib-publisher>
         </bib-related>
@@ -2124,7 +2124,7 @@
   crossref = {LWDA18},
      pages = {203–214},
        url = {http://ceur-ws.org/Vol-2191/paper25.pdf},
-      pubs = {mkohlhase},
+      pubs = {mkohlhase,almanac},
  publisher = {CEUR-WS.org},
       year = {2018}}
 </bib-data>
@@ -31201,7 +31201,7 @@ Sandro Wartzack},
 </bib-data></bib-related>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm14-realms.pdf">Link</bib-url>
         <bib-part role="pages">252–266</bib-part>
-        <bib-data role="pubs">mkohlhase,omdoc</bib-data>
+        <bib-data role="pubs">mkohlhase,omdoc,tetrapod</bib-data>
         <bib-note role="annotation">MKM Best-Paper-Award</bib-note>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics 2014</bib-title>
@@ -31214,7 +31214,7 @@ Sandro Wartzack},
   crossref = {CICM14},
        url = {http://kwarc.info/kohlhase/papers/cicm14-realms.pdf},
      pages = {252–266},
-      pubs = {mkohlhase,omdoc},
+      pubs = {mkohlhase,omdoc,tetrapod},
       note = {MKM Best-Paper-Award},
  booktitle = {{Intelligent Computer Mathematics} 2014},
  publisher = {Springer},

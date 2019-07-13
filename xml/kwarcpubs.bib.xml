@@ -1550,14 +1550,14 @@
         <bib-related bibrefs="LWDA18" role="host"/>
         <bib-part role="pages">203–214</bib-part>
         <bib-url href="http://ceur-ws.org/Vol-2191/paper25.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase</bib-data>
+        <bib-data role="pubs">mkohlhase,almanac</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:tcgal18,
      title = {Towards Context Graphs for Argumentation Logics},
     author = {Michael Kohlhase},
   crossref = {LWDA18},
      pages = {203–214},
        url = {http://ceur-ws.org/Vol-2191/paper25.pdf},
-      pubs = {mkohlhase}}
+      pubs = {mkohlhase,almanac}}
 </bib-data>
       </bibentry>
       <bibentry key="ed:on" type="website" xml:id="bib.bib73">
@@ -23733,7 +23733,7 @@ Sandro Wartzack},
         <bib-related bibrefs="CICM14" role="host"/>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm14-realms.pdf">Link</bib-url>
         <bib-part role="pages">252–266</bib-part>
-        <bib-data role="pubs">mkohlhase,omdoc</bib-data>
+        <bib-data role="pubs">mkohlhase,omdoc,tetrapod</bib-data>
         <bib-note role="annotation">MKM Best-Paper-Award</bib-note>
         <bib-data role="self" type="BibTeX">@inproceedings{CarFarKoh:rsckmt14,
     author = {Jacques Carette and William Farmer and Michael Kohlhase},
@@ -23741,7 +23741,7 @@ Sandro Wartzack},
   crossref = {CICM14},
        url = {http://kwarc.info/kohlhase/papers/cicm14-realms.pdf},
      pages = {252–266},
-      pubs = {mkohlhase,omdoc},
+      pubs = {mkohlhase,omdoc,tetrapod},
       note = {MKM Best-Paper-Award}}
 </bib-data>
       </bibentry>
