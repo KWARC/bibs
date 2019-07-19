@@ -330,12 +330,14 @@
           <surname>Wenzel</surname>
           <givenname>Makarius</givenname>
         </bib-name>
+        <bib-part role="pages">61–76</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-ulo.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,dmueller</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{ConKohMue:rdaml19,
   crossref = {CICM19},
      title = {Relational Data Across Mathematical Libraries},
     author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Claudio Sacerdoti Coen and Makarius Wenzel},
+     pages = {61–76},
        url = {https://kwarc.info/kohlhase/papers/cicm19-ulo.pdf},
       pubs = {frabe,mkohlhase,dmueller}}
 </bib-data>
@@ -355,12 +357,14 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
+        <bib-part role="pages">28–43</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,kbercic</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BerKohRab:tumdi19,
   crossref = {CICM19},
      title = {Towards a Unified Mathematical Data Infrastructure: Database and Interface Generation},
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
+     pages = {28–43},
        url = {https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf},
       pubs = {frabe,mkohlhase,kbercic}}
 </bib-data>
@@ -407,12 +411,14 @@
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
         </bib-name>
+        <bib-part role="pages">275–290</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,twiesing,kamann</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{AmaKohRab:ismddn19,
   crossref = {CICM19},
      title = {Integrating Semantic Mathematical Documents and Dynamic Notebooks},
     author = {Kai Amann and Michael Kohlhase and Florian Rabe and Tom Wiesing},
+     pages = {275–290},
        url = {https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf},
       pubs = {frabe,mkohlhase,twiesing,kamann}}
 </bib-data>
@@ -420,6 +426,7 @@
       <bibentry key="ShaRab:dcm19" type="inproceedings" xml:id="bib.bib18">
         <bib-related bibrefs="CICM19" role="host"/>
         <bib-title>Diagram operators in MMT</bib-title>
+        <bib-part role="pages">211–226</bib-part>
         <bib-name role="author">
           <surname>Sharoda</surname>
           <givenname>Yasmine</givenname>
@@ -432,6 +439,7 @@
         <bib-data role="self" type="BibTeX">@inproceedings{ShaRab:dcm19,
   crossref = {CICM19},
      title = {Diagram Operators in {MMT}},
+     pages = {211–226},
     author = {Yasmine Sharoda and Florian Rabe},
       pubs = {frabe}}
 </bib-data>

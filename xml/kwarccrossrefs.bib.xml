@@ -357,33 +357,31 @@ Frank Tompa and Martin Suda},
           <givenname>Edwin</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname>Sacerdoti-Coen</surname>
-          <givenname>Claudio</givenname>
-        </bib-name>
-        <bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Sacerdoti Coen</surname>
+          <givenname>Claudio</givenname>
         </bib-name>
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
-        <bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data>
+        <bib-identifier href="http://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier>
         <bib-part role="series">LNAI</bib-part>
         <bib-part role="number">11617</bib-part>
-        <bib-note role="annotation">in preparation</bib-note>
         <bib-date role="publication">2019</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM19,
-    editor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen and Andrea Kohlhase},
+    editor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-319-62075-6},
+       doi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
     number = {11617},
-      note = {in preparation},
       year = {2019},
   keywords = {conference},
       pubs = {akohlhase}}

@@ -385,21 +385,20 @@
           <surname>Brady</surname>
           <givenname>Edwin</givenname>
         </bib-name><bib-name role="editor">
-          <surname>Sacerdoti-Coen</surname>
-          <givenname>Claudio</givenname>
-        </bib-name><bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-note role="annotation">in preparation</bib-note><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
-    editor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen and Andrea Kohlhase},
+        </bib-name><bib-name role="editor">
+          <surname>Sacerdoti Coen</surname>
+          <givenname>Claudio</givenname>
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
+    editor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-319-62075-6},
+       doi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
     number = {11617},
-      note = {in preparation},
       year = {2019},
   keywords = {conference},
       pubs = {akohlhase}}
@@ -429,6 +428,7 @@
           <surname>Wenzel</surname>
           <givenname>Makarius</givenname>
         </bib-name>
+        <bib-part role="pages">61–76</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-ulo.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,dmueller</bib-data>
         <bib-related role="host" type="proceedings">
@@ -440,6 +440,7 @@
   crossref = {CICM19},
      title = {Relational Data Across Mathematical Libraries},
     author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Claudio Sacerdoti Coen and Makarius Wenzel},
+     pages = {61–76},
        url = {https://kwarc.info/kohlhase/papers/cicm19-ulo.pdf},
       pubs = {frabe,mkohlhase,dmueller},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
@@ -455,21 +456,20 @@
           <surname>Brady</surname>
           <givenname>Edwin</givenname>
         </bib-name><bib-name role="editor">
-          <surname>Sacerdoti-Coen</surname>
-          <givenname>Claudio</givenname>
-        </bib-name><bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-note role="annotation">in preparation</bib-note><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
-    editor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen and Andrea Kohlhase},
+        </bib-name><bib-name role="editor">
+          <surname>Sacerdoti Coen</surname>
+          <givenname>Claudio</givenname>
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
+    editor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-319-62075-6},
+       doi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
     number = {11617},
-      note = {in preparation},
       year = {2019},
   keywords = {conference},
       pubs = {akohlhase}}
@@ -487,6 +487,7 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
+        <bib-part role="pages">28–43</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,kbercic</bib-data>
         <bib-related role="host" type="proceedings">
@@ -498,6 +499,7 @@
   crossref = {CICM19},
      title = {Towards a Unified Mathematical Data Infrastructure: Database and Interface Generation},
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
+     pages = {28–43},
        url = {https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf},
       pubs = {frabe,mkohlhase,kbercic},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
@@ -536,21 +538,20 @@
           <surname>Brady</surname>
           <givenname>Edwin</givenname>
         </bib-name><bib-name role="editor">
-          <surname>Sacerdoti-Coen</surname>
-          <givenname>Claudio</givenname>
-        </bib-name><bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-note role="annotation">in preparation</bib-note><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
-    editor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen and Andrea Kohlhase},
+        </bib-name><bib-name role="editor">
+          <surname>Sacerdoti Coen</surname>
+          <givenname>Claudio</givenname>
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
+    editor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-319-62075-6},
+       doi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
     number = {11617},
-      note = {in preparation},
       year = {2019},
   keywords = {conference},
       pubs = {akohlhase}}
@@ -572,6 +573,7 @@
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
         </bib-name>
+        <bib-part role="pages">275–290</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,mkohlhase,twiesing,kamann</bib-data>
         <bib-related role="host" type="proceedings">
@@ -583,6 +585,7 @@
   crossref = {CICM19},
      title = {Integrating Semantic Mathematical Documents and Dynamic Notebooks},
     author = {Kai Amann and Michael Kohlhase and Florian Rabe and Tom Wiesing},
+     pages = {275–290},
        url = {https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf},
       pubs = {frabe,mkohlhase,twiesing,kamann},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
@@ -598,26 +601,26 @@
           <surname>Brady</surname>
           <givenname>Edwin</givenname>
         </bib-name><bib-name role="editor">
-          <surname>Sacerdoti-Coen</surname>
-          <givenname>Claudio</givenname>
-        </bib-name><bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
-        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-note role="annotation">in preparation</bib-note><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
-    editor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen and Andrea Kohlhase},
+        </bib-name><bib-name role="editor">
+          <surname>Sacerdoti Coen</surname>
+          <givenname>Claudio</givenname>
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
+    editor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-319-62075-6},
+       doi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
     number = {11617},
-      note = {in preparation},
       year = {2019},
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data></bib-related>
         <bib-title>Diagram operators in MMT</bib-title>
+        <bib-part role="pages">211–226</bib-part>
         <bib-name role="author">
           <surname>Sharoda</surname>
           <givenname>Yasmine</givenname>
@@ -635,6 +638,7 @@
         <bib-data role="self" type="BibTeX">@inproceedings{ShaRab:dcm19,
   crossref = {CICM19},
      title = {Diagram Operators in {MMT}},
+     pages = {211–226},
     author = {Yasmine Sharoda and Florian Rabe},
       pubs = {frabe},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
@@ -33241,33 +33245,31 @@ Frank Tompa and Martin Suda},
           <givenname>Edwin</givenname>
         </bib-name>
         <bib-name role="editor">
-          <surname>Sacerdoti-Coen</surname>
-          <givenname>Claudio</givenname>
-        </bib-name>
-        <bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Sacerdoti Coen</surname>
+          <givenname>Claudio</givenname>
         </bib-name>
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
-        <bib-data role="soondoi">10.1007/978-3-319-62075-6</bib-data>
+        <bib-identifier href="http://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier>
         <bib-part role="series">LNAI</bib-part>
         <bib-part role="number">11617</bib-part>
-        <bib-note role="annotation">in preparation</bib-note>
         <bib-date role="publication">2019</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM19,
-    editor = {Cezary Kaliszyck and Edwin Brady and Claudio Sacerdoti-Coen and Andrea Kohlhase},
+    editor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
  eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-319-62075-6},
+       doi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
     number = {11617},
-      note = {in preparation},
       year = {2019},
   keywords = {conference},
       pubs = {akohlhase}}
