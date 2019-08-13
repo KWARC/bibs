@@ -1059,29 +1059,35 @@
           <surname>Rapp</surname>
           <givenname>Max</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-title>Proceedings of the ESSLLI 2018 Student Session</bib-title><bib-name role="editor">
+        <bib-related role="host" type="proceedings"><bib-title>At the Intersection of Language, Logic, and Information. ESSLLI 2018.</bib-title><bib-name role="editor">
           <surname>Sikos</surname>
           <givenname>Jennifer</givenname>
-        </bib-name><bib-date role="publication">2018</bib-date><bib-url href="http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf">Link</bib-url><bib-data role="urldate">2018-10-16</bib-data><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{ESSLLI18,
- booktitle = {Proceedings of the ESSLLI 2018 Student Session},
-    editor = {Jennifer Sikos},
-      year = {2018},
-       url = {http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf},
-   urldate = {2018-10-16},
-  keywords = {conference}}
+        </bib-name><bib-name role="editor">
+          <surname>Pacuit</surname>
+          <givenname>Eric</givenname>
+        </bib-name><bib-part role="series">Lecture Notes in Computer Science</bib-part><bib-part role="volume">11667</bib-part><bib-publisher>Springer</bib-publisher><bib-date role="publication">2019</bib-date><bib-data role="location">Berlin, Heidelberg</bib-data><bib-data role="self" type="BibTeX">@proceedings{ESSLLI18,
+ booktitle = {At the Intersection of Language, Logic, and Information. ESSLLI 2018.},
+    editor = {Jennifer Sikos and Eric Pacuit},
+    series = {Lecture Notes in Computer Science},
+    volume = {11667},
+ publisher = {Springer},
+      year = {2019},
+  location = {Berlin, Heidelberg}}
 </bib-data></bib-related>
         <bib-data role="pubs">mrapp</bib-data>
         <bib-related role="host" type="proceedings">
-          <bib-title>Proceedings of the ESSLLI 2018 Student Session</bib-title>
+          <bib-title>At the Intersection of Language, Logic, and Information. ESSLLI 2018.</bib-title>
+          <bib-publisher>Springer</bib-publisher>
         </bib-related>
-        <bib-date role="publication">2018</bib-date>
+        <bib-date role="publication">2019</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{rapp:socialchoice,
      title = {Social Choice and the Problem of Recommending Essential Readings},
     author = {Silvan Hungerb{\"u}hler and Haukur Páll J{\'o}hnsson and Grzegorz Lisowski and Max Rapp},
   crossref = {ESSLLI18},
       pubs = {mrapp},
- booktitle = {Proceedings of the ESSLLI 2018 Student Session},
-      year = {2018}}
+ booktitle = {At the Intersection of Language, Logic, and Information. ESSLLI 2018.},
+ publisher = {Springer},
+      year = {2019}}
 </bib-data>
       </bibentry>
       <bibentry key="rapp:tagmsp" type="inproceedings" xml:id="bib.bib39">
@@ -34827,6 +34833,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-part role="volume">9195</bib-part>
         <bib-publisher>Springer</bib-publisher>
         <bib-date role="publication">2015</bib-date>
+        <bib-data role="kezwords">conference</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CADE25,
     editor = {Amy P. Felty and Aart Middeldorp},
      title = {Automated Deduction - {CADE-25}},
@@ -34834,26 +34841,33 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     series = {Lecture Notes in Computer Science},
     volume = {9195},
  publisher = {Springer},
-      year = {2015}}
+      year = {2015},
+  kezwords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="ESSLLI18" type="proceedings" xml:id="bib.bib1120">
-        <bib-title>Proceedings of the ESSLLI 2018 Student Session</bib-title>
+        <bib-title>At the Intersection of Language, Logic, and Information. ESSLLI 2018.</bib-title>
         <bib-name role="editor">
           <surname>Sikos</surname>
           <givenname>Jennifer</givenname>
         </bib-name>
-        <bib-date role="publication">2018</bib-date>
-        <bib-url href="http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf">Link</bib-url>
-        <bib-data role="urldate">2018-10-16</bib-data>
-        <bib-extract role="keywords">conference</bib-extract>
+        <bib-name role="editor">
+          <surname>Pacuit</surname>
+          <givenname>Eric</givenname>
+        </bib-name>
+        <bib-part role="series">Lecture Notes in Computer Science</bib-part>
+        <bib-part role="volume">11667</bib-part>
+        <bib-publisher>Springer</bib-publisher>
+        <bib-date role="publication">2019</bib-date>
+        <bib-data role="location">Berlin, Heidelberg</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{ESSLLI18,
- booktitle = {Proceedings of the ESSLLI 2018 Student Session},
-    editor = {Jennifer Sikos},
-      year = {2018},
-       url = {http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf},
-   urldate = {2018-10-16},
-  keywords = {conference}}
+ booktitle = {At the Intersection of Language, Logic, and Information. ESSLLI 2018.},
+    editor = {Jennifer Sikos and Eric Pacuit},
+    series = {Lecture Notes in Computer Science},
+    volume = {11667},
+ publisher = {Springer},
+      year = {2019},
+  location = {Berlin, Heidelberg}}
 </bib-data>
       </bibentry>
       <bibentry key="IJCAR18" type="proceedings" xml:id="bib.bib1121">
