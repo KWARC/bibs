@@ -725,13 +725,13 @@
           <givenname>Katja</givenname>
         </bib-name>
         <bib-title>Math databases table</bib-title>
-        <bib-url href="Https://mathdb.mathhub.info/">Link</bib-url>
+        <bib-url href="https://mathdb.mathhub.info/">Link</bib-url>
         <bib-data role="urldate">2019-01-15</bib-data>
         <bib-data role="pubs">kbercic,cmo-survey</bib-data>
         <bib-data role="self" type="BibTeX">@online{bercic:cmo:table,
     author = {Katja Ber\v{c}i\v{c}},
      title = {Math Databases table},
-       url = {Https://mathdb.mathhub.info/},
+       url = {https://mathdb.mathhub.info/},
    urldate = {2019-01-15},
       pubs = {kbercic,cmo-survey}}
 </bib-data>
@@ -759,11 +759,13 @@
         </bib-name>
         <bib-title>Math databases wiki</bib-title>
         <bib-url href="https://github.com/MathHubInfo/Documentation/wiki/Math-Databases">Link</bib-url>
+        <bib-data role="urldate">2019-01-15</bib-data>
         <bib-data role="pubs">kbercic,cmo-survey</bib-data>
         <bib-data role="self" type="BibTeX">@misc{Bercic:cmo:wiki:base,
     author = {Katja Ber\v{c}i\v{c}},
      title = {Math Databases wiki},
        url = {https://github.com/MathHubInfo/Documentation/wiki/Math-Databases},
+   urldate = {2019-01-15},
       pubs = {kbercic,cmo-survey}}
 </bib-data>
       </bibentry>
@@ -25701,7 +25703,7 @@ ILPS’93</bib-title>
         </bib-related>
         <bib-date role="publication">1993</bib-date>
         <bib-part role="pages">488–505</bib-part>
-        <bib-url href="Http://kwarc.info/kohlhase/papers/ilps93.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/papers/ilps93.pdf">Link</bib-url>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KoPf:uialcw93,
@@ -25713,7 +25715,7 @@ ILPS’93</bib-title>
     editor = {Dale Miller},
      pages = {488–505},
  publisher = {MIT Press},
-       url = {Http://kwarc.info/kohlhase/papers/ilps93.pdf},
+       url = {http://kwarc.info/kohlhase/papers/ilps93.pdf},
   keywords = {conference},
       pubs = {mkohlhase}}
 </bib-data>
