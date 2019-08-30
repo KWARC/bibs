@@ -97,14 +97,20 @@
         </bib-name>
         <bib-title>Automatisches ableiten von steuerungsabläufen durch semantische modellierung von funktionen und methoden der künstlichen intelligenz</bib-title>
         <bib-organization>FAU Erlangen-Nürnberg</bib-organization>
-        <bib-date role="publication">2018</bib-date>
-        <bib-data role="g">type</bib-data>
+        <bib-date role="publication">2018-09</bib-date>
+        <bib-type>B.Sc. Thesis</bib-type>
+        <bib-data role="month">September</bib-data>
+        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Lohnert_Patrick.pdf">Link</bib-url>
+        <bib-data role="pubs">bscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Lohnert:bsc,
     author = {Patrick Lohnert},
      title = {Automatisches Ableiten von Steuerungsabl{\"a}ufen durch semantische Modellierung von Funktionen und Methoden der K{\"u}nstlichen Intelligenz},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2018},
-         g = {type}}
+      type = {B.Sc. Thesis},
+     month = {September},
+       url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Lohnert_Patrick.pdf},
+      pubs = {bscthesis}}
 </bib-data>
       </bibentry>
       <bibentry key="Marcus:msc" type="mscthesis" xml:id="bib.bib6">
@@ -311,7 +317,7 @@
       pubs = {kbercic}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueRabSac:cltg19" type="unpublished" xml:id="bib.bib15">
+      <bibentry key="MueRabSac:cltg19" type="inproceedings" xml:id="bib.bib15">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -325,12 +331,12 @@
           <givenname>Claudio</givenname>
         </bib-name>
         <bib-title>The Coq Library as a Theory Graph</bib-title>
-        <bib-date role="publication">2019</bib-date>
+        <bib-related bibrefs="CICM19" role="host"/>
         <bib-data role="pubs">dmueller,oaf,frabe</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{MueRabSac:cltg19,
+        <bib-data role="self" type="BibTeX">@inproceedings{MueRabSac:cltg19,
     author = {Dennis M{\"u}ller and Florian Rabe and Claudio {Sacerdoti Coen}},
      title = {{The Coq Library as a Theory Graph}},
-      year = {2019},
+  crossref = {CICM19},
       pubs = {dmueller,oaf,frabe}}
 </bib-data>
       </bibentry>

@@ -94,14 +94,20 @@
         </bib-name>
         <bib-title>Automatisches ableiten von steuerungsabläufen durch semantische modellierung von funktionen und methoden der künstlichen intelligenz</bib-title>
         <bib-organization>FAU Erlangen-Nürnberg</bib-organization>
-        <bib-date role="publication">2018</bib-date>
-        <bib-data role="g">type</bib-data>
+        <bib-date role="publication">2018-09</bib-date>
+        <bib-type>B.Sc. Thesis</bib-type>
+        <bib-data role="month">September</bib-data>
+        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Lohnert_Patrick.pdf">Link</bib-url>
+        <bib-data role="pubs">bscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Lohnert:bsc,
     author = {Patrick Lohnert},
      title = {Automatisches Ableiten von Steuerungsabl{\"a}ufen durch semantische Modellierung von Funktionen und Methoden der K{\"u}nstlichen Intelligenz},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2018},
-         g = {type}}
+      type = {B.Sc. Thesis},
+     month = {September},
+       url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Lohnert_Patrick.pdf},
+      pubs = {bscthesis}}
 </bib-data>
       </bibentry>
       <bibentry key="Marcus:msc" type="mscthesis" xml:id="bib.bib6">
@@ -385,7 +391,7 @@
       pubs = {kbercic}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueRabSac:cltg19" type="unpublished" xml:id="bib.bib15">
+      <bibentry key="MueRabSac:cltg19" type="inproceedings" xml:id="bib.bib15">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -399,13 +405,45 @@
           <givenname>Claudio</givenname>
         </bib-name>
         <bib-title>The Coq Library as a Theory Graph</bib-title>
-        <bib-date role="publication">2019</bib-date>
+        <bib-related role="host" type="proceedings"><bib-name role="editor">
+          <surname>Kaliszyck</surname>
+          <givenname>Cezary</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Brady</surname>
+          <givenname>Edwin</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Andrea</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Sacerdoti Coen</surname>
+          <givenname>Claudio</givenname>
+        </bib-name><bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-identifier href="http://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier><bib-part role="series">LNAI</bib-part><bib-part role="number">11617</bib-part><bib-date role="publication">2019</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM19,
+    editor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
+ eventtitle = {Conferences on Intelligent Computer Mathematics},
+     title = {Intelligent Computer Mathematics},
+ booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
+ publisher = {Springer},
+       doi = {10.1007/978-3-030-23250-4},
+    series = {LNAI},
+    number = {11617},
+      year = {2019},
+  keywords = {conference},
+      pubs = {akohlhase}}
+</bib-data></bib-related>
         <bib-data role="pubs">dmueller,oaf,frabe</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{MueRabSac:cltg19,
+        <bib-related role="host" type="proceedings">
+          <bib-title>Intelligent Computer Mathematics (CICM) 2019</bib-title>
+          <bib-publisher>Springer</bib-publisher>
+        </bib-related>
+        <bib-date role="publication">2019</bib-date>
+        <bib-data role="self" type="BibTeX">@inproceedings{MueRabSac:cltg19,
     author = {Dennis M{\"u}ller and Florian Rabe and Claudio {Sacerdoti Coen}},
      title = {{The Coq Library as a Theory Graph}},
-      year = {2019},
-      pubs = {dmueller,oaf,frabe}}
+  crossref = {CICM19},
+      pubs = {dmueller,oaf,frabe},
+ booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
+ publisher = {Springer},
+      year = {2019}}
 </bib-data>
       </bibentry>
       <bibentry key="ULODoc:on" type="website" xml:id="bib.bib16">
