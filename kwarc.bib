@@ -60,6 +60,12 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{django:on,
+  label = {DJ},
+  title = {Django -- the Web Framework for Perfectionists with Deadlines},
+  url= {https://www.djangoproject.com/},
+  urldate = {2019-08-29}}
+
 @inproceedings{Wenzel:2014:ITP-PIDE,
   author    = {Makarius Wenzel},
   title     = {Asynchronous User Interaction and Tool Integration in {Isabelle/PIDE}},
@@ -107,7 +113,7 @@
   title = {ISO/IEC 40314:2016(en) Information technology — Mathematical Markup Language (MathML) Version 3.0 2nd Edition},
   url = {https://www.iso.org/obp/ui/#iso:std:iso-iec:40314:ed-1:v1:en},
   urldate = {2019-08-04}}
-  
+
 @book{Kahnemann:tfs11,
  author = {Kahneman, Daniel},
  year = {2011},
@@ -44028,7 +44034,9 @@ year = {2017}
  author={Lakatos, Imre},
  editor={Worrall, John and Zahar, ElieEditors},
  year={2015},
- collection={Cambridge Philosophy Classics}}
+ collection={Cambridge Philosophy Classics},
+ annotate={New edition.}
+}
 
 @book{Polya2014:HowtoSolveIt,
   title={How to Solve It: A New Aspect of Mathematical Method},
@@ -44037,8 +44045,8 @@ year = {2017}
   series={Princeton Science Library},
   url={https://books.google.de/books?id=X3xsgXjTGgoC},
   year={2014},
-  publisher={Princeton University Press}
-  annotate = {Besides being generally a great introductory book, this one contains a collection of heuristics/schemes for proofs.}
+  publisher={Princeton University Press},
+  annotate = {New edition. Besides being generally a great introductory book, this one contains a collection of heuristics/schemes for proofs.}
 }
 
 @string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
@@ -44082,7 +44090,7 @@ year = {2017}
   author = {Patrick Lohnert},
   title = {Automatisches Ableiten von Steuerungsabl{\"a}ufen durch semantische Modellierung von Funktionen und Methoden der K{\"u}nstlichen Intelligenz},
   school = {FAU Erlangen-N{\"u}rnberg},
-  year = {2018},g
+  year = {2018},
   type =     {B.Sc. Thesis},
   month = {September},
   url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Lohnert_Patrick.pdf},
@@ -44161,10 +44169,10 @@ year = {2017}
   url = {https://arxiv.org/pdf/1812.05921.pdf},
   pubs={kbercic}}
 
-@unpublished{MueRabSac:cltg19,
+@inproceedings{MueRabSac:cltg19,
   author = "Dennis M{\"u}ller and Florian Rabe and Claudio {Sacerdoti Coen}",
   title = "{The Coq Library as a Theory Graph}",
-  year = "2019",
+  crossref = {CICM19},
   pubs = {dmueller,oaf,frabe}
 }
 
