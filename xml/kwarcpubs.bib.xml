@@ -159,7 +159,7 @@
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="CarFarKohRab:bmobb19" type="unpublished" xml:id="bib.bib8">
+      <bibentry key="CarFarKohRab:bmobb19" type="article" xml:id="bib.bib8">
         <bib-name role="author">
           <surname>Carette</surname>
           <givenname>Jacques</givenname>
@@ -179,14 +179,20 @@
         <bib-title>Big math and the one-brain barrier – a position paper and architecture proposal</bib-title>
         <bib-date role="publication">2019</bib-date>
         <bib-url href="https://arxiv.org/abs/1904.10405">Link</bib-url>
-        <bib-note role="annotation">accepted at the Mathematical Intelligencer</bib-note>
+        <bib-related role="host" type="journal">
+          <bib-title>Mathematical Intelligencer</bib-title>
+        </bib-related>
+        <bib-data role="pubisher">Springer Verlag</bib-data>
+        <bib-note role="annotation">accepted</bib-note>
         <bib-data role="pubs">mkohlhase,frabe,tetrapod</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{CarFarKohRab:bmobb19,
+        <bib-data role="self" type="BibTeX">@article{CarFarKohRab:bmobb19,
     author = {Jacques Carette and William M. Farmer and Michael Kohlhase and Florian Rabe},
      title = {Big Math and the  One-Brain Barrier – A Position Paper and Architecture Proposal},
       year = {2019},
        url = {https://arxiv.org/abs/1904.10405},
-      note = {accepted at the Mathematical Intelligencer},
+   journal = {Mathematical Intelligencer},
+  pubisher = {Springer Verlag},
+      note = {accepted},
       pubs = {mkohlhase,frabe,tetrapod}}
 </bib-data>
       </bibentry>
@@ -569,13 +575,11 @@
         </bib-name>
         <bib-title>Math databases wiki</bib-title>
         <bib-url href="https://github.com/MathHubInfo/Documentation/wiki/Math-Databases">Link</bib-url>
-        <bib-data role="urldate">2019-01-15</bib-data>
         <bib-data role="pubs">kbercic,cmo-survey</bib-data>
         <bib-data role="self" type="BibTeX">@misc{Bercic:cmo:wiki:base,
     author = {Katja Ber\v{c}i\v{c}},
      title = {Math Databases wiki},
        url = {https://github.com/MathHubInfo/Documentation/wiki/Math-Databases},
-   urldate = {2019-01-15},
       pubs = {kbercic,cmo-survey}}
 </bib-data>
       </bibentry>
