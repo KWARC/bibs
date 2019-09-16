@@ -34895,7 +34895,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-part role="volume">9195</bib-part>
         <bib-publisher>Springer</bib-publisher>
         <bib-date role="publication">2015</bib-date>
-        <bib-data role="kezwords">conference</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CADE25,
     editor = {Amy P. Felty and Aart Middeldorp},
      title = {Automated Deduction - {CADE-25}},
@@ -34904,7 +34904,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     volume = {9195},
  publisher = {Springer},
       year = {2015},
-  kezwords = {conference}}
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="ESSLLI18" type="proceedings" xml:id="bib.bib1122">
