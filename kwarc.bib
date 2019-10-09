@@ -60,6 +60,29 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{OMG:on,
+  label = {OMG},
+  title = {OMG - Object Management Group},
+  url = {https://www.omg.org/},
+  urldate = {2019-10-06}}
+  
+@TechReport{CommonLogic:ISO,
+  url = {http://iso-commonlogic.org},
+  label = {CL},
+  title = {Information technology --- {Common Logic} ({CL}): a framework for a family of logic-based languages},
+  institution = {ISO/IEC},
+  number = {24707:2007},
+  year = 2007}
+
+@techreport{DOL:OMG,
+  label = {DOL},
+  title = {Distributed Ontology, Model, and Specification Language Specification Version 1.0},
+  url = {https://www.omg.org/spec/DOL/1.0/PDF},
+  type = {OMG Specification},
+  year = {2018},
+  institution = {Object Management Group}}
+  
+  
 @online{django:on,
   label = {DJ},
   title = {Django -- the Web Framework for Perfectionists with Deadlines},
@@ -1000,14 +1023,6 @@ doi = {10.1108/IDD-06-2018-0022}}
   url = {https://wikidata.org/wiki/Wikidata:Introduction},
   urldate = {2015-01-25}}
   
-@TECHREPORT{w3c:WD-sparql11-query-20100601,
-  title = {{SPARQL} 1.1 Query Language},
-  institution = {World Wide Web Consortium ({W3C})},
-  type = {{W3C} {Working Draft}},
-  date = {2010-06-01},
-  author = {Steve Harris and Andy Seaborne},
-  url = {http://www.w3.org/TR/2010/WD-sparql11-query-20100601/}}
-
 @TECHREPORT{w3c:SPARQL-Rec:13,
   title = {{SPARQL} 1.1 Overview},
   institution = {World Wide Web Consortium ({W3C})},
@@ -10706,7 +10721,6 @@ PAGES = {259--286}}
   title = {Dense Sphere Packings},
   subtitle = {A Blueprint for Formal Proofs},
   publisher = {Cambridge University Press},
-  date = {2012-09-06},
   year = {2012},
   series = {London Mathematical Society Lecture Note Series},
   number = 400,
@@ -17329,13 +17343,6 @@ year      = {1993}}
   journal = {Controlling and Management},
   volume = {2},
   pages = {24--29}}
-
-@TECHREPORT{vanBenthemJutting:tipts90,
-  author = {L. S. {van Benthem Jutting}},
-  title = {Typing in Pure Type Systems},
-  institution = {Department of Computer Science, University of Nijmegen},
-  year = {1990},
-  address = {Nijmegen, \NETHERLANDS}}
 
 @ARTICLE{deVega:bumm95,
   author = {{de Vega}, M.},
@@ -38177,7 +38184,7 @@ url = {http://www.informaworld.com/10.1207/S15327590IJHC1203&4_13}}
   label = {SO}, 
   title = {{Stack Overflow}},
   url = {http://stackoverflow.com},
-  urldate =      {2010-09-13}}
+  urldate =      {2019-09-13}}
 
 @Article{Baez:MathBlogs10,
   author =       {John Baez},
@@ -40363,17 +40370,13 @@ provided by Thomson Reuters},
   year = 1998
 }
 
-@TechReport{CommonLogic:oldfashioned,
-  crossref = {CommonLogic:base},
-  note = {\url{http://iso-commonlogic.org}},
-}
-
-@TechReport{CommonLogic:biblatex,
-  crossref = {CommonLogic:base},
+@TechReport{CommonLogic:oldfashioned,crossref = {CommonLogic:base},
+  key = {CL},
+  howpublished = {\url{http://iso-commonlogic.org}}}
+@TechReport{CommonLogic:biblatex,crossref = {CommonLogic:base},
+  label = {CL},
   url = {http://iso-commonlogic.org}}
-
 @TechReport{CommonLogic:base,
-  key = {CommonLogic},
   title = {Information technology --- {Common Logic} ({CL}): a framework for a family of logic-based languages},
   institution = {ISO/IEC},
   number = {24707:2007},
@@ -40474,11 +40477,6 @@ provided by Thomson Reuters},
 @online{PLOS:on,
   title = {Public Library of Science},
   url = {http://plosone.org},
-  urldate =      {2012-02-01}}
-
-@online{StackOverflow:on,
-  title = {Stack Overflow},
-  url = {http://stackoverflow.com},
   urldate =      {2012-02-01}}
 
 @online{BioModels:on,crossref={BioModels:base},label={BM}, urldate = {2016-11-09}}
@@ -42797,15 +42795,6 @@ crossref = {CICM-WS-WiP2013},
   url = {http://www.w3.org/blog/2006/02/content-negotiation/},
 }
 
-@book{Hales:DenseSpherePackings12,
-  author = {Thomas Hales},
-  title = {Dense Sphere Packings},
-  subtitle = {A Blueprint for Formal Proofs},
-  publisher = {Cambridge University Press},
-  date = {2012-09-06},
-  series = {London Mathematical Society Lecture Note Series},
-  number = 400,
-}
 
 @BOOK{WardEtAl:Visualization_2010,
 	author = {Ward, Matthew O. and Grinstein, Georges and Keim, Daniel A.},
@@ -43651,16 +43640,8 @@ pages="288--295"}
 @online{vega-ts-jscon-schema-generator:webpage,
   title = {{ts-json-schema-generator}},
   author = {Dominik Moritz et al.},
-  howpublished = {\url{https://github.com/vega/ts-json-schema-generator}},
-  note = {Accessed: 2018-10-14},
-}
-
-@online{vega-ts-jscon-schema-generator:webpage,
-  title = {{ts-json-schema-generator}},
-  author = {Dominik Moritz et al.},
-  howpublished = {\url{https://github.com/vega/ts-json-schema-generator}},
-  note = {Accessed: 2018-10-14},
-}
+  url = {https://github.com/vega/ts-json-schema-generator},
+  urldate = {2018-10-14}}
 
 @MANUAL{nbformat:on,
   label = {JND},
@@ -44172,6 +44153,12 @@ year = {2017}
 @STRING{stexyear = 2018}
 @STRING{testing = 16}
 
+@online{data.mathhub:on,
+ label = {DMH},
+ title = {Datasets on MathHub.info},
+ url = {https://data.mathhub.info},
+ urldate = {2019-09-24}}
+ 
 @online{ODK-WDM19,
   label = {WDM},
   title = {Workshop on Data in Mathematics},
