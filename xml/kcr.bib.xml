@@ -455,7 +455,7 @@
         </bib-related>
         <bib-date role="publication">2019</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{MueRabSac:cltg19,
-    author = {Dennis M{\"u}ller and Florian Rabe and Claudio {Sacerdoti Coen}},
+    author = {Dennis M{\"u}ller and Florian Rabe and Sacerdoti Coen, Claudio},
      title = {{The Coq Library as a Theory Graph}},
   crossref = {CICM19},
       pubs = {dmueller,oaf,frabe},
@@ -520,8 +520,8 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Coen</surname>
-          <givenname>Claudio Sacerdoti</givenname>
+          <surname>Sacerdoti Coen</surname>
+          <givenname>Claudio</givenname>
         </bib-name>
         <bib-name role="author">
           <surname>Wenzel</surname>
@@ -538,7 +538,7 @@
         <bib-data role="self" type="BibTeX">@inproceedings{ConKohMue:rdaml19,
   crossref = {CICM19},
      title = {Relational Data Across Mathematical Libraries},
-    author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Claudio Sacerdoti Coen and Makarius Wenzel},
+    author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Sacerdoti Coen, Claudio and Makarius Wenzel},
      pages = {61–76},
        url = {https://kwarc.info/kohlhase/papers/cicm19-ulo.pdf},
       pubs = {frabe,mkohlhase,dmueller},
@@ -15600,12 +15600,12 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="URL:sTeX:github" type="misc" xml:id="bib.bib444">
         
         <bib-key>sTeX</bib-key>
-        <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/KWARC/sTeX">https://github.com/KWARC/sTeX</ref></bib-note>
+        <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/sLaTeX/sTeX">https://github.com/sLaTeX/sTeX</ref></bib-note>
         <bib-note role="annotation">accessed 15. 5. 2015</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:sTeX:github,
   crossref = {sTeX:github:base},
        key = {sTeX},
- howpublished = {GitHub repository at \url{https://github.com/KWARC/sTeX}},
+ howpublished = {GitHub repository at \url{https://github.com/sLaTeX/sTeX}},
       note = {accessed 15. 5. 2015}}
 </bib-data>
       </bibentry>
@@ -15620,11 +15620,11 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="sTeX:github:base" type="misc" xml:id="bib.bib446">
-        <bib-title>KWARC/sTeX</bib-title>
-        <bib-url href="https://github.com/KWARC/sTeX">Link</bib-url>
+        <bib-title>sTeX: a semantic extension of TeX/LaTeX</bib-title>
+        <bib-url href="https://github.com/sLaTeX/sTeX">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{sTeX:github:base,
-     title = {{KWARC/sTeX}},
-       url = {https://github.com/KWARC/sTeX}}
+     title = {{sTeX}: A semantic Extension of {TeX/LaTeX}},
+       url = {https://github.com/sLaTeX/sTeX}}
 </bib-data>
       </bibentry>
       <bibentry key="URL:lmh:github" type="misc" xml:id="bib.bib447">
