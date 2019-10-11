@@ -11090,11 +11090,11 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="LaTeXMLsTeX:github:on" type="website" xml:id="bib.bib453">
         <bib-data role="label">L2O</bib-data>
         <bib-note role="annotation">GitHub repository</bib-note>
-        <bib-url href="https://github.com/KWARC/LaTeXML-Plugin-sTeX">Link</bib-url>
+        <bib-url href="https://github.com/sLaTeX/LaTeXML-Plugin-sTeX">Link</bib-url>
         <bib-data role="self" type="BibTeX">@online{LaTeXMLsTeX:github:on,
      label = {L2O},
       note = {GitHub repository},
-       url = {https://github.com/KWARC/LaTeXML-Plugin-sTeX}}
+       url = {https://github.com/sLaTeX/LaTeXML-Plugin-sTeX}}
 </bib-data>
       </bibentry>
       <bibentry key="NRM:lwa06" type="inproceedings" xml:id="bib.bib454">
