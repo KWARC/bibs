@@ -7,6 +7,21 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{NorKueRob:lcprs18,
+  title = {Lecture capture: Practical recommendations for students and lecturers},
+  url = {https://osf.io/huydx/download},
+  year = {2018},
+  author = {Emily Nordmann and Kuepper-Tetzel, Carolina E. and Louise Robson and Stuart Phillipson and Gabi Lipan
+ and Peter McGeorge}}
+
+@online{NorKueRob:vnas18,
+  url = {https://osf.io/e6r7a/download},
+  title = {Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende},
+  year = {2018},
+  author = {Emily Nordmann and Kuepper-Tetzel, Carolina E. and Louise Robson and Stuart Phillipson and Gabi Lipan
+ and Peter McGeorge}}
+
+ 
 @techreport{PROV:W3C,
   url = {https://www.w3.org/TR/prov-overview/},
   date = {2013-04-30},
@@ -1123,11 +1138,15 @@ doi = {10.1108/IDD-06-2018-0022}}
  address = {New York, NY, USA}
 }
 
-@online{mathematica:on,
+@online{mathematica:on,crossref={mathematica:base},
   label = {WM},
-  title = {{WOLFRAM MATHEMATICA} The world's definitive system for modern technical computing},
-  url = {https://www.wolfram.com/mathematica/},
   urldate = {2019-01-24}}
+@misc{mathematica:url,crossref={mathematica:base},
+  key = {WM},
+  howpublichsed = {\url{https://www.wolfram.com/mathematica/}}}
+@misc{mathematica:base,
+  title = {{WOLFRAM MATHEMATICA} The world's definitive system for modern technical computing},
+  url = {https://www.wolfram.com/mathematica/}}
 
 @online{Karsdorp:pph,
   author = {Folgert Karsdorp},
@@ -7250,11 +7269,15 @@ author = "Tjark Weber"}
   year = 2007,
   editor = {Cristian Calude}}
 
-@online{maple:on,
+@misc{maple:url,crossref={maple:base},
+ key= {MA},
+ note = {seen 2019-01-07}}
+@online{maple:on,crossref={maple:base},
  label = {MA},
- title = {Maple: The Essential Tool for Mathematics},
- url = {https://www.maplesoft.com/products/maple/},
  urldate = {2019-01-07}}
+@misc{maple:base,
+ title = {Maple: The Essential Tool for Mathematics},
+ url = {https://www.maplesoft.com/products/maple/}}
  
 @Misc{maplesoft:web,
   title =    {Maplesoft},
@@ -13771,11 +13794,17 @@ url = {https://www.sciencedirect.com/science/article/pii/S0004370212000719}}
    title = "{Nonclassical multidimensional scaling}",
    year = {2013}}
 
-@online{zbMATH:on,
+@online{zbMATH:on,crossref={zbMATH:base},
   label = {ZBM},
-  title = {{zbMATH} the first resource in mathematics},
-  url = {http://zbmath.org},
   urldate = {2019-01-29}}
+@misc{zbMATH:on,crossref={zbMATH:base},
+  key = {ZBM},
+  title = {{zbMATH} the first resource in mathematics},
+  howpublished = {\url{http://zbmath.org}}
+  note = {seen 2019-01-29}}
+@misc{zbMATH:base,
+  title = {{zbMATH} the first resource in mathematics},
+  url = {http://zbmath.org}}
   
 @online{springer:online,crossref={URL:springer:base},urldate = {2012-06-12}}
 @Misc{URL:springer,crossref={URL:springer:base},
@@ -21098,18 +21127,15 @@ YEAR = 1989}
   url = {http://lucene.apache.org/},
   key = {Lucene}}
 
-@MISC{mizar,
-  title = {Mizar},
-  howpublished = {\url{http://www.mizar.org}},
-  url = {http://www.mizar.org},
-  key = {Mizar},
-  year = {1973--2006}}
-
-@online{mizar:online,
+@MISC{mizar,crossref={mizar:base},
+  key = {Miz},
+  howpublished = {\url{http://www.mizar.org}}}
+@online{mizar:online,crossref={mizar:base},
   label = {Miz},
-  title = {Mizar},
-  url = {http://www.mizar.org},
   urldate =      {2013-02-27},}
+@misc{mizar:base,crossref={mizar:base},
+  title = {Mizar},
+  url = {http://www.mizar.org}
 
 @online{FormalizedMathematics,
   title = {Formalized Mathematics},
@@ -32717,18 +32743,16 @@ crossref={Heijenoort67},
   status = {available},
   volume = {92-224}}
 
-@online{MathSciNet:on,
-  label = {AMS},
-  title = {{American Mathematical Society} {MathSciNet} {Mathematical Reviews}},
-  url = {http://www.ams.org/mathscinet/},
+@online{MathSciNet:on,crossref={MathSciNet:base},
+  label = {MSN},
   urldate =      {2010-08-05}}
-
-@MISC{MathSciNet,
+@MISC{MathSciNet,crossref={MathSciNet:base},
+  howpublished = {Internet page at \url{http://www.ams.org/mathscinet/}},
+  key = {MathSciNet}}
+@MISC{MathSciNet:base,
   author = {The American Mathematical Society},
   title = {{MathSciNet Mathematical Reviews on the Net}},
-  howpublished = {Internet page at \url{http://www.ams.org/mathscinet/}},
-  url = {http://www.ams.org/mathscinet/},
-  key = {MathSciNet}}
+  url = {http://www.ams.org/mathscinet/}}
 
 @INPROCEEDINGS{Sorge00,
   author = {Volker Sorge},
