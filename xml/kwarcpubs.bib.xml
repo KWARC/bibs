@@ -195,7 +195,7 @@
           <bib-title>Mathematical Intelligencer</bib-title>
         </bib-related>
         <bib-data role="pubisher">Springer Verlag</bib-data>
-        <bib-note role="annotation">accepted</bib-note>
+        <bib-note role="annotation">in press</bib-note>
         <bib-data role="pubs">mkohlhase,frabe,tetrapod</bib-data>
         <bib-data role="self" type="BibTeX">@article{CarFarKohRab:bmobb19,
     author = {Jacques Carette and William M. Farmer and Michael Kohlhase and Florian Rabe},
@@ -204,7 +204,7 @@
        url = {https://arxiv.org/abs/1904.10405},
    journal = {Mathematical Intelligencer},
   pubisher = {Springer Verlag},
-      note = {accepted},
+      note = {in press},
       pubs = {mkohlhase,frabe,tetrapod}}
 </bib-data>
       </bibentry>
