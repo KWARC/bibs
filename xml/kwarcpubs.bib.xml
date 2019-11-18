@@ -136,7 +136,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-data role="month">April</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/Marcus_Richard.pdf">Link</bib-url>
-        <bib-data role="pubs">mscthesis</bib-data>
+        <bib-data role="pubs">mscthesis,odk</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Marcus:msc,
     author = {Richard Marcus},
      title = {{3D}-Visualization of Theory Graphs},
@@ -145,7 +145,7 @@
       type = {M.Sc. Thesis},
      month = {April},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/Marcus_Richard.pdf},
-      pubs = {mscthesis}}
+      pubs = {mscthesis,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="Rupprecht:msc" type="mscthesis" xml:id="bib.bib8">
@@ -159,7 +159,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-data role="month">May</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/Rupprecht_Marcel.pdf">Link</bib-url>
-        <bib-data role="pubs">mscthesis</bib-data>
+        <bib-data role="pubs">mscthesis,odk</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Rupprecht:msc,
     author = {Marcel Rupprecht},
      title = {Visualization of Theory Graphs},
@@ -168,7 +168,7 @@
       type = {M.Sc. Thesis},
      month = {May},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/Rupprecht_Marcel.pdf},
-      pubs = {mscthesis}}
+      pubs = {mscthesis,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="CarFarKohRab:bmobb19" type="article" xml:id="bib.bib9">
@@ -273,7 +273,7 @@
       </bibentry>
       <bibentry key="MueRab:rpfsm" type="inproceedings" xml:id="bib.bib13">
         <bib-date role="publication">2019</bib-date>
-        <bib-title>Rapid prototyping formal systems in mmt: case studies</bib-title>
+        <bib-title>Rapid prototyping formal systems in mmt: 5 case studies</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -287,15 +287,15 @@
           <bib-publisher>Electronic Proceedings in Theoretical Computer Science (EPTCS)</bib-publisher>
         </bib-related>
         <bib-url href="https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf">Link</bib-url>
-        <bib-data role="pubs">dmueller,frabe,oaf</bib-data>
+        <bib-data role="pubs">dmueller,frabe,oaf,odk</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{MueRab:rpfsm,
       year = {2019},
-     title = {Rapid Prototyping Formal Systems in MMT: Case Studies},
+     title = {Rapid Prototyping Formal Systems in MMT: 5 Case Studies},
     author = {Dennis M{\"u}ller and Florian Rabe},
  booktitle = {LFMTP 2019},
  publisher = {Electronic Proceedings in Theoretical Computer Science (EPTCS)},
        url = {https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf},
-      pubs = {dmueller,frabe,oaf}}
+      pubs = {dmueller,frabe,oaf,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="zbf:on" type="website" xml:id="bib.bib14">
@@ -325,14 +325,14 @@
         </bib-related>
         <bib-note role="annotation">accepted</bib-note>
         <bib-url href="https://arxiv.org/pdf/1812.05921.pdf">Link</bib-url>
-        <bib-data role="pubs">kbercic</bib-data>
+        <bib-data role="pubs">kbercic,odk</bib-data>
         <bib-data role="self" type="BibTeX">@article{BerVid:DZ19,
     author = {Katja Ber\v{c}i\v{c} and Jano\v{s} Vidali},
      title = {DiscreteZOO: a Fingerprint Database of Discrete Objects},
    journal = {Mathematics in Computer Science},
       note = {accepted},
        url = {https://arxiv.org/pdf/1812.05921.pdf},
-      pubs = {kbercic}}
+      pubs = {kbercic,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="MueRabSac:cltg19" type="inproceedings" xml:id="bib.bib16">
@@ -426,14 +426,14 @@
         </bib-name>
         <bib-part role="pages">28–43</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf">Link</bib-url>
-        <bib-data role="pubs">frabe,mkohlhase,kbercic</bib-data>
+        <bib-data role="pubs">frabe,mkohlhase,kbercic,odk</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BerKohRab:tumdi19,
   crossref = {CICM19},
      title = {Towards a Unified Mathematical Data Infrastructure: Database and Interface Generation},
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
      pages = {28–43},
        url = {https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf},
-      pubs = {frabe,mkohlhase,kbercic}}
+      pubs = {frabe,mkohlhase,kbercic,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="MarKohRab:tsddvtg19" type="unpublished" xml:id="bib.bib20">
@@ -451,12 +451,12 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-url href="https://kwarc.info/kohlhase/submit/tgview3D.pdf">Link</bib-url>
-        <bib-data role="pubs">frabe,mkohlhase,rmarcus</bib-data>
+        <bib-data role="pubs">frabe,mkohlhase,rmarcus,odk</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{MarKohRab:tsddvtg19,
      title = {{TGView3D} System Description: 3-Dimensional Visualization of Theory Graphs},
     author = {Richard Marcus and Michael Kohlhase and Florian Rabe},
        url = {https://kwarc.info/kohlhase/submit/tgview3D.pdf},
-      pubs = {frabe,mkohlhase,rmarcus}}
+      pubs = {frabe,mkohlhase,rmarcus,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="AmaKohRab:ismddn19" type="inproceedings" xml:id="bib.bib21">
@@ -480,14 +480,14 @@
         </bib-name>
         <bib-part role="pages">275–290</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf">Link</bib-url>
-        <bib-data role="pubs">frabe,mkohlhase,twiesing,kamann</bib-data>
+        <bib-data role="pubs">frabe,mkohlhase,twiesing,kamann,odk</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{AmaKohRab:ismddn19,
   crossref = {CICM19},
      title = {Integrating Semantic Mathematical Documents and Dynamic Notebooks},
     author = {Kai Amann and Michael Kohlhase and Florian Rabe and Tom Wiesing},
      pages = {275–290},
        url = {https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf},
-      pubs = {frabe,mkohlhase,twiesing,kamann}}
+      pubs = {frabe,mkohlhase,twiesing,kamann,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="ShaRab:dcm19" type="inproceedings" xml:id="bib.bib22">
@@ -587,12 +587,12 @@
         </bib-name>
         <bib-title>Math databases wiki</bib-title>
         <bib-url href="https://github.com/MathHubInfo/Documentation/wiki/Math-Databases">Link</bib-url>
-        <bib-data role="pubs">kbercic,cmo-survey</bib-data>
+        <bib-data role="pubs">kbercic,cmo-survey,odk</bib-data>
         <bib-data role="self" type="BibTeX">@misc{Bercic:cmo:wiki:base,
     author = {Katja Ber\v{c}i\v{c}},
      title = {Math Databases wiki},
        url = {https://github.com/MathHubInfo/Documentation/wiki/Math-Databases},
-      pubs = {kbercic,cmo-survey}}
+      pubs = {kbercic,cmo-survey,odk}}
 </bib-data>
       </bibentry>
       <bibentry key="Bercic:phd:15" type="thesis" xml:id="bib.bib30">
