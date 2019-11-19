@@ -2,6 +2,18 @@
 @STRING{stexyear = 2018}
 @STRING{testing = 16}
 
+@online{data.mathhub:on,
+ label = {DMH},
+ title = {Datasets on MathHub.info},
+ url = {https://data.mathhub.info},
+ urldate = {2019-09-24}}
+ 
+@online{ODK-WDM19,
+  label = {WDM},
+  title = {Workshop on Data in Mathematics},
+  url = {https://opendreamkit.org/2019/08/17/WorkshopOnDataInMathematics/},
+  urldate = {2019-08-27}}
+  
 @unpublished{BerKohRab:dfm19,
   author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
   title = {(Deep) FAIR Mathematics},
@@ -47,7 +59,7 @@
   type = {M.Sc. Thesis},
   month = {April},
   url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/Marcus_Richard.pdf},
-  pubs = {mscthesis}}
+  pubs = {mscthesis,odk}}
 
 @mscthesis{Rupprecht:msc,
   author = {Marcel Rupprecht},
@@ -57,15 +69,17 @@
   type = {M.Sc. Thesis}, 
   month = {May},
   url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/Rupprecht_Marcel.pdf},
-  pubs = {mscthesis}}
+  pubs = {mscthesis,odk}}
 
-@unpublished{CarFarKohRab:bmobb19,
+@article{CarFarKohRab:bmobb19,
  author = {Jacques Carette and William M. Farmer and Michael Kohlhase and Florian Rabe},
  title = {Big Math and the  One-Brain Barrier -- A Position Paper and Architecture Proposal},
- year = {2019},
+ year = 2019,
  url = {https://arxiv.org/abs/1904.10405},
- note = {submitted to Mathematical Intelligencer},
- pubs = {mkohlhase,frabe,tetrapod}}
+ journal = {Mathematical Intelligencer},
+ pubisher = {Springer Verlag},
+ note = {in press},
+ pubs = {mkohlhase,frabe,tetrapod,odk,oaf}}
  
 @unpublished{Kohhase:tpm19,
   title = {The Theorem Prover Museum -- Conserving the System Heritage of Automated Reasoning},
@@ -91,12 +105,12 @@
 
 @inproceedings{MueRab:rpfsm,
   year = {2019},
-  title = {Rapid Prototyping Formal Systems in MMT: Case Studies},
+  title = {Rapid Prototyping Formal Systems in MMT: 5 Case Studies},
   author = {Dennis M{\"u}ller and Florian Rabe},
   booktitle = {LFMTP 2019},
   publisher = {Electronic Proceedings in Theoretical Computer Science (EPTCS)},
   url = {https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf},
-  pubs = {dmueller,frabe,oaf}}
+  pubs = {dmueller,frabe,oaf,odk}}
 
 @online{zbf:on,
   label = {ZBF},
@@ -110,19 +124,25 @@
   journal = {Mathematics in Computer Science},
   note = "accepted",
   url = {https://arxiv.org/pdf/1812.05921.pdf},
-  pubs={kbercic}}
+  pubs={kbercic,odk}}
 
-@unpublished{MueRabSac:cltg19,
-  author = "Dennis M{\"u}ller and Florian Rabe and Claudio {Sacerdoti Coen}",
+@inproceedings{MueRabSac:cltg19,
+  author = "Dennis M{\"u}ller and Florian Rabe and Sacerdoti Coen, Claudio",
   title = "{The Coq Library as a Theory Graph}",
-  year = "2019",
+  crossref = {CICM19},
   pubs = {dmueller,oaf,frabe}
 }
+
+@online{ULODoc:on,
+  label = {ULO},
+  title = {ULO Documentation},
+  url  = {https://ulo.mathhub.info/},
+  urldate = {2019-03-11}}
 
 @inproceedings{ConKohMue:rdaml19,
   crossref = {CICM19},
   title = {Relational Data Across Mathematical Libraries},
-  author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Claudio Sacerdoti Coen and Makarius Wenzel},
+  author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Sacerdoti Coen, Claudio and Makarius Wenzel},
   pages = {61--76},
   url = {https://kwarc.info/kohlhase/papers/cicm19-ulo.pdf},
   pubs = {frabe,mkohlhase,dmueller}}
@@ -133,13 +153,13 @@
   author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
   pages = {28--43},
   url = {https://kwarc.info/kohlhase/papers/cicm19-MDH.pdf},
-  pubs = {frabe,mkohlhase,kbercic}}
+  pubs = {frabe,mkohlhase,kbercic,odk}}
 
 @unpublished{MarKohRab:tsddvtg19,
   title = {{TGView3D} System Description: 3-Dimensional Visualization of Theory Graphs},
   author = {Richard Marcus and Michael Kohlhase and Florian Rabe},
   url = {https://kwarc.info/kohlhase/submit/tgview3D.pdf},
-  pubs = {frabe,mkohlhase,rmarcus}}
+  pubs = {frabe,mkohlhase,rmarcus,odk}}
 
 @inproceedings{AmaKohRab:ismddn19,
   crossref = {CICM19},
@@ -147,7 +167,7 @@
   author = {Kai Amann and Michael Kohlhase and Florian Rabe and Tom Wiesing},
   pages = {275--290},
   url = {https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf},
-  pubs = {frabe,mkohlhase,twiesing,kamann}}
+  pubs = {frabe,mkohlhase,twiesing,kamann,odk}}
 
 @inproceedings{ShaRab:dcm19,
   crossref = {CICM19},
@@ -178,20 +198,18 @@
 @online{bercic:cmo:table,
   author = {Katja Ber\v{c}i\v{c}},
   title = {Math Databases table},
-  url = {Https://mathdb.mathhub.info/},
+  url = {https://mathdb.mathhub.info/},
   urldate = {2019-01-15},
   pubs = {kbercic,cmo-survey}}
 
-@online{Bercic:cmo:wiki,crossref={Bercic:cmo:wiki:base},
-  urldate = {2019-01-15},
-}
+@online{Bercic:cmo:wiki,crossref={Bercic:cmo:wiki:base},urldate = {2019-01-15}}
 @misc{Bercic:cmo:wiki:url,crossref={Bercic:cmo:wiki:base},
  howpublished = {\url{https://github.com/MathHubInfo/Documentation/wiki/Math-Databases}}}
 @misc{Bercic:cmo:wiki:base,
   author = {Katja Ber\v{c}i\v{c}},
   title = {Math Databases wiki},
   url = {https://github.com/MathHubInfo/Documentation/wiki/Math-Databases},
-  pubs = {kbercic,cmo-survey}}
+  pubs = {kbercic,cmo-survey,odk}}
 
 @phdthesis{Bercic:phd:15,
   author = {Katja Ber\v{c}i\v{c}},
@@ -418,6 +436,14 @@
   title = {{UniFormal/MMT} -- The {MMT} Language and System},
   url = {https://github.com/UniFormal/MMT},
   urldate = {2017-10-24}}
+
+@ONLINE {mmtgithub:typeclasses,
+    author = "Florian Rabe",
+    title  = "Structural feature for type classes",
+    month  = jul,
+    year   = "2018",
+    url    = "https://github.com/UniFormal/MMT/issues/367"
+}
 
 @online{MoSIS-demo:on,
   label = {MoS},
@@ -3660,14 +3686,14 @@ url = {http://www.balisage.net/Proceedings/vol7/print/Hennum01/BalisageVol7-Henn
 
 @MISC{URL:sTeX:github,crossref={sTeX:github:base},
   key = {sTeX},
-  howpublished = {GitHub repository at \url{https://github.com/KWARC/sTeX}},
+  howpublished = {GitHub repository at \url{https://github.com/sLaTeX/sTeX}},
   note = {accessed 15. 5. 2015}}
 @online{sTeX:github:on,crossref={sTeX:github:base},
   label = {sTeX},
   urldate = {2015-05-15}}
 @misc{sTeX:github:base,
-  title = {{KWARC/sTeX}},
-  url = {https://github.com/KWARC/sTeX}}
+  title = {{sTeX}: A semantic Extension of {TeX/LaTeX}},
+  url = {https://github.com/sLaTeX/sTeX}}
 
 @MISC{URL:lmh:github,crossref={lmh:github:base},
   key = {lmh},
@@ -3694,7 +3720,7 @@ url = {http://www.balisage.net/Proceedings/vol7/print/Hennum01/BalisageVol7-Henn
 @online{LaTeXMLsTeX:github:on,
   label = {L2O},
   note = {GitHub repository},
-  url = {https://github.com/KWARC/LaTeXML-Plugin-sTeX}}
+  url = {https://github.com/sLaTeX/LaTeXML-Plugin-sTeX}}
 
 @INPROCEEDINGS{NRM:lwa06,
   author = {Normen M{\"u}ller},
@@ -4311,6 +4337,16 @@ url = {http://www.balisage.net/Proceedings/vol7/print/Hennum01/BalisageVol7-Henn
  school = "Jacobs University Bremen",
  url = {http://kwarc.info/frabe/Research/phdthesis.pdf},
  pubs = {frabe,omdoc,mmt,phdthesis}}
+
+@phdthesis{dmueller:thesis:2019,
+  author      = {Dennis M{\"u}ller},
+  title       = {Mathematical Knowledge Management Across Formal Libraries},
+  type        = {Doctoral Thesis},
+  pages       = {215},
+  school      = {Friedrich-Alexander-Universit{\"a}t Erlangen-N{\"u}rnberg (FAU)},
+  year        = {2019},
+  url         = {https://opus4.kobv.de/opus4-fau/files/12359/thesis.pdf}
+}
 
 @article{RPSS:moloss:07,
  author = {Florian Rabe and P. Pudl{\'a}k and G. Sutcliffe and W. Shen},
@@ -6367,7 +6403,7 @@ pubs = {mkohlhase}}
   editor = {Dale Miller},
   pages = {488--505},
   publisher = {MIT Press},
-  url = {Http://kwarc.info/kohlhase/papers/ilps93.pdf},
+  url = {http://kwarc.info/kohlhase/papers/ilps93.pdf},
   keywords = {conference},
 pubs = {mkohlhase}}
 
@@ -6561,7 +6597,7 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url = {http://mirror.ctan.org/macros/latex/contrib/proposal/base/proposal.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:pplp:svn,crossref={Kohlhase:pplp:base},
+@techreport{Kohlhase:pplp:git,crossref={Kohlhase:pplp:base},
   url = {http://github.com/KWARC/LaTeX-proposal/base/proposal.pdf}}
 @techreport{Kohlhase:pplp:base,
   author = {Michael Kohlhase},
@@ -6573,7 +6609,7 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url = {http://mirror.ctan.org/macros/latex/contrib/proposal/dfg/dfgproposal.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:pdrp:svn,crossref={Kohlhase:pdrp:base},
+@techreport{Kohlhase:pdrp:git,crossref={Kohlhase:pdrp:base},
   url = {http://github.com/KWARC/LaTeX-proposal/dfg/dfgproposal.pdf}}
 @techreport{Kohlhase:pdrp:base,
   author = {Michael Kohlhase},
@@ -6585,7 +6621,7 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url = {http://mirror.ctan.org/macros/latex/contrib/proposal/eu/euproposal.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:pfepr:svn,crossref={Kohlhase:pfepr:base},
+@techreport{Kohlhase:pfepr:git,crossref={Kohlhase:pfepr:base},
   url = {http://github.com/KWARC/LaTeX-proposal/eu/euproposal.pdf}}
 @techreport{Kohlhase:pfepr:base,
   author = {Michael Kohlhase},
@@ -6597,7 +6633,7 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url = {https://ctan.org/tex-archive/macros/latex/contrib/ed/ed.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:ed:svn,crossref={Kohlhase:ed:base},
+@techreport{Kohlhase:ed:git,crossref={Kohlhase:ed:base},
   url = {https://svn.kwarc.info/repos/kwarc/doc/macros/forCTAN/ed/ed.pdf}}
 @techreport{Kohlhase:ed:base,
   author = {Michael Kohlhase},
@@ -6609,8 +6645,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url = {http://www.ctan.org/get/macros/latex/contrib/stex/modules/modules.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{KohAmb:smmssl:svn,crossref={KohAmb:smmssl:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/modules/modules.pdf}}
+@techreport{KohAmb:smmssl:git,crossref={KohAmb:smmssl:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/modules/modules.pdf}}
 @techreport{KohAmb:smmssl:base,
   author = {Michael Kohlhase and Deyan Ginev and Rares Ambrus},
   title = {{\texttt{modules.sty}}: Semantic Macros and Module Scoping in {sTeX}},
@@ -6621,8 +6657,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url = {http://www.ctan.org/get/macros/latex/contrib/stex/pathsuris/pathsuris.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{ZhaKoh:pus:svn,crossref={KohAmb:smmssl:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/pathsuris/pathsuris.pdf}}
+@techreport{ZhaKoh:pus:git,crossref={KohAmb:smmssl:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/pathsuris/pathsuris.pdf}}
 @techreport{ZhaKoh:pus:base,
   author = {Jinbo Zhang and Michael Kohlhase},
   title = {\texttt{pathsuris.sty}: Paths and URIs for s\TeX},
@@ -6633,21 +6669,44 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url = {http://www.ctan.org/get/macros/latex/contrib/stex/smultiling/smultiling.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{KohGin:smss:svn,crossref={KohGin:smss:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/smultiling/smultiling.pdf}}
+@techreport{KohGin:smss:git,crossref={KohGin:smss:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/smultiling/smultiling.pdf}}
 @techreport{KohGin:smss:base,
   author = {Michael Kohlhase and Deyan Ginev},
   title = {{\texttt{smultiling.sty}}: Multilinguality Support for {sTeX}},
   type =     {Self-documenting {\LaTeX} package},
   year = stexyear}
 
+@techreport{Kohlhase:svs:ctan,crossref={Kohlhase:svs:base},
+  institution = {Comprehensive {\TeX} Archive Network (CTAN)},
+  url = {http://www.ctan.org/get/macros/latex/contrib/stex/structview/structview.pdf},
+  pubs = {mkohlhase,sTeX}}
+@techreport{Kohlhase:svs:git,crossref={Kohlhase:svs:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/structview/structview.pdf}}
+@techreport{Kohlhase:svs:base,
+  author = {Michael Kohlhase},
+  title = {{\texttt{structview.sty}}: Structures and Views in s\TeX},
+  type =     {Self-documenting {\LaTeX} package},
+  year = stexyear}
+
+@techreport{KohGin:sitd:ctan,crossref={Kohlhase:sitd:base},
+  institution = {Comprehensive {\TeX} Archive Network (CTAN)},
+  url = {http://www.ctan.org/get/macros/latex/contrib/stex/tikzinput/tikzinput.pdf},
+  pubs = {mkohlhase,sTeX}}
+@techreport{KohGin:sitd:git,crossref={Kohlhase:sitd:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/tikzinput/tikzinput.pdf}}
+@techreport{Kohlhase:sitd:base,
+  author = {Michael Kohlhase},
+  title = {\texttt{tikzinput}: Selective Input of TIKZ Diagrams},
+  type =     {Self-documenting {\LaTeX} package},
+  year = stexyear}
 
 @techreport{Kohlhase:ipsmsl:ctan,crossref={Kohlhase:ipsmsl:base},
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   pubs = {mkohlhase,dginev,sTeX},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/presentation/presentation.pdf}}
-@techreport{Kohlhase:ipsmsl:svn,crossref={Kohlhase:ipsmsl:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/presentation/presentation.pdf}}
+@techreport{Kohlhase:ipsmsl:git,crossref={Kohlhase:ipsmsl:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/presentation/presentation.pdf}}
 @techreport{Kohlhase:ipsmsl:base,
   author =   {Michael Kohlhase and Deyan Ginev},
   title =    {\texttt{presentation.sty}: An Infrastructure for Presenting Semantic Macros in {sTeX}},
@@ -6658,49 +6717,49 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/cmath/cmath.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:cmath:svn,crossref={Kohlhase:cmath:base},
-  url =   {https://github.com/KWARC/sTeX/raw/master/sty/cmath/cmath.pdf}}
+@techreport{Kohlhase:cmath:git,crossref={Kohlhase:cmath:base},
+  url =   {https://github.com/sLaTeX/sTeX/raw/master/sty/cmath/cmath.pdf}}
 @techreport{Kohlhase:cmath:base,
   author =   {Michael Kohlhase},
   title =    {{\texttt{cmath.sty}}: An Infrastructure for building Inline Content Math in
  {sTeX}},
   type =     {Self-documenting {\LaTeX} package},
   year = stexyear,
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/cmath/cmath.pdf}}
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/cmath/cmath.pdf}}
 
 
 @techreport{Kohlhase:smp:ctan,crossref={Kohlhase:smp:base},
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/sproof/sproof.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:smp:svn,crossref={Kohlhase:smp:base},
-  url =   {https://github.com/KWARC/sTeX/raw/master/sty/sproof/sproof.pdf}}
+@techreport{Kohlhase:smp:git,crossref={Kohlhase:smp:base},
+  url =   {https://github.com/sLaTeX/sTeX/raw/master/sty/sproof/sproof.pdf}}
 @techreport{Kohlhase:smp:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{sproof.sty}: Structural Markup for Proofs},
   type =     {Self-documenting {\LaTeX} package},
   year = stexyear,
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/sproof/sproof.pdf}}
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/sproof/sproof.pdf}}
 
 @techreport{Kohlhase:mikoslides:ctan,crossref={Kohlhase:mikoslides:base},
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/mikoslides/mikoslides.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:mikoslides:svn,crossref={Kohlhase:mikoslides:base},
-  url =   {https://github.com/KWARC/sTeX/raw/master/sty/mikoslides/mikoslides.pdf}}
+@techreport{Kohlhase:mikoslides:git,crossref={Kohlhase:mikoslides:base},
+  url =   {https://github.com/sLaTeX/sTeX/raw/master/sty/mikoslides/mikoslides.pdf}}
 @techreport{Kohlhase:mikoslides:base,
   author =   {Michael Kohlhase},
   title =    {Slides and Course Notes},
   type =     {Self-documenting {\LaTeX} package},
   year = stexyear,
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/mikoslides/mikoslides.pdf}}
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/mikoslides/mikoslides.pdf}}
 
 @techreport{Kohlhase:reqdoc:ctan,crossref={Kohlhase:reqdoc:base},
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/reqdoc/reqdoc.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:reqdoc:svn,
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/reqdoc/reqdoc.pdf}}
+@techreport{Kohlhase:reqdoc:git,
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/reqdoc/reqdoc.pdf}}
 @techreport{Kohlhase:reqdoc:base,
   author =   {Michael Kohlhase},
   title =    {{\texttt{reqdoc.sty}}: Semantic Markup for Requirements Specification Documents},
@@ -6711,8 +6770,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/physml/physml.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:physml:svn,crossref={Kohlhase:physml:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/physml/physml.pdf}}
+@techreport{Kohlhase:physml:git,crossref={Kohlhase:physml:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/physml/physml.pdf}}
 @techreport{Kohlhase:physml:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{physml.sty}: An Infrastructure for Marking Up {PhysML} in {\TeX/\LaTeX}},
@@ -6723,8 +6782,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/dcm/dcm.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:dcm:svn,crossref={Kohlhase:dcm:base},
-  url =   {https://github.com/KWARC/sTeX/raw/master/sty/stex/dcm/dcm.pdf}}
+@techreport{Kohlhase:dcm:git,crossref={Kohlhase:dcm:base},
+  url =   {https://github.com/sLaTeX/sTeX/raw/master/sty/stex/dcm/dcm.pdf}}
 @techreport{Kohlhase:dcm:base,
   author =   {Michael Kohlhase},
   title =    {{\texttt{dcm.sty}}: An Infrastructure for marking up {Dublin Core} Metadata in {\LaTeX}  documents},
@@ -6735,8 +6794,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/workaddress/workaddress.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:workaddress:svn,crossref={Kohlhase:workaddress:base},
-  url =   {https://github.com/KWARC/sTeX/raw/master/sty/stex/workaddress/workaddress.pdf}}
+@techreport{Kohlhase:workaddress:git,crossref={Kohlhase:workaddress:base},
+  url =   {https://github.com/sLaTeX/sTeX/raw/master/sty/stex/workaddress/workaddress.pdf}}
 @techreport{Kohlhase:workaddress:base,
   author =   {Michael Kohlhase},
   title =    {{\texttt{workaddress.sty}}: An Infrastructure for marking up {Dublin Core} Metadata in {\LaTeX}  documents},
@@ -6748,8 +6807,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/hwexam/hwexam.pdf},
   pubs = {mkohlhase,sTeX}}
-@misc{Kohlhase:hwexam*,crossref={Kohlhase:hwexam:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/hwexam/hwexam.pdf}}
+@misc{Kohlhase:hwexam:git,crossref={Kohlhase:hwexam:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/hwexam/hwexam.pdf}}
 @techreport{Kohlhase:hwexam:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{hwexam.sty/cls}: An Infrastructure for formatting Assignments and
@@ -6762,8 +6821,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/problem/problem.pdf},
   pubs = {mkohlhase,sTeX}}
-@misc{Kohlhase:problem*,crossref={Kohlhase:problem:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/problem/problem.pdf}}
+@misc{Kohlhase:problem:git,crossref={Kohlhase:problem:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/problem/problem.pdf}}
 @techreport{Kohlhase:problem:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{problem.sty}: An Infrastructure for formatting Problems},
@@ -6775,8 +6834,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/sref/sref.pdf},
   pubs = {mkohlhase,sTeX}}
-@misc{Kohlhase:sref*,crossref={Kohlhase:sref:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/sref/sref.pdf}}
+@misc{Kohlhase:sref:git,crossref={Kohlhase:sref:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/sref/sref.pdf}}
 @techreport{Kohlhase:sref:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{sref.sty}: Semantic Crossreferencing in {\LaTeX}},
@@ -6788,8 +6847,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/metakeys/metakeys.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:metakeys:svn,crossref={Kohlhase:metakeys:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/metakeys/metakeys.pdf}}
+@techreport{Kohlhase:metakeys:git,crossref={Kohlhase:metakeys:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/metakeys/metakeys.pdf}}
 @techreport{Kohlhase:metakeys:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{metakeys.sty}: A generic framework for extensible Metadata in {\LaTeX}},
@@ -6801,8 +6860,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/rdfmeta/rdfmeta.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:rdfmeta:svn,crossref = {Kohlhase:rdfmeta:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/rdfmeta/rdfmeta.pdf}}
+@techreport{Kohlhase:rdfmeta:git,crossref = {Kohlhase:rdfmeta:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/rdfmeta/rdfmeta.pdf}}
 @techreport{Kohlhase:rdfmeta:base,
   author =   {Michael Kohlhase},
   title =    {{RDFa} Metadata in {\LaTeX}},
@@ -6813,8 +6872,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/owl2onto/owl2onto.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:owl2onto:svn,crossref = {Kohlhase:owl2onto:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/owl2onto/owl2onto.pdf}}
+@techreport{Kohlhase:owl2onto:git,crossref = {Kohlhase:owl2onto:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/owl2onto/owl2onto.pdf}}
 @techreport{Kohlhase:owl2onto:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{owl2onto.cls}: Marking up {OWL2} Ontologies in {sTeX}},
@@ -6826,8 +6885,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/statements/statements.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:smms:svn,crossref={Kohlhase:smms:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/statements/statements.pdf}}
+@techreport{Kohlhase:smms:git,crossref={Kohlhase:smms:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/statements/statements.pdf}}
 @techreport{Kohlhase:smms:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{statements.sty}: Structural Markup for Mathematical Statements},
@@ -6838,8 +6897,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/cmathml/cmathml.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:tbscml:svn,crossref={Kohlhase:tbscml:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/cmathml/cmathml.pdf}}
+@techreport{Kohlhase:tbscml:git,crossref={Kohlhase:tbscml:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/cmathml/cmathml.pdf}}
 @misc{Kohlhase:tbscml:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{cmathml.sty}: A {\TeX/\LaTeX}-based Syntax for Content {MathML}},
@@ -6851,8 +6910,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/cnx/cnx.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:clbscm:svn,crossref={Kohlhase:clbscm:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/cnx/cnx.pdf}}
+@techreport{Kohlhase:clbscm:git,crossref={Kohlhase:clbscm:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/cnx/cnx.pdf}}
 @techreport{Kohlhase:clbscm:base,
   author =   {Michael Kohlhase},
   title =    {{CNX{\LaTeX}}: A {\LaTeX}-based Syntax for {Connexions} Modules},
@@ -6863,8 +6922,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/omdoc/omdoc.pdf},
   pubs = {mkohlhase,sTeX,omdoc}}
-@techreport{Kohlhase:smomdl*:svn,crossref={Kohlhase:smomdl:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/omdoc/omdoc.pdf}}
+@techreport{Kohlhase:smomdl:git,crossref={Kohlhase:smomdl:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/omdoc/omdoc.pdf}}
 @techreport{Kohlhase:smomdl:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{omdoc.sty/cls}: Semantic Markup for Open Mathematical Documents in {\LaTeX}},
@@ -6875,6 +6934,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/mathhub/mathhub.pdf},
   pubs = {mkohlhase,sTeX,omdoc}}
+@techreport{Kohlhase:mss:git,crossref={Kohlhase:mss:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/mathhub/mathhub.pdf}}
 @techreport{Kohlhase:mss:base,
   author =   {Michael Kohlhase},
   title =    {MathHub Support for s\TeX},
@@ -6885,8 +6946,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://mirror.ctan.org/macros/latex/contrib/stex/sty/omtext/omtext.pdf},
   pubs = {mkohlhase,sTeX,omdoc}}
-@techreport{Kohlhase:smmtf*:svn,crossref={Kohlhase:smmtf:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/omtext/omtext.pdf}}
+@techreport{Kohlhase:smmtf:git,crossref={Kohlhase:smmtf:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/omtext/omtext.pdf}}
 @techreport{Kohlhase:smmtf:base,
   author =   {Michael Kohlhase},
   title =    {\texttt{omtext}: Semantic Markup for Mathematical Text Fragments in {\LaTeX}},
@@ -6897,8 +6958,8 @@ pubs = {mkohlhase}}
   institution = {Comprehensive {\TeX} Archive Network (CTAN)},
   url =   {http://www.ctan.org/get/macros/latex/contrib/stex/sty/stex.pdf},
   pubs = {mkohlhase,sTeX}}
-@techreport{Kohlhase:ssmtl:svn,crossref={Kohlhase:ssmtl:base},
-  url = {https://github.com/KWARC/sTeX/raw/master/sty/stex.pdf}}
+@techreport{Kohlhase:ssmtl:git,crossref={Kohlhase:ssmtl:base},
+  url = {https://github.com/sLaTeX/sTeX/raw/master/sty/stex.pdf}}
 @techreport{Kohlhase:ssmtl:base,
   key = {sTeX},
   author =   {Michael Kohlhase},
