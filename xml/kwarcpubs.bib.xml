@@ -9,8 +9,25 @@
     <biblist>
       <bibentry key="KohRabWen:micakrf20" type="unpublished" xml:id="bib.bib1">
         <bib-title>Making isabelle content accessible in knowledge representation formats</bib-title>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Wenzel</surname>
+          <givenname>Makarius</givenname>
+        </bib-name>
+        <bib-url href="https://kwarc.info/kohlhase/submit/isabelle-export.pdf">Link</bib-url>
+        <bib-date role="publication">2019</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{KohRabWen:micakrf20,
-     title = {Making Isabelle Content Accessible in Knowledge Representation Formats}}
+     title = {Making Isabelle Content Accessible in Knowledge Representation Formats},
+    author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
+       url = {https://kwarc.info/kohlhase/submit/isabelle-export.pdf},
+      year = {2019}}
 </bib-data>
       </bibentry>
       <bibentry key="Alt:bsc19" type="mscthesis" xml:id="bib.bib2">
