@@ -53,7 +53,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="Alt:bsc19" type="mscthesis" xml:id="bib.bib3">
-        <bib-title>Diagram chasing done meta – formula search for nlab</bib-title>
+        <bib-title>Diagram chasing done meta – formula search for nLab</bib-title>
         <bib-name role="author">
           <surname>Alt</surname>
           <givenname>Christoph</givenname>
@@ -65,7 +65,7 @@
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2019/Alt_Christoph.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Alt:bsc19,
-     title = {Diagram Chasing Done Meta – Formula Search for nLab},
+     title = {Diagram Chasing Done Meta – Formula Search for {nLab}},
     author = {Christoph Alt},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2019},
@@ -104,14 +104,14 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-title>The space of mathematical software systems – a survey</bib-title>
+        <bib-title>The space of mathematical software systems – a survey of paradigmatic systems</bib-title>
         <bib-note role="annotation">preprint; to be submitted for publication</bib-note>
         <bib-url href="https://kwarc.info/kohlhase/submit/tetrapod-survey.pdf">Link</bib-url>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{CarFarSharBerKohMueRab:somss20,
     author = {Jacques Carette and William M. Farmer and Yasmine Sharoda and
            Katja Ber{\v c}i{\v c} and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe},
-     title = {The Space of Mathematical Software Systems – A Survey},
+     title = {The Space of Mathematical Software Systems – A Survey of Paradigmatic Systems},
       note = {preprint; to be submitted for publication},
        url = {https://kwarc.info/kohlhase/submit/tetrapod-survey.pdf},
       year = {2020}}
