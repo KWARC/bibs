@@ -3049,11 +3049,13 @@ Interface Theories},
 </bib-data>
       </bibentry>
       <bibentry key="MitM:on" type="website" xml:id="bib.bib106">
+        <bib-data role="label">MitM</bib-data>
         <bib-title>MitM: the math-in-the-middle ontology</bib-title>
         <bib-url href="https://mathhub.info/library/group?id=MitM">Link</bib-url>
         <bib-data role="urldate">2019-12-05</bib-data>
         <bib-data role="pubs">odk,odkWP6,MaMoReD</bib-data>
         <bib-data role="self" type="BibTeX">@online{MitM:on,
+     label = {MitM},
      title = {MitM: The Math-in-the-Middle Ontology},
        url = {https://mathhub.info/library/group?id=MitM},
    urldate = {2019-12-05},
@@ -3061,11 +3063,13 @@ Interface Theories},
 </bib-data>
       </bibentry>
       <bibentry key="ODKsysonto:on" type="website" xml:id="bib.bib107">
+        <bib-data role="label">ODK</bib-data>
         <bib-title>ODK: opendreamkit system ontologies</bib-title>
         <bib-url href="https://mathhub.info/MitM">Link</bib-url>
         <bib-data role="urldate">2017-02-05</bib-data>
         <bib-data role="pubs">odk,odkWP6</bib-data>
         <bib-data role="self" type="BibTeX">@online{ODKsysonto:on,
+     label = {ODK},
      title = {ODK: OpenDreamKit System Ontologies},
        url = {https://mathhub.info/MitM},
    urldate = {2017-02-05},
@@ -3073,12 +3077,14 @@ Interface Theories},
 </bib-data>
       </bibentry>
       <bibentry key="MitMInter:on" type="website" xml:id="bib.bib108">
+        <bib-data role="label">MitM</bib-data>
         <bib-title>MitM/interfaces</bib-title>
-        <bib-url href="https://mathhub.info/MitM/interfaces">Link</bib-url>
+        <bib-data role="nurl">https://mathhub.info/MitM/interfaces</bib-data>
         <bib-data role="urldate">2017-06-21</bib-data>
         <bib-data role="self" type="BibTeX">@online{MitMInter:on,
+     label = {MitM},
      title = {MitM/Interfaces},
-       url = {https://mathhub.info/MitM/interfaces},
+      nurl = {https://mathhub.info/MitM/interfaces},
    urldate = {2017-06-21}}
 </bib-data>
       </bibentry>
