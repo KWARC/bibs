@@ -14,7 +14,7 @@
         </bib-name>
         <bib-organization>Informatics, FAU Erlangen-Nürnberg</bib-organization>
         <bib-title>Mathematical knowledge management across formal libraries</bib-title>
-        <bib-url href="http://gl.kwarc.info/supervision/PhD-archive/mueller_dennis/dmueller_phd.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/people/dmueller/pubs/thesis.pdf">Link</bib-url>
         <bib-data role="month">12</bib-data>
         <bib-date role="publication">2019-12</bib-date>
         <bib-data role="pubs">dmueller,phdthesis</bib-data>
@@ -23,7 +23,7 @@
     author = {Dennis M{\"u}ller},
     school = {Informatics, FAU Erlangen-N{\"u}rnberg},
      title = {Mathematical Knowledge Management Across Formal Libraries},
-       url = {http://gl.kwarc.info/supervision/PhD-archive/mueller_dennis/dmueller_phd.pdf},
+       url = {https://kwarc.info/people/dmueller/pubs/thesis.pdf},
      month = {12},
       year = {2019},
       pubs = {dmueller,phdthesis}}
