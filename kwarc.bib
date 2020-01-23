@@ -60,6 +60,15 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@InProceedings{AspSacTasZac:capa06,
+  title =	"{Crafting a Proof Assistant}",
+  author =	"A. Asperti and C. Sacerdoti Coen and E. Tassi and S. Zacchiroli",
+  publisher =	"Springer",
+  year = 	2006,
+  booktitle =	"TYPES",
+  editor =	"T. Altenkirch and C. McBride",
+  pages =	"18--32"}
+
 @online{octave:on,
   label = {GU},
   title = {GNU Octave},
@@ -10189,6 +10198,15 @@ OASIS Standard
   url = {http://www.ejkm.com/volume-1/volume1-issue-2/issue2-art18.htm},
   notes = {published online at \url{http://www.ejkm.com/volume-1/volume1-issue-2/issue2-art18.htm}}}
 
+
+@article{Paulson:itn700tp93,
+  author    = {Lawrence C. Paulson},
+  title     = {Isabelle: The Next 700 Theorem Provers},
+  journal   = {arXiv CoRR},
+  volume    = {cs.LO/9301106},
+  year      = {1993},
+  url       = {https://arxiv.org/abs/cs/9301106},
+}
 
 @InCollection{BJ:SoSGDR,
   author =   {Bruce Wayne Tuckman and Mary Ann C. Jensen},
@@ -36826,22 +36844,26 @@ howpublished = {available at \url{http://www.relaxng.org/}}}
   title = {The {QED} Manifesto},
   crossref = {CADE94},
   pages = {238--251},
-  url = {http://www.cs.chalmers.se/Cs/Research/Logic/TypesSS05/Extra/wiedijk_2.pdf},
-  key = {QED95}}
+  NOurl = {http://www.cs.chalmers.se/Cs/Research/Logic/TypesSS05/Extra/wiedijk_2.pdf},
+  key = {QED}}
 
 @MISC{QEDManifesto95,
   title = {The {QED} Manifesto},
   howpublished = {Internet Report {\url{http://www.rbjones.com/rbjpub/logic/qedres00.htm}}},
   url = {http://www.rbjones.com/rbjpub/logic/qedres00.htm},
   year = {1995},
-  key = {QED95}}
+  key = {QED}}
 
-@MISC{qed,
-    title = {The {QED} Project},
-    howpublished = {\url{http://www-unix.mcs.anl.gov/qed/}},
+@onlineC{qed:on,crossref=qed:base,
     url = {http://www-unix.mcs.anl.gov/qed/},
-    year = 1996,
-    key = {QED96}}
+    label = {QED},
+    urldate = {2020-01-20}}
+@MISC{qed,crossref=qed:base,
+    howpublished = {\url{http://www-unix.mcs.anl.gov/qed/}},
+    key = {QED}}
+@MISC{qed:base,
+    title = {The {QED} Project},
+    year = 1996}
 
 @InProceedings{Frantz:MultilingualityInConnexions,
   author =   {Patrick Frantz and Richard Baraniuk and Hyeokho Choi and Douglas L. Jones},
