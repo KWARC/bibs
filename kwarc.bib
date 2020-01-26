@@ -44486,6 +44486,19 @@ year = {2017}
 @STRING{stexyear = 2020}
 @STRING{testing = 16}
 
+@online{elpiprovers:on,
+  label = {MMT},
+  title = {Generated ELPI Provers},
+  url = {https://gl.mathhub.info/MMT/LATIN2/tree/devel/elpi},
+  urldate = {2020-01-26}}
+  
+@unpublished{KohRabSacSch:lipslfer20,
+  title = {Logic-Independent Proof Search in Logical Frameworks (extended report)},
+  url = {https://kwarc.info/kohlhase/submit/mmtelpi.pdf},
+  note = {extended report of conference submission},
+  year = {2020},
+  SOONpubs = {mkohlhase,frabe,jschaefer}}
+
 @phdthesis{DMueller:phd:19,
   author = {Dennis M{\"u}ller},
   school = {Informatics, FAU Erlangen-N{\"u}rnberg},
@@ -44549,12 +44562,13 @@ year = {2017}
   url = {https://opendreamkit.org/2019/08/17/WorkshopOnDataInMathematics/},
   urldate = {2019-08-27}}
   
-@unpublished{BerKohRab:dfm19,
+@article{BerKohRab:dfm19,
   author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
   title = {(Deep) FAIR Mathematics},
-  note = {submitted},
+  journal = {it -- Information Technology},
+  publisher = {De Gruyter},
   url = {https://kwarc.info/kohlhase/submit/it19.pdf},
-  pubs = {mkohlhase,frabe,kbercic}}
+  Pubs = {mkohlhase,frabe,kbercic}}
   
 @mscthesis{Plivelic:bsc,
   title = {Using machine learning to support annotating of keywords in mathematical texts},
@@ -46473,6 +46487,12 @@ Digital Math Libraries want to be Semantic --- Position paper for WDML 2012},
  label = {LATIN},
  url = {https://gl.mathhub.info/MMT/LATIN},
  title = {The {LATIN} Logic Atlas},
+ urldate = {2017-06-02}}
+
+@online{LATIN2:git,
+ label = {LATIN},
+ url = {https://gl.mathhub.info/MMT/LATIN2},
+ title = {{LATIN2} -- Logic Atlas Version 2},
  urldate = {2017-06-02}}
 
 @online{SMGloM:git,
@@ -49030,25 +49050,36 @@ pubs = {mkohlhase,omdoc}}
   url = {http://mathsearch.kwarc.info/},
   note = {Project Homepage}}
 
-
-
-@online{LATIN:online,crossref="LATIN:base",urldate={2010-09-15}}
+@online{LATIN:online,crossref="LATIN:base",
+  label = {LATIN},
+  urldate={2010-09-15}}
 @misc{LATIN:url,crossref="LATIN:base",
+  key = {LATIN},
   howpublished={\url{http://latin.omdoc.org}}}
 @misc{LATIN:base,
   author = {Michael Kohlhase and Till Mossakowski and Florian Rabe},
-  key = {LATIN},
-  label = {LATIN},
   title = {LATIN: Logic Atlas and Integrator},
   type = {Project Homepage},
   url = {http://latin.omdoc.org}}
 
-@online{TetraPod:online,crossref="TetraPod:base",urldate={2012-09-15}}
+@online{LATIN2:online,crossref="LATIN2:base",
+  label = {LATIN2},
+  urldate={2020-01-15}}
+@misc{LATIN2:url,crossref="LATIN2:base",
+  key = {LATIN2},
+  howpublished={\url{http://latin.omdoc.org}}}
+@misc{LATIN2:base,
+  title = {LATIN2: Logic Atlas and Integrator},
+  type = {Project Homepage},
+  url = {http://latin.omdoc.org}}
+
+@online{TetraPod:online,crossref="TetraPod:base",
+  label = {TP},
+  urldate={2012-09-15}}
 @misc{TetraPod:url,crossref="TetraPod:base",
-  howpublished={\url{https://trac.mathweb.org/tetrapod/}}}
+  howpublished={\url{https://trac.mathweb.org/tetrapod/}},
+  key = {TP}}
 @misc{TetraPod:base,
-  key = {TetraPod},
-  label = {TetraPod},
   title = {The {TetraPod} Project},
   type = {Project Homepage},
   url = {https://trac.mathweb.org/tetrapod/}}
