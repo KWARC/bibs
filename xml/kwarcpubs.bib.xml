@@ -20,12 +20,12 @@
 </bib-data>
       </bibentry>
       <bibentry key="elpiprovers:on" type="website" xml:id="bib.bib2">
-        <bib-data role="label">MMT</bib-data>
+        <bib-data role="label">GEP</bib-data>
         <bib-title>Generated elpi provers</bib-title>
         <bib-url href="https://gl.mathhub.info/MMT/LATIN2/tree/devel/elpi">Link</bib-url>
         <bib-data role="urldate">2020-01-26</bib-data>
         <bib-data role="self" type="BibTeX">@online{elpiprovers:on,
-     label = {MMT},
+     label = {GEP},
      title = {Generated ELPI Provers},
        url = {https://gl.mathhub.info/MMT/LATIN2/tree/devel/elpi},
    urldate = {2020-01-26}}
