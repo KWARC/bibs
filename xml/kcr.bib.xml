@@ -717,6 +717,7 @@
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">dmueller,oaf,frabe</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2019</bib-title>
@@ -727,6 +728,7 @@
     author = {Dennis M{\"u}ller and Florian Rabe and Sacerdoti Coen, Claudio},
      title = {{The Coq Library as a Theory Graph}},
   crossref = {CICM19},
+  keywords = {conference},
       pubs = {dmueller,oaf,frabe},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2019},
  publisher = {Springer},
@@ -771,6 +773,7 @@
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Relational data across mathematical libraries</bib-title>
         <bib-name role="author">
           <surname>Condoluci</surname>
@@ -806,6 +809,7 @@
         <bib-date role="publication">2019</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{ConKohMue:rdaml19,
   crossref = {CICM19},
+  keywords = {conference},
      title = {Relational Data Across Mathematical Libraries},
     author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Sacerdoti Coen, Claudio and Makarius Wenzel},
      pages = {61–76},
@@ -842,6 +846,7 @@
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Towards a unified mathematical data infrastructure: database and interface generation</bib-title>
         <bib-name role="author">
           <surname>Berčič</surname>
@@ -865,6 +870,7 @@
         <bib-date role="publication">2019</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{BerKohRab:tumdi19,
   crossref = {CICM19},
+  keywords = {conference},
      title = {Towards a Unified Mathematical Data Infrastructure: Database and Interface Generation},
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
      pages = {28–43},
@@ -924,6 +930,7 @@
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Integrating semantic mathematical documents and dynamic notebooks</bib-title>
         <bib-name role="author">
           <surname>Amann</surname>
@@ -951,6 +958,7 @@
         <bib-date role="publication">2019</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{AmaKohRab:ismddn19,
   crossref = {CICM19},
+  keywords = {conference},
      title = {Integrating Semantic Mathematical Documents and Dynamic Notebooks},
     author = {Kai Amann and Michael Kohlhase and Florian Rabe and Tom Wiesing},
      pages = {275–290},
@@ -987,6 +995,7 @@
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Diagram operators in MMT</bib-title>
         <bib-part role="pages">211–226</bib-part>
         <bib-name role="author">
@@ -1005,6 +1014,7 @@
         <bib-date role="publication">2019</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{ShaRab:dcm19,
   crossref = {CICM19},
+  keywords = {conference},
      title = {Diagram Operators in {MMT}},
      pages = {211–226},
     author = {Yasmine Sharoda and Florian Rabe},
@@ -1647,6 +1657,7 @@
   keywords = {conference},
       pubs = {frabe,oaf,odk}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">jbetzendahl,mkohlhase,oaf</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2018</bib-title>
@@ -1658,6 +1669,7 @@
      title = {Translating the {IMPS} theory library to {OMDoc/MMT}},
        url = {http://kwarc.info/kohlhase/papers/cicm18-imps.pdf},
   crossref = {CICM18},
+  keywords = {conference},
       pubs = {jbetzendahl,mkohlhase,oaf},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2018},
  publisher = {Springer},
@@ -1708,6 +1720,7 @@
   keywords = {conference},
       pubs = {frabe,oaf,odk}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">dmueller,mkohlhase,frabe,oaf,odk</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2018</bib-title>
@@ -1719,6 +1732,7 @@
     author = {Dennis M{\"u}ller and Michael Kohlhase and Florian Rabe},
        url = {http://kwarc.info/kohlhase/papers/cicm18-viewfinder.pdf},
   crossref = {CICM18},
+  keywords = {conference},
       pubs = {dmueller,mkohlhase,frabe,oaf,odk},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2018},
  publisher = {Springer},
@@ -1792,6 +1806,7 @@
   keywords = {conference},
       pubs = {frabe,oaf,odk}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2018</bib-title>
@@ -1803,6 +1818,7 @@
     author = {Andrea Kohlhase and Michael Kohlhase and Taweechai Ouypornkochagorn},
        url = {http://kwarc.info/kohlhase/papers/cicm18-discourse.pdf},
   crossref = {CICM18},
+  keywords = {conference},
       pubs = {mkohlhase,akohlhase},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2018},
  publisher = {Springer},
@@ -1853,6 +1869,7 @@
   keywords = {conference},
       pubs = {frabe,oaf,odk}}
 </bib-data></bib-related>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,tpollinger,MaMoReD,mmt,odk</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2018</bib-title>
@@ -1864,6 +1881,7 @@
     author = {Theresa Pollinger and Michael Kohlhase and Harald K{\"o}stler},
        url = {http://kwarc.info/kohlhase/papers/cicm18-mosis.pdf},
   crossref = {CICM18},
+  keywords = {conference},
       pubs = {mkohlhase,tpollinger,MaMoReD,mmt,odk},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2018},
  publisher = {Springer},

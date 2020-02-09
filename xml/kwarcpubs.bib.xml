@@ -619,11 +619,13 @@
         </bib-name>
         <bib-title>The Coq Library as a Theory Graph</bib-title>
         <bib-related bibrefs="CICM19" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">dmueller,oaf,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{MueRabSac:cltg19,
     author = {Dennis M{\"u}ller and Florian Rabe and Sacerdoti Coen, Claudio},
      title = {{The Coq Library as a Theory Graph}},
   crossref = {CICM19},
+  keywords = {conference},
       pubs = {dmueller,oaf,frabe}}
 </bib-data>
       </bibentry>
@@ -641,6 +643,7 @@
       </bibentry>
       <bibentry key="ConKohMue:rdaml19" type="inproceedings" xml:id="bib.bib31">
         <bib-related bibrefs="CICM19" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Relational data across mathematical libraries</bib-title>
         <bib-name role="author">
           <surname>Condoluci</surname>
@@ -671,6 +674,7 @@
         <bib-data role="pubs">frabe,mkohlhase,dmueller</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{ConKohMue:rdaml19,
   crossref = {CICM19},
+  keywords = {conference},
      title = {Relational Data Across Mathematical Libraries},
     author = {Andrea Condoluci and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe and Sacerdoti Coen, Claudio and Makarius Wenzel},
      pages = {61–76},
@@ -680,6 +684,7 @@
       </bibentry>
       <bibentry key="BerKohRab:tumdi19" type="inproceedings" xml:id="bib.bib32">
         <bib-related bibrefs="CICM19" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Towards a unified mathematical data infrastructure: database and interface generation</bib-title>
         <bib-name role="author">
           <surname>Berčič</surname>
@@ -698,6 +703,7 @@
         <bib-data role="pubs">frabe,mkohlhase,kbercic,odk</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BerKohRab:tumdi19,
   crossref = {CICM19},
+  keywords = {conference},
      title = {Towards a Unified Mathematical Data Infrastructure: Database and Interface Generation},
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
      pages = {28–43},
@@ -730,6 +736,7 @@
       </bibentry>
       <bibentry key="AmaKohRab:ismddn19" type="inproceedings" xml:id="bib.bib34">
         <bib-related bibrefs="CICM19" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Integrating semantic mathematical documents and dynamic notebooks</bib-title>
         <bib-name role="author">
           <surname>Amann</surname>
@@ -752,6 +759,7 @@
         <bib-data role="pubs">frabe,mkohlhase,twiesing,kamann,odk</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{AmaKohRab:ismddn19,
   crossref = {CICM19},
+  keywords = {conference},
      title = {Integrating Semantic Mathematical Documents and Dynamic Notebooks},
     author = {Kai Amann and Michael Kohlhase and Florian Rabe and Tom Wiesing},
      pages = {275–290},
@@ -761,6 +769,7 @@
       </bibentry>
       <bibentry key="ShaRab:dcm19" type="inproceedings" xml:id="bib.bib35">
         <bib-related bibrefs="CICM19" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-title>Diagram operators in MMT</bib-title>
         <bib-part role="pages">211–226</bib-part>
         <bib-name role="author">
@@ -774,6 +783,7 @@
         <bib-data role="pubs">frabe</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{ShaRab:dcm19,
   crossref = {CICM19},
+  keywords = {conference},
      title = {Diagram Operators in {MMT}},
      pages = {211–226},
     author = {Yasmine Sharoda and Florian Rabe},
@@ -1363,12 +1373,14 @@
         <bib-title>Translating the IMPS theory library to OMDoc/MMT</bib-title>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm18-imps.pdf">Link</bib-url>
         <bib-related bibrefs="CICM18" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">jbetzendahl,mkohlhase,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BetKoh:titl18,
     author = {Jonas Betzendahl and Michael Kohlhase},
      title = {Translating the {IMPS} theory library to {OMDoc/MMT}},
        url = {http://kwarc.info/kohlhase/papers/cicm18-imps.pdf},
   crossref = {CICM18},
+  keywords = {conference},
       pubs = {jbetzendahl,mkohlhase,oaf}}
 </bib-data>
       </bibentry>
@@ -1388,12 +1400,14 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm18-viewfinder.pdf">Link</bib-url>
         <bib-related bibrefs="CICM18" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">dmueller,mkohlhase,frabe,oaf,odk</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{MueKohRab:aftmkm18,
      title = {Automatically Finding Theory Morphisms for Knowledge Management},
     author = {Dennis M{\"u}ller and Michael Kohlhase and Florian Rabe},
        url = {http://kwarc.info/kohlhase/papers/cicm18-viewfinder.pdf},
   crossref = {CICM18},
+  keywords = {conference},
       pubs = {dmueller,mkohlhase,frabe,oaf,odk}}
 </bib-data>
       </bibentry>
@@ -1436,12 +1450,14 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm18-discourse.pdf">Link</bib-url>
         <bib-related bibrefs="CICM18" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKohOuy:dpmd18,
      title = {Discourse Phenomena in Math Documents},
     author = {Andrea Kohlhase and Michael Kohlhase and Taweechai Ouypornkochagorn},
        url = {http://kwarc.info/kohlhase/papers/cicm18-discourse.pdf},
   crossref = {CICM18},
+  keywords = {conference},
       pubs = {mkohlhase,akohlhase}}
 </bib-data>
       </bibentry>
@@ -1461,12 +1477,14 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm18-mosis.pdf">Link</bib-url>
         <bib-related bibrefs="CICM18" role="host"/>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,tpollinger,MaMoReD,mmt,odk</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{PolKohKoe:kacse18,
      title = {Knowledge Amalgamation for Computational Science and Engineering},
     author = {Theresa Pollinger and Michael Kohlhase and Harald K{\"o}stler},
        url = {http://kwarc.info/kohlhase/papers/cicm18-mosis.pdf},
   crossref = {CICM18},
+  keywords = {conference},
       pubs = {mkohlhase,tpollinger,MaMoReD,mmt,odk}}
 </bib-data>
       </bibentry>
