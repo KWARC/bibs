@@ -3341,61 +3341,7 @@ Techniques and Applications</bib-title>
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM14" type="proceedings" xml:id="bib.bib113">
-        <bib-name role="editor">
-          <surname>Watt</surname>
-          <givenname>Stephan</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Davenport</surname>
-          <givenname>James</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Sexton</surname>
-          <givenname>Alan</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Sojka</surname>
-          <givenname>Petr</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Urban</surname>
-          <givenname>Josef</givenname>
-        </bib-name>
-        <bib-data role="venue">Coimbra, Portugal</bib-data>
-        <bib-data role="eventdate">2014-07-07/2014-07-11</bib-data>
-        <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
-        <bib-title>Intelligent computer mathematics</bib-title>
-        <bib-data role="nokey">CICM14</bib-data>
-        <bib-data role="nolabel">CICM14</bib-data>
-        <bib-extract role="keywords">conference</bib-extract>
-        <bib-publisher>Springer</bib-publisher>
-        <bib-part role="series">LNCS</bib-part>
-        <bib-part role="number">8543</bib-part>
-        <bib-identifier id="978-3-319-08433-6" scheme="isbn">ISBN 978-3-319-08433-6</bib-identifier>
-        <bib-date role="publication">2014</bib-date>
-        <bib-data role="acceptancerate">64</bib-data>
-        <bib-data role="acceptanceratecomment">MKM/Calculemus/DML: 26/41, S&amp;P: 9/14, overall: 35/55</bib-data>
-        <bib-data role="self" type="BibTeX">@proceedings{CICM14,
-    editor = {Stephan Watt and James Davenport and Alan Sexton and Petr Sojka and Josef Urban},
-     venue = {Coimbra, Portugal},
- eventdate = {2014-07-07/2014-07-11},
- eventtitle = {Conferences on Intelligent Computer Mathematics},
-     title = {Intelligent Computer Mathematics},
- booktitle = {{Intelligent Computer Mathematics} 2014},
-     nokey = {CICM14},
-   nolabel = {CICM14},
-  keywords = {conference},
- publisher = {Springer},
-    series = {LNCS},
-    number = {8543},
-      isbn = {978-3-319-08433-6},
-      year = {2014},
- acceptancerate = {64},
- acceptanceratecomment = {MKM/Calculemus/DML: 26/41, S&amp;P: 9/14, overall: 35/55}}
-</bib-data>
-      </bibentry>
-      <bibentry key="CICM15" type="proceedings" xml:id="bib.bib114">
+      <bibentry key="CICM15" type="proceedings" xml:id="bib.bib113">
         <bib-name role="editor">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -3445,7 +3391,7 @@ Techniques and Applications</bib-title>
       year = {2015}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS10" type="proceedings" xml:id="bib.bib115">
+      <bibentry key="CALCULEMUS10" type="proceedings" xml:id="bib.bib114">
         <bib-key>CALCULEMUS 2010</bib-key>
         <bib-date role="publication">2010</bib-date>
         <bib-title>CALCULEMUS</bib-title>
@@ -3456,7 +3402,7 @@ Techniques and Applications</bib-title>
      title = {CALCULEMUS}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS10-ET" type="proceedings" xml:id="bib.bib116">
+      <bibentry key="CALCULEMUS10-ET" type="proceedings" xml:id="bib.bib115">
         <bib-date role="publication">2010</bib-date>
         <bib-title>CALCULEMUS (emerging trends)</bib-title>
         <bib-name role="editor">
@@ -3480,7 +3426,7 @@ Techniques and Applications</bib-title>
   location = {Paris}}
 </bib-data>
       </bibentry>
-      <bibentry key="MKM09" type="proceedings" xml:id="bib.bib117">
+      <bibentry key="MKM09" type="proceedings" xml:id="bib.bib116">
         <bib-date role="publication">2009-07</bib-date>
         <bib-data role="month">July</bib-data>
         <bib-title>MKM/Calculemus proceedings</bib-title>
@@ -3518,7 +3464,7 @@ Techniques and Applications</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICOS03" type="proceedings" xml:id="bib.bib118">
+      <bibentry key="ICOS03" type="proceedings" xml:id="bib.bib117">
         <bib-title>ICoS-4. inference in computational semantics. workshop proceedings</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-name role="editor">
@@ -3538,7 +3484,7 @@ Techniques and Applications</bib-title>
  publisher = {LORIA, Nancy}}
 </bib-data>
       </bibentry>
-      <bibentry key="ITS2000-W1" type="proceedings" xml:id="bib.bib119">
+      <bibentry key="ITS2000-W1" type="proceedings" xml:id="bib.bib118">
         <bib-title>Proceedings of the fifth international conference on intelligent tutoring systems—workshop w1: modeling human teaching tactics and strategies</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -3559,7 +3505,7 @@ Techniques and Applications</bib-title>
        key = {ITS2000-W1}}
 </bib-data>
       </bibentry>
-      <bibentry key="TPHOL01" type="proceedings" xml:id="bib.bib120">
+      <bibentry key="TPHOL01" type="proceedings" xml:id="bib.bib119">
         <bib-title>Theorem proving in higher order logics: tphols’01</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -3587,7 +3533,7 @@ Techniques and Applications</bib-title>
        key = {TPHOLS2001}}
 </bib-data>
       </bibentry>
-      <bibentry key="BradyBerwick:cmod84" type="proceedings" xml:id="bib.bib121">
+      <bibentry key="BradyBerwick:cmod84" type="proceedings" xml:id="bib.bib120">
         <bib-title>Computational models of discourse</bib-title>
         <bib-date role="publication">1984</bib-date>
         <bib-name role="editor">
@@ -3608,7 +3554,7 @@ Techniques and Applications</bib-title>
  publisher = {The M. I. T. Press}}
 </bib-data>
       </bibentry>
-      <bibentry key="KI97" type="proceedings" xml:id="bib.bib122">
+      <bibentry key="KI97" type="proceedings" xml:id="bib.bib121">
         <bib-title>Proceedings of the 18.th annual german conference on artificial intelligence ki’97</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -3640,7 +3586,7 @@ Techniques and Applications</bib-title>
     KI'97}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE94" type="proceedings" xml:id="bib.bib123">
+      <bibentry key="CADE94" type="proceedings" xml:id="bib.bib122">
         <bib-title>Proceedings of the 12<sup>th</sup> Conference on Automated Deduction</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-name role="editor">
@@ -3666,7 +3612,7 @@ Techniques and Applications</bib-title>
        key = {CADE1994}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 125 **** -->      <bibentry key="IJCAI83" type="proceedings" xml:id="bib.bib124">
+      <bibentry key="IJCAI83" type="proceedings" xml:id="bib.bib123">
         <bib-date role="publication">1983</bib-date>
         <bib-name role="editor">
           <surname>Bundy</surname>
@@ -3687,7 +3633,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI1983}}
 </bib-data>
       </bibentry>
-      <bibentry key="FTP98" type="proceedings" xml:id="bib.bib125">
+<!--  %**** String Line 125 **** -->      <bibentry key="FTP98" type="proceedings" xml:id="bib.bib124">
         <bib-title>Automated deduction in classical and non-classical logics (FTP’98)</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-name role="editor">
@@ -3715,7 +3661,7 @@ Intelligence (IJCAI)</bib-title>
        key = {FTP1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="AISMC94" type="proceedings" xml:id="bib.bib126">
+      <bibentry key="AISMC94" type="proceedings" xml:id="bib.bib125">
         <bib-title>Integrating symbolic mathematical computation and artificial intelligence; proceedings of the second international conference; selected papers</bib-title>
         <bib-date role="publication">1995</bib-date>
         <bib-name role="editor">
@@ -3743,7 +3689,7 @@ Intelligence (IJCAI)</bib-title>
     Proceedings of the second International Conference; Selected Papers}}
 </bib-data>
       </bibentry>
-      <bibentry key="AISMC92" type="proceedings" xml:id="bib.bib127">
+      <bibentry key="AISMC92" type="proceedings" xml:id="bib.bib126">
         <bib-title>Integrating symbolic mathematical computation and artificial intelligence</bib-title>
         <bib-date role="publication">1993</bib-date>
         <bib-name role="editor">
@@ -3769,7 +3715,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Integrating Symbolic Mathematical Computation and Artificial Intelligence}}
 </bib-data>
       </bibentry>
-      <bibentry key="DISCO96" type="proceedings" xml:id="bib.bib128">
+      <bibentry key="DISCO96" type="proceedings" xml:id="bib.bib127">
         <bib-title>Design and implementation of symbolic computation systems, disco’96</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-name role="editor">
@@ -3797,7 +3743,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Design and Implementation of Symbolic Computation Systems, DISCO'96}}
 </bib-data>
       </bibentry>
-      <bibentry key="DaleEtAl:aoanlg92" type="proceedings" xml:id="bib.bib129">
+      <bibentry key="DaleEtAl:aoanlg92" type="proceedings" xml:id="bib.bib128">
         <bib-title>Aspects of automated natural language generation</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-name role="editor">
@@ -3830,7 +3776,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="DaleEtAl:crinlg90" type="proceedings" xml:id="bib.bib130">
+      <bibentry key="DaleEtAl:crinlg90" type="proceedings" xml:id="bib.bib129">
         <bib-title>Current research in natural language generation</bib-title>
         <bib-date role="publication">1990</bib-date>
         <bib-name role="editor">
@@ -3861,8 +3807,8 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Academic Press}}
 </bib-data>
       </bibentry>
-      <bibentry key="RTA89" type="proceedings" xml:id="bib.bib131">
-        <bib-title>Proceedings of the <Math mode="inline" tex="3^{rd}" text="3 ^ (r * d)" xml:id="bib.bib131.m1">
+      <bibentry key="RTA89" type="proceedings" xml:id="bib.bib130">
+        <bib-title>Proceedings of the <Math mode="inline" tex="3^{rd}" text="3 ^ (r * d)" xml:id="bib.bib130.m1">
             <XMath>
               <XMApp>
                 <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
@@ -3899,7 +3845,7 @@ Intelligence (IJCAI)</bib-title>
        key = {RTA1989}}
 </bib-data>
       </bibentry>
-      <bibentry key="TLCA95" type="proceedings" xml:id="bib.bib132">
+      <bibentry key="TLCA95" type="proceedings" xml:id="bib.bib131">
         <bib-title>Typed lambda calculi and applications</bib-title>
         <bib-date role="publication">1995</bib-date>
         <bib-name role="editor">
@@ -3924,7 +3870,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI81" type="proceedings" xml:id="bib.bib133">
+      <bibentry key="IJCAI81" type="proceedings" xml:id="bib.bib132">
         <bib-date role="publication">1981</bib-date>
         <bib-name role="editor">
           <surname>Drinan</surname>
@@ -3947,7 +3893,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI1981}}
 </bib-data>
       </bibentry>
-      <bibentry key="PTP01" type="proceedings" xml:id="bib.bib134">
+      <bibentry key="PTP01" type="proceedings" xml:id="bib.bib133">
         <bib-title>Proceedings of the workshop on proof transformation, proof presentations and complexity of proofs (PTP-01)</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -3977,7 +3923,7 @@ Intelligence (IJCAI)</bib-title>
     and Complexity of Proofs ({PTP-01})}}
 </bib-data>
       </bibentry>
-      <bibentry key="JELIA90" type="proceedings" xml:id="bib.bib135">
+      <bibentry key="JELIA90" type="proceedings" xml:id="bib.bib134">
         <bib-date role="publication">1990</bib-date>
         <bib-name role="editor">
           <surname>van Eijck</surname>
@@ -4000,7 +3946,7 @@ Intelligence (IJCAI)</bib-title>
        key = {JELIA1990}}
 </bib-data>
       </bibentry>
-      <bibentry key="ECAI02-ONTO" type="proceedings" xml:id="bib.bib136">
+      <bibentry key="ECAI02-ONTO" type="proceedings" xml:id="bib.bib135">
         <bib-title>Proceedings of the ecai 2002 workshop on ontologies and semantic interoperability</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -4029,7 +3975,7 @@ Intelligence (IJCAI)</bib-title>
    address = {Lyon France}}
 </bib-data>
       </bibentry>
-      <bibentry key="Fox-00-a" type="proceedings" xml:id="bib.bib137">
+      <bibentry key="Fox-00-a" type="proceedings" xml:id="bib.bib136">
         <bib-title>Workshop on analysing and exploiting domain knowledge for efficient planning</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -4045,7 +3991,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {AAAI Press}}
 </bib-data>
       </bibentry>
-      <bibentry key="FTP97" type="proceedings" xml:id="bib.bib138">
+      <bibentry key="FTP97" type="proceedings" xml:id="bib.bib137">
         <bib-title>Proceedings of the international workshop on first order theorem proving</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -4073,7 +4019,7 @@ Intelligence (IJCAI)</bib-title>
        key = {FTP1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="GaGu:hopl84" type="book" xml:id="bib.bib139">
+      <bibentry key="GaGu:hopl84" type="book" xml:id="bib.bib138">
         <bib-title>Handbook of philosophical logic</bib-title>
         <bib-publisher>D. Reidel</bib-publisher>
         <bib-date role="publication">1984</bib-date>
@@ -4092,7 +4038,7 @@ Intelligence (IJCAI)</bib-title>
     editor = {Dov Gabbay and F. Guenthner}}
 </bib-data>
       </bibentry>
-      <bibentry key="gabb:hand83" type="book" xml:id="bib.bib140">
+      <bibentry key="gabb:hand83" type="book" xml:id="bib.bib139">
         <bib-title>Handbook of Philosophical Logic</bib-title>
         <bib-publisher>Reidel</bib-publisher>
         <bib-date role="publication">1983</bib-date>
@@ -4113,7 +4059,7 @@ Intelligence (IJCAI)</bib-title>
    address = {Dordrecht}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE99" type="proceedings" xml:id="bib.bib141">
+      <bibentry key="CADE99" type="proceedings" xml:id="bib.bib140">
         <bib-title>Automated deduction — CADE-16</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-name role="editor">
@@ -4137,8 +4083,8 @@ Intelligence (IJCAI)</bib-title>
        key = {CADE1999}}
 </bib-data>
       </bibentry>
-      <bibentry key="RTA96" type="proceedings" xml:id="bib.bib142">
-        <bib-title>Proceedings of the <Math mode="inline" tex="7^{th}" text="7 ^ (t * h)" xml:id="bib.bib142.m1">
+      <bibentry key="RTA96" type="proceedings" xml:id="bib.bib141">
+        <bib-title>Proceedings of the <Math mode="inline" tex="7^{th}" text="7 ^ (t * h)" xml:id="bib.bib141.m1">
             <XMath>
               <XMApp>
                 <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
@@ -4175,7 +4121,7 @@ Intelligence (IJCAI)</bib-title>
        key = {RTA1996}}
 </bib-data>
       </bibentry>
-      <bibentry key="PPAI97" type="proceedings" xml:id="bib.bib143">
+      <bibentry key="PPAI97" type="proceedings" xml:id="bib.bib142">
         <bib-title>Parallel processing for artificial intelligence</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -4205,7 +4151,7 @@ Intelligence (IJCAI)</bib-title>
        key = {PPAI1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="iswc2005" type="proceedings" xml:id="bib.bib144">
+      <bibentry key="iswc2005" type="proceedings" xml:id="bib.bib143">
         <bib-title>The semantic web</bib-title>
         <bib-data role="eventtitle">4\textsuperscript{th} International Semantic Web Conference ({ISWC})</bib-data>
         <bib-data role="venue">Galway, Ireland</bib-data>
@@ -4247,7 +4193,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {3-540-29754-5}}
 </bib-data>
       </bibentry>
-      <bibentry key="iswc2006" type="proceedings" xml:id="bib.bib145">
+      <bibentry key="iswc2006" type="proceedings" xml:id="bib.bib144">
         <bib-title>5<sup>th</sup> international semantic web conference (ISWC)</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -4299,7 +4245,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {3-540-49029-9}}
 </bib-data>
       </bibentry>
-      <bibentry key="iswc2007" type="proceedings" xml:id="bib.bib146">
+      <bibentry key="iswc2007" type="proceedings" xml:id="bib.bib145">
         <bib-name role="editor">
           <surname>Aberer</surname>
           <givenname>Karl</givenname>
@@ -4386,7 +4332,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {978-3-540-76297-3}}
 </bib-data>
       </bibentry>
-      <bibentry key="AIMSA98" type="proceedings" xml:id="bib.bib147">
+      <bibentry key="AIMSA98" type="proceedings" xml:id="bib.bib146">
         <bib-title>Proceedings of the of the 8<sup>th</sup> international conference aimsa’98</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-name role="editor">
@@ -4410,7 +4356,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Artificial Intelligence: Methodology, Systems and Applications}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAR01" type="proceedings" xml:id="bib.bib148">
+      <bibentry key="IJCAR01" type="proceedings" xml:id="bib.bib147">
         <bib-title>Automated reasoning — 1<sup>st</sup> international joint conference, ijcar 2001</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -4444,7 +4390,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAR2001}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 150 **** -->      <bibentry key="IJCAR06" type="proceedings" xml:id="bib.bib149">
+      <bibentry key="IJCAR06" type="proceedings" xml:id="bib.bib148">
         <bib-title>Automated reasoning — third international joint conference, ijcar 2006</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -4474,7 +4420,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAR2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="KGC93" type="proceedings" xml:id="bib.bib150">
+<!--  %**** String Line 150 **** -->      <bibentry key="KGC93" type="proceedings" xml:id="bib.bib149">
         <bib-date role="publication">1993</bib-date>
         <bib-name role="editor">
           <surname>Gottlob</surname>
@@ -4503,7 +4449,7 @@ Intelligence (IJCAI)</bib-title>
        key = {KGC1993}}
 </bib-data>
       </bibentry>
-      <bibentry key="TPHOL98" type="proceedings" xml:id="bib.bib151">
+      <bibentry key="TPHOL98" type="proceedings" xml:id="bib.bib150">
         <bib-title>Theorem proving in higher order logics: emerging trends</bib-title>
         <bib-date role="publication">1998-10</bib-date>
         <bib-name role="editor">
@@ -4535,7 +4481,7 @@ Science Lab</bib-part>
        key = {TPHOLS1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="TPHOL97" type="proceedings" xml:id="bib.bib152">
+      <bibentry key="TPHOL97" type="proceedings" xml:id="bib.bib151">
         <bib-title>Theorem proving in higher order logics: tphols’97</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -4563,7 +4509,7 @@ Science Lab</bib-part>
        key = {TPHOLS1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="AISB87" type="proceedings" xml:id="bib.bib153">
+      <bibentry key="AISB87" type="proceedings" xml:id="bib.bib152">
         <bib-title>Advances in artificial intelligence, aisb-87</bib-title>
         <bib-date role="publication">1987</bib-date>
         <bib-name role="editor">
@@ -4585,7 +4531,7 @@ Science Lab</bib-part>
      pages = {125–139}}
 </bib-data>
       </bibentry>
-      <bibentry key="KI03-ITL" type="proceedings" xml:id="bib.bib154">
+      <bibentry key="KI03-ITL" type="proceedings" xml:id="bib.bib153">
         <bib-title>Proceedings of the ki-03 workshop on expressive media and intelligent tools for learning</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-name role="editor">
@@ -4605,7 +4551,7 @@ Science Lab</bib-part>
    address = {Hamburg\GERMANY}}
 </bib-data>
       </bibentry>
-      <bibentry key="Heijenoort67" type="book" xml:id="bib.bib155">
+      <bibentry key="Heijenoort67" type="book" xml:id="bib.bib154">
         <bib-title>From frege to gödel: a source book in mathematical logic 1879-1931</bib-title>
         <bib-publisher>Harvard Univ. Press</bib-publisher>
         <bib-date role="publication">1967</bib-date>
@@ -4630,7 +4576,7 @@ Science Lab</bib-part>
       isbn = {0-674-32450-1}}
 </bib-data>
       </bibentry>
-      <bibentry key="ECAI-RMK96" type="proceedings" xml:id="bib.bib156">
+      <bibentry key="ECAI-RMK96" type="proceedings" xml:id="bib.bib155">
         <bib-title>Proceedings of the ecai workshop on representation ofmathematical knowledge</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-name role="editor">
@@ -4656,7 +4602,7 @@ Science Lab</bib-part>
     Knowledge}}
 </bib-data>
       </bibentry>
-      <bibentry key="ECAI00" type="proceedings" xml:id="bib.bib157">
+      <bibentry key="ECAI00" type="proceedings" xml:id="bib.bib156">
         <bib-title>Proceedings of of the 14<sup>th</sup> european conference on artifical intelligence</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -4678,7 +4624,7 @@ Science Lab</bib-part>
        key = {ECAI2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="ECAI08" type="proceedings" xml:id="bib.bib158">
+      <bibentry key="ECAI08" type="proceedings" xml:id="bib.bib157">
         <bib-name role="editor">
           <surname>Ghallab</surname>
           <givenname>Malik</givenname>
@@ -4720,7 +4666,7 @@ Science Lab</bib-part>
        url = {http://www.booksonline.iospress.nl/Content/View.aspx?piid=9905}}
 </bib-data>
       </bibentry>
-      <bibentry key="AAAI-WSTPR88" type="proceedings" xml:id="bib.bib159">
+      <bibentry key="AAAI-WSTPR88" type="proceedings" xml:id="bib.bib158">
         <bib-title>Proceedings of the aaai workshop on text planning and realization</bib-title>
         <bib-date role="publication">1988</bib-date>
         <bib-name role="editor">
@@ -4743,7 +4689,7 @@ Science Lab</bib-part>
    address = {St. Paul, MN, USA}}
 </bib-data>
       </bibentry>
-      <bibentry key="RTA95" type="proceedings" xml:id="bib.bib160">
+      <bibentry key="RTA95" type="proceedings" xml:id="bib.bib159">
         <bib-date role="publication">1995</bib-date>
         <bib-name role="editor">
           <surname>Hsiang</surname>
@@ -4752,7 +4698,7 @@ Science Lab</bib-part>
         <bib-part role="number">914</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
-        <bib-title>Proceedings of the <Math mode="inline" tex="6^{th}" text="6 ^ (t * h)" xml:id="bib.bib160.m1">
+        <bib-title>Proceedings of the <Math mode="inline" tex="6^{th}" text="6 ^ (t * h)" xml:id="bib.bib159.m1">
             <XMath>
               <XMApp>
                 <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
@@ -4780,7 +4726,7 @@ Techniques and Applications</bib-title>
        key = {RTA1995}}
 </bib-data>
       </bibentry>
-      <bibentry key="FASE01" type="proceedings" xml:id="bib.bib161">
+      <bibentry key="FASE01" type="proceedings" xml:id="bib.bib160">
         <bib-title>Fundamental approaches to software engineering (FASE 2001)</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -4804,7 +4750,7 @@ Techniques and Applications</bib-title>
        key = {FASE01}}
 </bib-data>
       </bibentry>
-      <bibentry key="AISC06" type="proceedings" xml:id="bib.bib162">
+      <bibentry key="AISC06" type="proceedings" xml:id="bib.bib161">
         <bib-title>Proceedings of artificial intelligence and symbolic computation, AISC’2006</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -4836,7 +4782,7 @@ Techniques and Applications</bib-title>
     {AISC}'2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="TACS91" type="proceedings" xml:id="bib.bib163">
+      <bibentry key="TACS91" type="proceedings" xml:id="bib.bib162">
         <bib-date role="publication">1991</bib-date>
         <bib-name role="editor">
           <surname>Ito</surname>
@@ -4863,7 +4809,7 @@ Techniques and Applications</bib-title>
        key = {TACS1991}}
 </bib-data>
       </bibentry>
-      <bibentry key="lit2005" type="proceedings" xml:id="bib.bib164">
+      <bibentry key="lit2005" type="proceedings" xml:id="bib.bib163">
         <bib-title>Marktplatz Internet: von E-Learning bis E-Payment, 13. Leipziger Informatik-Tage, LIT 2005, 21.-23. September 2005, Leipzig</bib-title>
         <bib-date role="publication">2005</bib-date>
         <bib-name role="editor">
@@ -4894,7 +4840,7 @@ Techniques and Applications</bib-title>
       isbn = {3-88579-401-2}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI85" type="proceedings" xml:id="bib.bib165">
+      <bibentry key="IJCAI85" type="proceedings" xml:id="bib.bib164">
         <bib-date role="publication">1985</bib-date>
         <bib-name role="editor">
           <surname>Joshi</surname>
@@ -4917,7 +4863,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI1985}}
 </bib-data>
       </bibentry>
-      <bibentry key="RTA85" type="proceedings" xml:id="bib.bib166">
+      <bibentry key="RTA85" type="proceedings" xml:id="bib.bib165">
         <bib-date role="publication">1985</bib-date>
         <bib-name role="editor">
           <surname>Jouannaud</surname>
@@ -4942,7 +4888,7 @@ and Applications</bib-title>
        key = {RTA1985}}
 </bib-data>
       </bibentry>
-      <bibentry key="WADE79" type="proceedings" xml:id="bib.bib167">
+      <bibentry key="WADE79" type="proceedings" xml:id="bib.bib166">
         <bib-date role="publication">1979</bib-date>
         <bib-name role="editor">
           <surname>Joyner</surname>
@@ -4959,7 +4905,7 @@ and Applications</bib-title>
        key = {WADE1979}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI03-onto" type="proceedings" xml:id="bib.bib168">
+      <bibentry key="IJCAI03-onto" type="proceedings" xml:id="bib.bib167">
         <bib-title>Proceedings of the ijcai 03 workshop on knowledge and reasoning in practical dialogue systems</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-name role="editor">
@@ -4992,7 +4938,7 @@ and Applications</bib-title>
    address = {Acapulco, \MEXICO}}
 </bib-data>
       </bibentry>
-      <bibentry key="SDT84" type="proceedings" xml:id="bib.bib169">
+      <bibentry key="SDT84" type="proceedings" xml:id="bib.bib168">
         <bib-date role="publication">1984</bib-date>
         <bib-name role="editor">
           <surname>Kahn</surname>
@@ -5019,7 +4965,7 @@ and Applications</bib-title>
        key = {SDT1984}}
 </bib-data>
       </bibentry>
-      <bibentry key="CTRS88" type="proceedings" xml:id="bib.bib170">
+      <bibentry key="CTRS88" type="proceedings" xml:id="bib.bib169">
         <bib-date role="publication">1988</bib-date>
         <bib-name role="editor">
           <surname>Kaplan</surname>
@@ -5046,7 +4992,7 @@ Rewriting Systems, Orsay, France</bib-title>
        key = {CTRS1988}}
 </bib-data>
       </bibentry>
-      <bibentry key="CTRS91" type="proceedings" xml:id="bib.bib171">
+      <bibentry key="CTRS91" type="proceedings" xml:id="bib.bib170">
         <bib-date role="publication">1991</bib-date>
         <bib-name role="editor">
           <surname>Kaplan</surname>
@@ -5073,7 +5019,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
        key = {CTRS1991}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE92" type="proceedings" xml:id="bib.bib172">
+      <bibentry key="CADE92" type="proceedings" xml:id="bib.bib171">
         <bib-title>Proceedings of the 11<sup>th</sup> conference on automated deduction</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-name role="editor">
@@ -5099,7 +5045,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
        key = {CADE1992}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS02" type="proceedings" xml:id="bib.bib173">
+      <bibentry key="CALCULEMUS02" type="proceedings" xml:id="bib.bib172">
         <bib-title>Artificial intelligence, automated reasoning, and symbolic computation — joint international conference, aisc 2002 and calculemus 2002</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -5142,7 +5088,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
     — Joint International Conference, AISC 2002 and Calculemus 2002}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 175 **** -->      <bibentry key="CALCULEMUS01" type="proceedings" xml:id="bib.bib174">
+      <bibentry key="CALCULEMUS01" type="proceedings" xml:id="bib.bib173">
         <bib-title>Proceedings of the calculemus 2001 symposium</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -5162,7 +5108,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
    address = {Siena, Italy}}
 </bib-data>
       </bibentry>
-      <bibentry key="RTA93" type="proceedings" xml:id="bib.bib175">
+<!--  %**** String Line 175 **** -->      <bibentry key="RTA93" type="proceedings" xml:id="bib.bib174">
         <bib-date role="publication">1993</bib-date>
         <bib-name role="editor">
           <surname>Kirchner</surname>
@@ -5171,7 +5117,7 @@ Rewriting Systems, Montreal, Canada</bib-title>
         <bib-part role="number">690</bib-part>
         <bib-part role="series">LNCS</bib-part>
         <bib-publisher>Springer Verlag</bib-publisher>
-        <bib-title>Proceedings of the <Math mode="inline" tex="5^{th}" text="5 ^ (t * h)" xml:id="bib.bib175.m1">
+        <bib-title>Proceedings of the <Math mode="inline" tex="5^{th}" text="5 ^ (t * h)" xml:id="bib.bib174.m1">
             <XMath>
               <XMApp>
                 <XMTok role="SUPERSCRIPTOP" scriptpos="post1"/>
@@ -5199,7 +5145,7 @@ Techniques and Applications</bib-title>
        key = {RTA1993}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE98" type="proceedings" xml:id="bib.bib176">
+      <bibentry key="CADE98" type="proceedings" xml:id="bib.bib175">
         <bib-title>Proceedings of the 15<sup>th</sup> Conference on Automated Deduction</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-name role="editor">
@@ -5227,7 +5173,7 @@ Techniques and Applications</bib-title>
        key = {CADE1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="AMAST02" type="proceedings" xml:id="bib.bib177">
+      <bibentry key="AMAST02" type="proceedings" xml:id="bib.bib176">
         <bib-title>Algebraic methodology and software technology — 9<sup>th</sup> international conference amast 2002</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -5255,7 +5201,7 @@ Techniques and Applications</bib-title>
     Conference AMAST 2002}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS95" type="proceedings" xml:id="bib.bib178">
+      <bibentry key="LICS95" type="proceedings" xml:id="bib.bib177">
         <bib-title>Proceedings of the 10<sup>th</sup> annual IEEE symposium on logic in computer science (LICS-10)</bib-title>
         <bib-date role="publication">1995-06</bib-date>
         <bib-name role="editor">
@@ -5281,7 +5227,7 @@ Techniques and Applications</bib-title>
        key = {LICS1995}}
 </bib-data>
       </bibentry>
-      <bibentry key="DIABRUCK03" type="proceedings" xml:id="bib.bib179">
+      <bibentry key="DIABRUCK03" type="proceedings" xml:id="bib.bib178">
         <bib-title>DiaBruck—7<sup>th</sup> workshop on the semantics and pragmatics of dialogue</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-name role="editor">
@@ -5303,7 +5249,7 @@ Techniques and Applications</bib-title>
  booktitle = {DiaBruck—7\textsuperscript{th} Workshop on the Semantics and Pragmatics of Dialogue}}
 </bib-data>
       </bibentry>
-      <bibentry key="BIDIALOG01" type="proceedings" xml:id="bib.bib180">
+      <bibentry key="BIDIALOG01" type="proceedings" xml:id="bib.bib179">
         <bib-title>Proceedings of the 5<sup>th</sup> workshop on formal semantics and pragmatics of dialog (bi-dialog 2001)</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -5329,7 +5275,7 @@ Techniques and Applications</bib-title>
        key = {BIDIALOG2001}}
 </bib-data>
       </bibentry>
-      <bibentry key="AIED99" type="proceedings" xml:id="bib.bib181">
+      <bibentry key="AIED99" type="proceedings" xml:id="bib.bib180">
         <bib-title>Artificial intelligence in education</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-name role="editor">
@@ -5354,7 +5300,7 @@ Techniques and Applications</bib-title>
  publisher = {IOS Press}}
 </bib-data>
       </bibentry>
-      <bibentry key="RTA87" type="proceedings" xml:id="bib.bib182">
+      <bibentry key="RTA87" type="proceedings" xml:id="bib.bib181">
         <bib-date role="publication">1987</bib-date>
         <bib-name role="editor">
           <surname>Lescanne</surname>
@@ -5379,7 +5325,7 @@ and Applications</bib-title>
        key = {RTA1987}}
 </bib-data>
       </bibentry>
-      <bibentry key="AISC00" type="proceedings" xml:id="bib.bib183">
+      <bibentry key="AISC00" type="proceedings" xml:id="bib.bib182">
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
           <surname>Lozano</surname>
@@ -5402,7 +5348,7 @@ AISC’2000</bib-title>
     AISC'2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE88" type="proceedings" xml:id="bib.bib184">
+      <bibentry key="CADE88" type="proceedings" xml:id="bib.bib183">
         <bib-title>Proceedings of the 9<sup>th</sup> conference on automated deduction</bib-title>
         <bib-date role="publication">1988</bib-date>
         <bib-name role="editor">
@@ -5432,7 +5378,7 @@ AISC’2000</bib-title>
        key = {CADE1988}}
 </bib-data>
       </bibentry>
-      <bibentry key="JICSLP98" type="proceedings" xml:id="bib.bib185">
+      <bibentry key="JICSLP98" type="proceedings" xml:id="bib.bib184">
         <bib-title>Proceedings of the joint international conference and symposium on logic programming</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-name role="editor">
@@ -5454,7 +5400,7 @@ AISC’2000</bib-title>
     Logic Programming}}
 </bib-data>
       </bibentry>
-      <bibentry key="ILPS97" type="proceedings" xml:id="bib.bib186">
+      <bibentry key="ILPS97" type="proceedings" xml:id="bib.bib185">
         <bib-title>Logic programming – proceedings of the 1997 international symposium</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -5474,7 +5420,7 @@ AISC’2000</bib-title>
  booktitle = {Logic Programming – Proceedings of the 1997 International Symposium}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE00" type="proceedings" xml:id="bib.bib187">
+      <bibentry key="CADE00" type="proceedings" xml:id="bib.bib186">
         <bib-title>Automated Deduction – cade-17</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -5498,7 +5444,7 @@ AISC’2000</bib-title>
        key = {CADE00}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE97" type="proceedings" xml:id="bib.bib188">
+      <bibentry key="CADE97" type="proceedings" xml:id="bib.bib187">
         <bib-title>Proceedings of the 14<sup>th</sup> Conference on Automated Deduction</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -5524,7 +5470,7 @@ AISC’2000</bib-title>
        key = {CADE1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="INLG90" type="proceedings" xml:id="bib.bib189">
+      <bibentry key="INLG90" type="proceedings" xml:id="bib.bib188">
         <bib-title>Proceedings of the 5<sup>th</sup> international natural language generation workshop</bib-title>
         <bib-date role="publication">1990</bib-date>
         <bib-name role="editor">
@@ -5552,7 +5498,7 @@ AISC’2000</bib-title>
        key = {INLG1990}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE96" type="proceedings" xml:id="bib.bib190">
+      <bibentry key="CADE96" type="proceedings" xml:id="bib.bib189">
         <bib-title>Proceedings of the 13<sup>th</sup> conference on automated deduction</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-name role="editor">
@@ -5582,7 +5528,7 @@ AISC’2000</bib-title>
        key = {CADE1996}}
 </bib-data>
       </bibentry>
-      <bibentry key="WOSE-2004" type="proceedings" xml:id="bib.bib191">
+      <bibentry key="WOSE-2004" type="proceedings" xml:id="bib.bib190">
         <bib-key>WOSE2004</bib-key>
         <bib-title>On the move to meaningful internet systems 2004: otm 2004 workshops</bib-title>
         <bib-date role="publication">2004</bib-date>
@@ -5615,7 +5561,7 @@ AISC’2000</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE00-W4" type="proceedings" xml:id="bib.bib192">
+      <bibentry key="CADE00-W4" type="proceedings" xml:id="bib.bib191">
         <bib-title>Proceedingsof 17<sup>th</sup> international conference on automated deduction—workshop w4: automated deduction in education</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -5639,7 +5585,7 @@ AISC’2000</bib-title>
        key = {CADE2000-W4}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI95" type="proceedings" xml:id="bib.bib193">
+      <bibentry key="IJCAI95" type="proceedings" xml:id="bib.bib192">
         <bib-date role="publication">1995</bib-date>
         <bib-name role="editor">
           <surname>Mellish</surname>
@@ -5662,7 +5608,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI1995}}
 </bib-data>
       </bibentry>
-      <bibentry key="ISEMANTICS2010" type="proceedings" xml:id="bib.bib194">
+      <bibentry key="ISEMANTICS2010" type="proceedings" xml:id="bib.bib193">
         <bib-date role="publication">2010</bib-date>
         <bib-name role="editor">
           <surname>Paschke</surname>
@@ -5702,7 +5648,7 @@ Intelligence (IJCAI)</bib-title>
  acceptanceratecomment = {according to Rapha{\"e}l Troncy, \url{http://www.eurecom.fr/~troncy/Publications/index.html}}}
 </bib-data>
       </bibentry>
-      <bibentry key="UITP96" type="proceedings" xml:id="bib.bib195">
+      <bibentry key="UITP96" type="proceedings" xml:id="bib.bib194">
         <bib-title>User interfaces for theorem provers</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-name role="editor">
@@ -5720,7 +5666,7 @@ Intelligence (IJCAI)</bib-title>
        key = {UITP1996}}
 </bib-data>
       </bibentry>
-      <bibentry key="GWAI89" type="proceedings" xml:id="bib.bib196">
+      <bibentry key="GWAI89" type="proceedings" xml:id="bib.bib195">
         <bib-title>Proceedings of the of 13<sup>th</sup> gwai</bib-title>
         <bib-date role="publication">1989</bib-date>
         <bib-name role="editor">
@@ -5740,7 +5686,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Proceedings of the of 13\textsuperscript{th} GWAI}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICOS99" type="proceedings" xml:id="bib.bib197">
+      <bibentry key="ICOS99" type="proceedings" xml:id="bib.bib196">
         <bib-title>Proceedings of inference in computational semantics icos-1</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-name role="editor">
@@ -5762,7 +5708,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Proceedings of Inference in Computational Semantics ICoS-1}}
 </bib-data>
       </bibentry>
-      <bibentry key="AIED01" type="proceedings" xml:id="bib.bib198">
+      <bibentry key="AIED01" type="proceedings" xml:id="bib.bib197">
         <bib-title>Artificial intelligence in education</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -5790,7 +5736,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {IOS Press}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 200 **** -->      <bibentry key="TABLEAUX96" type="proceedings" xml:id="bib.bib199">
+      <bibentry key="TABLEAUX96" type="proceedings" xml:id="bib.bib198">
         <bib-title>Theorem proving with analytic tableaux and related methods</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-name role="editor">
@@ -5824,7 +5770,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Theorem Proving with Analytic Tableaux and Related Methods}}
 </bib-data>
       </bibentry>
-      <bibentry key="TABLEAUX99" type="proceedings" xml:id="bib.bib200">
+<!--  %**** String Line 200 **** -->      <bibentry key="TABLEAUX99" type="proceedings" xml:id="bib.bib199">
         <bib-title>Automated reasoning with analytic tableaux and related methods</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-name role="editor">
@@ -5846,7 +5792,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Automated Reasoning with Analytic Tableaux and Related Methods}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI91" type="proceedings" xml:id="bib.bib201">
+      <bibentry key="IJCAI91" type="proceedings" xml:id="bib.bib200">
         <bib-date role="publication">1991</bib-date>
         <bib-name role="editor">
           <surname>Mylopoulos</surname>
@@ -5873,7 +5819,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI1991}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI01" type="proceedings" xml:id="bib.bib202">
+      <bibentry key="IJCAI01" type="proceedings" xml:id="bib.bib201">
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
           <surname>Nebel</surname>
@@ -5896,7 +5842,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI2001}}
 </bib-data>
       </bibentry>
-      <bibentry key="KI94" type="proceedings" xml:id="bib.bib203">
+      <bibentry key="KI94" type="proceedings" xml:id="bib.bib202">
         <bib-title>18<sup>th</sup> annual german conference on aritificial intelligence</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-name role="editor">
@@ -5924,7 +5870,7 @@ Intelligence (IJCAI)</bib-title>
        key = {KI1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="ki11" type="proceedings" xml:id="bib.bib204">
+      <bibentry key="ki11" type="proceedings" xml:id="bib.bib203">
         <bib-name role="editor">
           <surname>Bach</surname>
           <givenname>Joscha</givenname>
@@ -5948,7 +5894,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="aips00" type="proceedings" xml:id="bib.bib205">
+      <bibentry key="aips00" type="proceedings" xml:id="bib.bib204">
         <bib-key>AIPS-00</bib-key>
         <bib-title>Proceedings of the 5th international conference on artificial intelligence planning systems (aips’00)</bib-title>
         <bib-date role="publication">2000</bib-date>
@@ -5978,7 +5924,7 @@ Intelligence (IJCAI)</bib-title>
    address = {Breckenridge, CO}}
 </bib-data>
       </bibentry>
-      <bibentry key="ecp99" type="proceedings" xml:id="bib.bib206">
+      <bibentry key="ecp99" type="proceedings" xml:id="bib.bib205">
         <bib-title>Proceedings of the 5th european conference on planning (ecp’99)</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-name role="editor">
@@ -6000,7 +5946,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer-Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="FOSSACS02" type="proceedings" xml:id="bib.bib207">
+      <bibentry key="FOSSACS02" type="proceedings" xml:id="bib.bib206">
         <bib-title>Foundations of software science and computation structures (FOSSACS02)</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -6028,7 +5974,7 @@ Intelligence (IJCAI)</bib-title>
        key = {FOSSACS02}}
 </bib-data>
       </bibentry>
-      <bibentry key="ECAI84" type="proceedings" xml:id="bib.bib208">
+      <bibentry key="ECAI84" type="proceedings" xml:id="bib.bib207">
         <bib-title>Proceedings of of the 7<sup>th</sup> european conference on artifical intelligence</bib-title>
         <bib-date role="publication">1984</bib-date>
         <bib-name role="editor">
@@ -6050,7 +5996,7 @@ Intelligence (IJCAI)</bib-title>
        key = {ECAI1984}}
 </bib-data>
       </bibentry>
-      <bibentry key="GWAI92" type="proceedings" xml:id="bib.bib209">
+      <bibentry key="GWAI92" type="proceedings" xml:id="bib.bib208">
         <bib-title>GWAI-92: advances in artificial intelligence</bib-title>
         <bib-date role="publication">1993</bib-date>
         <bib-name role="editor">
@@ -6072,7 +6018,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {GWAI-92: Advances in Artificial Intelligence}}
 </bib-data>
       </bibentry>
-      <bibentry key="ParisEtAl:nlgiai91" type="proceedings" xml:id="bib.bib210">
+      <bibentry key="ParisEtAl:nlgiai91" type="proceedings" xml:id="bib.bib209">
         <bib-title>Natural language generation in artificial intelligence and computational linguistics</bib-title>
         <bib-date role="publication">1991</bib-date>
         <bib-name role="editor">
@@ -6098,7 +6044,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Kluwer}}
 </bib-data>
       </bibentry>
-      <bibentry key="JELIA92" type="proceedings" xml:id="bib.bib211">
+      <bibentry key="JELIA92" type="proceedings" xml:id="bib.bib210">
         <bib-date role="publication">1992</bib-date>
         <bib-name role="editor">
           <surname>Pearce</surname>
@@ -6123,7 +6069,7 @@ Intelligence (IJCAI)</bib-title>
        key = {JELIA1992}}
 </bib-data>
       </bibentry>
-      <bibentry key="ITS2000-W2" type="proceedings" xml:id="bib.bib212">
+      <bibentry key="ITS2000-W2" type="proceedings" xml:id="bib.bib211">
         <bib-title>Proceedings of the fifth international conference on intelligent tutoring systems—workshop w2: adaptive and intelligent web-based education systems</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -6144,7 +6090,7 @@ Intelligence (IJCAI)</bib-title>
        key = {ITS2000-W2}}
 </bib-data>
       </bibentry>
-      <bibentry key="LPAR94" type="proceedings" xml:id="bib.bib213">
+      <bibentry key="LPAR94" type="proceedings" xml:id="bib.bib212">
         <bib-date role="publication">1994</bib-date>
         <bib-name role="editor">
           <surname>Pfenning</surname>
@@ -6171,7 +6117,7 @@ and Automated Reasoning LPAR’94</bib-title>
        key = {LPAR1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI97" type="proceedings" xml:id="bib.bib214">
+      <bibentry key="IJCAI97" type="proceedings" xml:id="bib.bib213">
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
           <surname>Pollack</surname>
@@ -6194,7 +6140,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="ECAI98" type="proceedings" xml:id="bib.bib215">
+      <bibentry key="ECAI98" type="proceedings" xml:id="bib.bib214">
         <bib-title>Proceedings of of the 13<sup>th</sup> european conference on artifical intelligence</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-name role="editor">
@@ -6216,7 +6162,7 @@ Intelligence (IJCAI)</bib-title>
        key = {ECAI1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS06" type="proceedings" xml:id="bib.bib216">
+      <bibentry key="CALCULEMUS06" type="proceedings" xml:id="bib.bib215">
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
           <surname>Ranise</surname>
@@ -6235,7 +6181,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     Computation and Mechanized Reasoning (Calculemus-2006)}}
 </bib-data>
       </bibentry>
-      <bibentry key="ITS02-TS" type="proceedings" xml:id="bib.bib217">
+      <bibentry key="ITS02-TS" type="proceedings" xml:id="bib.bib216">
         <bib-title>Proceedings of the its 2002 — workshop on empirical methods for tutorial dialogue systems</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -6255,7 +6201,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
    address = {San Sebasti{\'a}n, \SPAIN}}
 </bib-data>
       </bibentry>
-      <bibentry key="EKM05" type="book" xml:id="bib.bib218">
+      <bibentry key="EKM05" type="book" xml:id="bib.bib217">
         <bib-name role="editor">
           <surname>Schwartz</surname>
           <givenname>David G.</givenname>
@@ -6272,7 +6218,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
       year = {2005}}
 </bib-data>
       </bibentry>
-      <bibentry key="EKM11" type="book" xml:id="bib.bib219">
+      <bibentry key="EKM11" type="book" xml:id="bib.bib218">
         <bib-name role="editor">
           <surname>Schwartz</surname>
           <givenname>David</givenname>
@@ -6295,7 +6241,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE84" type="proceedings" xml:id="bib.bib220">
+      <bibentry key="CADE84" type="proceedings" xml:id="bib.bib219">
         <bib-title>Proceedings of the 7<sup>th</sup> international conference on automated deduction</bib-title>
         <bib-date role="publication">1984</bib-date>
         <bib-name role="editor">
@@ -6319,7 +6265,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
        key = {CADE1984}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE86" type="proceedings" xml:id="bib.bib221">
+      <bibentry key="CADE86" type="proceedings" xml:id="bib.bib220">
         <bib-title>Proceedings of the 8<sup>th</sup> conference on automated deduction</bib-title>
         <bib-date role="publication">1986</bib-date>
         <bib-name role="editor">
@@ -6345,7 +6291,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
        key = {CADE1986}}
 </bib-data>
       </bibentry>
-      <bibentry key="PTP97" type="proceedings" xml:id="bib.bib222">
+      <bibentry key="PTP97" type="proceedings" xml:id="bib.bib221">
         <bib-title>Proceedings of the first international workshop on proof transformation and presentation</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -6371,7 +6317,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     and Presentation}}
 </bib-data>
       </bibentry>
-      <bibentry key="SiekmannWrightson:aori83" type="proceedings" xml:id="bib.bib223">
+      <bibentry key="SiekmannWrightson:aori83" type="proceedings" xml:id="bib.bib222">
         <bib-title>Automation of reasoning 1: classical papers on computational logic 1957–1966</bib-title>
         <bib-date role="publication">1983</bib-date>
         <bib-name role="editor">
@@ -6393,7 +6339,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 225 **** -->      <bibentry key="SieWri:aori83" type="proceedings" xml:id="bib.bib224">
+      <bibentry key="SieWri:aori83" type="proceedings" xml:id="bib.bib223">
         <bib-title>Automation of reasoning</bib-title>
         <bib-date role="publication">1983</bib-date>
         <bib-name role="editor">
@@ -6417,7 +6363,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
  booktitle = {Automation of Reasoning}}
 </bib-data>
       </bibentry>
-      <bibentry key="SieWri:aorii83" type="proceedings" xml:id="bib.bib225">
+<!--  %**** String Line 225 **** -->      <bibentry key="SieWri:aorii83" type="proceedings" xml:id="bib.bib224">
         <bib-title>Automation of reasoning</bib-title>
         <bib-date role="publication">1983</bib-date>
         <bib-name role="editor">
@@ -6441,7 +6387,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
  booktitle = {Automation of Reasoning}}
 </bib-data>
       </bibentry>
-      <bibentry key="AIPS98" type="proceedings" xml:id="bib.bib226">
+      <bibentry key="AIPS98" type="proceedings" xml:id="bib.bib225">
         <bib-title>Proceedings of the fourth international conference on artificial intelligence planning systems (AIPS-98)</bib-title>
         <bib-date role="publication">1998-06</bib-date>
         <bib-name role="editor">
@@ -6475,7 +6421,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
        key = {AIPS98}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS03" type="proceedings" xml:id="bib.bib227">
+      <bibentry key="CALCULEMUS03" type="proceedings" xml:id="bib.bib226">
         <bib-title>11<sup>th</sup> symposium on the integration of symbolic computation and mechanized reasoning (Calculemus 2003)</bib-title>
         <bib-url href="http://www.calculemus.net/meetings/rome03/Proceedings/final.pdf">Link</bib-url>
         <bib-date role="publication">2003-09</bib-date>
@@ -6501,7 +6447,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
      month = {September}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS04" type="proceedings" xml:id="bib.bib228">
+      <bibentry key="CALCULEMUS04" type="proceedings" xml:id="bib.bib227">
         <bib-title>Second international joint conference on automated reasoning — workshop on computer-supported mathematical theory development</bib-title>
         <bib-date role="publication">2004</bib-date>
         <bib-name role="editor">
@@ -6523,7 +6469,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     Workshop on Computer-Supported Mathematical Theory Development}}
 </bib-data>
       </bibentry>
-      <bibentry key="Speck92" type="book" xml:id="bib.bib229">
+      <bibentry key="Speck92" type="book" xml:id="bib.bib228">
         <bib-title>Grundprobleme der großen philosophen : philosophie der neuzeit. vol. 6. tarski, reichenbach, kraft, gödel, neurath</bib-title>
         <bib-publisher>UTB</bib-publisher>
         <bib-date role="publication">1992</bib-date>
@@ -6559,7 +6505,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     status = {available}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICLP97" type="proceedings" xml:id="bib.bib230">
+      <bibentry key="ICLP97" type="proceedings" xml:id="bib.bib229">
         <bib-title>Proceedings of the 12<sup>th</sup> international conference on logic programming</bib-title>
         <bib-date role="publication">1995</bib-date>
         <bib-name role="editor">
@@ -6581,7 +6527,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
       isbn = {0-262-69177-9}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE90" type="proceedings" xml:id="bib.bib231">
+      <bibentry key="CADE90" type="proceedings" xml:id="bib.bib230">
         <bib-title>Proceedings of the 10<sup>th</sup> conference on automated deduction</bib-title>
         <bib-date role="publication">1990</bib-date>
         <bib-name role="editor">
@@ -6607,7 +6553,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
        key = {CADE1990}}
 </bib-data>
       </bibentry>
-      <bibentry key="sun-giles00" type="proceedings" xml:id="bib.bib232">
+      <bibentry key="sun-giles00" type="proceedings" xml:id="bib.bib231">
         <bib-title>Sequence learning: paradigms, algorithms, and applications</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -6630,7 +6576,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="eswc2006" type="proceedings" xml:id="bib.bib233">
+      <bibentry key="eswc2006" type="proceedings" xml:id="bib.bib232">
         <bib-title>The semantic web: research and applications</bib-title>
         <bib-data role="eventtitle">3\textsuperscript{rd} European Semantic Web Conference ({ESWC})</bib-data>
         <bib-data role="venue">Budva, Montenegro</bib-data>
@@ -6664,7 +6610,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
       isbn = {3-540-34544-2}}
 </bib-data>
       </bibentry>
-      <bibentry key="TABLEAUX98" type="proceedings" xml:id="bib.bib234">
+      <bibentry key="TABLEAUX98" type="proceedings" xml:id="bib.bib233">
         <bib-title>Automated reasoning with analytic tableaux and related methods</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-name role="editor">
@@ -6686,7 +6632,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
  booktitle = {Automated Reasoning with Analytic Tableaux and Related Methods}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICLP93" type="proceedings" xml:id="bib.bib235">
+      <bibentry key="ICLP93" type="proceedings" xml:id="bib.bib234">
         <bib-title>Proceedings of the 10<sup>th</sup> international conference on logic programming</bib-title>
         <bib-date role="publication">1993</bib-date>
         <bib-name role="editor">
@@ -6704,7 +6650,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
  booktitle = {Proceedings of the 10\textsuperscript{th} International Conference on Logic Programming}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICMS06" type="proceedings" xml:id="bib.bib236">
+      <bibentry key="ICMS06" type="proceedings" xml:id="bib.bib235">
         <bib-title>Proceedings of icms 2006</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -6730,7 +6676,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
  booktitle = {Proceedings of ICMS-2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="TarskiGivantMcKenzie86" type="book" xml:id="bib.bib237">
+      <bibentry key="TarskiGivantMcKenzie86" type="book" xml:id="bib.bib236">
         <bib-title>Alfred tarski : collected papers – vol. 1 / 1921–1934</bib-title>
         <bib-publisher>Birkhäuser</bib-publisher>
         <bib-date role="publication">1986</bib-date>
@@ -6769,7 +6715,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     status = {available}}
 </bib-data>
       </bibentry>
-      <bibentry key="Thomason:fp74" type="book" xml:id="bib.bib238">
+      <bibentry key="Thomason:fp74" type="book" xml:id="bib.bib237">
         <bib-title>Formal philosophy: selected papers of richard montague</bib-title>
         <bib-publisher>Yale University Press, New Haven, CT</bib-publisher>
         <bib-date role="publication">1974</bib-date>
@@ -6784,7 +6730,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
     editor = {Thomason, R.}}
 </bib-data>
       </bibentry>
-      <bibentry key="TPHOL02" type="proceedings" xml:id="bib.bib239">
+      <bibentry key="TPHOL02" type="proceedings" xml:id="bib.bib238">
         <bib-title>Theorem proving in higher order logics: tphols’02</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -6816,7 +6762,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
        key = {TPHOLS2002}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE02" type="proceedings" xml:id="bib.bib240">
+      <bibentry key="CADE02" type="proceedings" xml:id="bib.bib239">
         <bib-title>Automated deduction — cade-18</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -6840,7 +6786,7 @@ Computation and Mechanized Reasoning (Calculemus-2006)</bib-title>
        key = {CADE2002}}
 </bib-data>
       </bibentry>
-      <bibentry key="LPAR93" type="proceedings" xml:id="bib.bib241">
+      <bibentry key="LPAR93" type="proceedings" xml:id="bib.bib240">
         <bib-date role="publication">1993</bib-date>
         <bib-name role="editor">
           <surname>Voronkov</surname>
@@ -6867,7 +6813,7 @@ and Automated Reasoning LPAR’93</bib-title>
        key = {LPAR1993}}
 </bib-data>
       </bibentry>
-      <bibentry key="LPAR92" type="proceedings" xml:id="bib.bib242">
+      <bibentry key="LPAR92" type="proceedings" xml:id="bib.bib241">
         <bib-title>Proceedings of the international conference on logic programming and automated reasoning lpar’92</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-name role="editor">
@@ -6895,7 +6841,7 @@ and Automated Reasoning LPAR’93</bib-title>
        key = {LPAR1992}}
 </bib-data>
       </bibentry>
-      <bibentry key="semwiki06" type="proceedings" xml:id="bib.bib243">
+      <bibentry key="semwiki06" type="proceedings" xml:id="bib.bib242">
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
           <surname>Völkel</surname>
@@ -6931,7 +6877,7 @@ and Automated Reasoning LPAR’93</bib-title>
      title = {Proceedings of the 1\textsuperscript{st} Workshop on Semantic Wikis, {European} {Semantic} {Web} {Conference}}}
 </bib-data>
       </bibentry>
-      <bibentry key="ECAI96" type="proceedings" xml:id="bib.bib244">
+      <bibentry key="ECAI96" type="proceedings" xml:id="bib.bib243">
         <bib-title>Proceedings of the 12<sup>th</sup> european conference on artificial intelligence</bib-title>
         <bib-date role="publication">1996-08</bib-date>
         <bib-name role="editor">
@@ -6955,7 +6901,7 @@ and Automated Reasoning LPAR’93</bib-title>
        key = {ECAI1996}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI73" type="proceedings" xml:id="bib.bib245">
+      <bibentry key="IJCAI73" type="proceedings" xml:id="bib.bib244">
         <bib-title>Proceedings of the 3<sup>rd</sup> international joint conference on artificial intelligence</bib-title>
         <bib-date role="publication">1973</bib-date>
         <bib-name role="editor">
@@ -6979,7 +6925,7 @@ and Automated Reasoning LPAR’93</bib-title>
        key = {IJCAI1973}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI69" type="proceedings" xml:id="bib.bib246">
+      <bibentry key="IJCAI69" type="proceedings" xml:id="bib.bib245">
         <bib-date role="publication">1969</bib-date>
         <bib-name role="editor">
           <surname>Walker</surname>
@@ -7002,7 +6948,7 @@ Intelligence</bib-title>
        key = {IJCAI1969}}
 </bib-data>
       </bibentry>
-      <bibentry key="ISSAC92" type="proceedings" xml:id="bib.bib247">
+      <bibentry key="ISSAC92" type="proceedings" xml:id="bib.bib246">
         <bib-title>Proceedings of international symposium on symbolic and algebraic computation (ISSAC’92)</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-name role="editor">
@@ -7024,7 +6970,7 @@ Intelligence</bib-title>
        key = {ISSAC1992}}
 </bib-data>
       </bibentry>
-      <bibentry key="ISSAC00" type="proceedings" xml:id="bib.bib248">
+      <bibentry key="ISSAC00" type="proceedings" xml:id="bib.bib247">
         <bib-title>Proceedings of 2000 international symposium on symbolic and algebraic computation (ISSAC’00)</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-name role="editor">
@@ -7046,7 +6992,7 @@ Intelligence</bib-title>
       isbn = {1-58113-218-2}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 250 **** -->      <bibentry key="ISSAC2010" type="proceedings" xml:id="bib.bib249">
+      <bibentry key="ISSAC2010" type="proceedings" xml:id="bib.bib248">
         <bib-title>Proceedings of the 2010 international symposium on symbolic and algebraic computation (ISSAC)</bib-title>
         <bib-date role="publication">2010</bib-date>
         <bib-publisher>ACM Press</bib-publisher>
@@ -7059,7 +7005,7 @@ Intelligence</bib-title>
  booktitle = {Proceedings of the 2010 International Symposium on Symbolic and Algebraic  Computation ({ISSAC})}}
 </bib-data>
       </bibentry>
-      <bibentry key="DEDTREFF94" type="proceedings" xml:id="bib.bib250">
+<!--  %**** String Line 250 **** -->      <bibentry key="DEDTREFF94" type="proceedings" xml:id="bib.bib249">
         <bib-date role="publication">1994</bib-date>
         <bib-name role="editor">
           <surname>Wolfgang Bibel</surname>
@@ -7080,7 +7026,7 @@ Deduktionssysteme”</bib-title>
     Deduktionssysteme''}}
 </bib-data>
       </bibentry>
-      <bibentry key="TPHOL96" type="proceedings" xml:id="bib.bib251">
+      <bibentry key="TPHOL96" type="proceedings" xml:id="bib.bib250">
         <bib-title>Theorem proving in higher order logics: tphols’96</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-name role="editor">
@@ -7111,7 +7057,7 @@ Deduktionssysteme”</bib-title>
        key = {TPHOLS1996}}
 </bib-data>
       </bibentry>
-      <bibentry key="EWNLG93" type="proceedings" xml:id="bib.bib252">
+      <bibentry key="EWNLG93" type="proceedings" xml:id="bib.bib251">
         <bib-title>Proceedings of the 4<sup>th</sup> european workshop on natural language generation</bib-title>
         <bib-date role="publication">1993</bib-date>
         <bib-name role="editor">
@@ -7132,7 +7078,7 @@ Deduktionssysteme”</bib-title>
     editor = {Michael Zock and Giovanni Adorni and Giacomo Ferrari}}
 </bib-data>
       </bibentry>
-      <bibentry key="xtech05" type="proceedings" xml:id="bib.bib253">
+      <bibentry key="xtech05" type="proceedings" xml:id="bib.bib252">
         <bib-title>XTech 2005: xml, the web and beyond.</bib-title>
         <bib-date role="publication">2005</bib-date>
         <bib-place>Amsterdam, The Netherlands</bib-place>
@@ -7147,7 +7093,7 @@ Deduktionssysteme”</bib-title>
  booktitle = {XTech 2005: XML, the Web and beyond.}}
 </bib-data>
       </bibentry>
-      <bibentry key="EACL03-DS" type="proceedings" xml:id="bib.bib254">
+      <bibentry key="EACL03-DS" type="proceedings" xml:id="bib.bib253">
         <bib-title>10<sup>th</sup> conference of the european chapter of the association for computational linguistics—proceedings of the workshop on dialogue systems: interaction, adaptation and styles of management</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-place>Budapest, Hungary</bib-place>
@@ -7159,7 +7105,7 @@ Deduktionssysteme”</bib-title>
    address = {Budapest, \HUNGARY}}
 </bib-data>
       </bibentry>
-      <bibentry key="QPQ03" type="proceedings" xml:id="bib.bib255">
+      <bibentry key="QPQ03" type="proceedings" xml:id="bib.bib254">
         <bib-title>First qpq workshop on deductive software components</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-place>CADE-19, Miami, USA</bib-place>
@@ -7172,7 +7118,7 @@ Deduktionssysteme”</bib-title>
        key = {QPQ03}}
 </bib-data>
       </bibentry>
-      <bibentry key="UNIF03" type="proceedings" xml:id="bib.bib256">
+      <bibentry key="UNIF03" type="proceedings" xml:id="bib.bib255">
         <bib-title>17<sup>th</sup> workshop on unification</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-place>Valencia, Spain</bib-place>
@@ -7185,7 +7131,7 @@ Deduktionssysteme”</bib-title>
        key = {UNIF2003}}
 </bib-data>
       </bibentry>
-      <bibentry key="WADT03" type="proceedings" xml:id="bib.bib257">
+      <bibentry key="WADT03" type="proceedings" xml:id="bib.bib256">
         <bib-title>Recent trends in algebraic development techniques</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-part role="number">2755</bib-part>
@@ -7204,7 +7150,7 @@ Deduktionssysteme”</bib-title>
        key = {WADT03}}
 </bib-data>
       </bibentry>
-      <bibentry key="WADT06" type="proceedings" xml:id="bib.bib258">
+      <bibentry key="WADT06" type="proceedings" xml:id="bib.bib257">
         <bib-title>WADT 2006</bib-title>
         <bib-date role="publication">2007</bib-date>
         <bib-name role="editor">
@@ -7226,7 +7172,7 @@ Deduktionssysteme”</bib-title>
  publisher = {Springer}}
 </bib-data>
       </bibentry>
-      <bibentry key="WADT10" type="proceedings" xml:id="bib.bib259">
+      <bibentry key="WADT10" type="proceedings" xml:id="bib.bib258">
         <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
         <bib-name role="editor">
           <surname>Kreowski</surname>
@@ -7251,7 +7197,7 @@ Deduktionssysteme”</bib-title>
     series = {LNCS}}
 </bib-data>
       </bibentry>
-      <bibentry key="WADT12" type="proceedings" xml:id="bib.bib260">
+      <bibentry key="WADT12" type="proceedings" xml:id="bib.bib259">
         <bib-date role="publication">2013</bib-date>
         <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
         <bib-name role="editor">
@@ -7286,7 +7232,7 @@ Deduktionssysteme”</bib-title>
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathML02" type="proceedings" xml:id="bib.bib261">
+      <bibentry key="MathML02" type="proceedings" xml:id="bib.bib260">
         <bib-key>MathML02</bib-key>
         <bib-title>Second international conference on mathml and technologies for math on the web</bib-title>
         <bib-date role="publication">2002</bib-date>
@@ -7303,7 +7249,7 @@ Deduktionssysteme”</bib-title>
     on the Web}}
 </bib-data>
       </bibentry>
-      <bibentry key="ACL00" type="proceedings" xml:id="bib.bib262">
+      <bibentry key="ACL00" type="proceedings" xml:id="bib.bib261">
         <bib-date role="publication">2000</bib-date>
         <bib-place>Hongkong</bib-place>
         <bib-extract role="keywords">conference</bib-extract>
@@ -7317,7 +7263,7 @@ Linguistics</bib-title>
     Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathML00" type="proceedings" xml:id="bib.bib263">
+      <bibentry key="MathML00" type="proceedings" xml:id="bib.bib262">
         <bib-title>MathML and math on the web: mathml international conference</bib-title>
         <bib-date role="publication">2000-10</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
@@ -7332,7 +7278,7 @@ Linguistics</bib-title>
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="TACAS00" type="proceedings" xml:id="bib.bib264">
+      <bibentry key="TACAS00" type="proceedings" xml:id="bib.bib263">
         <bib-title>Proceedings of the sixth international conference on tools and algorithms for the construction and analysis of systems tacas-2000</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-part role="series">LNCS</bib-part>
@@ -7353,7 +7299,7 @@ Linguistics</bib-title>
        key = {TACAS2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="TACAS07" type="proceedings" xml:id="bib.bib265">
+      <bibentry key="TACAS07" type="proceedings" xml:id="bib.bib264">
         <bib-title>Proceedings of the 13<sup>th</sup> international conference on tools and algorithms for the construction and analysis of systems tacas-2007</bib-title>
         <bib-date role="publication">2007</bib-date>
         <bib-part role="series">LNCS</bib-part>
@@ -7385,7 +7331,7 @@ Linguistics</bib-title>
        key = {TACAS2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="AAAI92" type="proceedings" xml:id="bib.bib266">
+      <bibentry key="AAAI92" type="proceedings" xml:id="bib.bib265">
         <bib-key>AAAI-92</bib-key>
         <bib-title>Proceedings of the 10th national conference of the american association for artificial intelligence (aaai’92)</bib-title>
         <bib-date role="publication">1992</bib-date>
@@ -7402,7 +7348,7 @@ Linguistics</bib-title>
    address = {San Jose, CA}}
 </bib-data>
       </bibentry>
-      <bibentry key="AAAI99" type="proceedings" xml:id="bib.bib267">
+      <bibentry key="AAAI99" type="proceedings" xml:id="bib.bib266">
         <bib-title>Proceedings of the Sixteenth National Conference on Artificial Intelligence (AAAI-99) and Eleventh Innovative Application of Artificial Intelligence Conference (IAAI-99)</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-publisher>AAAI Press</bib-publisher>
@@ -7419,7 +7365,7 @@ Linguistics</bib-title>
     Conference ({IAAI-99})}}}
 </bib-data>
       </bibentry>
-      <bibentry key="EWNLG99" type="proceedings" xml:id="bib.bib268">
+      <bibentry key="EWNLG99" type="proceedings" xml:id="bib.bib267">
         <bib-title>Proceedingsof the 7<sup>th</sup> european workshop on natural language generation</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-place>Toulouse France</bib-place>
@@ -7430,7 +7376,7 @@ Linguistics</bib-title>
  booktitle = {\PROC of the 7\textsuperscript{th} European Workshop on Natural Language Generation}}
 </bib-data>
       </bibentry>
-      <bibentry key="ISSAC99" type="proceedings" xml:id="bib.bib269">
+      <bibentry key="ISSAC99" type="proceedings" xml:id="bib.bib268">
         <bib-title>Proceedings of international symposium on symbolic and algebraic computation (ISSAC’99)</bib-title>
         <bib-date role="publication">1999</bib-date>
         <bib-publisher>ACM Press</bib-publisher>
@@ -7447,7 +7393,7 @@ Linguistics</bib-title>
        key = {ISSAC1999}}
 </bib-data>
       </bibentry>
-      <bibentry key="AAAI96" type="proceedings" xml:id="bib.bib270">
+      <bibentry key="AAAI96" type="proceedings" xml:id="bib.bib269">
         <bib-title>Proceedings of the Thirteenth National Conference on Artificial Intelligence AAAI-96</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-publisher>MIT Press</bib-publisher>
@@ -7462,7 +7408,7 @@ Linguistics</bib-title>
     Intelligence AAAI-96}}}
 </bib-data>
       </bibentry>
-      <bibentry key="AAAI98" type="proceedings" xml:id="bib.bib271">
+      <bibentry key="AAAI98" type="proceedings" xml:id="bib.bib270">
         <bib-title>Proceedings of the Fifteenth National Conference on Artificial Intelligence AAAI-98 and Tenth Conference on Innovative Application of Artificial Intelligence IAAI-98</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-publisher>MIT Press</bib-publisher>
@@ -7479,7 +7425,7 @@ Linguistics</bib-title>
     Intelligence IAAI-98}}}
 </bib-data>
       </bibentry>
-      <bibentry key="INLG98" type="proceedings" xml:id="bib.bib272">
+      <bibentry key="INLG98" type="proceedings" xml:id="bib.bib271">
         <bib-title>Proceedings of the 9<sup>th</sup> International Workshop on Natural Language Generation</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-place>Niagara-on-the-Lake, Ontario, Canada</bib-place>
@@ -7496,7 +7442,7 @@ Linguistics</bib-title>
        key = {INLG1998}}
 </bib-data>
       </bibentry>
-      <bibentry key="JELIA98" type="proceedings" xml:id="bib.bib273">
+      <bibentry key="JELIA98" type="proceedings" xml:id="bib.bib272">
         <bib-date role="publication">1998</bib-date>
         <bib-part role="number">1489</bib-part>
         <bib-part role="series">LNAI</bib-part>
@@ -7512,7 +7458,7 @@ Linguistics</bib-title>
    journal = {LNCS}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 275 **** -->      <bibentry key="AAAI97" type="proceedings" xml:id="bib.bib274">
+      <bibentry key="AAAI97" type="proceedings" xml:id="bib.bib273">
         <bib-title>Proceedings of the Fourteenth National Conference on Artificial Intelligence AAAI-97</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-publisher>MIT Press</bib-publisher>
@@ -7531,7 +7477,7 @@ Linguistics</bib-title>
  eventdate = {1997-03}}
 </bib-data>
       </bibentry>
-      <bibentry key="ACL97" type="proceedings" xml:id="bib.bib275">
+<!--  %**** String Line 275 **** -->      <bibentry key="ACL97" type="proceedings" xml:id="bib.bib274">
         <bib-date role="publication">1997</bib-date>
         <bib-place>Madrid, Spain</bib-place>
         <bib-extract role="keywords">conference</bib-extract>
@@ -7547,7 +7493,7 @@ Association for Computational Linguistics</bib-title>
     Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="ISSAC97" type="proceedings" xml:id="bib.bib276">
+      <bibentry key="ISSAC97" type="proceedings" xml:id="bib.bib275">
         <bib-title>Proceedings of international symposium on symbolic and algebraic computation (ISSAC’97)</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-place>Hawaii</bib-place>
@@ -7566,7 +7512,7 @@ Association for Computational Linguistics</bib-title>
        key = {ISSAC1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="INLG96" type="proceedings" xml:id="bib.bib277">
+      <bibentry key="INLG96" type="proceedings" xml:id="bib.bib276">
         <bib-title>Proceedings of the 8<sup>th</sup> international natural language generation workshop</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-place>Herstmonceux Castle, Sussex, UK</bib-place>
@@ -7581,7 +7527,7 @@ Association for Computational Linguistics</bib-title>
        key = {INLG1996}}
 </bib-data>
       </bibentry>
-      <bibentry key="JELIA96" type="proceedings" xml:id="bib.bib278">
+      <bibentry key="JELIA96" type="proceedings" xml:id="bib.bib277">
         <bib-date role="publication">1996</bib-date>
         <bib-part role="number">1126</bib-part>
         <bib-part role="series">LNAI</bib-part>
@@ -7598,7 +7544,7 @@ Association for Computational Linguistics</bib-title>
        key = {JELIA1996}}
 </bib-data>
       </bibentry>
-      <bibentry key="EWNLG95" type="proceedings" xml:id="bib.bib279">
+      <bibentry key="EWNLG95" type="proceedings" xml:id="bib.bib278">
         <bib-title>Proceedingsof the 5<sup>th</sup> european workshop on natural language generation</bib-title>
         <bib-date role="publication">1995</bib-date>
         <bib-place>Leiden, Netherlands</bib-place>
@@ -7611,7 +7557,7 @@ Association for Computational Linguistics</bib-title>
  booktitle = {Proceedings of the 5\textsuperscript{th} European Workshop on Natural Language Generation}}
 </bib-data>
       </bibentry>
-      <bibentry key="ISSAC95" type="proceedings" xml:id="bib.bib280">
+      <bibentry key="ISSAC95" type="proceedings" xml:id="bib.bib279">
         <bib-title>Proceedings of international symposium on symbolic and algebraic computation (ISSAC’95)</bib-title>
         <bib-date role="publication">1995</bib-date>
         <bib-publisher>ACM Press</bib-publisher>
@@ -7628,7 +7574,7 @@ Association for Computational Linguistics</bib-title>
        key = {ISSAC1995}}
 </bib-data>
       </bibentry>
-      <bibentry key="UITP95" type="proceedings" xml:id="bib.bib281">
+      <bibentry key="UITP95" type="proceedings" xml:id="bib.bib280">
         <bib-title>International Workshop on User Interface Design for Theorem Proving Systems</bib-title>
         <bib-date role="publication">1995</bib-date>
         <bib-place>Glasgow</bib-place>
@@ -7643,7 +7589,7 @@ Association for Computational Linguistics</bib-title>
        key = {UITP1995}}
 </bib-data>
       </bibentry>
-      <bibentry key="WSMTG-IJCAI95" type="proceedings" xml:id="bib.bib282">
+      <bibentry key="WSMTG-IJCAI95" type="proceedings" xml:id="bib.bib281">
         <bib-title>Proceedings of the ijcai-95 workshop on multilingual text generation</bib-title>
         <bib-date role="publication">1995</bib-date>
         <bib-place>Montreal, Canada</bib-place>
@@ -7654,7 +7600,7 @@ Association for Computational Linguistics</bib-title>
  booktitle = {Proceedings of the IJCAI-95 Workshop on Multilingual Text Generation}}
 </bib-data>
       </bibentry>
-      <bibentry key="COGSCI94" type="proceedings" xml:id="bib.bib283">
+      <bibentry key="COGSCI94" type="proceedings" xml:id="bib.bib282">
         <bib-title>Proceedings of the 16<sup>th</sup> annual conference of the cognitive science society</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">1994</bib-date>
@@ -7665,7 +7611,7 @@ Association for Computational Linguistics</bib-title>
       year = {1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="COLING94" type="proceedings" xml:id="bib.bib284">
+      <bibentry key="COLING94" type="proceedings" xml:id="bib.bib283">
         <bib-title>Proceedings of the 15<sup>th</sup> International Conference on Computational Linguistics</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-place>Kyoto, Japan</bib-place>
@@ -7682,7 +7628,7 @@ Association for Computational Linguistics</bib-title>
     {Linguistics}}}
 </bib-data>
       </bibentry>
-      <bibentry key="COLING00" type="proceedings" xml:id="bib.bib285">
+      <bibentry key="COLING00" type="proceedings" xml:id="bib.bib284">
         <bib-title>COLING 2000, 18<sup>th</sup> International Conference on Computational Linguistics</bib-title>
         <bib-publisher>Morgan Kaufmann</bib-publisher>
         <bib-date role="publication">2000</bib-date>
@@ -7697,7 +7643,7 @@ Association for Computational Linguistics</bib-title>
         ee = {http://aclweb.org/anthology/C/C00/}}
 </bib-data>
       </bibentry>
-      <bibentry key="INLG94" type="proceedings" xml:id="bib.bib286">
+      <bibentry key="INLG94" type="proceedings" xml:id="bib.bib285">
         <bib-title>Proceedings of the 7<sup>th</sup> International Workshop on Natural Language Generation</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-place>Kennebunkport, ME</bib-place>
@@ -7714,7 +7660,7 @@ Association for Computational Linguistics</bib-title>
        key = {INLG1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS94" type="proceedings" xml:id="bib.bib287">
+      <bibentry key="LICS94" type="proceedings" xml:id="bib.bib286">
         <bib-title>Proceedings of the 9<sup>th</sup> annual IEEE symposium on logic in computer science (LICS-9)</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-place>Paris, France</bib-place>
@@ -7733,7 +7679,7 @@ Association for Computational Linguistics</bib-title>
        key = {LICS1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="POPL94" type="proceedings" xml:id="bib.bib288">
+      <bibentry key="POPL94" type="proceedings" xml:id="bib.bib287">
         <bib-title>Proceedings of the 21<sup>st</sup> ACM symposium on principles of programming languages</bib-title>
         <bib-date role="publication">1994-01</bib-date>
         <bib-place>New York, NY</bib-place>
@@ -7756,7 +7702,7 @@ Association for Computational Linguistics</bib-title>
        key = {POPL1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="WGENERATION94" type="proceedings" xml:id="bib.bib289">
+      <bibentry key="WGENERATION94" type="proceedings" xml:id="bib.bib288">
         <bib-title>Proceedings of 7<sup>th</sup> international workshop on generation</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-place>Kennebunkport, Maine, USA</bib-place>
@@ -7767,7 +7713,7 @@ Association for Computational Linguistics</bib-title>
  booktitle = {Proceedings of 7\textsuperscript{th} International Workshop on Generation}}
 </bib-data>
       </bibentry>
-      <bibentry key="HOA93" type="proceedings" xml:id="bib.bib290">
+      <bibentry key="HOA93" type="proceedings" xml:id="bib.bib289">
         <bib-date role="publication">1993</bib-date>
         <bib-part role="number">816</bib-part>
         <bib-part role="series">LNCS</bib-part>
@@ -7789,7 +7735,7 @@ and Term Rewriting</bib-title>
        key = {HOA1993}}
 </bib-data>
       </bibentry>
-      <bibentry key="IAAI93" type="proceedings" xml:id="bib.bib291">
+      <bibentry key="IAAI93" type="proceedings" xml:id="bib.bib290">
         <bib-title>Proceedings of the 5<sup>th</sup> innovative applications of artificial intelligence conference</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">1993</bib-date>
@@ -7800,7 +7746,7 @@ and Term Rewriting</bib-title>
       year = {1993}}
 </bib-data>
       </bibentry>
-      <bibentry key="ISMVL93" type="proceedings" xml:id="bib.bib292">
+      <bibentry key="ISMVL93" type="proceedings" xml:id="bib.bib291">
         <bib-date role="publication">1993</bib-date>
         <bib-place>Sacramento, CA</bib-place>
         <bib-publisher>IEEE Press</bib-publisher>
@@ -7816,7 +7762,7 @@ Logic</bib-title>
        key = {ISMVL1993}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS93" type="proceedings" xml:id="bib.bib293">
+      <bibentry key="LICS93" type="proceedings" xml:id="bib.bib292">
         <bib-title>Proceedings of the 8<sup>th</sup> annual IEEE symposium on logic in computer science (LICS-8)</bib-title>
         <bib-date role="publication">1993</bib-date>
         <bib-place>Montreal, Canada</bib-place>
@@ -7835,7 +7781,7 @@ Logic</bib-title>
        key = {LICS1993}}
 </bib-data>
       </bibentry>
-      <bibentry key="PACL93" type="proceedings" xml:id="bib.bib294">
+      <bibentry key="PACL93" type="proceedings" xml:id="bib.bib293">
         <bib-title>Proceedings of the 1<sup>st</sup> conference of the pacific association for computational linguistics</bib-title>
         <bib-date role="publication">1993</bib-date>
         <bib-place>Vancouver, Canada</bib-place>
@@ -7848,7 +7794,7 @@ Logic</bib-title>
  publisher = {Centre for Systems Science, Simon Fraser University}}
 </bib-data>
       </bibentry>
-      <bibentry key="CTRS92" type="proceedings" xml:id="bib.bib295">
+      <bibentry key="CTRS92" type="proceedings" xml:id="bib.bib294">
         <bib-date role="publication">1992</bib-date>
         <bib-part role="number">656</bib-part>
         <bib-part role="series">LNCS</bib-part>
@@ -7866,7 +7812,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {CTRS1992}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS91" type="proceedings" xml:id="bib.bib296">
+      <bibentry key="LICS91" type="proceedings" xml:id="bib.bib295">
         <bib-title>Proceedings of the 6<sup>th</sup> annual IEEE symposium on logic in computer science (LICS-6)</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-place>Amsterdam, NL</bib-place>
@@ -7885,7 +7831,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {LICS1991}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS92" type="proceedings" xml:id="bib.bib297">
+      <bibentry key="LICS92" type="proceedings" xml:id="bib.bib296">
         <bib-title>Proceedings of the 7<sup>th</sup> annual IEEE symposium on logic in computer science (LICS-7)</bib-title>
         <bib-date role="publication">1992</bib-date>
         <bib-place>Santa Cruz, CA, USA</bib-place>
@@ -7904,7 +7850,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {LICS1992}}
 </bib-data>
       </bibentry>
-      <bibentry key="AAAI91" type="proceedings" xml:id="bib.bib298">
+      <bibentry key="AAAI91" type="proceedings" xml:id="bib.bib297">
         <bib-title>Proceedings of aaai-91</bib-title>
         <bib-date role="publication">1991</bib-date>
         <bib-publisher>Morgan Kaufman</bib-publisher>
@@ -7916,7 +7862,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
   keywords = {conference}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 300 **** -->      <bibentry key="AAAI05" type="proceedings" xml:id="bib.bib299">
+      <bibentry key="AAAI05" type="proceedings" xml:id="bib.bib298">
         <bib-title>Proceedings of the 20th national conference on artificial intelligence (aaai 2005)</bib-title>
         <bib-date role="publication">2005</bib-date>
         <bib-publisher>MIT Press</bib-publisher>
@@ -7928,7 +7874,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="SLDI91" type="proceedings" xml:id="bib.bib300">
+<!--  %**** String Line 300 **** -->      <bibentry key="SLDI91" type="proceedings" xml:id="bib.bib299">
         <bib-title>Proceedings of the sigplan ’91 symposion on language design and implementation, toronto, canada</bib-title>
         <bib-date role="publication">1991</bib-date>
         <bib-publisher>ACM Press</bib-publisher>
@@ -7941,7 +7887,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
     Toronto, Canada}}
 </bib-data>
       </bibentry>
-      <bibentry key="ACL89" type="proceedings" xml:id="bib.bib301">
+      <bibentry key="ACL89" type="proceedings" xml:id="bib.bib300">
         <bib-title>Proceedings of the 27<sup>th</sup> annual meeting of the association for computational linguistics</bib-title>
         <bib-date role="publication">1989</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
@@ -7954,7 +7900,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
    address = {Vancouver, British Columbia}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS89" type="proceedings" xml:id="bib.bib302">
+      <bibentry key="LICS89" type="proceedings" xml:id="bib.bib301">
         <bib-title>Proceedings of the 4<sup>th</sup> annual IEEE symposium on logic in computer science (LICS-4)</bib-title>
         <bib-date role="publication">1989</bib-date>
         <bib-place>Pacific Grove, CA, USA</bib-place>
@@ -7973,7 +7919,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {LICS1989}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS90" type="proceedings" xml:id="bib.bib303">
+      <bibentry key="LICS90" type="proceedings" xml:id="bib.bib302">
         <bib-title>Proceedings of the 5<sup>th</sup> annual IEEE symposium on logic in computer science (LICS-5)</bib-title>
         <bib-date role="publication">1989</bib-date>
         <bib-place>Philadelphia, PA, USA</bib-place>
@@ -7992,7 +7938,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {LICS1990}}
 </bib-data>
       </bibentry>
-      <bibentry key="STACS89" type="proceedings" xml:id="bib.bib304">
+      <bibentry key="STACS89" type="proceedings" xml:id="bib.bib303">
         <bib-date role="publication">1989</bib-date>
         <bib-part role="number">349</bib-part>
         <bib-part role="series">LNCS</bib-part>
@@ -8008,7 +7954,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  booktitle = {Proceedings STACS'89}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS88" type="proceedings" xml:id="bib.bib305">
+      <bibentry key="LICS88" type="proceedings" xml:id="bib.bib304">
         <bib-title>Proceedings of the third annual IEEE symposium on logic in computer science (LICS-3)</bib-title>
         <bib-date role="publication">1988</bib-date>
         <bib-place>Edinburgh, Great Britain</bib-place>
@@ -8027,7 +7973,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {LICS1988}}
 </bib-data>
       </bibentry>
-      <bibentry key="ILPS87" type="proceedings" xml:id="bib.bib306">
+      <bibentry key="ILPS87" type="proceedings" xml:id="bib.bib305">
         <bib-title>IEEE symposium on logic programming</bib-title>
         <bib-date role="publication">1987</bib-date>
         <bib-place>Salt Lake City</bib-place>
@@ -8040,7 +7986,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  booktitle = {IEEE Symposium on Logic Programming}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS87" type="proceedings" xml:id="bib.bib307">
+      <bibentry key="LICS87" type="proceedings" xml:id="bib.bib306">
         <bib-title>Proceedings of the second annual IEEE symposium on logic in computer science (LICS-2)</bib-title>
         <bib-date role="publication">1987</bib-date>
         <bib-place>Ithaca, NY, USA</bib-place>
@@ -8059,7 +8005,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {LICS1987}}
 </bib-data>
       </bibentry>
-      <bibentry key="LFP86" type="proceedings" xml:id="bib.bib308">
+      <bibentry key="LFP86" type="proceedings" xml:id="bib.bib307">
         <bib-title>Proceedings ACM conference on LISP and functional programming</bib-title>
         <bib-date role="publication">1986</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
@@ -8070,7 +8016,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  booktitle = {Proceedings {ACM} Conference on {LISP} and Functional Programming}}
 </bib-data>
       </bibentry>
-      <bibentry key="LICS86" type="proceedings" xml:id="bib.bib309">
+      <bibentry key="LICS86" type="proceedings" xml:id="bib.bib308">
         <bib-title>Proceedings of the first annual IEEE symposium on logic in computer science (LICS-1)</bib-title>
         <bib-date role="publication">1986</bib-date>
         <bib-place>Cambridge, MA, USA</bib-place>
@@ -8090,7 +8036,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {LICS1986}}
 </bib-data>
       </bibentry>
-      <bibentry key="POPL84" type="proceedings" xml:id="bib.bib310">
+      <bibentry key="POPL84" type="proceedings" xml:id="bib.bib309">
         <bib-title>Proc of the 11<sup>th</sup> ACM symposium on principles of programming languages</bib-title>
         <bib-date role="publication">1984</bib-date>
         <bib-place>New York</bib-place>
@@ -8105,7 +8051,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  booktitle = {Proc of the 11\textsuperscript{th} {ACM} Symposium on Principles of Programming Languages}}
 </bib-data>
       </bibentry>
-      <bibentry key="LFP82" type="proceedings" xml:id="bib.bib311">
+      <bibentry key="LFP82" type="proceedings" xml:id="bib.bib310">
         <bib-title>Proceedings ACM conference on LISP and functional programming</bib-title>
         <bib-date role="publication">1982</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
@@ -8116,7 +8062,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
  booktitle = {Proceedings {ACM} Conference on {LISP} and Functional Programming}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE80" type="proceedings" xml:id="bib.bib312">
+      <bibentry key="CADE80" type="proceedings" xml:id="bib.bib311">
         <bib-title>Proceedings of the 5<sup>th</sup> international conference on automated deduction</bib-title>
         <bib-date role="publication">1980</bib-date>
         <bib-publisher>Springer Verlag</bib-publisher>
@@ -8131,7 +8077,7 @@ Rewriting Systems, Pont-a-Mousson, France</bib-title>
        key = {CADE1980}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI77" type="proceedings" xml:id="bib.bib313">
+      <bibentry key="IJCAI77" type="proceedings" xml:id="bib.bib312">
         <bib-date role="publication">1977</bib-date>
         <bib-publisher>Morgan Kaufmann, San Mateo, California, USA</bib-publisher>
         <bib-title>Proceedings of the 5<sup>th</sup> International Joint Conference on Artificial
@@ -8147,7 +8093,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI1977}}
 </bib-data>
       </bibentry>
-      <bibentry key="EUROSAM79" type="proceedings" xml:id="bib.bib314">
+      <bibentry key="EUROSAM79" type="proceedings" xml:id="bib.bib313">
         <bib-title>Proceedings of the international symposion on symbolic and algebraic manipulation eurosam+79</bib-title>
         <bib-date role="publication">1976</bib-date>
         <bib-part role="number">72</bib-part>
@@ -8166,7 +8112,7 @@ Intelligence (IJCAI)</bib-title>
     Manipulation EUROSAM+79}}
 </bib-data>
       </bibentry>
-      <bibentry key="ACM72" type="proceedings" xml:id="bib.bib315">
+      <bibentry key="ACM72" type="proceedings" xml:id="bib.bib314">
         <bib-title>Proceedings of the ACM annual conference 1972</bib-title>
         <bib-date role="publication">1972</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
@@ -8177,7 +8123,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Proceedings of the {ACM} annual Conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="SAD70" type="proceedings" xml:id="bib.bib316">
+      <bibentry key="SAD70" type="proceedings" xml:id="bib.bib315">
         <bib-title>Symposium on automatic demonstration</bib-title>
         <bib-date role="publication">1970</bib-date>
         <bib-part role="number">125</bib-part>
@@ -8193,7 +8139,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="IFIP68" type="proceedings" xml:id="bib.bib317">
+      <bibentry key="IFIP68" type="proceedings" xml:id="bib.bib316">
         <bib-title>Proceedings of ifip congress in information processing</bib-title>
         <bib-date role="publication">1968</bib-date>
         <bib-part role="volume">68</bib-part>
@@ -8208,7 +8154,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Proceedings of IFIP Congress in Information Processing}}
 </bib-data>
       </bibentry>
-      <bibentry key="MKM01" type="proceedings" xml:id="bib.bib318">
+      <bibentry key="MKM01" type="proceedings" xml:id="bib.bib317">
         <bib-title>Electronic proceedings of the first international workshop on mathematical knowledge management: MKM’2001</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -8232,7 +8178,7 @@ Intelligence (IJCAI)</bib-title>
     Knowledge Management: {MKM'2001}}}
 </bib-data>
       </bibentry>
-      <bibentry key="ekaw2002" type="proceedings" xml:id="bib.bib319">
+      <bibentry key="ekaw2002" type="proceedings" xml:id="bib.bib318">
         <bib-name role="editor">
           <surname>Gómez-Pérez</surname>
           <givenname>Asunción</givenname>
@@ -8267,7 +8213,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {3-540-44268-5}}
 </bib-data>
       </bibentry>
-      <bibentry key="ekaw2008" type="proceedings" xml:id="bib.bib320">
+      <bibentry key="ekaw2008" type="proceedings" xml:id="bib.bib319">
         <bib-name role="editor">
           <surname>Gangemi</surname>
           <givenname>Aldo</givenname>
@@ -8301,7 +8247,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {978-3-540-87695-3}}
 </bib-data>
       </bibentry>
-      <bibentry key="WebALT2006" type="proceedings" xml:id="bib.bib321">
+      <bibentry key="WebALT2006" type="proceedings" xml:id="bib.bib320">
         <bib-title>Proceedings of webalt 2006, first webalt conference and exhibition</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -8330,7 +8276,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Oy WebALT Inc}}
 </bib-data>
       </bibentry>
-      <bibentry key="EdMedia2008" type="proceedings" xml:id="bib.bib322">
+      <bibentry key="EdMedia2008" type="proceedings" xml:id="bib.bib321">
         <bib-title>Proceedings of the world conference on educational multimedia, hypermedia &amp; telecommunications 2008 (ED-MEDIA’08)</bib-title>
         <bib-date role="publication">2008-06</bib-date>
         <bib-key>EdMedia2008</bib-key>
@@ -8351,7 +8297,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {AACE}}
 </bib-data>
       </bibentry>
-      <bibentry key="EdMedia2007" type="proceedings" xml:id="bib.bib323">
+      <bibentry key="EdMedia2007" type="proceedings" xml:id="bib.bib322">
         <bib-title>Proceedings of the world conference on educational multimedia, hypermedia &amp; telecommunications 2007 (ED-MEDIA’07)</bib-title>
         <bib-name role="editor">
           <surname>Montgomerie</surname>
@@ -8379,7 +8325,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {AACE}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 325 **** -->      <bibentry key="MuC2007" type="proceedings" xml:id="bib.bib324">
+      <bibentry key="MuC2007" type="proceedings" xml:id="bib.bib323">
         <bib-title>Mensch &amp; Computer 2007: Interaktion im Plural</bib-title>
         <bib-date role="publication">2007-09</bib-date>
         <bib-key>MuC2007</bib-key>
@@ -8408,7 +8354,7 @@ Intelligence (IJCAI)</bib-title>
     annote = {7.te Fach{\"u}bergreifende Konferenz}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathUI04" type="proceedings" xml:id="bib.bib325">
+<!--  %**** String Line 325 **** -->      <bibentry key="MathUI04" type="proceedings" xml:id="bib.bib324">
         <bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
@@ -8426,7 +8372,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2004}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathUI06" type="proceedings" xml:id="bib.bib326">
+      <bibentry key="MathUI06" type="proceedings" xml:id="bib.bib325">
         <bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
@@ -8442,7 +8388,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathUI07" type="proceedings" xml:id="bib.bib327">
+      <bibentry key="MathUI07" type="proceedings" xml:id="bib.bib326">
         <bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
@@ -8462,7 +8408,7 @@ Intelligence (IJCAI)</bib-title>
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathUI12" type="proceedings" xml:id="bib.bib328">
+      <bibentry key="MathUI12" type="proceedings" xml:id="bib.bib327">
         <bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
@@ -8482,7 +8428,7 @@ Intelligence (IJCAI)</bib-title>
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="SCOOP07" type="proceedings" xml:id="bib.bib329">
+      <bibentry key="SCOOP07" type="proceedings" xml:id="bib.bib328">
         <bib-name role="editor">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -8500,7 +8446,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="MC07" type="proceedings" xml:id="bib.bib330">
+      <bibentry key="MC07" type="proceedings" xml:id="bib.bib329">
         <bib-name role="editor">
           <surname>Gross</surname>
           <givenname>Tom</givenname>
@@ -8518,7 +8464,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="LWA07" type="proceedings" xml:id="bib.bib331">
+      <bibentry key="LWA07" type="proceedings" xml:id="bib.bib330">
         <bib-name role="editor">
           <surname>Hinneburg</surname>
           <givenname>Alexander</givenname>
@@ -8536,7 +8482,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="DeLFI06" type="proceedings" xml:id="bib.bib332">
+      <bibentry key="DeLFI06" type="proceedings" xml:id="bib.bib331">
         <bib-title>Proceedings of the 4<sup>th</sup> elearning fachtagung informatik — delfi 2006</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -8562,7 +8508,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {K{\"o}llen Druck Verlag GmbH, Bonn}}
 </bib-data>
       </bibentry>
-      <bibentry key="CSCL05" type="proceedings" xml:id="bib.bib333">
+      <bibentry key="CSCL05" type="proceedings" xml:id="bib.bib332">
         <bib-title>Proceedings of the cscl 2005</bib-title>
         <bib-date role="publication">2005</bib-date>
         <bib-data role="place">Taipei, Taiwan</bib-data>
@@ -8581,7 +8527,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {…}}
 </bib-data>
       </bibentry>
-      <bibentry key="LC87" type="proceedings" xml:id="bib.bib334">
+      <bibentry key="LC87" type="proceedings" xml:id="bib.bib333">
         <bib-title>Logic colloquium ’87</bib-title>
         <bib-data role="place">Taipei, Taiwan</bib-data>
         <bib-name role="editor">
@@ -8597,7 +8543,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {North Holland}}
 </bib-data>
       </bibentry>
-      <bibentry key="MatZal:fip07" type="book" xml:id="bib.bib335">
+      <bibentry key="MatZal:fip07" type="book" xml:id="bib.bib334">
         <bib-title>From insight to proof: festschrift in honour of Andrzej Trybulec</bib-title>
         <bib-data role="booktitle">From Insight to Proof: Festschrift in Honour of {Andrzej Trybulec}</bib-data>
         <bib-part role="series">Studies in Logic, Grammar and Rhetoric</bib-part>
@@ -8624,7 +8570,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://mizar.org/trybulec65/}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICSE04" type="proceedings" xml:id="bib.bib336">
+      <bibentry key="ICSE04" type="proceedings" xml:id="bib.bib335">
         <bib-title>26<sup>th</sup> IEEE international conference on software engineering</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2004</bib-date>
@@ -8635,7 +8581,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2004}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICSE06" type="proceedings" xml:id="bib.bib337">
+      <bibentry key="ICSE06" type="proceedings" xml:id="bib.bib336">
         <bib-title>ICSE ’06: proceedings of the 28<sup>th</sup> international conference on software engineering</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-identifier id="1-59593-375-1" scheme="isbn">ISBN 1-59593-375-1</bib-identifier>
@@ -8658,7 +8604,7 @@ Intelligence (IJCAI)</bib-title>
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="eswc2005" type="proceedings" xml:id="bib.bib338">
+      <bibentry key="eswc2005" type="proceedings" xml:id="bib.bib337">
         <bib-name role="editor">
           <surname>Gómez-Pérez</surname>
           <givenname>Asunción</givenname>
@@ -8695,7 +8641,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {3-540-26124-9}}
 </bib-data>
       </bibentry>
-      <bibentry key="eswc2007" type="proceedings" xml:id="bib.bib339">
+      <bibentry key="eswc2007" type="proceedings" xml:id="bib.bib338">
         <bib-name role="editor">
           <surname>Franconi</surname>
           <givenname>Enrico</givenname>
@@ -8735,7 +8681,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {978-3-540-72666-1}}
 </bib-data>
       </bibentry>
-      <bibentry key="eswc2008" type="proceedings" xml:id="bib.bib340">
+      <bibentry key="eswc2008" type="proceedings" xml:id="bib.bib339">
         <bib-name role="editor">
           <surname>Bechhofer</surname>
           <givenname>Sean</givenname>
@@ -8778,7 +8724,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="eswc2009" type="proceedings" xml:id="bib.bib341">
+      <bibentry key="eswc2009" type="proceedings" xml:id="bib.bib340">
         <bib-name role="editor">
           <surname>Aroyo</surname>
           <givenname>Lora</givenname>
@@ -8842,7 +8788,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="eswc2010-1" type="proceedings" xml:id="bib.bib342">
+      <bibentry key="eswc2010-1" type="proceedings" xml:id="bib.bib341">
         <bib-name role="editor">
           <surname>Aroyo</surname>
           <givenname>Lora</givenname>
@@ -8894,7 +8840,7 @@ Intelligence (IJCAI)</bib-title>
     number = {6088}}
 </bib-data>
       </bibentry>
-      <bibentry key="eswc2010-2" type="proceedings" xml:id="bib.bib343">
+      <bibentry key="eswc2010-2" type="proceedings" xml:id="bib.bib342">
         <bib-name role="editor">
           <surname>Aroyo</surname>
           <givenname>Lora</givenname>
@@ -8946,7 +8892,7 @@ Intelligence (IJCAI)</bib-title>
     number = {6089}}
 </bib-data>
       </bibentry>
-      <bibentry key="swui2008" type="proceedings" xml:id="bib.bib344">
+      <bibentry key="swui2008" type="proceedings" xml:id="bib.bib343">
         <bib-name role="editor">
           <surname>Degler</surname>
           <givenname>Duane</givenname>
@@ -8992,7 +8938,7 @@ Intelligence (IJCAI)</bib-title>
       issn = {1613-0073}}
 </bib-data>
       </bibentry>
-      <bibentry key="chi2008" type="proceedings" xml:id="bib.bib345">
+      <bibentry key="chi2008" type="proceedings" xml:id="bib.bib344">
         <bib-title>Proceedings of the 2008 conference on human factors in computing systems (CHI)</bib-title>
         <bib-data role="eventdate">2008-04-05/2008-04-10</bib-data>
         <bib-data role="venue">Florence, Italy</bib-data>
@@ -9010,7 +8956,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="chi2007" type="proceedings" xml:id="bib.bib346">
+      <bibentry key="chi2007" type="proceedings" xml:id="bib.bib345">
         <bib-name role="editor">
           <surname>Rosson</surname>
           <givenname>Mary Beth</givenname>
@@ -9038,7 +8984,7 @@ Intelligence (IJCAI)</bib-title>
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="chi1990" type="proceedings" xml:id="bib.bib347">
+      <bibentry key="chi1990" type="proceedings" xml:id="bib.bib346">
         <bib-name role="editor">
           <surname>Chew</surname>
           <givenname>Jane Carrasco</givenname>
@@ -9068,7 +9014,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {0-201-50932-6}}
 </bib-data>
       </bibentry>
-      <bibentry key="LWA08" type="proceedings" xml:id="bib.bib348">
+      <bibentry key="LWA08" type="proceedings" xml:id="bib.bib347">
         <bib-name role="editor">
           <surname>Baumeister</surname>
           <givenname>Joachim</givenname>
@@ -9094,7 +9040,7 @@ Intelligence (IJCAI)</bib-title>
      month = {October}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 350 **** -->      <bibentry key="LWA09" type="report" xml:id="bib.bib349">
+      <bibentry key="LWA09" type="report" xml:id="bib.bib348">
         <bib-name role="author">
           <surname>Hartmann</surname>
           <givenname>Melanie</givenname>
@@ -9118,7 +9064,7 @@ Intelligence (IJCAI)</bib-title>
      month = {September}}
 </bib-data>
       </bibentry>
-      <bibentry key="LWA15" type="proceedings" xml:id="bib.bib350">
+<!--  %**** String Line 350 **** -->      <bibentry key="LWA15" type="proceedings" xml:id="bib.bib349">
         <bib-title>Proceedings of the LWA 2015 workshops: KDML, FGWM, IR, and FGDB</bib-title>
         <bib-name role="editor">
           <surname>Bergmann</surname>
@@ -9144,7 +9090,7 @@ Intelligence (IJCAI)</bib-title>
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="LWA13" type="proceedings" xml:id="bib.bib351">
+      <bibentry key="LWA13" type="proceedings" xml:id="bib.bib350">
         <bib-title>Wissens- und erfahrungsmanagement LWA (lernen, wissensentdeckung und adaptivität) conference proceedings</bib-title>
         <bib-name role="editor">
           <surname>Henrich</surname>
@@ -9166,7 +9112,7 @@ Intelligence (IJCAI)</bib-title>
      month = {October}}
 </bib-data>
       </bibentry>
-      <bibentry key="LWA11" type="proceedings" xml:id="bib.bib352">
+      <bibentry key="LWA11" type="proceedings" xml:id="bib.bib351">
         <bib-title>Wissens- und erfahrungsmanagement LWA (lernen, wissensentdeckung und adaptivität) conference proceedings</bib-title>
         <bib-organization>Otto-von-Guericke-Universität Magdeburg</bib-organization>
         <bib-date role="publication">2011-09</bib-date>
@@ -9179,7 +9125,7 @@ Intelligence (IJCAI)</bib-title>
      month = {September}}
 </bib-data>
       </bibentry>
-      <bibentry key="SCOOP08" type="proceedings" xml:id="bib.bib353">
+      <bibentry key="SCOOP08" type="proceedings" xml:id="bib.bib352">
         <bib-name role="editor">
           <surname>Müller</surname>
           <givenname>Christine</givenname>
@@ -9199,7 +9145,7 @@ Intelligence (IJCAI)</bib-title>
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="WCCE01" type="proceedings" xml:id="bib.bib354">
+      <bibentry key="WCCE01" type="proceedings" xml:id="bib.bib353">
         <bib-name role="editor">
           <surname>Watson</surname>
           <givenname>Deryn</givenname>
@@ -9231,7 +9177,7 @@ Intelligence (IJCAI)</bib-title>
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="ComTech2005" type="proceedings" xml:id="bib.bib355">
+      <bibentry key="ComTech2005" type="proceedings" xml:id="bib.bib354">
         <bib-date role="publication">2005</bib-date>
         <bib-title>Communities and Technologies</bib-title>
         <bib-name role="editor">
@@ -9258,7 +9204,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="SemNet2007" type="proceedings" xml:id="bib.bib356">
+      <bibentry key="SemNet2007" type="proceedings" xml:id="bib.bib355">
         <bib-title>Bridging the Gap between Semantic Web and Web 2.0 (SemNet)</bib-title>
         <bib-name role="editor">
           <surname>Hotho</surname>
@@ -9277,7 +9223,7 @@ Intelligence (IJCAI)</bib-title>
      month = {June}}
 </bib-data>
       </bibentry>
-      <bibentry key="KWEPSY2007" type="proceedings" xml:id="bib.bib357">
+      <bibentry key="KWEPSY2007" type="proceedings" xml:id="bib.bib356">
         <bib-title>Proceedings of the KWEPSY (Knowledge Web PhD Symposium)</bib-title>
         <bib-data role="venue">Innsbruck, Austria</bib-data>
         <bib-data role="eventdate">2007-06</bib-data>
@@ -9312,7 +9258,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://CEUR-WS.org/Vol-275}}
 </bib-data>
       </bibentry>
-      <bibentry key="DL-handbook03" type="proceedings" xml:id="bib.bib358">
+      <bibentry key="DL-handbook03" type="proceedings" xml:id="bib.bib357">
         <bib-name role="editor">
           <surname>Baader</surname>
           <givenname>Franz</givenname>
@@ -9351,7 +9297,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {0-521-78176-0}}
 </bib-data>
       </bibentry>
-      <bibentry key="MKM04" type="proceedings" xml:id="bib.bib359">
+      <bibentry key="MKM04" type="proceedings" xml:id="bib.bib358">
         <bib-title>Mathematical knowledge management, MKM’04</bib-title>
         <bib-date role="publication">2004</bib-date>
         <bib-name role="editor">
@@ -9381,7 +9327,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Mathematical Knowledge Management, {MKM'04}}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI99" type="proceedings" xml:id="bib.bib360">
+      <bibentry key="IJCAI99" type="proceedings" xml:id="bib.bib359">
         <bib-date role="publication">1999</bib-date>
         <bib-name role="editor">
           <surname>Dean</surname>
@@ -9404,7 +9350,7 @@ Intelligence (IJCAI)</bib-title>
        key = {IJCAI1999}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE07" type="proceedings" xml:id="bib.bib361">
+      <bibentry key="CADE07" type="proceedings" xml:id="bib.bib360">
         <bib-name role="editor">
           <surname>Pfenning</surname>
           <givenname>Frank</givenname>
@@ -9429,7 +9375,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {978-3-540-73594-6}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE11" type="proceedings" xml:id="bib.bib362">
+      <bibentry key="CADE11" type="proceedings" xml:id="bib.bib361">
         <bib-name role="editor">
           <surname>Bjørner</surname>
           <givenname>Nikolaj</givenname>
@@ -9457,7 +9403,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {978-3-642-22438-6}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE05" type="proceedings" xml:id="bib.bib363">
+      <bibentry key="CADE05" type="proceedings" xml:id="bib.bib362">
         <bib-name role="editor">
           <surname>Nieuwenhuis</surname>
           <givenname>Robert</givenname>
@@ -9483,7 +9429,7 @@ Intelligence (IJCAI)</bib-title>
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE03" type="proceedings" xml:id="bib.bib364">
+      <bibentry key="CADE03" type="proceedings" xml:id="bib.bib363">
         <bib-name role="editor">
           <surname>Baader</surname>
           <givenname>Franz</givenname>
@@ -9505,7 +9451,7 @@ Intelligence (IJCAI)</bib-title>
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE01" type="proceedings" xml:id="bib.bib365">
+      <bibentry key="CADE01" type="proceedings" xml:id="bib.bib364">
         <bib-name role="editor">
           <surname>Baader</surname>
           <givenname>Franz</givenname>
@@ -9527,7 +9473,7 @@ Intelligence (IJCAI)</bib-title>
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="LACL96" type="proceedings" xml:id="bib.bib366">
+      <bibentry key="LACL96" type="proceedings" xml:id="bib.bib365">
         <bib-title>Logical aspects of computational linguistics</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-name role="editor">
@@ -9545,7 +9491,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer-Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="LINEAR96" type="proceedings" xml:id="bib.bib367">
+      <bibentry key="LINEAR96" type="proceedings" xml:id="bib.bib366">
         <bib-title>Linear logic 96 tokyo meeting</bib-title>
         <bib-date role="publication">1996</bib-date>
         <bib-part role="volume">3</bib-part>
@@ -9573,7 +9519,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Elsevier}}
 </bib-data>
       </bibentry>
-      <bibentry key="iswc2008" type="proceedings" xml:id="bib.bib368">
+      <bibentry key="iswc2008" type="proceedings" xml:id="bib.bib367">
         <bib-title>The semantic web</bib-title>
         <bib-data role="eventtitle">7\textsuperscript{th} International Semantic Web Conference ({ISWC})</bib-data>
         <bib-date role="publication">2008-10</bib-date>
@@ -9623,7 +9569,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="SWASD09" type="proceedings" xml:id="bib.bib369">
+      <bibentry key="SWASD09" type="proceedings" xml:id="bib.bib368">
         <bib-title>Semantic web applications in scientific discourse (SWASD)</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-name role="editor">
@@ -9663,7 +9609,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://CEUR-WS.org/Vol-523}}
 </bib-data>
       </bibentry>
-      <bibentry key="SDoW2008" type="proceedings" xml:id="bib.bib370">
+      <bibentry key="SDoW2008" type="proceedings" xml:id="bib.bib369">
         <bib-title>Social data on the web (SDoW), workshop at the 7<sup>th</sup> international semantic web conference</bib-title>
         <bib-date role="publication">2008</bib-date>
         <bib-data role="eventdate">2008-10-27</bib-data>
@@ -9703,7 +9649,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://sdow.semanticweb.org/2008/}}
 </bib-data>
       </bibentry>
-      <bibentry key="SDoW2009" type="proceedings" xml:id="bib.bib371">
+      <bibentry key="SDoW2009" type="proceedings" xml:id="bib.bib370">
         <bib-title>Social data on the web (SDoW), workshop at the 8<sup>th</sup> international semantic web conference</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-data role="eventdate">2009-10-25</bib-data>
@@ -9743,7 +9689,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://sdow.semanticweb.org/2009/}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathUI08" type="proceedings" xml:id="bib.bib372">
+      <bibentry key="MathUI08" type="proceedings" xml:id="bib.bib371">
         <bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
@@ -9761,7 +9707,7 @@ Intelligence (IJCAI)</bib-title>
      month = {July}}
 </bib-data>
       </bibentry>
-      <bibentry key="www2003" type="proceedings" xml:id="bib.bib373">
+      <bibentry key="www2003" type="proceedings" xml:id="bib.bib372">
         <bib-title>Proceedings of the 12<sup>th</sup> international World Wide Web conference, (WWW)</bib-title>
         <bib-data role="venue">Budapest, Hungary</bib-data>
         <bib-data role="eventdate">2003-05-20/2003-05-24</bib-data>
@@ -9778,7 +9724,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2003}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 375 **** -->      <bibentry key="www2005" type="proceedings" xml:id="bib.bib374">
+      <bibentry key="www2005" type="proceedings" xml:id="bib.bib373">
         <bib-title>Proceedings of the 14<sup>th</sup> international World Wide Web conference (WWW)</bib-title>
         <bib-data role="venue">Chiba, Japan</bib-data>
         <bib-data role="eventdate">2005-05-10/2005-05-14</bib-data>
@@ -9806,7 +9752,7 @@ Intelligence (IJCAI)</bib-title>
       isbn = {1-59593-046-9}}
 </bib-data>
       </bibentry>
-      <bibentry key="www2006" type="proceedings" xml:id="bib.bib375">
+<!--  %**** String Line 375 **** -->      <bibentry key="www2006" type="proceedings" xml:id="bib.bib374">
         <bib-title>Proceedings of the 15<sup>th</sup> international World Wide Web conference (WWW)</bib-title>
         <bib-data role="venue">Edinburgh, Scotland</bib-data>
         <bib-data role="evendate">2006-05-23/2006-05-26</bib-data>
@@ -9823,7 +9769,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="www2007" type="proceedings" xml:id="bib.bib376">
+      <bibentry key="www2007" type="proceedings" xml:id="bib.bib375">
         <bib-title>Proceedings of the 16<sup>th</sup> international World Wide Web conference (WWW)</bib-title>
         <bib-data role="venue">Banff, Alberta, Canada</bib-data>
         <bib-data role="eventdate">2007-05-08/2007-05-12</bib-data>
@@ -9864,7 +9810,7 @@ Intelligence (IJCAI)</bib-title>
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="www2008" type="proceedings" xml:id="bib.bib377">
+      <bibentry key="www2008" type="proceedings" xml:id="bib.bib376">
         <bib-title>Proceedings of the 17<sup>th</sup> international World Wide Web conference (WWW)</bib-title>
         <bib-data role="venue">Beijing, China</bib-data>
         <bib-data role="eventdate">2008-04-21/2008-04-25</bib-data>
@@ -9915,7 +9861,7 @@ Intelligence (IJCAI)</bib-title>
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="www2009" type="proceedings" xml:id="bib.bib378">
+      <bibentry key="www2009" type="proceedings" xml:id="bib.bib377">
         <bib-title>Proceedings of the 18<sup>th</sup> international World Wide Web conference (WWW)</bib-title>
         <bib-data role="venue">Madrid, Spain</bib-data>
         <bib-data role="eventdate">2009-04-20/2009-04-24</bib-data>
@@ -9954,7 +9900,7 @@ Intelligence (IJCAI)</bib-title>
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="er2006" type="proceedings" xml:id="bib.bib379">
+      <bibentry key="er2006" type="proceedings" xml:id="bib.bib378">
         <bib-title>25<sup>th</sup> international conference on conceptual modeling (ER2006)</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -9986,7 +9932,7 @@ Intelligence (IJCAI)</bib-title>
  booktitle = {Proceedings of the 25\textsuperscript{th} International Conference on Conceptual Modeling ({ER2006})}}
 </bib-data>
       </bibentry>
-      <bibentry key="semantics2006" type="proceedings" xml:id="bib.bib380">
+      <bibentry key="semantics2006" type="proceedings" xml:id="bib.bib379">
         <bib-title>Semantics: from visions to applications</bib-title>
         <bib-subtitle>Semantics – The New Paradigm Shift in IT</bib-subtitle>
         <bib-data role="venue">Vienna, Austria</bib-data>
@@ -10012,7 +9958,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2006}}
 </bib-data>
       </bibentry>
-      <bibentry key="Wissenstransform05" type="proceedings" xml:id="bib.bib381">
+      <bibentry key="Wissenstransform05" type="proceedings" xml:id="bib.bib380">
         <bib-date role="publication">2005</bib-date>
         <bib-title>Wissenstransform. Wissensmanagement in gleichstellungsorientierten Netzwerken</bib-title>
         <bib-name role="editor">
@@ -10035,7 +9981,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {LIT Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="ComTech2003" type="proceedings" xml:id="bib.bib382">
+      <bibentry key="ComTech2003" type="proceedings" xml:id="bib.bib381">
         <bib-date role="publication">2003</bib-date>
         <bib-title>Communities and Technologies</bib-title>
         <bib-name role="editor">
@@ -10058,7 +10004,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Kluwer Academic Publishers}}
 </bib-data>
       </bibentry>
-      <bibentry key="OSEE2005" type="proceedings" xml:id="bib.bib383">
+      <bibentry key="OSEE2005" type="proceedings" xml:id="bib.bib382">
         <bib-title>Open source for education in europe: research and practise</bib-title>
         <bib-date role="publication">2005-11</bib-date>
         <bib-name role="editor">
@@ -10096,7 +10042,7 @@ Intelligence (IJCAI)</bib-title>
       note = {Proceedings at \url{http://hdl.handle.net/1820/483}}}
 </bib-data>
       </bibentry>
-      <bibentry key="LOKMOL2006" type="proceedings" xml:id="bib.bib384">
+      <bibentry key="LOKMOL2006" type="proceedings" xml:id="bib.bib383">
         <bib-title>2<sup>nd</sup> Workshop on Learner Oriented Knowledge Management &amp; KM Oriented e-Learning</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -10126,7 +10072,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://cnm.open.ac.uk/projects/ectel06/pdfs/ECTEL06WS68d.pdf}}
 </bib-data>
       </bibentry>
-      <bibentry key="Pre-ConferenceWorkshopsDeLFI2006" type="proceedings" xml:id="bib.bib385">
+      <bibentry key="Pre-ConferenceWorkshopsDeLFI2006" type="proceedings" xml:id="bib.bib384">
         <bib-title>Proceedings der Pre-Conference Workshops der 4.e-Learning Fachtagung Informatik DeLFI 2006</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -10144,7 +10090,7 @@ Intelligence (IJCAI)</bib-title>
       note = {ISBN 3-8325-1330-2}}
 </bib-data>
       </bibentry>
-      <bibentry key="SIGIR93" type="proceedings" xml:id="bib.bib386">
+      <bibentry key="SIGIR93" type="proceedings" xml:id="bib.bib385">
         <bib-name role="editor">
           <surname>Korfhage</surname>
           <givenname>Robert</givenname>
@@ -10173,7 +10119,7 @@ Intelligence (IJCAI)</bib-title>
       year = {1993}}
 </bib-data>
       </bibentry>
-      <bibentry key="wikisym06" type="proceedings" xml:id="bib.bib387">
+      <bibentry key="wikisym06" type="proceedings" xml:id="bib.bib386">
         <bib-title>International symposium on wikis (WikiSym)</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-data role="eventdate">2006-08-21/2006-08-23</bib-data>
@@ -10199,7 +10145,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://www.wikisym.org/ws2006/proceedings/}}
 </bib-data>
       </bibentry>
-      <bibentry key="wikisym07" type="proceedings" xml:id="bib.bib388">
+      <bibentry key="wikisym07" type="proceedings" xml:id="bib.bib387">
         <bib-title>International symposium on wikis (WikiSym)</bib-title>
         <bib-date role="publication">2007</bib-date>
         <bib-data role="eventdate">2007-10-21/2007-10-25</bib-data>
@@ -10225,7 +10171,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://www.wikisym.org/ws2007/proceedings/}}
 </bib-data>
       </bibentry>
-      <bibentry key="wikisym08" type="proceedings" xml:id="bib.bib389">
+      <bibentry key="wikisym08" type="proceedings" xml:id="bib.bib388">
         <bib-title>4<sup>th</sup> international symposium on wikis (WikiSym)</bib-title>
         <bib-date role="publication">2008</bib-date>
         <bib-data role="eventdate">2008-09-08/2008-09-10</bib-data>
@@ -10251,7 +10197,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://www.wikisym.org/ws2008/proceedings/}}
 </bib-data>
       </bibentry>
-      <bibentry key="wikisym09" type="proceedings" xml:id="bib.bib390">
+      <bibentry key="wikisym09" type="proceedings" xml:id="bib.bib389">
         <bib-title>5<sup>th</sup> international symposium on wikis and open collaboration (WikiSym)</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-data role="eventdate">2009-10-25/2009-10-27</bib-data>
@@ -10277,7 +10223,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://www.wikisym.org/ws2009/proceedings/}}
 </bib-data>
       </bibentry>
-      <bibentry key="wikisym10" type="proceedings" xml:id="bib.bib391">
+      <bibentry key="wikisym10" type="proceedings" xml:id="bib.bib390">
         <bib-title>6<sup>th</sup> international symposium on wikis and open collaboration (WikiSym)</bib-title>
         <bib-date role="publication">2010</bib-date>
         <bib-data role="eventdate">2010-07-07/2010-07-09</bib-data>
@@ -10303,7 +10249,7 @@ Intelligence (IJCAI)</bib-title>
        url = {http://www.wikisym.org/ws2010/Proceedings/}}
 </bib-data>
       </bibentry>
-      <bibentry key="TLCA97" type="proceedings" xml:id="bib.bib392">
+      <bibentry key="TLCA97" type="proceedings" xml:id="bib.bib391">
         <bib-title>Proceedings of the 3<sup>rd</sup> international conference on typed lambda calculus and applications</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -10333,7 +10279,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="OM09" type="proceedings" xml:id="bib.bib393">
+      <bibentry key="OM09" type="proceedings" xml:id="bib.bib392">
         <bib-name role="editor">
           <surname>Davenport</surname>
           <givenname>James H.</givenname>
@@ -10351,7 +10297,7 @@ Intelligence (IJCAI)</bib-title>
      month = {July}}
 </bib-data>
       </bibentry>
-      <bibentry key="DML08" type="proceedings" xml:id="bib.bib394">
+      <bibentry key="DML08" type="proceedings" xml:id="bib.bib393">
         <bib-title>Towards digital mathematics library, proceedings of the dml 2008 workshop</bib-title>
         <bib-date role="publication">2008</bib-date>
         <bib-name role="editor">
@@ -10367,7 +10313,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Masaryk University, Brno}}
 </bib-data>
       </bibentry>
-      <bibentry key="DML09:biblatex" type="proceedings" xml:id="bib.bib395">
+      <bibentry key="DML09:biblatex" type="proceedings" xml:id="bib.bib394">
         <bib-title>Towards digital mathematics library</bib-title>
         <bib-data role="eventtitle">DML 2009 workshop</bib-data>
         <bib-data role="eventdate">2009-07-08/2009-07-09</bib-data>
@@ -10389,7 +10335,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Masaryk University Press, Brno}}
 </bib-data>
       </bibentry>
-      <bibentry key="DML09" type="proceedings" xml:id="bib.bib396">
+      <bibentry key="DML09" type="proceedings" xml:id="bib.bib395">
         <bib-title>Towards digital mathematics library, dml 2009 workshop</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-name role="editor">
@@ -10405,7 +10351,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Masaryk University, Brno}}
 </bib-data>
       </bibentry>
-      <bibentry key="DML10" type="proceedings" xml:id="bib.bib397">
+      <bibentry key="DML10" type="proceedings" xml:id="bib.bib396">
         <bib-title>Towards digital mathematics library, dml workshop</bib-title>
         <bib-date role="publication">2010</bib-date>
         <bib-name role="editor">
@@ -10421,7 +10367,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Masaryk University, Brno}}
 </bib-data>
       </bibentry>
-      <bibentry key="DML11" type="proceedings" xml:id="bib.bib398">
+      <bibentry key="DML11" type="proceedings" xml:id="bib.bib397">
         <bib-title>Towards digital mathematics library, dml workshop</bib-title>
         <bib-date role="publication">2011</bib-date>
         <bib-name role="editor">
@@ -10437,7 +10383,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {Masaryk University, Brno}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 400 **** -->      <bibentry key="SIGDoc08" type="proceedings" xml:id="bib.bib399">
+      <bibentry key="SIGDoc08" type="proceedings" xml:id="bib.bib398">
         <bib-title>Proceedings of the 26<sup>th</sup> annual ACM international conference on design of communication</bib-title>
         <bib-date role="publication">2008</bib-date>
         <bib-name role="editor">
@@ -10467,7 +10413,7 @@ Intelligence (IJCAI)</bib-title>
  publisher = {ACM Press}}
 </bib-data>
       </bibentry>
-      <bibentry key="SIGDOC11" type="proceedings" xml:id="bib.bib400">
+<!--  %**** String Line 400 **** -->      <bibentry key="SIGDOC11" type="proceedings" xml:id="bib.bib399">
         <bib-title>Proceedings of the 29<sup>th</sup> annual ACM international conference on design of communication (SIGDOC)</bib-title>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="findouteditor">Brad Mehlenbacher and Aristidis Protopsaltis and Ashley Williams and Shaun Slatterey</bib-data>
@@ -10492,7 +10438,7 @@ Intelligence (IJCAI)</bib-title>
  changeeventdate = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="SIGDOC10" type="proceedings" xml:id="bib.bib401">
+      <bibentry key="SIGDOC10" type="proceedings" xml:id="bib.bib400">
         <bib-title>Proceedings of the 28th ACM international conference on design of communication</bib-title>
         <bib-part role="series">SIGDOC ’10</bib-part>
         <bib-date role="publication">2010</bib-date>
@@ -10521,7 +10467,7 @@ Intelligence (IJCAI)</bib-title>
  eventdate = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="SIGDOC09" type="proceedings" xml:id="bib.bib402">
+      <bibentry key="SIGDOC09" type="proceedings" xml:id="bib.bib401">
         <bib-title>Proceedings of the 27<sup>th</sup> annual ACM international conference on design of communication (SIGDOC)</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-name role="editor">
@@ -10561,7 +10507,7 @@ Intelligence (IJCAI)</bib-title>
  eventdate = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="FM09" type="proceedings" xml:id="bib.bib403">
+      <bibentry key="FM09" type="proceedings" xml:id="bib.bib402">
         <bib-title>16<sup>th</sup> international symposium on formal methods (FM 2009)</bib-title>
         <bib-name role="editor">
           <surname>Cavalcanti</surname>
@@ -10587,7 +10533,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="BALISAGE09:biblatex" type="proceedings" xml:id="bib.bib404">
+      <bibentry key="BALISAGE09:biblatex" type="proceedings" xml:id="bib.bib403">
         <bib-title>Proceedings of balisage: the markup conference</bib-title>
         <bib-part role="volume">3</bib-part>
         <bib-publisher>Mulberry Technologies, Inc.</bib-publisher>
@@ -10602,7 +10548,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="BALISAGE09" type="proceedings" xml:id="bib.bib405">
+      <bibentry key="BALISAGE09" type="proceedings" xml:id="bib.bib404">
         <bib-title>Proceedings of balisage: the markup conference 2009</bib-title>
         <bib-url href="http://www.balisage.net/Proceedings/vol3/cover.html">Link</bib-url>
         <bib-note role="annotation">available at <ref class="ltx_url" font="typewriter" href="http://www.balisage.net/Proceedings/vol3/">http://www.balisage.net/Proceedings/vol3/</ref></bib-note>
@@ -10619,7 +10565,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2009}}
 </bib-data>
       </bibentry>
-      <bibentry key="BALISAGE10:biblatex" type="proceedings" xml:id="bib.bib406">
+      <bibentry key="BALISAGE10:biblatex" type="proceedings" xml:id="bib.bib405">
         <bib-title>Proceedings of balisage: the markup conference</bib-title>
         <bib-url href="http://www.balisage.net/Proceedings/vol5/cover.html">Link</bib-url>
         <bib-part role="volume">5</bib-part>
@@ -10636,7 +10582,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="BALISAGE11:biblatex" type="proceedings" xml:id="bib.bib407">
+      <bibentry key="BALISAGE11:biblatex" type="proceedings" xml:id="bib.bib406">
         <bib-title>Proceedings of balisage: the markup conference</bib-title>
         <bib-url href="http://www.balisage.net/Proceedings/vol7/cover.html">Link</bib-url>
         <bib-part role="volume">7</bib-part>
@@ -10653,7 +10599,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2011}}
 </bib-data>
       </bibentry>
-      <bibentry key="BALISAGE10" type="proceedings" xml:id="bib.bib408">
+      <bibentry key="BALISAGE10" type="proceedings" xml:id="bib.bib407">
         <bib-title>Proceedings of balisage: the markup conference 2010</bib-title>
         <bib-url href="http://www.balisage.net/Proceedings/vol3/">Link</bib-url>
         <bib-note role="annotation">available at <ref class="ltx_url" font="typewriter" href="http://www.balisage.net/Proceedings/vol3/">http://www.balisage.net/Proceedings/vol3/</ref></bib-note>
@@ -10670,7 +10616,7 @@ Intelligence (IJCAI)</bib-title>
       year = {2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="BKB60" type="book" xml:id="bib.bib409">
+      <bibentry key="BKB60" type="book" xml:id="bib.bib408">
         <bib-name role="editor">
           <surname>Hoffmann</surname>
           <givenname>Berthold</givenname>
@@ -10716,7 +10662,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  booktitle = {Festschrift in Honour of {Bernd Krieg-Br{\"u}ckner}'s 60\textsuperscript{th} Birthday}}
 </bib-data>
       </bibentry>
-      <bibentry key="IWCS99" type="proceedings" xml:id="bib.bib410">
+      <bibentry key="IWCS99" type="proceedings" xml:id="bib.bib409">
         <bib-date role="publication">1999</bib-date>
         <bib-title>Proceedings of IWCS III (third international workshop on computational semantics)</bib-title>
         <bib-name role="editor">
@@ -10746,7 +10692,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
    address = {Tilburg}}
 </bib-data>
       </bibentry>
-      <bibentry key="iwcs2" type="proceedings" xml:id="bib.bib411">
+      <bibentry key="iwcs2" type="proceedings" xml:id="bib.bib410">
         <bib-related bibrefs="IWCS97" role="host"/>
         <bib-title>Proceedings of IWCS II (second international workshop on computational semantics)</bib-title>
         <bib-date role="publication">1997</bib-date>
@@ -10757,7 +10703,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {1997}}
 </bib-data>
       </bibentry>
-      <bibentry key="IWCS97" type="proceedings" xml:id="bib.bib412">
+      <bibentry key="IWCS97" type="proceedings" xml:id="bib.bib411">
         <bib-title>Proceedings of IWCS II (second international workshop on computational semantics)</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -10787,7 +10733,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
    address = {Tilburg}}
 </bib-data>
       </bibentry>
-      <bibentry key="iwcs1" type="proceedings" xml:id="bib.bib413">
+      <bibentry key="iwcs1" type="proceedings" xml:id="bib.bib412">
         <bib-related bibrefs="IWCS94" role="host"/>
         <bib-title>International Workshop on Computational Semantics</bib-title>
         <bib-date role="publication">1994</bib-date>
@@ -10797,7 +10743,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {1994}}
 </bib-data>
       </bibentry>
-      <bibentry key="IWCS94" type="proceedings" xml:id="bib.bib414">
+      <bibentry key="IWCS94" type="proceedings" xml:id="bib.bib413">
         <bib-title>International Workshop on Computational Semantics</bib-title>
         <bib-date role="publication">1994</bib-date>
         <bib-name role="editor">
@@ -10821,7 +10767,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
    address = {Tilburg}}
 </bib-data>
       </bibentry>
-      <bibentry key="DBLP:conf/icsoc/2005" type="proceedings" xml:id="bib.bib415">
+      <bibentry key="DBLP:conf/icsoc/2005" type="proceedings" xml:id="bib.bib414">
         <bib-name role="editor">
           <surname>Benatallah</surname>
           <givenname>Boualem</givenname>
@@ -10859,7 +10805,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="DBLP:conf/vl/2005" type="proceedings" xml:id="bib.bib416">
+      <bibentry key="DBLP:conf/vl/2005" type="proceedings" xml:id="bib.bib415">
         <bib-title>2005 IEEE symposium on visual languages and human-centric computing (VL/HCC 2005), 21-24 september 2005, dallas, tx, usa</bib-title>
         <bib-publisher>IEEE Computer Society</bib-publisher>
         <bib-date role="publication">2005</bib-date>
@@ -10876,7 +10822,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="EUSPRIG13" type="proceedings" xml:id="bib.bib417">
+      <bibentry key="EUSPRIG13" type="proceedings" xml:id="bib.bib416">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2013)</bib-title>
         <bib-data role="changeeditor">Simon Thorne</bib-data>
         <bib-data role="changepublisher">European Spreadsheet Risk Interest Group</bib-data>
@@ -10893,7 +10839,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2013}}
 </bib-data>
       </bibentry>
-      <bibentry key="EUSPRIG10" type="proceedings" xml:id="bib.bib418">
+      <bibentry key="EUSPRIG10" type="proceedings" xml:id="bib.bib417">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2010)</bib-title>
         <bib-name role="editor">
           <surname>Thorne</surname>
@@ -10913,7 +10859,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2010}}
 </bib-data>
       </bibentry>
-      <bibentry key="EUSPRIG07" type="proceedings" xml:id="bib.bib419">
+      <bibentry key="EUSPRIG07" type="proceedings" xml:id="bib.bib418">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2007)</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2007</bib-date>
@@ -10924,7 +10870,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2007}}
 </bib-data>
       </bibentry>
-      <bibentry key="EUSPRIG05" type="proceedings" xml:id="bib.bib420">
+      <bibentry key="EUSPRIG05" type="proceedings" xml:id="bib.bib419">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2005)</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2005</bib-date>
@@ -10935,7 +10881,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2005}}
 </bib-data>
       </bibentry>
-      <bibentry key="EUSPRIG01" type="proceedings" xml:id="bib.bib421">
+      <bibentry key="EUSPRIG01" type="proceedings" xml:id="bib.bib420">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2001)</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2001</bib-date>
@@ -10946,7 +10892,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2001}}
 </bib-data>
       </bibentry>
-      <bibentry key="EUSPRIG00" type="proceedings" xml:id="bib.bib422">
+      <bibentry key="EUSPRIG00" type="proceedings" xml:id="bib.bib421">
         <bib-title>Symp. of the european spreadsheet risks interest group (EuSpRIG 2000)</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-date role="publication">2000</bib-date>
@@ -10957,7 +10903,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="LinkedAI2010" type="proceedings" xml:id="bib.bib423">
+      <bibentry key="LinkedAI2010" type="proceedings" xml:id="bib.bib422">
         <bib-date role="publication">2010</bib-date>
         <bib-name role="editor">
           <surname>Brickley</surname>
@@ -10983,7 +10929,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      title = {Proceedings of the AAAI Spring Symposium on Linked Data Meets Artificial Intelligence}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 425 **** -->      <bibentry key="DBLP:conf/kcap/2007womo" type="proceedings" xml:id="bib.bib424">
+      <bibentry key="DBLP:conf/kcap/2007womo" type="proceedings" xml:id="bib.bib423">
         <bib-name role="editor">
           <surname>Grau</surname>
           <givenname>Bernardo Cuenca</givenname>
@@ -11029,7 +10975,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="SOFSEM2010" type="proceedings" xml:id="bib.bib425">
+<!--  %**** String Line 425 **** -->      <bibentry key="SOFSEM2010" type="proceedings" xml:id="bib.bib424">
         <bib-name role="editor">
           <surname>van Leeuwen</surname>
           <givenname>Jan</givenname>
@@ -11079,7 +11025,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        doi = {10.1007/978-3-642-11266-9}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICM2002" type="proceedings" xml:id="bib.bib426">
+      <bibentry key="ICM2002" type="proceedings" xml:id="bib.bib425">
         <bib-title>Electronic information and communication in mathematics</bib-title>
         <bib-data role="eventtitle">ICM International Satellite Conference</bib-data>
         <bib-data role="venue">Beijing, China</bib-data>
@@ -11111,7 +11057,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  publisher = {Springer}}
 </bib-data>
       </bibentry>
-      <bibentry key="eunis2001" type="proceedings" xml:id="bib.bib427">
+      <bibentry key="eunis2001" type="proceedings" xml:id="bib.bib426">
         <bib-name role="editor">
           <surname>von Knop</surname>
           <givenname>Jan</givenname>
@@ -11155,7 +11101,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="ACA2008" type="proceedings" xml:id="bib.bib428">
+      <bibentry key="ACA2008" type="proceedings" xml:id="bib.bib427">
         <bib-title>Applications for computer algebra</bib-title>
         <bib-date role="publication">2008</bib-date>
         <bib-name role="editor">
@@ -11177,7 +11123,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
      venue = {RISC, Linz, Austria}}
 </bib-data>
       </bibentry>
-      <bibentry key="KI10" type="proceedings" xml:id="bib.bib429">
+      <bibentry key="KI10" type="proceedings" xml:id="bib.bib428">
         <bib-title>Proceedings of the 33.rd annual german conference on artificial intelligence ki’10</bib-title>
         <bib-date role="publication">2010</bib-date>
         <bib-name role="editor">
@@ -11212,7 +11158,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  booktitle = {KI 2010: Advances in Artificial Intelligence}}
 </bib-data>
       </bibentry>
-      <bibentry key="MALOG10" type="proceedings" xml:id="bib.bib430">
+      <bibentry key="MALOG10" type="proceedings" xml:id="bib.bib429">
         <bib-title>1<sup>st</sup> International Workshop on Mathematics and ICT: Education, Research and Applications</bib-title>
         <bib-data role="venue">Bucharest, Romania</bib-data>
         <bib-data role="eventdate">2010-11-03</bib-data>
@@ -11231,7 +11177,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://civile.utcb.ro/malog/}}
 </bib-data>
       </bibentry>
-      <bibentry key="iswc2009" type="proceedings" xml:id="bib.bib431">
+      <bibentry key="iswc2009" type="proceedings" xml:id="bib.bib430">
         <bib-title>The semantic web – iswc 2009</bib-title>
         <bib-data role="eventtitle">8\textsuperscript{th} International Semantic Web Conference ({ISWC})</bib-data>
         <bib-date role="publication">2009-10</bib-date>
@@ -11281,7 +11227,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  publisher = {Springer Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="iswc2011-1" type="proceedings" xml:id="bib.bib432">
+      <bibentry key="iswc2011-1" type="proceedings" xml:id="bib.bib431">
         <bib-name role="editor">
           <surname>Aroyo</surname>
           <givenname>Lora</givenname>
@@ -11346,7 +11292,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       isbn = {978-3-642-25072-9}}
 </bib-data>
       </bibentry>
-      <bibentry key="DOCENG10" type="proceedings" xml:id="bib.bib433">
+      <bibentry key="DOCENG10" type="proceedings" xml:id="bib.bib432">
         <bib-name role="editor">
           <surname>Gormish</surname>
           <givenname>Michael</givenname>
@@ -11376,7 +11322,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
    address = {New York, NY, USA}}
 </bib-data>
       </bibentry>
-      <bibentry key="Wiedijk2006provers" type="proceedings" xml:id="bib.bib434">
+      <bibentry key="Wiedijk2006provers" type="proceedings" xml:id="bib.bib433">
         <bib-name role="editor">
           <surname>Wiedijk</surname>
           <givenname>Freek</givenname>
@@ -11401,7 +11347,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="cnl2009" type="proceedings" xml:id="bib.bib435">
+      <bibentry key="cnl2009" type="proceedings" xml:id="bib.bib434">
         <bib-name role="editor">
           <surname>Fuchs</surname>
           <givenname>Norbert E.</givenname>
@@ -11429,7 +11375,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="EduMedia2007" type="proceedings" xml:id="bib.bib436">
+      <bibentry key="EduMedia2007" type="proceedings" xml:id="bib.bib435">
         <bib-title>EduMedia</bib-title>
         <bib-date role="publication">2007</bib-date>
         <bib-name role="editor">
@@ -11449,7 +11395,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       note = {3. Interdisziplin{\"a}re EduMedia Tagung, 16.-17. April 2007, Salzburg}}
 </bib-data>
       </bibentry>
-      <bibentry key="RDFaWiki" type="collection" xml:id="bib.bib437">
+      <bibentry key="RDFaWiki" type="collection" xml:id="bib.bib436">
         <bib-title>RDFa wiki</bib-title>
         <bib-key>RDFa Wiki</bib-key>
         <bib-url href="http://rdfa.info/wiki/">Link</bib-url>
@@ -11459,7 +11405,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://rdfa.info/wiki/}}
 </bib-data>
       </bibentry>
-      <bibentry key="LNCS:OCaSC" type="book" xml:id="bib.bib438">
+      <bibentry key="LNCS:OCaSC" type="book" xml:id="bib.bib437">
         <bib-title>LNCS: Online Communities and Social Computing</bib-title>
         <bib-date role="publication">2007</bib-date>
         <bib-identifier id="978-3-540-73256-3" scheme="isbn">ISBN 978-3-540-73256-3</bib-identifier>
@@ -11477,7 +11423,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  publisher = {Springer Berlin/ Heidelberg}}
 </bib-data>
       </bibentry>
-      <bibentry key="ISWC2011PD" type="proceedings" xml:id="bib.bib439">
+      <bibentry key="ISWC2011PD" type="proceedings" xml:id="bib.bib438">
         <bib-title>Posters and demos at the 10<sup>th</sup> international semantic web conference (ISWC)</bib-title>
         <bib-date role="publication">2011</bib-date>
         <bib-name role="editor">
@@ -11497,7 +11443,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://iswc2011.semanticweb.org/program/posters-and-demos/}}
 </bib-data>
       </bibentry>
-      <bibentry key="ASE00" type="proceedings" xml:id="bib.bib440">
+      <bibentry key="ASE00" type="proceedings" xml:id="bib.bib439">
         <bib-title>Proceedings 15<sup>th</sup> IEEE International Conference on Automated Software Engineering, ASE-2000</bib-title>
         <bib-publisher>IEEE Computer Society</bib-publisher>
         <bib-extract role="keywords">conference</bib-extract>
@@ -11509,7 +11455,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2000}}
 </bib-data>
       </bibentry>
-      <bibentry key="ASE01" type="proceedings" xml:id="bib.bib441">
+      <bibentry key="ASE01" type="proceedings" xml:id="bib.bib440">
         <bib-title>Proceedings 16<sup>th</sup> IEEE international conference on automated software engineering, ase-2001</bib-title>
         <bib-place>San Diego, USA</bib-place>
         <bib-publisher>IEEE Computer Society</bib-publisher>
@@ -11524,7 +11470,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2001}}
 </bib-data>
       </bibentry>
-      <bibentry key="ASE05" type="proceedings" xml:id="bib.bib442">
+      <bibentry key="ASE05" type="proceedings" xml:id="bib.bib441">
         <bib-title>20<sup>th</sup> IEEE/ACM international conference on automated seofware engineering</bib-title>
         <bib-publisher>IEEE Computer Society</bib-publisher>
         <bib-extract role="keywords">conference</bib-extract>
@@ -11537,7 +11483,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2005}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS02-wip" type="proceedings" xml:id="bib.bib443">
+      <bibentry key="CALCULEMUS02-wip" type="proceedings" xml:id="bib.bib442">
         <bib-title>Calculemus 2002 — 10<sup>th</sup> symposium on the integration of symbolic computation and mechanized reasoning — work in progress papers</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -11565,7 +11511,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       type = {Seki Report}}
 </bib-data>
       </bibentry>
-      <bibentry key="ECAI02-CMNLA" type="proceedings" xml:id="bib.bib444">
+      <bibentry key="ECAI02-CMNLA" type="proceedings" xml:id="bib.bib443">
         <bib-title>Proceedings of the ecai 2002 workshop on computational models of natural argument</bib-title>
         <bib-date role="publication">2002</bib-date>
         <bib-name role="editor">
@@ -11589,7 +11535,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
    address = {Lyon France}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS98" type="proceedings" xml:id="bib.bib445">
+      <bibentry key="CALCULEMUS98" type="proceedings" xml:id="bib.bib444">
         <bib-title>6<sup>th</sup> calculemus and types workshop</bib-title>
         <bib-date role="publication">1998-07</bib-date>
         <bib-name role="editor">
@@ -11613,7 +11559,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  booktitle = {6\textsuperscript{th} CALCULEMUS and TYPES Workshop}}
 </bib-data>
       </bibentry>
-      <bibentry key="ReDeRa:SWE07" type="book" xml:id="bib.bib446">
+      <bibentry key="ReDeRa:SWE07" type="book" xml:id="bib.bib445">
         <bib-date role="publication">2008-04</bib-date>
         <bib-data role="month">April</bib-data>
         <bib-name role="editor">
@@ -11647,7 +11593,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://www.igi-global.com/reference/details.asp?ID=7543}}
 </bib-data>
       </bibentry>
-      <bibentry key="wikipedia" type="collection" xml:id="bib.bib447">
+      <bibentry key="wikipedia" type="collection" xml:id="bib.bib446">
         <bib-title>Wikipedia, the free encyclopedia</bib-title>
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://www.wikipedia.org">http://www.wikipedia.org</ref></bib-note>
         <bib-name role="editor">
@@ -11663,7 +11609,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
        url = {http://www.wikipedia.org}}
 </bib-data>
       </bibentry>
-      <bibentry key="geos2011" type="proceedings" xml:id="bib.bib448">
+      <bibentry key="geos2011" type="proceedings" xml:id="bib.bib447">
         <bib-name role="editor">
           <surname>Claramunt</surname>
           <givenname>Christophe</givenname>
@@ -11699,7 +11645,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       isbn = {978-3-642-20629-0}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 450 **** -->      <bibentry key="HorLucKal:sli08" type="collection" xml:id="bib.bib449">
+      <bibentry key="HorLucKal:sli08" type="collection" xml:id="bib.bib448">
         <bib-title>Selbstorganisiertes Lernen im Internet</bib-title>
         <bib-data role="booktitle">{Selbstorganisiertes Lernen im Internet}</bib-data>
         <bib-date role="publication">2008</bib-date>
@@ -11724,7 +11670,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  publisher = {Studienverlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="BenBroSieSta:fhpab08" type="book" xml:id="bib.bib450">
+<!--  %**** String Line 450 **** -->      <bibentry key="BenBroSieSta:fhpab08" type="book" xml:id="bib.bib449">
         <bib-name role="editor">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -11753,7 +11699,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
       year = {2008}}
 </bib-data>
       </bibentry>
-      <bibentry key="BunKieMus:cmii01" type="book" xml:id="bib.bib451">
+      <bibentry key="BunKieMus:cmii01" type="book" xml:id="bib.bib450">
         <bib-date role="publication">2001</bib-date>
         <bib-data role="booktitle">Computing Meaning (Volume 2)</bib-data>
         <bib-title>Computing meaning (volume 2)</bib-title>
@@ -11782,7 +11728,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  publisher = {Kluwer Academic Publishers}}
 </bib-data>
       </bibentry>
-      <bibentry key="DBLP:conf/icse/2011" type="proceedings" xml:id="bib.bib452">
+      <bibentry key="DBLP:conf/icse/2011" type="proceedings" xml:id="bib.bib451">
         <bib-name role="editor">
           <surname>Taylor</surname>
           <givenname>Richard N.</givenname>
@@ -11812,7 +11758,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="SYNASC03" type="proceedings" xml:id="bib.bib453">
+      <bibentry key="SYNASC03" type="proceedings" xml:id="bib.bib452">
         <bib-title>5<sup>th</sup> international workshop on symbolic and numeric algorithms for scientific computing (SYNASC 03)</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-name role="editor">
@@ -11844,7 +11790,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
  publisher = {Mirton Publishing Company}}
 </bib-data>
       </bibentry>
-      <bibentry key="SYNASC13" type="proceedings" xml:id="bib.bib454">
+      <bibentry key="SYNASC13" type="proceedings" xml:id="bib.bib453">
         <bib-title>International workshop on symbolic and numeric algorithms for scientific computing (SYNASC 2012)</bib-title>
         <bib-date role="publication">2013</bib-date>
         <bib-name role="editor">
@@ -11900,7 +11846,7 @@ Daniela Zaharie},
    address = {Timisoara, Romania}}
 </bib-data>
       </bibentry>
-      <bibentry key="OSEMA2011" type="proceedings" xml:id="bib.bib455">
+      <bibentry key="OSEMA2011" type="proceedings" xml:id="bib.bib454">
         <bib-date role="publication">2011</bib-date>
         <bib-name role="editor">
           <surname>García Castro</surname>
@@ -11940,7 +11886,7 @@ Daniela Zaharie},
      title = {Proceedings of the 1\textsuperscript{st} Workshop on Ontology and Semantic Web for Manufacturing, {Extended} {Semantic} {Web} {Conference}}}
 </bib-data>
       </bibentry>
-      <bibentry key="ACL10" type="proceedings" xml:id="bib.bib456">
+      <bibentry key="ACL10" type="proceedings" xml:id="bib.bib455">
         <bib-title>Proceedings of the 48th annual meeting of the association for computational linguistics</bib-title>
         <bib-date role="publication">2010-07</bib-date>
         <bib-data role="month">July</bib-data>
@@ -11955,7 +11901,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="ACL11" type="proceedings" xml:id="bib.bib457">
+      <bibentry key="ACL11" type="proceedings" xml:id="bib.bib456">
         <bib-title>Proceedings of the 49th annual meeting of the association for computational linguistics</bib-title>
         <bib-date role="publication">2011-06</bib-date>
         <bib-data role="month">June</bib-data>
@@ -11970,7 +11916,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="ACL08" type="proceedings" xml:id="bib.bib458">
+      <bibentry key="ACL08" type="proceedings" xml:id="bib.bib457">
         <bib-title>Proceedings of the 46th annual meeting of the association for computational linguistics</bib-title>
         <bib-date role="publication">2008-06</bib-date>
         <bib-data role="month">June</bib-data>
@@ -11985,7 +11931,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="CEMNLP08" type="proceedings" xml:id="bib.bib459">
+      <bibentry key="CEMNLP08" type="proceedings" xml:id="bib.bib458">
         <bib-title>Proceedings of the 2008 conference on empirical methods in natural language processing</bib-title>
         <bib-date role="publication">2008-10</bib-date>
         <bib-data role="month">October</bib-data>
@@ -12000,7 +11946,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="CEMNLP09" type="proceedings" xml:id="bib.bib460">
+      <bibentry key="CEMNLP09" type="proceedings" xml:id="bib.bib459">
         <bib-title>Proceedings of the 2009 conference on empirical methods in natural language processing</bib-title>
         <bib-date role="publication">2009-08</bib-date>
         <bib-data role="month">August</bib-data>
@@ -12015,7 +11961,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="CEMNLP10" type="proceedings" xml:id="bib.bib461">
+      <bibentry key="CEMNLP10" type="proceedings" xml:id="bib.bib460">
         <bib-title>Proceedings of the 2010 conference on empirical methods in natural language processing</bib-title>
         <bib-date role="publication">2010-10</bib-date>
         <bib-data role="month">October</bib-data>
@@ -12030,7 +11976,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="CEMNLP11" type="proceedings" xml:id="bib.bib462">
+      <bibentry key="CEMNLP11" type="proceedings" xml:id="bib.bib461">
         <bib-title>Proceedings of the 2011 conference on empirical methods in natural language processing</bib-title>
         <bib-date role="publication">2011-07</bib-date>
         <bib-data role="month">July</bib-data>
@@ -12045,7 +11991,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="CEMNLP-CNLL12" type="proceedings" xml:id="bib.bib463">
+      <bibentry key="CEMNLP-CNLL12" type="proceedings" xml:id="bib.bib462">
         <bib-title>Proceedings of the 2012 joint conference on empirical methods in natural language processing and computational natural language learning</bib-title>
         <bib-date role="publication">2012-07</bib-date>
         <bib-data role="month">July</bib-data>
@@ -12060,7 +12006,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="SIGKDD01" type="proceedings" xml:id="bib.bib464">
+      <bibentry key="SIGKDD01" type="proceedings" xml:id="bib.bib463">
         <bib-title>Proceedings of the seventh ACM SIGKDD international conference on knowledge discovery and data mining</bib-title>
         <bib-date role="publication">2001-08</bib-date>
         <bib-data role="month">August</bib-data>
@@ -12075,7 +12021,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="HLT-NAACL10" type="proceedings" xml:id="bib.bib465">
+      <bibentry key="HLT-NAACL10" type="proceedings" xml:id="bib.bib464">
         <bib-title>Human language technologies: the 2010 annual conference of the north american chapter of the association for computational linguistics</bib-title>
         <bib-date role="publication">2010-06</bib-date>
         <bib-data role="month">June</bib-data>
@@ -12090,7 +12036,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="HLT-NAACL08" type="proceedings" xml:id="bib.bib466">
+      <bibentry key="HLT-NAACL08" type="proceedings" xml:id="bib.bib465">
         <bib-title>Human language technologies: the 2008 annual conference of the north american chapter of the association for computational linguistics</bib-title>
         <bib-date role="publication">2008</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
@@ -12103,7 +12049,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="HLT-NAACL07" type="proceedings" xml:id="bib.bib467">
+      <bibentry key="HLT-NAACL07" type="proceedings" xml:id="bib.bib466">
         <bib-title>Human language technologies: the 2007 annual conference of the north american chapter of the association for computational linguistics</bib-title>
         <bib-date role="publication">2007</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
@@ -12116,7 +12062,7 @@ Daniela Zaharie},
  publisher = {Association for Computational Linguistics}}
 </bib-data>
       </bibentry>
-      <bibentry key="INTERACT13a" type="proceedings" xml:id="bib.bib468">
+      <bibentry key="INTERACT13a" type="proceedings" xml:id="bib.bib467">
         <bib-name role="editor">
           <surname>Kotzé</surname>
           <givenname>Paula</givenname>
@@ -12158,7 +12104,7 @@ Daniela Zaharie},
       isbn = {978-3-642-40476-4}}
 </bib-data>
       </bibentry>
-      <bibentry key="INTERACT13b" type="proceedings" xml:id="bib.bib469">
+      <bibentry key="INTERACT13b" type="proceedings" xml:id="bib.bib468">
         <bib-name role="editor">
           <surname>Kotzé</surname>
           <givenname>Paula</givenname>
@@ -12200,7 +12146,7 @@ Daniela Zaharie},
       isbn = {978-3-642-40497-9}}
 </bib-data>
       </bibentry>
-      <bibentry key="IWSECO12" type="proceedings" xml:id="bib.bib470">
+      <bibentry key="IWSECO12" type="proceedings" xml:id="bib.bib469">
         <bib-name role="editor">
           <surname>Jansen</surname>
           <givenname>Slinger</givenname>
@@ -12230,7 +12176,7 @@ Daniela Zaharie},
         ee = {http://ceur-ws.org/Vol-879}}
 </bib-data>
       </bibentry>
-      <bibentry key="DBLP:conf/mc/2007" type="proceedings" xml:id="bib.bib471">
+      <bibentry key="DBLP:conf/mc/2007" type="proceedings" xml:id="bib.bib470">
         <bib-name role="editor">
           <surname>Gross</surname>
           <givenname>Tom</givenname>
@@ -12252,7 +12198,7 @@ Daniela Zaharie},
  bibsource = {DBLP, http://dblp.uni-trier.de}}
 </bib-data>
       </bibentry>
-      <bibentry key="ecp97" type="proceedings" xml:id="bib.bib472">
+      <bibentry key="ecp97" type="proceedings" xml:id="bib.bib471">
         <bib-title>Proceedings of the 4th european conference on planning (ecp’97)</bib-title>
         <bib-date role="publication">1997</bib-date>
         <bib-name role="editor">
@@ -12274,7 +12220,7 @@ Daniela Zaharie},
  publisher = {Springer-Verlag}}
 </bib-data>
       </bibentry>
-      <bibentry key="ArgHandbook" type="book" xml:id="bib.bib473">
+      <bibentry key="ArgHandbook" type="book" xml:id="bib.bib472">
         <bib-name role="editor">
           <surname>Baroni</surname>
           <givenname>Pietro</givenname>
@@ -12303,6 +12249,6 @@ Daniela Zaharie},
       year = {2018}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 475 **** -->    </biblist>
+    </biblist>
   </bibliography>
 </document>
