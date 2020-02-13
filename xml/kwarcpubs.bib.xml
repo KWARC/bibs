@@ -13911,12 +13911,12 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="KWARC:web" type="misc" xml:id="bib.bib581">
-        <bib-key>KWARC</bib-key>
+        <bib-key>KW</bib-key>
         <bib-related bibrefs="KWARC:base" role="host"/>
         <bib-note role="publication">Webpage at<ref class="ltx_url" font="typewriter" href="http://kwarc.info/">http://kwarc.info/</ref></bib-note>
         <bib-note role="annotation">seen June 2008</bib-note>
         <bib-data role="self" type="BibTeX">@misc{KWARC:web,
-       key = {{KWARC}},
+       key = {{KW}},
   crossref = {KWARC:base},
  howpublished = {Webpage at\url{http://kwarc.info/}},
       note = {seen June  2008}}
@@ -13925,11 +13925,11 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="KWARC:online" type="website" xml:id="bib.bib582">
         <bib-related bibrefs="KWARC:base" role="host"/>
         <bib-data role="urldate">2011-05-12</bib-data>
-        <bib-data role="label">KWARC</bib-data>
+        <bib-data role="label">KW</bib-data>
         <bib-data role="self" type="BibTeX">@online{KWARC:online,
   crossref = {KWARC:base},
    urldate = {2011-05-12},
-     label = {KWARC}}
+     label = {KW}}
 </bib-data>
       </bibentry>
       <bibentry key="KWARC:base" type="misc" xml:id="bib.bib583">
