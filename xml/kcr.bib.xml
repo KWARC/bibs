@@ -219,15 +219,15 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-title>The space of mathematical software systems – a survey of paradigmatic systems</bib-title>
-        <bib-note role="annotation">preprint; to be submitted for publication</bib-note>
-        <bib-url href="https://kwarc.info/kohlhase/submit/tetrapod-survey.pdf">Link</bib-url>
+        <bib-note role="annotation">preprint</bib-note>
+        <bib-url href="http://arxiv.org/abs/2002.04955">Link</bib-url>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{CarFarSharBerKohMueRab:somss20,
     author = {Jacques Carette and William M. Farmer and Yasmine Sharoda and
            Katja Ber{\v c}i{\v c} and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe},
      title = {The Space of Mathematical Software Systems – A Survey of Paradigmatic Systems},
-      note = {preprint; to be submitted for publication},
-       url = {https://kwarc.info/kohlhase/submit/tetrapod-survey.pdf},
+      note = {preprint},
+       url = {http://arxiv.org/abs/2002.04955},
       year = {2020}}
 </bib-data>
       </bibentry>
