@@ -816,12 +816,12 @@
       </bibentry>
       <bibentry key="TGView2D:on" type="website" xml:id="bib.bib38">
         <bib-url href="https://mmt.mathhub.info/graphs/tgview.html">Link</bib-url>
-        <bib-title>TGView@MathHUb</bib-title>
+        <bib-title>TGView@MathHub</bib-title>
         <bib-data role="label">TGV</bib-data>
         <bib-data role="urldate">2019-03-07</bib-data>
         <bib-data role="self" type="BibTeX">@online{TGView2D:on,
        url = {https://mmt.mathhub.info/graphs/tgview.html},
-     title = {{TGView@MathHUb}},
+     title = {{TGView@MathHub}},
      label = {TGV},
    urldate = {2019-03-07}}
 </bib-data>
