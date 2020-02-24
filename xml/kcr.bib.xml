@@ -1972,7 +1972,7 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Theories as types</bib-title>
-        <bib-related role="host" type="proceedings"><bib-name role="editor">
+        <bib-related role="host" type="proceedings"><bib-title>9th international joint conference on automated reasoning</bib-title><bib-name role="editor">
           <surname>Galmiche</surname>
           <givenname>Didier</givenname>
         </bib-name><bib-name role="editor">
@@ -1982,6 +1982,8 @@
           <surname>Sebastiani</surname>
           <givenname>Roberto</givenname>
         </bib-name><bib-publisher>Springer Verlag</bib-publisher><bib-date role="publication">2018</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{IJCAR18,
+ booktitle = {9th International Joint Conference on Automated Reasoning},
+     title = {9th International Joint Conference on Automated Reasoning},
     editor = {Didier Galmiche and Stephan Schulz and Roberto Sebastiani},
  publisher = {Springer Verlag},
       year = {2018},
@@ -1990,6 +1992,7 @@
         <bib-url href="http://kwarc.info/kohlhase/papers/ijcar18-records.pdf">Link</bib-url>
         <bib-data role="pubs">dmueller,mkohlhase,frabe,oaf,mmt,odk</bib-data>
         <bib-related role="host" type="proceedings">
+          <bib-title>9th International Joint Conference on Automated Reasoning</bib-title>
           <bib-publisher>Springer Verlag</bib-publisher>
         </bib-related>
         <bib-date role="publication">2018</bib-date>
@@ -1999,6 +2002,7 @@
   crossref = {IJCAR18},
        url = {http://kwarc.info/kohlhase/papers/ijcar18-records.pdf},
       pubs = {dmueller,mkohlhase,frabe,oaf,mmt,odk},
+ booktitle = {9th International Joint Conference on Automated Reasoning},
  publisher = {Springer Verlag},
       year = {2018}}
 </bib-data>
@@ -35400,6 +35404,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
 </bib-data>
       </bibentry>
       <bibentry key="IJCAR18" type="proceedings" xml:id="bib.bib1150">
+        <bib-title>9th international joint conference on automated reasoning</bib-title>
         <bib-name role="editor">
           <surname>Galmiche</surname>
           <givenname>Didier</givenname>
@@ -35416,6 +35421,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-date role="publication">2018</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR18,
+ booktitle = {9th International Joint Conference on Automated Reasoning},
+     title = {9th International Joint Conference on Automated Reasoning},
     editor = {Didier Galmiche and Stephan Schulz and Roberto Sebastiani},
  publisher = {Springer Verlag},
       year = {2018},

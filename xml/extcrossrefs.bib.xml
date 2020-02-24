@@ -127,6 +127,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="IJCAR18" type="proceedings" xml:id="bib.bib5">
+        <bib-title>9th international joint conference on automated reasoning</bib-title>
         <bib-name role="editor">
           <surname>Galmiche</surname>
           <givenname>Didier</givenname>
@@ -143,6 +144,8 @@
         <bib-date role="publication">2018</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR18,
+ booktitle = {9th International Joint Conference on Automated Reasoning},
+     title = {9th International Joint Conference on Automated Reasoning},
     editor = {Didier Galmiche and Stephan Schulz and Roberto Sebastiani},
  publisher = {Springer Verlag},
       year = {2018},
