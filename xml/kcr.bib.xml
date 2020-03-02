@@ -4166,13 +4166,11 @@ Frank Tompa and Martin Suda},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-date role="publication">2012</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/activeex-2012.pdf">Link</bib-url>
         <bib-date role="publication">2012</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{KohKoh:faetd12,
      title = {Frames: Active Examples for Technical Documents},
     author = {Andrea Kohlhase and Michael Kohlhase},
-      year = {2012},
        url = {http://kwarc.info/kohlhase/submit/activeex-2012.pdf},
       year = {2012}}
 </bib-data>
