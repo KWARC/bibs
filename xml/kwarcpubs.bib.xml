@@ -538,7 +538,7 @@
       pubs = {mkohlhase,jfschaefer,comma}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueRab:rpfsm" type="inproceedings" xml:id="bib.bib26">
+      <bibentry key="MueRab:rpfsm19" type="inproceedings" xml:id="bib.bib26">
         <bib-date role="publication">2019</bib-date>
         <bib-title>Rapid prototyping formal systems in mmt: 5 case studies</bib-title>
         <bib-name role="author">
@@ -555,7 +555,7 @@
         </bib-related>
         <bib-url href="https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf">Link</bib-url>
         <bib-data role="pubs">dmueller,frabe,oaf,odk</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{MueRab:rpfsm,
+        <bib-data role="self" type="BibTeX">@inproceedings{MueRab:rpfsm19,
       year = {2019},
      title = {Rapid Prototyping Formal Systems in MMT: 5 Case Studies},
     author = {Dennis M{\"u}ller and Florian Rabe},
