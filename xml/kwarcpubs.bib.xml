@@ -619,6 +619,8 @@ Berlin, Germany, September 30 - October 2, 2019</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="BerVid:DZ19" type="article" xml:id="bib.bib29">
+        <bib-date role="publication">2020/02/14</bib-date>
+        <bib-identifier href="http://dx.doi.org/10.1007/s11786-020-00453-5" id="10.1007/s11786-020-00453-5" scheme="doi">Document</bib-identifier>
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
@@ -631,15 +633,18 @@ Berlin, Germany, September 30 - October 2, 2019</bib-title>
         <bib-related role="host" type="journal">
           <bib-title>Mathematics in Computer Science</bib-title>
         </bib-related>
-        <bib-note role="annotation">accepted</bib-note>
-        <bib-url href="https://arxiv.org/pdf/1812.05921.pdf">Link</bib-url>
+        <bib-url href="https://doi.org/10.1007/s11786-020-00453-5">Link</bib-url>
+        <bib-identifier id="1661-8289" scheme="issn">ISSN 1661-8289</bib-identifier>
         <bib-data role="pubs">kbercic,odk</bib-data>
         <bib-data role="self" type="BibTeX">@article{BerVid:DZ19,
+      year = {2020},
+      date = {2020/02/14},
+       doi = {10.1007/s11786-020-00453-5},
     author = {Katja Ber\v{c}i\v{c} and Jano\v{s} Vidali},
      title = {DiscreteZOO: a Fingerprint Database of Discrete Objects},
    journal = {Mathematics in Computer Science},
-      note = {accepted},
-       url = {https://arxiv.org/pdf/1812.05921.pdf},
+       url = {https://doi.org/10.1007/s11786-020-00453-5},
+      issn = {1661-8289},
       pubs = {kbercic,odk}}
 </bib-data>
       </bibentry>
