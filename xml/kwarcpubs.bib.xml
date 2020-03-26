@@ -3485,6 +3485,7 @@ Interface Theories},
         <bib-part role="pages">26–30</bib-part>
         <bib-related bibrefs="ICMS14" role="host"/>
         <bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2%5F5" id="10.1007/978-3-662-44199-2_5" scheme="doi">Document</bib-identifier>
+        <bib-url href="http://kwarc.info/kohlhase/papers/icms14-flatsearch.pdf">Link</bib-url>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,cprodescu,miancu,mathsearch,mws,omdoc,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{IanKohProd:rassmk14,
@@ -3496,6 +3497,7 @@ Interface Theories},
      pages = {26–30},
   crossref = {ICMS14},
        doi = {10.1007/978-3-662-44199-2_5},
+       url = {http://kwarc.info/kohlhase/papers/icms14-flatsearch.pdf},
   keywords = {conference},
       pubs = {mkohlhase,cprodescu,miancu,mathsearch,mws,omdoc,mmt}}
 </bib-data>
