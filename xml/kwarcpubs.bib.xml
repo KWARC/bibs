@@ -7,7 +7,30 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="MueRabRot:rslffml20" type="unpublished" xml:id="bib.bib1">
+      <bibentry key="SchKoh:pcmljn20" type="unpublished" xml:id="bib.bib1">
+        <bib-name role="author">
+          <surname>Schaefer</surname>
+          <givenname>Jan Frederik</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-title>Prototyping controlled mathematical languages in jupyter notebooks</bib-title>
+        <bib-date role="publication">2020</bib-date>
+        <bib-note role="annotation">submitted</bib-note>
+        <bib-url href="http://kwarc.info/kohlhase/submit/icms20-glf-jupyter.pdf">Link</bib-url>
+        <bib-data role="pubs">jfschaefer,mkohlhase,mmt,comma</bib-data>
+        <bib-data role="self" type="BibTeX">@unpublished{SchKoh:pcmljn20,
+    author = {Jan Frederik Schaefer and Michael Kohlhase},
+     title = {Prototyping Controlled Mathematical Languages in Jupyter Notebooks},
+      year = {2020},
+      note = {submitted},
+       url = {http://kwarc.info/kohlhase/submit/icms20-glf-jupyter.pdf},
+      pubs = {jfschaefer,mkohlhase,mmt,comma}}
+</bib-data>
+      </bibentry>
+      <bibentry key="MueRabRot:rslffml20" type="unpublished" xml:id="bib.bib2">
         <bib-title>Representing structural language features in formal meta-languages</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -27,18 +50,18 @@
         </bib-name>
         <bib-date role="publication">2020</bib-date>
         <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="http://kwarc.info/kohlhase/papers/cicm20-features.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,frabe,dmueller</bib-data>
+        <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-features.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase,frabe,dmueller,oaf,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{MueRabRot:rslffml20,
      title = {Representing Structural Language Features in Formal Meta-Languages},
     author = {Dennis M{\"u}ller and Florian Rabe and Colin Rothgang and Michael Kohlhase},
       year = {2020},
       note = {submitted},
-       url = {http://kwarc.info/kohlhase/papers/cicm20-features.pdf},
-      pubs = {mkohlhase,frabe,dmueller}}
+       url = {http://kwarc.info/kohlhase/submit/cicm20-features.pdf},
+      pubs = {mkohlhase,frabe,dmueller,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="MarKohRab:tgview3D20" type="unpublished" xml:id="bib.bib2">
+      <bibentry key="MarKohRab:tgview3D20" type="unpublished" xml:id="bib.bib3">
         <bib-title>3-dimensional graph visualization of mathematical knowledge</bib-title>
         <bib-name role="author">
           <surname>Marcus</surname>
@@ -54,18 +77,18 @@
         </bib-name>
         <bib-date role="publication">2020</bib-date>
         <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="http://kwarc.info/kohlhase/papers/cicm20-tgview3D.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,frabe,rmarcus</bib-data>
+        <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-tgview3D.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase,frabe,rmarcus,mathhub,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{MarKohRab:tgview3D20,
      title = {3-Dimensional Graph Visualization of Mathematical Knowledge},
     author = {Richard Marcus and Michael Kohlhase and Florian Rabe},
       year = {2020},
       note = {submitted},
-       url = {http://kwarc.info/kohlhase/papers/cicm20-tgview3D.pdf},
-      pubs = {mkohlhase,frabe,rmarcus}}
+       url = {http://kwarc.info/kohlhase/submit/cicm20-tgview3D.pdf},
+      pubs = {mkohlhase,frabe,rmarcus,mathhub,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohBoeMar:frameit20" type="unpublished" xml:id="bib.bib3">
+      <bibentry key="KohBoeMar:frameit20" type="unpublished" xml:id="bib.bib4">
         <bib-title>FrameIT: detangling knowledge management from game design in serious games</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -101,18 +124,18 @@
         </bib-name>
         <bib-date role="publication">2020</bib-date>
         <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="http://kwarc.info/kohlhase/papers/cicm20-frameit.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,nroux</bib-data>
+        <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-frameit.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase,nroux,rmarcus,dmueller,frameit,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohBoeMar:frameit20,
      title = {{FrameIT}: Detangling Knowledge Management from Game Design in Serious Games},
     author = {Michael Kohlhase and Benjamin B{\"o}sl and Richard Marcus and Dennis M{\"u}ller and Denis Rochau and Navid Roux and John Schihada and Marc Stamminger},
       year = {2020},
       note = {submitted},
-       url = {http://kwarc.info/kohlhase/papers/cicm20-frameit.pdf},
-      pubs = {mkohlhase,nroux}}
+       url = {http://kwarc.info/kohlhase/submit/cicm20-frameit.pdf},
+      pubs = {mkohlhase,nroux,rmarcus,dmueller,frameit,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="SchKoh:glif20" type="unpublished" xml:id="bib.bib4">
+      <bibentry key="SchKoh:glif20" type="unpublished" xml:id="bib.bib5">
         <bib-name role="author">
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
@@ -124,18 +147,18 @@
         <bib-title>The GLIF system: a framework for inference-based natural-language understanding</bib-title>
         <bib-date role="publication">2020</bib-date>
         <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="http://kwarc.info/kohlhase/papers/cicm20-glif.pdf">Link</bib-url>
-        <bib-data role="pubs">jfschaefer,mkohlhase</bib-data>
+        <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-glif.pdf">Link</bib-url>
+        <bib-data role="pubs">jfschaefer,mkohlhase,mmt,comma</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{SchKoh:glif20,
     author = {Jan Frederik Schaefer and Michael Kohlhase},
      title = {The {GLIF} System: A Framework for Inference-Based Natural-Language Understanding},
       year = {2020},
       note = {submitted},
-       url = {http://kwarc.info/kohlhase/papers/cicm20-glif.pdf},
-      pubs = {jfschaefer,mkohlhase}}
+       url = {http://kwarc.info/kohlhase/submit/cicm20-glif.pdf},
+      pubs = {jfschaefer,mkohlhase,mmt,comma}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:lfaets20" type="unpublished" xml:id="bib.bib5">
+      <bibentry key="KohKoh:lfaets20" type="unpublished" xml:id="bib.bib6">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -147,33 +170,15 @@
         <bib-title>Linebreaking formulae – an eye-tracking study</bib-title>
         <bib-date role="publication">2020</bib-date>
         <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="http://kwarc.info/kohlhase/papers/cicm20-eyetracking.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-eyetracking.pdf">Link</bib-url>
         <bib-data role="pubs">akohlhase,mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohKoh:lfaets20,
     author = {Andrea Kohlhase and Michael Kohlhase},
      title = {Linebreaking Formulae – An Eye-Tracking Study},
       year = {2020},
       note = {submitted},
-       url = {http://kwarc.info/kohlhase/papers/cicm20-eyetracking.pdf},
+       url = {http://kwarc.info/kohlhase/submit/cicm20-eyetracking.pdf},
       pubs = {akohlhase,mkohlhase}}
-</bib-data>
-      </bibentry>
-      <bibentry key="BerKohRab:thqlmker20" type="website" xml:id="bib.bib6">
-        <bib-related bibrefs="BerKohRab:thqlmk20:base" role="host"/>
-        <bib-title>Towards a heterogeneous query language for mathematical knowledge – extended report</bib-title>
-        <bib-url href="http://kwarc.info/kohlhase/papers/tetrasearch.pdf">Link</bib-url>
-        <bib-type>Living Whitepaper</bib-type>
-        <bib-data role="pubs">mkohlhase,frabe,kbercic</bib-data>
-        <bib-data role="urldate">2020-03-27</bib-data>
-        <bib-date role="publication">2020</bib-date>
-        <bib-data role="self" type="BibTeX">@online{BerKohRab:thqlmker20,
-  crossref = {BerKohRab:thqlmk20:base},
-     title = {Towards a Heterogeneous Query Language for Mathematical Knowledge – Extended Report},
-       url = {http://kwarc.info/kohlhase/papers/tetrasearch.pdf},
-      type = {Living Whitepaper},
-      pubs = {mkohlhase,frabe,kbercic},
-   urldate = {2020-03-27},
-      year = {2020}}
 </bib-data>
       </bibentry>
       <bibentry key="BerKohRab:thqlmker20" type="website" xml:id="bib.bib7">
@@ -181,7 +186,7 @@
         <bib-title>Towards a heterogeneous query language for mathematical knowledge – extended report</bib-title>
         <bib-url href="http://kwarc.info/kohlhase/papers/tetrasearch.pdf">Link</bib-url>
         <bib-type>Living Whitepaper</bib-type>
-        <bib-data role="pubs">mkohlhase,frabe,kbercic</bib-data>
+        <bib-data role="pubs">mkohlhase,frabe,kbercic,mathhub,mmt</bib-data>
         <bib-data role="urldate">2020-03-27</bib-data>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@online{BerKohRab:thqlmker20,
@@ -189,12 +194,30 @@
      title = {Towards a Heterogeneous Query Language for Mathematical Knowledge – Extended Report},
        url = {http://kwarc.info/kohlhase/papers/tetrasearch.pdf},
       type = {Living Whitepaper},
-      pubs = {mkohlhase,frabe,kbercic},
+      pubs = {mkohlhase,frabe,kbercic,mathhub,mmt},
    urldate = {2020-03-27},
       year = {2020}}
 </bib-data>
       </bibentry>
-      <bibentry key="BerKohRab:thqlmk20:base" type="misc" xml:id="bib.bib8">
+      <bibentry key="BerKohRab:thqlmker20" type="website" xml:id="bib.bib8">
+        <bib-related bibrefs="BerKohRab:thqlmk20:base" role="host"/>
+        <bib-title>Towards a heterogeneous query language for mathematical knowledge – extended report</bib-title>
+        <bib-url href="http://kwarc.info/kohlhase/papers/tetrasearch.pdf">Link</bib-url>
+        <bib-type>Living Whitepaper</bib-type>
+        <bib-data role="pubs">mkohlhase,frabe,kbercic,mathhub,mmt</bib-data>
+        <bib-data role="urldate">2020-03-27</bib-data>
+        <bib-date role="publication">2020</bib-date>
+        <bib-data role="self" type="BibTeX">@online{BerKohRab:thqlmker20,
+  crossref = {BerKohRab:thqlmk20:base},
+     title = {Towards a Heterogeneous Query Language for Mathematical Knowledge – Extended Report},
+       url = {http://kwarc.info/kohlhase/papers/tetrasearch.pdf},
+      type = {Living Whitepaper},
+      pubs = {mkohlhase,frabe,kbercic,mathhub,mmt},
+   urldate = {2020-03-27},
+      year = {2020}}
+</bib-data>
+      </bibentry>
+      <bibentry key="BerKohRab:thqlmk20:base" type="misc" xml:id="bib.bib9">
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
@@ -213,19 +236,21 @@
       year = {2020}}
 </bib-data>
       </bibentry>
-      <bibentry key="ufmmt:on" type="website" xml:id="bib.bib9">
+      <bibentry key="ufmmt:on" type="website" xml:id="bib.bib10">
         <bib-data role="label">UFM</bib-data>
         <bib-title>Formalizations for uframeit frameworld</bib-title>
         <bib-url href="https://gl.mathhub.info/FrameIT/FrameWorld">Link</bib-url>
+        <bib-data role="pubs">frameit</bib-data>
         <bib-data role="urldate">2020-03-19</bib-data>
         <bib-data role="self" type="BibTeX">@online{ufmmt:on,
      label = {UFM},
      title = {Formalizations for UFrameIT FrameWorld},
        url = {https://gl.mathhub.info/FrameIT/FrameWorld},
+      pubs = {frameit},
    urldate = {2020-03-19}}
 </bib-data>
       </bibentry>
-      <bibentry key="Bercic:LWDA19" type="inproceedings" xml:id="bib.bib10">
+      <bibentry key="Bercic:LWDA19" type="inproceedings" xml:id="bib.bib11">
         <bib-related bibrefs="LWDA19" role="host"/>
         <bib-name role="author">
           <surname>Bercic</surname>
@@ -235,16 +260,18 @@
         <bib-part role="pages">207–217</bib-part>
         <bib-url href="http://ceur-ws.org/Vol-2454/paper_40.pdf">Link</bib-url>
         <bib-data role="pubs">kbercic</bib-data>
+        <bib-data role="pubs">kbercic</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Bercic:LWDA19,
   crossref = {LWDA19},
     author = {Katja Bercic},
      title = {Towards a Census of Relational Data in Mathematics},
      pages = {207–217},
        url = {http://ceur-ws.org/Vol-2454/paper_40.pdf},
+      pubs = {kbercic,mathhub},
       pubs = {kbercic}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohRapp:cgal19" type="inproceedings" xml:id="bib.bib11">
+      <bibentry key="KohRapp:cgal19" type="inproceedings" xml:id="bib.bib12">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -257,26 +284,14 @@
         <bib-related bibrefs="LWDA19" role="host"/>
         <bib-part role="pages">265–279</bib-part>
         <bib-url href="http://ceur-ws.org/Vol-2454/paper_63.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,mrapp</bib-data>
+        <bib-data role="pubs">mkohlhase,mrapp,almanac</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohRapp:cgal19,
     author = {Michael Kohlhase and Max Rapp},
      title = {Context Graphs for Argumentation Logics},
   crossref = {LWDA19},
      pages = {265–279},
        url = {http://ceur-ws.org/Vol-2454/paper_63.pdf},
-      pubs = {mkohlhase,mrapp}}
-</bib-data>
-      </bibentry>
-      <bibentry key="GDS:on" type="website" xml:id="bib.bib12">
-        <bib-data role="label">DS</bib-data>
-        <bib-title>Dataset search</bib-title>
-        <bib-url href="https://datasetsearch.research.google.com/">Link</bib-url>
-        <bib-data role="urldate">2020-01-25</bib-data>
-        <bib-data role="self" type="BibTeX">@online{GDS:on,
-     label = {DS},
-     title = {Dataset Search},
-       url = {https://datasetsearch.research.google.com/},
-   urldate = {2020-01-25}}
+      pubs = {mkohlhase,mrapp,almanac}}
 </bib-data>
       </bibentry>
       <bibentry key="KohRab:eempal20" type="unpublished" xml:id="bib.bib13">
@@ -291,24 +306,26 @@
         </bib-name>
         <bib-url href="https://kwarc.info/people/frabe/Research/KR_oafexp_20.pdf">Link</bib-url>
         <bib-date role="publication">2020</bib-date>
-        <bib-data role="pubs">mkohlhase,frabe</bib-data>
+        <bib-data role="pubs">mkohlhase,frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohRab:eempal20,
      title = {Experiences from Exporting Major Proof Assistant Libraries},
     author = {Michael Kohlhase and Florian Rabe},
        url = {https://kwarc.info/people/frabe/Research/KR_oafexp_20.pdf},
       year = {2020},
-      pubs = {mkohlhase,frabe}}
+      pubs = {mkohlhase,frabe,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="ijcar2020demo:on" type="website" xml:id="bib.bib14">
         <bib-data role="label">GD</bib-data>
         <bib-title>GLIF demo</bib-title>
         <bib-url href="https://gl.kwarc.info/COMMA/glif-demo-ijcar-2020">Link</bib-url>
+        <bib-data role="pubs">mkohlhase,jschaefer,comma</bib-data>
         <bib-data role="urldate">2020-01-27</bib-data>
         <bib-data role="self" type="BibTeX">@online{ijcar2020demo:on,
      label = {GD},
      title = {GLIF Demo},
        url = {https://gl.kwarc.info/COMMA/glif-demo-ijcar-2020},
+      pubs = {mkohlhase,jschaefer,comma},
    urldate = {2020-01-27}}
 </bib-data>
       </bibentry>
@@ -316,11 +333,13 @@
         <bib-data role="label">GEP</bib-data>
         <bib-title>Generated elpi provers</bib-title>
         <bib-url href="https://gl.mathhub.info/MMT/LATIN2/tree/devel/elpi">Link</bib-url>
+        <bib-data role="pubs">frabe,mkohlhase,jschaefer,oaf</bib-data>
         <bib-data role="urldate">2020-01-26</bib-data>
         <bib-data role="self" type="BibTeX">@online{elpiprovers:on,
      label = {GEP},
      title = {Generated ELPI Provers},
        url = {https://gl.mathhub.info/MMT/LATIN2/tree/devel/elpi},
+      pubs = {frabe,mkohlhase,jschaefer,oaf},
    urldate = {2020-01-26}}
 </bib-data>
       </bibentry>
@@ -345,14 +364,14 @@
         <bib-url href="https://kwarc.info/kohlhase/submit/mmtelpi.pdf">Link</bib-url>
         <bib-note role="annotation">extended report of conference submission</bib-note>
         <bib-date role="publication">2020</bib-date>
-        <bib-data role="pubs">mkohlhase,frabe,jfschaefer</bib-data>
+        <bib-data role="pubs">mkohlhase,frabe,jfschaefer,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohRabSacSch:lipslfer20,
      title = {Logic-Independent Proof Search in Logical Frameworks (extended report)},
     author = {Michael Kohlhase and Florian Rabe and Claudio Sacerdoti Coen and Jan Frederik Schaefer},
        url = {https://kwarc.info/kohlhase/submit/mmtelpi.pdf},
       note = {extended report of conference submission},
       year = {2020},
-      pubs = {mkohlhase,frabe,jfschaefer}}
+      pubs = {mkohlhase,frabe,jfschaefer,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="KohRabSacSch:lipslfsp20" type="inproceedings" xml:id="bib.bib17">
@@ -379,7 +398,7 @@
         </bib-related>
         <bib-date role="publication">2020</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">mkohlhase,frabe,jfschaefer</bib-data>
+        <bib-data role="pubs">mkohlhase,frabe,jfschaefer,oaf,comma</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohRabSacSch:lipslfsp20,
      title = {Logic-Independent Proof Search in Logical Frameworks (short paper)},
     author = {Michael Kohlhase and Florian Rabe and Claudio Sacerdoti Coen and Jan Frederik Schaefer},
@@ -387,7 +406,7 @@
  booktitle = {IJCAR 2020},
       year = {2020},
   keywords = {conference},
-      pubs = {mkohlhase,frabe,jfschaefer}}
+      pubs = {mkohlhase,frabe,jfschaefer,oaf,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="DMueller:phd:19" type="thesis" xml:id="bib.bib18">
@@ -400,7 +419,7 @@
         <bib-url href="https://kwarc.info/people/dmueller/pubs/thesis.pdf">Link</bib-url>
         <bib-data role="month">12</bib-data>
         <bib-date role="publication">2019-12</bib-date>
-        <bib-data role="pubs">dmueller,phdthesis</bib-data>
+        <bib-data role="pubs">dmueller,phdthesis,mmt,oaf</bib-data>
         <bib-type>Ph.D. Thesis</bib-type>
         <bib-data role="self" type="BibTeX">@phdthesis{DMueller:phd:19,
     author = {Dennis M{\"u}ller},
@@ -409,7 +428,7 @@
        url = {https://kwarc.info/people/dmueller/pubs/thesis.pdf},
      month = {12},
       year = {2019},
-      pubs = {dmueller,phdthesis}}
+      pubs = {dmueller,phdthesis,mmt,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="KohRabWen:micakrf20" type="unpublished" xml:id="bib.bib19">
@@ -446,7 +465,7 @@
         <bib-type>B.Sc. Thesis</bib-type>
         <bib-data role="month">12</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2019/Alt_Christoph.pdf">Link</bib-url>
-        <bib-data role="pubs">bscthesis</bib-data>
+        <bib-data role="pubs">bscthesis,mathhub,mws</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Alt:bsc19,
      title = {Diagram Chasing Done Meta – Formula Search for {nLab}},
     author = {Christoph Alt},
@@ -455,7 +474,7 @@
       type = {B.Sc. Thesis},
      month = {12},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2019/Alt_Christoph.pdf},
-      pubs = {bscthesis}}
+      pubs = {bscthesis,mathhub,mws}}
 </bib-data>
       </bibentry>
       <bibentry key="CarFarSharBerKohMueRab:somss20" type="unpublished" xml:id="bib.bib21">
@@ -489,12 +508,14 @@
         </bib-name>
         <bib-title>The space of mathematical software systems – a survey of paradigmatic systems</bib-title>
         <bib-note role="annotation">preprint; <ref class="ltx_url" font="typewriter" href="http://arxiv.org/abs/2002.04955">http://arxiv.org/abs/2002.04955</ref></bib-note>
+        <bib-data role="pubs">mkohlhase,kbercic,dmueller,frabe</bib-data>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{CarFarSharBerKohMueRab:somss20,
     author = {Jacques Carette and William M. Farmer and Yasmine Sharoda and
            Katja Ber{\v c}i{\v c} and Michael Kohlhase and Dennis M{\"u}ller and Florian Rabe},
      title = {The Space of Mathematical Software Systems – A Survey of Paradigmatic Systems},
       note = {preprint; \url{http://arxiv.org/abs/2002.04955}},
+      pubs = {mkohlhase,kbercic,dmueller,frabe},
       year = {2020}}
 </bib-data>
       </bibentry>
@@ -502,11 +523,13 @@
         <bib-data role="label">CVT</bib-data>
         <bib-title>DataMathHub - census of small, connected, cubic, vertex-transitive graphs</bib-title>
         <bib-url href="https://data.mathhub.info/collection/cvt/">Link</bib-url>
+        <bib-data role="pubs">kbercic</bib-data>
         <bib-data role="urldate">2019-12-14</bib-data>
         <bib-data role="self" type="BibTeX">@online{DMH:cvt,
      label = {CVT},
      title = {DataMathHub - Census of Small, Connected, Cubic, Vertex-Transitive Graphs},
        url = {https://data.mathhub.info/collection/cvt/},
+      pubs = {kbercic},
    urldate = {2019-12-14}}
 </bib-data>
       </bibentry>
@@ -578,7 +601,7 @@
         <bib-publisher>De Gruyter</bib-publisher>
         <bib-note role="annotation">in press</bib-note>
         <bib-url href="https://kwarc.info/kohlhase/submit/it19.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,frabe,kbercic</bib-data>
+        <bib-data role="pubs">mkohlhase,frabe,kbercic,mathhub,mdh</bib-data>
         <bib-data role="self" type="BibTeX">@article{BerKohRab:dfm19,
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
      title = {(Deep) FAIR Mathematics},
@@ -586,7 +609,7 @@
  publisher = {De Gruyter},
       note = {in press},
        url = {https://kwarc.info/kohlhase/submit/it19.pdf},
-      pubs = {mkohlhase,frabe,kbercic}}
+      pubs = {mkohlhase,frabe,kbercic,mathhub,mdh}}
 </bib-data>
       </bibentry>
       <bibentry key="Plivelic:bsc" type="mscthesis" xml:id="bib.bib28">
@@ -600,7 +623,7 @@
         <bib-type>B.Sc. Thesis</bib-type>
         <bib-data role="month">2</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Plivelic_Marian.pdf">Link</bib-url>
-        <bib-data role="pubs">bscthesis</bib-data>
+        <bib-data role="pubs">bscthesis,comma,stex</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Plivelic:bsc,
      title = {Using machine learning to support annotating of keywords in mathematical texts},
     author = {Marian Plivelic},
@@ -609,7 +632,7 @@
       type = {B.Sc. Thesis},
      month = {2},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Plivelic_Marian.pdf},
-      pubs = {bscthesis}}
+      pubs = {bscthesis,comma,stex}}
 </bib-data>
       </bibentry>
       <bibentry key="Gorolenkov:bsc" type="mscthesis" xml:id="bib.bib29">
@@ -623,7 +646,7 @@
         <bib-type>B.Sc. Thesis</bib-type>
         <bib-data role="month">9</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/gorolenkov.pdf">Link</bib-url>
-        <bib-data role="pubs">bscthesis</bib-data>
+        <bib-data role="pubs">bscthesis,comma</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Gorolenkov:bsc,
      title = {Meaning Extraction in STEM-Documents by Machine-Learning Methods},
     author = {Dmitry Gorolenkov},
@@ -632,7 +655,7 @@
       type = {B.Sc. Thesis},
      month = {9},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/gorolenkov.pdf},
-      pubs = {bscthesis}}
+      pubs = {bscthesis,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="Lohnert:bsc" type="mscthesis" xml:id="bib.bib30">
@@ -669,7 +692,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-data role="month">4</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2019/Marcus_Richard.pdf">Link</bib-url>
-        <bib-data role="pubs">mscthesis,odk</bib-data>
+        <bib-data role="pubs">mscthesis,odk,mathhub</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Marcus:msc,
     author = {Richard Marcus},
      title = {{3D}-Visualization of Theory Graphs},
@@ -678,7 +701,7 @@
       type = {M.Sc. Thesis},
      month = {4},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2019/Marcus_Richard.pdf},
-      pubs = {mscthesis,odk}}
+      pubs = {mscthesis,odk,mathhub}}
 </bib-data>
       </bibentry>
       <bibentry key="Rupprecht:msc" type="mscthesis" xml:id="bib.bib32">
@@ -692,7 +715,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-data role="month">5</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2019/Rupprecht_Marcel.pdf">Link</bib-url>
-        <bib-data role="pubs">mscthesis,odk</bib-data>
+        <bib-data role="pubs">mscthesis,odk,mathhub</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Rupprecht:msc,
     author = {Marcel Rupprecht},
      title = {Visualization of Theory Graphs},
@@ -701,7 +724,7 @@
       type = {M.Sc. Thesis},
      month = {5},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2019/Rupprecht_Marcel.pdf},
-      pubs = {mscthesis,odk}}
+      pubs = {mscthesis,odk,mathhub}}
 </bib-data>
       </bibentry>
       <bibentry key="CarFarKohRab:bmobb19" type="article" xml:id="bib.bib33">
