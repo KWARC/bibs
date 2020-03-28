@@ -26079,26 +26079,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,dmueller,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohlhaseRapp:fgwm19" type="unpublished" xml:id="bib.bib1106">
-        <bib-title>Context graph for argumentation logics</bib-title>
-        <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Rapp</surname>
-          <givenname>Max</givenname>
-        </bib-name>
-        <bib-date role="publication">2019</bib-date>
-        <bib-data role="pubs">mkohlhase,mrapp,almanac</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohlhaseRapp:fgwm19,
-     title = {Context Graph for Argumentation Logics},
-    author = {Michael Kohlhase and Max Rapp},
-      year = {2019},
-      pubs = {mkohlhase,mrapp,almanac}}
-</bib-data>
-      </bibentry>
-      <bibentry key="CICM14" type="proceedings" xml:id="bib.bib1107">
+      <bibentry key="CICM14" type="proceedings" xml:id="bib.bib1106">
         <bib-name role="editor">
           <surname>Watt</surname>
           <givenname>Stephan</givenname>
