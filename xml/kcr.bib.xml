@@ -295,7 +295,7 @@
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Makaveeva:msc09" type="mscthesis" xml:id="bib.bib16">
+      <bibentry key="Makaveeva:msc09" type="thesis" xml:id="bib.bib16">
         <bib-title>Management of change in common criteria it security documentation</bib-title>
         <bib-name role="author">
           <surname>Makaveeva</surname>
@@ -306,7 +306,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2009/makaveeva_milena.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Makaveeva:msc09,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Makaveeva:msc09,
      title = {Management of Change in Common Criteria IT Security Documentation},
     author = {Milena Makaveeva},
     school = {Jacobs University},
@@ -316,7 +316,7 @@
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Jakubauskas:msc13" type="mscthesis" xml:id="bib.bib17">
+      <bibentry key="Jakubauskas:msc13" type="thesis" xml:id="bib.bib17">
         <bib-title>Reflecting declarative rule implementations</bib-title>
         <bib-name role="author">
           <surname>Jakubauskas</surname>
@@ -327,7 +327,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2013/jakubauskas_aivaras.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Jakubauskas:msc13,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Jakubauskas:msc13,
      title = {Reflecting Declarative Rule Implementations},
     author = {Aivaras Jakubauskas},
     school = {Jacobs University},
@@ -337,7 +337,7 @@
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Jucovschi:msc10" type="mscthesis" xml:id="bib.bib18">
+      <bibentry key="Jucovschi:msc10" type="thesis" xml:id="bib.bib18">
         <bib-title>Editing knowledge in large mathematical corpora. a case study with semantic <ERROR class="undefined">\LaTdX</ERROR> (sTeX)</bib-title>
         <bib-name role="author">
           <surname>Jucovschi</surname>
@@ -348,7 +348,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/jucovschi_constantin.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,cjucovschi</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Jucovschi:msc10,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Jucovschi:msc10,
      title = {Editing Knowledge in Large Mathematical Corpora. A case study with Semantic {\LaTdX} ({sTeX})},
     author = {Constantin Jucovschi},
     school = {Jacobs University},
@@ -358,7 +358,7 @@
       pubs = {mscthesis,cjucovschi}}
 </bib-data>
       </bibentry>
-      <bibentry key="Grigore:msc10" type="mscthesis" xml:id="bib.bib19">
+      <bibentry key="Grigore:msc10" type="thesis" xml:id="bib.bib19">
         <bib-title>Smart management of change on OMDoc documents</bib-title>
         <bib-name role="author">
           <surname>Holsten</surname>
@@ -369,7 +369,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/grigore_mihai/thesis/thesis_template.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Grigore:msc10,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Grigore:msc10,
      title = {Smart Management of Change on {OMDoc} Documents},
     author = {S{\"o}nke Holsten},
     school = {Jacobs University},
@@ -379,7 +379,7 @@
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Grigore:msc10" type="mscthesis" xml:id="bib.bib20">
+      <bibentry key="Grigore:msc10" type="thesis" xml:id="bib.bib20">
         <bib-title>Smart management of change on OMDoc documents</bib-title>
         <bib-name role="author">
           <surname>Holsten</surname>
@@ -390,7 +390,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/grigore_mihai/thesis/thesis_template.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Grigore:msc10,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Grigore:msc10,
      title = {Smart Management of Change on {OMDoc} Documents},
     author = {S{\"o}nke Holsten},
     school = {Jacobs University},
@@ -400,7 +400,7 @@
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Roux:bsc19" type="mscthesis" xml:id="bib.bib21">
+      <bibentry key="Roux:bsc19" type="thesis" xml:id="bib.bib21">
         <bib-title>Refactoring of theory graphs in knowledge representation systems</bib-title>
         <bib-name role="author">
           <surname>Roux</surname>
@@ -412,7 +412,7 @@
         <bib-type>B.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2019/Roux_Navid.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis,nroux</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Roux:bsc19,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Roux:bsc19,
      title = {Refactoring of Theory Graphs in Knowledge Representation Systems},
     author = {Navid Roux},
     school = {FAU Erlangen-N{\"u}rnberg},
@@ -423,7 +423,7 @@
       pubs = {bscthesis,nroux}}
 </bib-data>
       </bibentry>
-      <bibentry key="Boesl:msc20" type="mscthesis" xml:id="bib.bib22">
+      <bibentry key="Boesl:msc20" type="thesis" xml:id="bib.bib22">
         <bib-title>Designing a framework for beneficial serious math games using the FrameIt method</bib-title>
         <bib-name role="author">
           <surname>Bösl</surname>
@@ -435,7 +435,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2020/Boesl_Benjamin.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Boesl:msc20,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Boesl:msc20,
      title = {Designing a Framework for Beneficial Serious Math Games Using the {FrameIt} Method},
     author = {Benjamin B{\"o}sl},
     school = {FAU Erlangen-N{\"u}rnberg},
@@ -933,7 +933,7 @@
       year = {2019}}
 </bib-data>
       </bibentry>
-      <bibentry key="Alt:bsc19" type="mscthesis" xml:id="bib.bib42">
+      <bibentry key="Alt:bsc19" type="thesis" xml:id="bib.bib42">
         <bib-title>Diagram chasing done meta – formula search for nLab</bib-title>
         <bib-name role="author">
           <surname>Alt</surname>
@@ -945,7 +945,7 @@
         <bib-data role="month">12</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2019/Alt_Christoph.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis,mathhub,mws</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Alt:bsc19,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Alt:bsc19,
      title = {Diagram Chasing Done Meta – Formula Search for {nLab}},
     author = {Christoph Alt},
     school = {FAU Erlangen-N{\"u}rnberg},
@@ -1091,7 +1091,7 @@
       pubs = {mkohlhase,frabe,kbercic,mathhub,mdh}}
 </bib-data>
       </bibentry>
-      <bibentry key="Plivelic:bsc" type="mscthesis" xml:id="bib.bib50">
+      <bibentry key="Plivelic:bsc" type="thesis" xml:id="bib.bib50">
         <bib-title>Using machine learning to support annotating of keywords in mathematical texts</bib-title>
         <bib-name role="author">
           <surname>Plivelic</surname>
@@ -1103,7 +1103,7 @@
         <bib-data role="month">2</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Plivelic_Marian.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis,comma,stex</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Plivelic:bsc,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Plivelic:bsc,
      title = {Using machine learning to support annotating of keywords in mathematical texts},
     author = {Marian Plivelic},
     school = {FAU Erlangen-N{\"u}rnberg},
@@ -1114,7 +1114,7 @@
       pubs = {bscthesis,comma,stex}}
 </bib-data>
       </bibentry>
-      <bibentry key="Gorolenkov:bsc" type="mscthesis" xml:id="bib.bib51">
+      <bibentry key="Gorolenkov:bsc" type="thesis" xml:id="bib.bib51">
         <bib-title>Meaning extraction in stem-documents by machine-learning methods</bib-title>
         <bib-name role="author">
           <surname>Gorolenkov</surname>
@@ -1126,7 +1126,7 @@
         <bib-data role="month">9</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/gorolenkov.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis,comma</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Gorolenkov:bsc,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Gorolenkov:bsc,
      title = {Meaning Extraction in STEM-Documents by Machine-Learning Methods},
     author = {Dmitry Gorolenkov},
     school = {FAU Erlangen-N{\"u}rnberg},
@@ -1137,7 +1137,7 @@
       pubs = {bscthesis,comma}}
 </bib-data>
       </bibentry>
-      <bibentry key="Lohnert:bsc" type="mscthesis" xml:id="bib.bib52">
+      <bibentry key="Lohnert:bsc" type="thesis" xml:id="bib.bib52">
         <bib-name role="author">
           <surname>Lohnert</surname>
           <givenname>Patrick</givenname>
@@ -1149,7 +1149,7 @@
         <bib-data role="month">9</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2018/Lohnert_Patrick.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Lohnert:bsc,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Lohnert:bsc,
     author = {Patrick Lohnert},
      title = {Automatisches Ableiten von Steuerungsabl{\"a}ufen durch semantische Modellierung von Funktionen und Methoden der K{\"u}nstlichen Intelligenz},
     school = {FAU Erlangen-N{\"u}rnberg},
@@ -1160,7 +1160,7 @@
       pubs = {bscthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Marcus:msc" type="mscthesis" xml:id="bib.bib53">
+      <bibentry key="Marcus:msc" type="thesis" xml:id="bib.bib53">
         <bib-name role="author">
           <surname>Marcus</surname>
           <givenname>Richard</givenname>
@@ -1172,7 +1172,7 @@
         <bib-data role="month">4</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2019/Marcus_Richard.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,odk,mathhub</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Marcus:msc,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Marcus:msc,
     author = {Richard Marcus},
      title = {{3D}-Visualization of Theory Graphs},
     school = {FAU Erlangen-N{\"u}rnberg},
@@ -1183,7 +1183,7 @@
       pubs = {mscthesis,odk,mathhub}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rupprecht:msc" type="mscthesis" xml:id="bib.bib54">
+      <bibentry key="Rupprecht:msc" type="thesis" xml:id="bib.bib54">
         <bib-name role="author">
           <surname>Rupprecht</surname>
           <givenname>Marcel</givenname>
@@ -1195,7 +1195,7 @@
         <bib-data role="month">5</bib-data>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2019/Rupprecht_Marcel.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,odk,mathhub</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{Rupprecht:msc,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Rupprecht:msc,
     author = {Marcel Rupprecht},
      title = {Visualization of Theory Graphs},
     school = {FAU Erlangen-N{\"u}rnberg},
@@ -16615,6 +16615,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
           <givenname>Andrei</givenname>
         </bib-name>
         <bib-title>Improving Panta Rhei</bib-title>
+        <bib-date role="publication">2008</bib-date>
         <bib-url href="http://kwarc.info/panta-rhei/papers/thesis_aiordachioaie_andrei.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
         <bib-type>Master’s Thesis</bib-type>
@@ -16622,6 +16623,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
        key = {AA:BTIPR08},
     author = {Andrei Aiordachioaie},
      title = {{Improving Panta Rhei}},
+      year = {2008},
        url = {http://kwarc.info/panta-rhei/papers/thesis_aiordachioaie_andrei.pdf},
       pubs = {mscthesis}}
 </bib-data>
@@ -18353,7 +18355,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {frabe,mmt,latin}}
 </bib-data>
       </bibentry>
-      <bibentry key="kristina:ml_fol" type="mscthesis" xml:id="bib.bib553">
+      <bibentry key="kristina:ml_fol" type="thesis" xml:id="bib.bib553">
         <bib-name role="author">
           <surname>Sojakova</surname>
           <givenname>Kristina</givenname>
@@ -18363,7 +18365,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/sojakova_kristina.pdf">Link</bib-url>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-data role="pubs">mscthesis,latin,mmt</bib-data>
-        <bib-data role="self" type="BibTeX">@mscthesis{kristina:ml_fol,
+        <bib-type>Master’s Thesis</bib-type>
+        <bib-data role="self" type="BibTeX">@mastersthesis{kristina:ml_fol,
     author = {Kristina Sojakova},
      title = {{Mechanically Verifying Logic Translations}},
       year = {2010},
