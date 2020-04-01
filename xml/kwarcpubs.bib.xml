@@ -291,7 +291,7 @@
      title = {Natural Language and Mathematics Processing for Applicable Theorem Search},
     school = {Jacobs University Bremen},
       year = {2009},
-      pubs = {sanca,llamapun,mws},
+      pubs = {sanca,comma,mws},
       type = {Master's Thesis},
   keywords = {lamapunbibs},
        url = {https://kwarc.info/people/archive/pubs/msc-2009/aanca.pdf},
@@ -3976,13 +3976,13 @@ Interface Theories},
         <bib-title>KAT: an annotation tool for STEM documents</bib-title>
         <bib-related bibrefs="MathUI15" role="host"/>
         <bib-url href="http://www.cermat.org/events/MathUI/15/proceedings/Lal-Kohlhase-Ginev_KAT_annotations_MathUI_15.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun,kat</bib-data>
+        <bib-data role="pubs">mkohlhase,dginev,twiesing,comma,kat</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{GinLalKoh:katsd15,
     author = {Deyan Ginev and Sourabh Lal and Michael Kohlhase and Tom Wiesing},
      title = {{KAT}: an Annotation Tool for {STEM} Documents},
   crossref = {MathUI15},
        url = {http://www.cermat.org/events/MathUI/15/proceedings/Lal-Kohlhase-Ginev_KAT_annotations_MathUI_15.pdf},
-      pubs = {mkohlhase,dginev,twiesing,llamapun,kat}}
+      pubs = {mkohlhase,dginev,twiesing,comma,kat}}
 </bib-data>
       </bibentry>
       <bibentry key="PenKoh:rpscsmc15" type="inproceedings" xml:id="bib.bib184">
@@ -4353,13 +4353,13 @@ Interface Theories},
         <bib-title>CorTeX framework</bib-title>
         <bib-url href="http://cortex.mathweb.org">Link</bib-url>
         <bib-data role="urldate">2014-02-14</bib-data>
-        <bib-data role="pubs">dginev,llamapun</bib-data>
+        <bib-data role="pubs">dginev,comma</bib-data>
         <bib-data role="self" type="BibTeX">@online{CorTeX:on,
      label = {CT},
      title = {{CorTeX} Framework},
        url = {http://cortex.mathweb.org},
    urldate = {2014-02-14},
-      pubs = {dginev,llamapun}}
+      pubs = {dginev,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:OLE14" type="inproceedings" xml:id="bib.bib200">
@@ -4507,7 +4507,7 @@ Language Data Processing</bib-title>
         <bib-part role="volume">38</bib-part>
         <bib-part role="number">2</bib-part>
         <bib-part role="pages">49–80</bib-part>
-        <bib-data role="pubs">mkohlhase,miancu,mathsearch,llamapun,omdoc</bib-data>
+        <bib-data role="pubs">mkohlhase,miancu,mathsearch,comma,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@article{KohIan:crsmmd14,
     author = {Michael Kohlhase and Mihnea Iancu},
      title = {Co-Representing Structure and Meaning of Mathematical Documents},
@@ -4519,7 +4519,7 @@ Language Data Processing</bib-title>
     volume = {38},
     number = {2},
      pages = {49–80},
-      pubs = {mkohlhase,miancu,mathsearch,llamapun,omdoc}}
+      pubs = {mkohlhase,miancu,mathsearch,comma,omdoc}}
 </bib-data>
       </bibentry>
       <bibentry key="CKLR:SoundCombVickCode13" type="misc" xml:id="bib.bib208">
@@ -8128,14 +8128,14 @@ Rudnicki and Josef Urban},
         <bib-part role="pages">292–294</bib-part>
         <bib-related bibrefs="CICM11" role="host"/>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">dginev,stamer,mkohlhase,llamapun</bib-data>
+        <bib-data role="pubs">dginev,stamer,mkohlhase,comma</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{GinStaKoh:latexmldaemon11,
      title = {The {{\LaTeX}ML} Daemon: Editable Math on the Collaborative Web},
     author = {Deyan Ginev and Heinrich Stamerjohanns and Michael Kohlhase},
      pages = {292–294},
   crossref = {CICM11},
   keywords = {conference},
-      pubs = {dginev,stamer,mkohlhase,llamapun}}
+      pubs = {dginev,stamer,mkohlhase,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="CKLR:SetThyHOLAuctIsa14" type="inproceedings" xml:id="bib.bib335">
@@ -8224,7 +8224,7 @@ Rudnicki and Josef Urban},
         <bib-related bibrefs="ESWC2011Post" role="host"/>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-url href="http://kwarc.info/clange/pubs/eswc2011-units.pdf">Link</bib-url>
-        <bib-data role="pubs">mcirlanaru,dginev,clange,llamapun</bib-data>
+        <bib-data role="pubs">mcirlanaru,dginev,clange,comma</bib-data>
         <bib-data role="vgwortseiten">26</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{CGL:PublishingUnitsQuantitiesPost11,
      title = {Authoring and Publishing of Units and Quantities in Semantic Documents},
@@ -8233,7 +8233,7 @@ Rudnicki and Josef Urban},
   crossref = {ESWC2011Post},
   keywords = {conference},
        url = {http://kwarc.info/clange/pubs/eswc2011-units.pdf},
-      pubs = {mcirlanaru,dginev,clange,llamapun},
+      pubs = {mcirlanaru,dginev,clange,comma},
  vgwortseiten = {26}}
 </bib-data>
       </bibentry>
@@ -8254,14 +8254,14 @@ Rudnicki and Josef Urban},
         <bib-url href="http://kwarc.info/clange/pubs/units-sepublica.pdf">Link</bib-url>
         <bib-related bibrefs="SEPUBLICA11" role="host"/>
         <bib-extract role="keywords">lamapunbibs</bib-extract>
-        <bib-data role="pubs">mcirlanaru,dginev,clange,llamapun</bib-data>
+        <bib-data role="pubs">mcirlanaru,dginev,clange,comma</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{CGL:PublishingUnitsQuantities11,
      title = {Authoring and Publishing of Units and Quantities in Semantic Documents},
     author = {Mihai C{\^i}rl{\u a}naru and Deyan Ginev and Christoph Lange},
        url = {http://kwarc.info/clange/pubs/units-sepublica.pdf},
   crossref = {SEPUBLICA11},
   keywords = {lamapunbibs},
-      pubs = {mcirlanaru,dginev,clange,llamapun}}
+      pubs = {mcirlanaru,dginev,clange,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="DavGin+:fmspscdl11" type="inproceedings" xml:id="bib.bib339">
@@ -9085,7 +9085,7 @@ Rudnicki and Josef Urban},
         <bib-related bibrefs="DML10" role="host"/>
         <bib-url href="http://dml.cz/bitstream/handle/10338.dmlcz/702580/DML_003-2010-1_14.pdf">Link</bib-url>
         <bib-extract role="keywords">lamapunbibs</bib-extract>
-        <bib-data role="pubs">llamapun</bib-data>
+        <bib-data role="pubs">comma</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{WolGRi:sdmwcs10,
     author = {Magdalena Wolska and Mihai Grigore},
      title = {Symbol Declarations in Mathematical Writing: A Corpus Study},
@@ -9093,7 +9093,7 @@ Rudnicki and Josef Urban},
   crossref = {DML10},
        url = {http://dml.cz/bitstream/handle/10338.dmlcz/702580/DML_003-2010-1_14.pdf},
   keywords = {lamapunbibs},
-      pubs = {llamapun}}
+      pubs = {comma}}
 </bib-data>
       </bibentry>
       <bibentry key="DoeKohLin:oamim13" type="inproceedings" xml:id="bib.bib371">
@@ -9238,7 +9238,7 @@ Rudnicki and Josef Urban},
         <bib-identifier id="1881-4042" scheme="issn">ISSN 1881-4042</bib-identifier>
         <bib-url href="http://kwarc.info/kohlhase/papers/ASCM-DML09.pdf">Link</bib-url>
         <bib-extract role="keywords">conference,lamapunbibs</bib-extract>
-        <bib-data role="pubs">mkohlhase,llamapun</bib-data>
+        <bib-data role="pubs">mkohlhase,comma</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{GriWolKoh:tcbdme09,
     author = {Mihai Grigore and Magdalena Wolska and Michael Kohlhase},
      title = {Towards Context-Based Disambiguation of Mathematical Expressions},
@@ -9255,7 +9255,7 @@ Rudnicki and Josef Urban},
  publisher = {Faculty of Mathematics, Kyushu University},
        url = {http://kwarc.info/kohlhase/papers/ASCM-DML09.pdf},
   keywords = {conference,lamapunbibs},
-      pubs = {mkohlhase,llamapun}}
+      pubs = {mkohlhase,comma}}
 </bib-data>
       </bibentry>
 <!--  %**** String Line 375 **** -->      <bibentry key="Ginev-11" type="thesis" xml:id="bib.bib374">
@@ -20331,7 +20331,7 @@ ILPS’93</bib-title>
         <bib-related bibrefs="DML11" role="host"/>
         <bib-part role="pages">85–101</bib-part>
         <bib-extract role="keywords">lamapunbibs</bib-extract>
-        <bib-data role="pubs">mkohlhase,llamapun</bib-data>
+        <bib-data role="pubs">mkohlhase,comma</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{WolGriKoh:udc11,
     author = {Magdalena Wolska and Mihai Grigore and Michael Kohlhase},
      title = {Using discourse context to interpret object-denoting mathematical expressions},
@@ -20339,7 +20339,7 @@ ILPS’93</bib-title>
   crossref = {DML11},
      pages = {85–101},
   keywords = {lamapunbibs},
-      pubs = {mkohlhase,llamapun}}
+      pubs = {mkohlhase,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="KohSch99:homvr" type="article" xml:id="bib.bib845">
@@ -24240,13 +24240,13 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
         <bib-title>The LaTeXML daemon: editable math for the collaborative web</bib-title>
         <bib-url href="http://latexml.mathweb.org">Link</bib-url>
         <bib-data role="urldate">2012-03-31</bib-data>
-        <bib-data role="pubs">dginev,llamapun</bib-data>
+        <bib-data role="pubs">dginev,comma</bib-data>
         <bib-data role="self" type="BibTeX">@online{latexml-daemon,
     author = {Deyan Ginev},
      title = {The {\LaTeX{}ML} Daemon: Editable Math for the Collaborative Web},
        url = {http://latexml.mathweb.org},
    urldate = {2012-03-31},
-      pubs = {dginev,llamapun}}
+      pubs = {dginev,comma}}
 </bib-data>
       </bibentry>
       <bibentry key="latexml-showcase" type="website" xml:id="bib.bib1042">
@@ -24939,7 +24939,7 @@ Sandro Wartzack},
         <bib-related bibrefs="CICM14" role="host"/>
         <bib-part role="pages">169–183</bib-part>
         <bib-url href="http://kwarc.info/kohlhase/papers/cicm14-smglom.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,llamapun,mathsearch,smglom</bib-data>
+        <bib-data role="pubs">mkohlhase,comma,mathsearch,smglom</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics 2014</bib-title>
           <bib-publisher>Springer</bib-publisher>
@@ -24951,7 +24951,7 @@ Sandro Wartzack},
   crossref = {CICM14},
      pages = {169–183},
        url = {http://kwarc.info/kohlhase/papers/cicm14-smglom.pdf},
-      pubs = {mkohlhase,llamapun,mathsearch,smglom},
+      pubs = {mkohlhase,comma,mathsearch,smglom},
  booktitle = {{Intelligent Computer Mathematics} 2014},
  publisher = {Springer},
       year = {2014}}
@@ -24985,14 +24985,14 @@ Sandro Wartzack},
         </bib-name>
         <bib-date role="publication">2014</bib-date>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm14-kat.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun,kat</bib-data>
+        <bib-data role="pubs">mkohlhase,dginev,twiesing,comma,kat</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{DumGinKoh:katsd14,
      title = {System Description: {KAT} an Annotation Tool for {STEM} Documents},
     author = {Mircea Alex Dumitru and Deyan Ginev and Michael Kohlhase and Vlad Merticariu
                   and Stefan Mirea and Tom Wiesing},
       year = {2014},
        url = {http://kwarc.info/kohlhase/submit/cicm14-kat.pdf},
-      pubs = {mkohlhase,dginev,twiesing,llamapun,kat}}
+      pubs = {mkohlhase,dginev,twiesing,comma,kat}}
 </bib-data>
       </bibentry>
       <bibentry key="IanJucKoh:sdm14" type="inproceedings" xml:id="bib.bib1078">
@@ -25062,14 +25062,14 @@ Sandro Wartzack},
         </bib-name>
         <bib-url href="https://github.com/KWARC/KAT/blob/master/doc/manual/katmanual.pdf">Link</bib-url>
         <bib-date role="publication">2014</bib-date>
-        <bib-data role="pubs">mkohlhase,dginev,twiesing,llamapun,kat</bib-data>
+        <bib-data role="pubs">mkohlhase,dginev,twiesing,comma,kat</bib-data>
         <bib-data role="self" type="BibTeX">@misc{DumGinKoh:katsdm14,
      title = {{KAT}: An Annotation Tool for {STEM} Documents; Manual},
     author = {Alex Dumitru and Deyan Ginev and Michael Kohlhase
        and Vlad Merticariu and  Stefan Mirea and Tom Wiesing},
        url = {https://github.com/KWARC/KAT/blob/master/doc/manual/katmanual.pdf},
       year = {2014},
-      pubs = {mkohlhase,dginev,twiesing,llamapun,kat}}
+      pubs = {mkohlhase,dginev,twiesing,comma,kat}}
 </bib-data>
       </bibentry>
       <bibentry key="CarFarKoh:rsckmt14" type="inproceedings" xml:id="bib.bib1080">
