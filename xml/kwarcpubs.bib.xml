@@ -306,10 +306,10 @@
         <bib-title>FrameIT:an user interface for applying mathematical theories to real world problems</bib-title>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2013</bib-date>
-        <bib-data role="pubs">mscthesis</bib-data>
+        <bib-data role="pubs">mscthesis,frameit</bib-data>
         <bib-type>Bachelor’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2013/rachev_daniel.pdf">Link</bib-url>
-        <bib-data role="pubs">mscthesis</bib-data>
+        <bib-data role="pubs">mscthesis,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Rachev:msc13,
     author = {Damiel Rachev},
      title = {FrameIT:An User Interface for Applying Mathematical Theories to Real World Problems},
@@ -318,7 +318,7 @@
       pubs = {bscthesis},
       type = {Bachelor's Thesis},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2013/rachev_daniel.pdf},
-      pubs = {mscthesis}}
+      pubs = {mscthesis,frameit}}
 </bib-data>
       </bibentry>
       <bibentry key="Makaveeva:msc09" type="thesis" xml:id="bib.bib17">
@@ -460,7 +460,7 @@
         <bib-data role="month">March</bib-data>
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2020/Boesl_Benjamin.pdf">Link</bib-url>
-        <bib-data role="pubs">mscthesis</bib-data>
+        <bib-data role="pubs">mscthesis,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Boesl:msc20,
      title = {Designing a Framework for Beneficial Serious Math Games Using the {FrameIt} Method},
     author = {Benjamin B{\"o}sl},
@@ -469,7 +469,7 @@
      month = {March},
       type = {M.Sc. Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2020/Boesl_Benjamin.pdf},
-      pubs = {mscthesis}}
+      pubs = {mscthesis,frameit}}
 </bib-data>
       </bibentry>
 <!--  %**** String Line 25 **** -->      <bibentry key="SchKoh:pcmljn20" type="unpublished" xml:id="bib.bib24">
@@ -707,12 +707,14 @@
         <bib-url href="https://gl.mathhub.info/FrameIT/FrameWorld">Link</bib-url>
         <bib-data role="pubs">frameit</bib-data>
         <bib-data role="urldate">2020-03-19</bib-data>
+        <bib-data role="pubs">frameit</bib-data>
         <bib-data role="self" type="BibTeX">@online{ufmmt:on,
      label = {UFM},
      title = {Formalizations for UFrameIT FrameWorld},
        url = {https://gl.mathhub.info/FrameIT/FrameWorld},
       pubs = {frameit},
-   urldate = {2020-03-19}}
+   urldate = {2020-03-19},
+      pubs = {frameit}}
 </bib-data>
       </bibentry>
       <bibentry key="Bercic:LWDA19" type="inproceedings" xml:id="bib.bib34">
@@ -3488,7 +3490,7 @@ Interface Theories},
         <bib-date role="publication">2016</bib-date>
         <bib-type>B.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/rochau_denis.pdf">Link</bib-url>
-        <bib-data role="pubs">bscthesis</bib-data>
+        <bib-data role="pubs">bscthesis,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Rochau:bsc16,
     author = {Denis Rochau},
      title = {{FrameIT} Reloaded: Serious Math Games from Logic},
@@ -3496,7 +3498,7 @@ Interface Theories},
       year = {2016},
       type = {B.Sc. Thesis},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2016/rochau_denis.pdf},
-      pubs = {bscthesis}}
+      pubs = {bscthesis,frameit}}
 </bib-data>
       </bibentry>
       <bibentry key="Luzhnica:bsc16" type="thesis" xml:id="bib.bib166">
@@ -3800,13 +3802,13 @@ Interface Theories},
           <givenname>Dennis</givenname>
         </bib-name>
         <bib-url href="http://ceur-ws.org/Vol-1785/W50.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,dmueller,omdoc,mmt</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,omdoc,mmt,frameit</bib-data>
         <bib-related bibrefs="CICM16WIP" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{RocKohMue:frsmgmmo16,
      title = {{FrameIT} Reloaded: Serious Math Games from Modular Math Ontologies},
     author = {Denis Rochau and Michael Kohlhase and Dennis M{\"u}ller},
        url = {http://ceur-ws.org/Vol-1785/W50.pdf},
-      pubs = {mkohlhase,dmueller,omdoc,mmt},
+      pubs = {mkohlhase,dmueller,omdoc,mmt,frameit},
   crossref = {CICM16WIP}}
 </bib-data>
       </bibentry>
