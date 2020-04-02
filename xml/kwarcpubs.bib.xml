@@ -385,27 +385,27 @@
 </bib-data>
       </bibentry>
       <bibentry key="Grigore:msc10" type="thesis" xml:id="bib.bib20">
-        <bib-title>Smart management of change on OMDoc documents</bib-title>
+        <bib-title>Knowledge-poor interpretation of mathematical expressions in context</bib-title>
         <bib-name role="author">
-          <surname>Holsten</surname>
-          <givenname>Sönke</givenname>
+          <surname>Grigore</surname>
+          <givenname>Mihai</givenname>
         </bib-name>
         <bib-organization>Jacobs University</bib-organization>
         <bib-date role="publication">2010</bib-date>
         <bib-type>M.Sc. Thesis</bib-type>
-        <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/grigore_mihai/thesis/thesis_template.pdf">Link</bib-url>
+        <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/grigore_mihai.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Grigore:msc10,
-     title = {Smart Management of Change on {OMDoc} Documents},
-    author = {S{\"o}nke Holsten},
+     title = {Knowledge-poor Interpretation of Mathematical Expressions in Context},
+    author = {Mihai Grigore},
     school = {Jacobs University},
       year = {2010},
       type = {M.Sc. Thesis},
-       url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/grigore_mihai/thesis/thesis_template.pdf},
+       url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/grigore_mihai.pdf},
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Grigore:msc10" type="thesis" xml:id="bib.bib21">
+      <bibentry key="Holsten:msc10" type="thesis" xml:id="bib.bib21">
         <bib-title>Smart management of change on OMDoc documents</bib-title>
         <bib-name role="author">
           <surname>Holsten</surname>
@@ -416,7 +416,7 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/grigore_mihai/thesis/thesis_template.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis</bib-data>
-        <bib-data role="self" type="BibTeX">@mastersthesis{Grigore:msc10,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Holsten:msc10,
      title = {Smart Management of Change on {OMDoc} Documents},
     author = {S{\"o}nke Holsten},
     school = {Jacobs University},
@@ -1108,10 +1108,9 @@
         </bib-related>
         <bib-date role="publication">2020</bib-date>
         <bib-publisher>De Gruyter Oldenbourg</bib-publisher>
-        <bib-place>Berlin, Boston</bib-place>
         <bib-part role="volume">62</bib-part>
         <bib-part role="number">1</bib-part>
-        <bib-data role="pages:">7 - 17</bib-data>
+        <bib-part role="pages">7–17</bib-part>
         <bib-url href="https://www.degruyter.com/view/journals/itit/62/1/article-p7.xml">Link</bib-url>
         <bib-data role="self" type="BibTeX">@article{DeepFAIRmathematics,
     author = {Katja Berčič and Michael Kohlhase and Florian Rabe},
@@ -1119,10 +1118,9 @@
    journal = {it - Information Technology},
       year = {2020},
  publisher = {De Gruyter Oldenbourg},
-   address = {Berlin, Boston},
     volume = {62},
     number = {1},
-    pages: = {7 - 17},
+     pages = {7–17},
        url = {https://www.degruyter.com/view/journals/itit/62/1/article-p7.xml}}
 </bib-data>
       </bibentry>
