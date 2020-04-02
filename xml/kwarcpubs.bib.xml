@@ -646,21 +646,30 @@
       pubs = {akohlhase,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BerKohRab:thqlmker20" type="website" xml:id="bib.bib30">
+      <bibentry key="BerKohRab:thqlmk20" type="unpublished" xml:id="bib.bib30">
         <bib-related bibrefs="BerKohRab:thqlmk20:base" role="host"/>
-        <bib-title>Towards a heterogeneous query language for mathematical knowledge – extended report</bib-title>
-        <bib-url href="http://kwarc.info/kohlhase/papers/tetrasearch.pdf">Link</bib-url>
-        <bib-type>Living Whitepaper</bib-type>
-        <bib-data role="pubs">mkohlhase,frabe,kbercic,mathhub,mmt</bib-data>
-        <bib-data role="urldate">2020-03-27</bib-data>
+        <bib-title>Towards a heterogeneous query language for mathematical knowledge</bib-title>
+        <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-search.pdf">Link</bib-url>
+        <bib-note role="annotation">submitted</bib-note>
+        <bib-name role="author">
+          <surname>Berčič</surname>
+          <givenname>Katja</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-data role="self" type="BibTeX">@online{BerKohRab:thqlmker20,
+        <bib-data role="self" type="BibTeX">@unpublished{BerKohRab:thqlmk20,
   crossref = {BerKohRab:thqlmk20:base},
-     title = {Towards a Heterogeneous Query Language for Mathematical Knowledge – Extended Report},
-       url = {http://kwarc.info/kohlhase/papers/tetrasearch.pdf},
-      type = {Living Whitepaper},
-      pubs = {mkohlhase,frabe,kbercic,mathhub,mmt},
-   urldate = {2020-03-27},
+     title = {Towards a Heterogeneous Query Language for Mathematical Knowledge},
+       url = {http://kwarc.info/kohlhase/submit/cicm20-search.pdf},
+      note = {submitted},
+    author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
       year = {2020}}
 </bib-data>
       </bibentry>
