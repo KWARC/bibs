@@ -868,20 +868,14 @@
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
         </bib-name>
-        <bib-note role="annotation">accepted, extended version at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/kohlhase/submit/mmtelpi.pdf">https://kwarc.info/kohlhase/submit/mmtelpi.pdf</ref></bib-note>
-        <bib-related role="host" type="proceedings">
-          <bib-title>IJCAR 2020</bib-title>
-        </bib-related>
-        <bib-date role="publication">2020</bib-date>
-        <bib-extract role="keywords">conference</bib-extract>
+        <bib-note role="annotation">accepted</bib-note>
+        <bib-related bibrefs="IJCAR20" role="host"/>
         <bib-data role="pubs">mkohlhase,frabe,jfschaefer,oaf,comma</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohRabSacSch:lipslfsp20,
      title = {Logic-Independent Proof Search in Logical Frameworks (short paper)},
     author = {Michael Kohlhase and Florian Rabe and Claudio Sacerdoti Coen and Jan Frederik Schaefer},
-      note = {accepted, extended version at \url{https://kwarc.info/kohlhase/submit/mmtelpi.pdf}},
- booktitle = {IJCAR 2020},
-      year = {2020},
-  keywords = {conference},
+      note = {accepted},
+  crossref = {IJCAR20},
       pubs = {mkohlhase,frabe,jfschaefer,oaf,comma}}
 </bib-data>
       </bibentry>
