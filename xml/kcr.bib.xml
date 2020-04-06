@@ -2454,22 +2454,24 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
       <bibentry key="rabe:recon:17" type="article" xml:id="bib.bib97">
         <bib-name role="author">
           <surname>Rabe</surname>
-          <givenname>Florian</givenname>
+          <givenname>F.</givenname>
         </bib-name>
         <bib-title>A Modular Type Reconstruction Algorithm</bib-title>
-        <bib-date role="publication">2017</bib-date>
-        <bib-note role="annotation">accepted pending minor revision; see <ref class="ltx_url" font="typewriter" href="https://kwarc.info/people/frabe/Research/rabe_recon_17.pdf">https://kwarc.info/people/frabe/Research/rabe_recon_17.pdf</ref></bib-note>
         <bib-related role="host" type="journal">
           <bib-title>ACM Transactions on Computational Logic</bib-title>
         </bib-related>
-        <bib-data role="pubs">frabe</bib-data>
+        <bib-date role="publication">2018</bib-date>
+        <bib-part role="pages">1–43</bib-part>
+        <bib-part role="volume">19</bib-part>
+        <bib-part role="number">4</bib-part>
         <bib-data role="self" type="BibTeX">@article{rabe:recon:17,
-    author = {Florian Rabe},
+    author = {F. Rabe},
      title = {{A Modular Type Reconstruction Algorithm}},
-      year = {2017},
-      note = {accepted pending minor revision; see \url{https://kwarc.info/people/frabe/Research/rabe_recon_17.pdf}},
    journal = {ACM Transactions on Computational Logic},
-      pubs = {frabe}}
+      year = {2018},
+     pages = {1–43},
+    volume = {19},
+    number = {4}}
 </bib-data>
       </bibentry>
       <bibentry key="ALMANAC:on" type="website" xml:id="bib.bib98">
