@@ -300,7 +300,7 @@
           <surname>Rachev</surname>
           <givenname>Damiel</givenname>
         </bib-name>
-        <bib-title>FrameIT:an user interface for applying mathematical theories to real world problems</bib-title>
+        <bib-title>FrameIT: an user interface for applying mathematical theories to real world problems</bib-title>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2013</bib-date>
         <bib-data role="pubs">mscthesis,frameit</bib-data>
@@ -309,7 +309,7 @@
         <bib-data role="pubs">mscthesis,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Rachev:msc13,
     author = {Damiel Rachev},
-     title = {FrameIT:An User Interface for Applying Mathematical Theories to Real World Problems},
+     title = {{FrameIT}: An User Interface for Applying Mathematical Theories to Real World Problems},
     school = {Jacobs University Bremen},
       year = {2013},
       pubs = {bscthesis},
@@ -19745,10 +19745,10 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="KWARC:base" type="misc" xml:id="bib.bib614">
-        <bib-title>Knowledge Adaptation and Reasoning for Content</bib-title>
+        <bib-title>KWARC – Knowledge Adaptation and Reasoning for Content</bib-title>
         <bib-url href="http://kwarc.info">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{KWARC:base,
-     title = {{Knowledge Adaptation and Reasoning for Content}},
+     title = {{KWARC – Knowledge Adaptation and Reasoning for Content}},
        url = {http://kwarc.info}}
 </bib-data>
       </bibentry>
