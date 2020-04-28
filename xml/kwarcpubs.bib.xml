@@ -478,20 +478,24 @@
           <givenname>Jan Frederik</givenname>
         </bib-name>
         <bib-name role="author">
+          <surname>Amann</surname>
+          <givenname>Kai</givenname>
+        </bib-name>
+        <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Prototyping controlled mathematical languages in jupyter notebooks</bib-title>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="http://kwarc.info/kohlhase/submit/icms20-glf-jupyter.pdf">Link</bib-url>
+        <bib-related bibrefs="ICMS20" role="host"/>
+        <bib-url href="http://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf">Link</bib-url>
         <bib-data role="pubs">jfschaefer,mkohlhase,mmt,comma</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{SchKoh:pcmljn20,
-    author = {Jan Frederik Schaefer and Michael Kohlhase},
+    author = {Jan Frederik Schaefer and Kai Amann and Michael Kohlhase},
      title = {Prototyping Controlled Mathematical Languages in Jupyter Notebooks},
       year = {2020},
-      note = {submitted},
-       url = {http://kwarc.info/kohlhase/submit/icms20-glf-jupyter.pdf},
+  crossref = {ICMS20},
+       url = {http://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf},
       pubs = {jfschaefer,mkohlhase,mmt,comma}}
 </bib-data>
       </bibentry>
