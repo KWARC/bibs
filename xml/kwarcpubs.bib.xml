@@ -472,7 +472,7 @@
       pubs = {mscthesis,frameit}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 25 **** -->      <bibentry key="SchKoh:pcmljn20" type="unpublished" xml:id="bib.bib24">
+<!--  %**** String Line 25 **** -->      <bibentry key="SchKoh:pcmljn20" type="inproceedings" xml:id="bib.bib24">
         <bib-name role="author">
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
@@ -490,7 +490,7 @@
         <bib-related bibrefs="ICMS20" role="host"/>
         <bib-url href="http://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf">Link</bib-url>
         <bib-data role="pubs">jfschaefer,mkohlhase,mmt,comma</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{SchKoh:pcmljn20,
+        <bib-data role="self" type="BibTeX">@inproceedings{SchKoh:pcmljn20,
     author = {Jan Frederik Schaefer and Kai Amann and Michael Kohlhase},
      title = {Prototyping Controlled Mathematical Languages in Jupyter Notebooks},
       year = {2020},

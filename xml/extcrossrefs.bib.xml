@@ -9,17 +9,43 @@
     <biblist>
       <bibentry key="ICMS20" type="proceedings" xml:id="bib.bib1">
         <bib-title>Mathematical software – icms 2020. 7th international conference</bib-title>
+        <bib-name role="editor">
+          <surname>Bigatti</surname>
+          <givenname>Anna Maria</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Carette</surname>
+          <givenname>Jacques</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Davenport</surname>
+          <givenname>James H.</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Joswig</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>de Wolff</surname>
+          <givenname>Timo</givenname>
+        </bib-name>
+        <bib-part role="series">Lecture Notes in Computer Science</bib-part>
+        <bib-part role="volume">12097</bib-part>
+        <bib-publisher>Springer</bib-publisher>
         <bib-data role="soonisbn">978-3-319-96417-1</bib-data>
         <bib-date role="publication">2020</bib-date>
-        <bib-publisher>Springer</bib-publisher>
         <bib-note role="annotation">accepted</bib-note>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS20,
  booktitle = {Mathematical Software – ICMS 2020. 7th international conference},
      title = {Mathematical Software – ICMS 2020. 7th international conference},
+    editor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
+ booktitle = {Mathematical software – ICMS 2020},
+    series = {Lecture Notes in Computer Science},
+    volume = {12097},
+ publisher = {Springer},
   soonisbn = {978-3-319-96417-1},
       year = {2020},
- publisher = {Springer},
       note = {accepted},
   keywords = {conference}}
 </bib-data>
