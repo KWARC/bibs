@@ -854,14 +854,16 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-url href="https://kwarc.info/people/frabe/Research/KR_oafexp_20.pdf">Link</bib-url>
+        <bib-url href="http://kwarc.info/kohlhase/submit/oaf-experiences.pdf">Link</bib-url>
         <bib-date role="publication">2020</bib-date>
+        <bib-note role="annotation">under review</bib-note>
         <bib-data role="pubs">mkohlhase,frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohRab:eempal20,
      title = {Experiences from Exporting Major Proof Assistant Libraries},
     author = {Michael Kohlhase and Florian Rabe},
-       url = {https://kwarc.info/people/frabe/Research/KR_oafexp_20.pdf},
+       url = {http://kwarc.info/kohlhase/submit/oaf-experiences.pdf},
       year = {2020},
+      note = {under review},
       pubs = {mkohlhase,frabe,oaf}}
 </bib-data>
       </bibentry>
@@ -1005,12 +1007,14 @@
           <givenname>Makarius</givenname>
         </bib-name>
         <bib-url href="https://kwarc.info/kohlhase/submit/isabelle-export.pdf">Link</bib-url>
-        <bib-date role="publication">2019</bib-date>
+        <bib-note role="annotation">under review</bib-note>
+        <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{KohRabWen:micakrf20,
      title = {Making Isabelle Content Accessible in Knowledge Representation Formats},
     author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
        url = {https://kwarc.info/kohlhase/submit/isabelle-export.pdf},
-      year = {2019}}
+      note = {under review},
+      year = {2020}}
 </bib-data>
       </bibentry>
       <bibentry key="Alt:bsc19" type="thesis" xml:id="bib.bib43">
