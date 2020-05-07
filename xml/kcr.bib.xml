@@ -5,9 +5,11 @@
     <title/>
     <biblist>
       <bibentry key="popovhayashi:url" type="misc" xml:id="bib.bib1">
+        
         <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://gl.mathhub.info/jlogic/pvh">https://gl.mathhub.info/jlogic/pvh</ref></bib-note>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@misc{popovhayashi:url,
+  crossref = {popovhayashi:base},
  howpublished = {\url{https://gl.mathhub.info/jlogic/pvh}},
       year = {2020}}
 </bib-data>
@@ -15,11 +17,11 @@
       <bibentry key="popovhayashi:base" type="misc" xml:id="bib.bib2">
         <bib-key>PvH</bib-key>
         <bib-url href="https://gl.mathhub.info/jlogic/pvh">Link</bib-url>
-        <bib-title>Popov v. hayashi as a context graph</bib-title>
+        <bib-title>Popov v. Hayashi as a context graph</bib-title>
         <bib-data role="self" type="BibTeX">@misc{popovhayashi:base,
        key = {PvH},
        url = {https://gl.mathhub.info/jlogic/pvh},
-     title = {Popov v. Hayashi as a Context Graph}}
+     title = {{Popov v. Hayashi} as a Context Graph}}
 </bib-data>
       </bibentry>
       <bibentry key="Meier:msc97" type="thesis" xml:id="bib.bib3">
