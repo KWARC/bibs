@@ -4370,23 +4370,23 @@ Interface Theories},
       <bibentry key="uniformal:URL" type="misc" xml:id="bib.bib163">
         
         <bib-key>MMT</bib-key>
-        <bib-note role="publication">project web site at <ref class="ltx_url" font="typewriter" href="https://uniformal.github.io/">https://uniformal.github.io/</ref></bib-note>
+        <bib-note role="publication">Project web site at <ref class="ltx_url" font="typewriter" href="https://uniformal.github.io/">https://uniformal.github.io/</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{uniformal:URL,
   crossref = {uniformal:base},
        key = {MMT},
- howpublished = {project web site at \url{https://uniformal.github.io/}}}
+ howpublished = {Project web site at \url{https://uniformal.github.io/}}}
 </bib-data>
       </bibentry>
       <bibentry key="uniformal:on" type="website" xml:id="bib.bib164">
         
         <bib-data role="label">MMT</bib-data>
         <bib-data role="urldate">2019-01-15</bib-data>
-        <bib-note role="annotation">project web site</bib-note>
+        <bib-note role="annotation">Project web site</bib-note>
         <bib-data role="self" type="BibTeX">@online{uniformal:on,
   crossref = {uniformal:base},
      label = {MMT},
    urldate = {2019-01-15},
-      note = {project web site}}
+      note = {Project web site}}
 </bib-data>
       </bibentry>
       <bibentry key="uniformal:base" type="misc" xml:id="bib.bib165">
