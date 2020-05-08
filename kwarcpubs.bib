@@ -2,6 +2,14 @@
 @STRING{stexyear = 2020}
 @STRING{testing = 16}
 
+@misc{popovhayashi:url,crossref={popovhayashi:base},
+  howpublished = {\url{https://gl.mathhub.info/jlogic/pvh}},
+  year = 2020}
+@misc{popovhayashi:base,
+  key = {PvH},
+  url = {https://gl.mathhub.info/jlogic/pvh},
+  title = {{Popov v. Hayashi} as a Context Graph}}
+
 @MastersThesis{Meier:msc97,
   author =   {Andreas Meier},
   title =    {Proof Transformation, Universtät des Saarlandes},
@@ -201,12 +209,12 @@
   url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2020/Boesl_Benjamin.pdf},
   pubs = {mscthesis,frameit}}
 
-@unpublished{SchKoh:pcmljn20,
-  author = {Jan Frederik Schaefer and Michael Kohlhase},
+@inproceedings{SchKoh:pcmljn20,
+  author = {Jan Frederik Schaefer and Kai Amann and Michael Kohlhase},
   title = {Prototyping Controlled Mathematical Languages in Jupyter Notebooks},
   year = {2020},
-  note = {submitted},
-  url = {http://kwarc.info/kohlhase/submit/icms20-glf-jupyter.pdf},
+  crossref = {ICMS20},
+  url = {http://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf},
   pubs = {jfschaefer,mkohlhase,mmt,comma}}
   
 @unpublished{MueRabRot:rslffml20,
@@ -294,8 +302,12 @@
 @unpublished{KohRab:eempal20,
   title = {Experiences from Exporting Major Proof Assistant Libraries},
   author = {Michael Kohlhase and Florian Rabe},
-  url = {https://kwarc.info/people/frabe/Research/KR_oafexp_20.pdf},
+  url = {http://kwarc.info/kohlhase/submit/oaf-experiences.pdf},
   year = {2020},
+  eprint = {2005.03089},
+  eprinttype = {arxiv},
+  eprintclass = {cs.SE},
+  note = {under review},
   pubs = {mkohlhase,frabe,oaf}}
   
 @online{ijcar2020demo:on,
@@ -340,7 +352,8 @@
   title = {Making Isabelle Content Accessible in Knowledge Representation Formats},
   author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
   url = {https://kwarc.info/kohlhase/submit/isabelle-export.pdf},
-  year = {2019}}
+  note = {under review},
+  year = {2020}}
   
 @mastersthesis{Alt:bsc19,
   title = {Diagram Chasing Done Meta -- Formula Search for {nLab}},
@@ -900,12 +913,17 @@
   pubs = {akohlhase}
   }
   
-@online{KohMue:mtm17,
- label  = {OMT},
- author = {Michael Kohlhase and Dennis M{\"u}ller},
- title = {{OMDoc/MMT} Tutorial for Mathematicians},
+@misc{KohMue:mtm17:url,crossref={KohMue:mtm17:base},
+  key = {OMT},
+  year = {2017},
+  howpublished = {\url{https://gl.mathhub.info/Tutorials/Mathematicians/blob/master/tutorial/mmt-math-tutorial.pdf}}}
+@online{KohMue:mtm17,crossref={KohMue:mtm17:base},
  url = {https://gl.mathhub.info/Tutorials/Mathematicians/blob/master/tutorial/mmt-math-tutorial.pdf},
  pubs = {mkohlhase,dmueller,mmt,odk},
+ label  = {OMT}}
+@misc{KohMue:mtm17:base,
+ author = {Michael Kohlhase and Dennis M{\"u}ller},
+ title = {{OMDoc/MMT} Tutorial for Mathematicians},
  urldate = {2017-10-07}}
  
 @article{KopKohTab:mpdrmm18,
@@ -1271,11 +1289,11 @@ pubs={MaMoReD}}
 
 @misc{uniformal:URL,crossref={uniformal:base},
   key = {MMT},
-  howpublished = {project web site at \url{https://uniformal.github.io/}}}
+  howpublished = {Project web site at \url{https://uniformal.github.io/}}}
 @online{uniformal:on,crossref={uniformal:base},
   label = {MMT},
   urldate = {2019-01-15},
-  note = {project web site}}
+  note = {Project web site}}
 @misc{uniformal:base,
   label = {MMT},
   title = {{MMT} -- Language and System for the Uniform Representation of Knowledge},
