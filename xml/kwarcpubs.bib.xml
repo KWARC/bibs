@@ -806,6 +806,9 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/oaf-experiences.pdf">Link</bib-url>
         <bib-date role="publication">2020</bib-date>
+        <bib-links>2005.03089</bib-links>
+        <bib-data role="eprinttype">arxiv</bib-data>
+        <bib-data role="eprintclass">cs.SE</bib-data>
         <bib-note role="annotation">under review</bib-note>
         <bib-data role="pubs">mkohlhase,frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohRab:eempal20,
@@ -813,6 +816,9 @@
     author = {Michael Kohlhase and Florian Rabe},
        url = {http://kwarc.info/kohlhase/submit/oaf-experiences.pdf},
       year = {2020},
+    eprint = {2005.03089},
+ eprinttype = {arxiv},
+ eprintclass = {cs.SE},
       note = {under review},
       pubs = {mkohlhase,frabe,oaf}}
 </bib-data>

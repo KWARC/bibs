@@ -790,6 +790,7 @@
         </bib-name><bib-title>Proceedings of the conference ”lernen, wissen, daten, analysen”, LWDA</bib-title><bib-part role="volume">2454</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-publisher>CEUR-WS.org</bib-publisher><bib-date role="publication">2019</bib-date><bib-url href="http://ceur-ws.org/Vol-2454">Link</bib-url><bib-data role="self" type="BibTeX">@proceedings{LWDA19,
     editor = {Robert J{\"{a}}schke and Matthias Weidlich},
      title = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
+ booktitle = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
     volume = {2454},
     series = {{CEUR} Workshop Proceedings},
  publisher = {CEUR-WS.org},
@@ -806,6 +807,7 @@
         <bib-data role="pubs">kbercic</bib-data>
         <bib-data role="pubs">kbercic</bib-data>
         <bib-related role="host" type="proceedings">
+          <bib-title>Proceedings of the Conference ”Lernen, Wissen, Daten, Analysen”, LWDA</bib-title>
           <bib-publisher>CEUR-WS.org</bib-publisher>
         </bib-related>
         <bib-date role="publication">2019</bib-date>
@@ -817,6 +819,7 @@
        url = {http://ceur-ws.org/Vol-2454/paper_40.pdf},
       pubs = {kbercic,mathhub},
       pubs = {kbercic},
+ booktitle = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
  publisher = {CEUR-WS.org},
       year = {2019}}
 </bib-data>
@@ -840,6 +843,7 @@
         </bib-name><bib-title>Proceedings of the conference ”lernen, wissen, daten, analysen”, LWDA</bib-title><bib-part role="volume">2454</bib-part><bib-part role="series">CEUR Workshop Proceedings</bib-part><bib-publisher>CEUR-WS.org</bib-publisher><bib-date role="publication">2019</bib-date><bib-url href="http://ceur-ws.org/Vol-2454">Link</bib-url><bib-data role="self" type="BibTeX">@proceedings{LWDA19,
     editor = {Robert J{\"{a}}schke and Matthias Weidlich},
      title = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
+ booktitle = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
     volume = {2454},
     series = {{CEUR} Workshop Proceedings},
  publisher = {CEUR-WS.org},
@@ -850,6 +854,7 @@
         <bib-url href="http://ceur-ws.org/Vol-2454/paper_63.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,mrapp,almanac</bib-data>
         <bib-related role="host" type="proceedings">
+          <bib-title>Proceedings of the Conference ”Lernen, Wissen, Daten, Analysen”, LWDA</bib-title>
           <bib-publisher>CEUR-WS.org</bib-publisher>
         </bib-related>
         <bib-date role="publication">2019</bib-date>
@@ -860,6 +865,7 @@
      pages = {265–279},
        url = {http://ceur-ws.org/Vol-2454/paper_63.pdf},
       pubs = {mkohlhase,mrapp,almanac},
+ booktitle = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
  publisher = {CEUR-WS.org},
       year = {2019}}
 </bib-data>
@@ -876,6 +882,9 @@
         </bib-name>
         <bib-url href="http://kwarc.info/kohlhase/submit/oaf-experiences.pdf">Link</bib-url>
         <bib-date role="publication">2020</bib-date>
+        <bib-links>2005.03089</bib-links>
+        <bib-data role="eprinttype">arxiv</bib-data>
+        <bib-data role="eprintclass">cs.SE</bib-data>
         <bib-note role="annotation">under review</bib-note>
         <bib-data role="pubs">mkohlhase,frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohRab:eempal20,
@@ -883,6 +892,9 @@
     author = {Michael Kohlhase and Florian Rabe},
        url = {http://kwarc.info/kohlhase/submit/oaf-experiences.pdf},
       year = {2020},
+    eprint = {2005.03089},
+ eprinttype = {arxiv},
+ eprintclass = {cs.SE},
       note = {under review},
       pubs = {mkohlhase,frabe,oaf}}
 </bib-data>
@@ -36312,6 +36324,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-data role="self" type="BibTeX">@proceedings{LWDA19,
     editor = {Robert J{\"{a}}schke and Matthias Weidlich},
      title = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
+ booktitle = {Proceedings of the Conference "Lernen, Wissen, Daten, Analysen", {LWDA}},
     volume = {2454},
     series = {{CEUR} Workshop Proceedings},
  publisher = {CEUR-WS.org},
