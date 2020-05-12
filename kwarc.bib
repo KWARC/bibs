@@ -60,6 +60,12 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{GFM:on,
+  key = {GFM},
+  url = {https://github.github.com/gfm/},
+  title = {GitHub Flavored Markdown Spec},
+  urldate = {2020-05-10}}
+  
 @phdthesis{Cramer:pcmticnl,
     author = {Cramer, Marcos},
     title = {Proof-checking mathematical texts in controlled natural language},
@@ -31449,27 +31455,38 @@ pages= {325--329}}
   pages = {145--189},
   number = {2}}
 
-@online{GF:on,
+@misc{GF:url,crossref={GF:base},
+  key = {GF},
+  howpublished = {\url{http://www.grammaticalframework.org}},
+  note = {accessed May 2020}}
+@online{GF:on,crossref={GF:base},
   label = {GF},
-  title = {GF - Grammatical Framework},
-  url = {http://www.grammaticalframework.org},
-  urldate = {2017-09-27}}
+  urldate = {2017-09-27},
+  url = {http://www.grammaticalframework.org}}
+@misc{GF:base,  
+  title = {GF - Grammatical Framework}}
 
-@online{GFResourceGrammar:on,
+@misc{GFResourceGrammar:url,crossref={GFResourceGrammar:base},
+  key = {GFR},
+  howpublished = {\url{https://www.grammaticalframework.org/lib/doc/synopsis/}},
+  note = {accessed 2020-03-11}}
+@online{GFResourceGrammar:on,crossref={GFResourceGrammar:base},
   label = {GFR},
-  title = {GF Resource Grammar Library: Synopsis},
-  author = {B. Bringert and T. Hallgren and A. Ranta},
   url = {https://www.grammaticalframework.org/lib/doc/synopsis/},
   urldate = {2020-03-11}}
+@misc{GFResourceGrammar:base,  
+  title = {GF Resource Grammar Library: Synopsis},
+  author = {B. Bringert and T. Hallgren and A. Ranta}}
 
-@Book{ranta-2011,
+@book{Ranta:ranta-2011,crossref={Ranta:gfpmg11}}
+@Book{Ranta:gfpmg11,
   author = {Aarne Ranta},
   title =  {{Grammatical Framework:
              Programming with Multilingual Grammars}},
   publisher = {{CSLI Publications}},
   year = {2011},
   address = "Stanford",
-  note = "ISBN-10: 1-57586-626-9 (Paper), 1-57586-627-7 (Cloth)"
+  note = "ISBN-10: 1-57586-626-9"
 }
 
 @ARTICLE{Ranta:ttigpsg95,
@@ -48769,10 +48786,10 @@ url = {http://www.balisage.net/Proceedings/vol7/print/Hennum01/BalisageVol7-Henn
 @MISC{URL:sTeX:github,crossref={sTeX:github:base},
   key = {sTeX},
   howpublished = {GitHub repository at \url{https://github.com/sLaTeX/sTeX}},
-  note = {accessed 15. 5. 2015}}
+  note = {accessed 11. 5. 2020}}
 @online{sTeX:github:on,crossref={sTeX:github:base},
   label = {sTeX},
-  urldate = {2015-05-15}}
+  urldate = {2020-05-11}}
 @misc{sTeX:github:base,
   title = {{sTeX}: A semantic Extension of {TeX/LaTeX}},
   url = {https://github.com/sLaTeX/sTeX}}
