@@ -12248,22 +12248,22 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
         <bib-related bibrefs="sTeX:github:base" role="host"/>
         <bib-key>sTeX</bib-key>
         <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/sLaTeX/sTeX">https://github.com/sLaTeX/sTeX</ref></bib-note>
-        <bib-note role="annotation">accessed 15. 5. 2015</bib-note>
+        <bib-note role="annotation">accessed 11. 5. 2020</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:sTeX:github,
   crossref = {sTeX:github:base},
        key = {sTeX},
  howpublished = {GitHub repository at \url{https://github.com/sLaTeX/sTeX}},
-      note = {accessed 15. 5. 2015}}
+      note = {accessed 11. 5. 2020}}
 </bib-data>
       </bibentry>
       <bibentry key="sTeX:github:on" type="website" xml:id="bib.bib501">
         <bib-related bibrefs="sTeX:github:base" role="host"/>
         <bib-data role="label">sTeX</bib-data>
-        <bib-data role="urldate">2015-05-15</bib-data>
+        <bib-data role="urldate">2020-05-11</bib-data>
         <bib-data role="self" type="BibTeX">@online{sTeX:github:on,
   crossref = {sTeX:github:base},
      label = {sTeX},
-   urldate = {2015-05-15}}
+   urldate = {2020-05-11}}
 </bib-data>
       </bibentry>
       <bibentry key="sTeX:github:base" type="misc" xml:id="bib.bib502">
