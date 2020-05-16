@@ -78,14 +78,15 @@
         <bib-title>Integrating a computer algebra system into a logical proof development environement</bib-title>
         <bib-organization>Computer Science, Saarland University</bib-organization>
         <bib-date role="publication">1996</bib-date>
-        <bib-data role="19">type</bib-data>
         <bib-type>Master’s Thesis</bib-type>
+        <bib-data role="pubs">mscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Sorge:msc96,
     author = {Volker Sorge},
      title = {Integrating a Computer Algebra System into a Logical Proof Development Environement},
     school = {Computer Science, Saarland University},
       year = {1996},
-        19 = {type}}
+      type = {Master's Thesis},
+      pubs = {mscthesis}}
 </bib-data>
       </bibentry>
       <bibentry key="Klein:msc95" type="thesis" xml:id="bib.bib6">
