@@ -81,15 +81,14 @@
         <bib-title>Integrating a computer algebra system into a logical proof development environement</bib-title>
         <bib-organization>Computer Science, Saarland University</bib-organization>
         <bib-date role="publication">1996</bib-date>
+        <bib-data role="19">type</bib-data>
         <bib-type>Master’s Thesis</bib-type>
-        <bib-data role="pubs">mscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Sorge:msc96,
     author = {Volker Sorge},
      title = {Integrating a Computer Algebra System into a Logical Proof Development Environement},
     school = {Computer Science, Saarland University},
       year = {1996},
-      type = {Master's Thesis},
-      pubs = {mscthesis}}
+        19 = {type}}
 </bib-data>
       </bibentry>
       <bibentry key="Klein:msc95" type="thesis" xml:id="bib.bib6">
@@ -546,7 +545,7 @@
       pubs = {jfschaefer,mkohlhase,mmt,comma}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueRabRot:rslffml20" type="unpublished" xml:id="bib.bib28">
+      <bibentry key="MueRabRot:rslffml20" type="inproceedings" xml:id="bib.bib28">
         <bib-title>Representing structural language features in formal meta-languages</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -564,15 +563,13 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">submitted</bib-note>
+        <bib-related bibrefs="CICM20" role="host"/>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-features.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,dmueller,oaf,mmt</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{MueRabRot:rslffml20,
+        <bib-data role="self" type="BibTeX">@inproceedings{MueRabRot:rslffml20,
      title = {Representing Structural Language Features in Formal Meta-Languages},
     author = {Dennis M{\"u}ller and Florian Rabe and Colin Rothgang and Michael Kohlhase},
-      year = {2020},
-      note = {submitted},
+  crossref = {CICM20},
        url = {http://kwarc.info/kohlhase/submit/cicm20-features.pdf},
       pubs = {mkohlhase,frabe,dmueller,oaf,mmt}}
 </bib-data>
@@ -604,7 +601,7 @@
       pubs = {mkohlhase,frabe,rmarcus,mathhub,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohBoeMar:frameit20" type="unpublished" xml:id="bib.bib30">
+      <bibentry key="KohBoeMar:frameit20" type="inproceedings" xml:id="bib.bib30">
         <bib-title>FrameIT: detangling knowledge management from game design in serious games</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -638,13 +635,15 @@
           <surname>Stamminger</surname>
           <givenname>Marc</givenname>
         </bib-name>
+        <bib-related bibrefs="CICM20" role="host"/>
         <bib-date role="publication">2020</bib-date>
         <bib-note role="annotation">submitted</bib-note>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-frameit.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,nroux,rmarcus,dmueller,frameit,mmt</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohBoeMar:frameit20,
+        <bib-data role="self" type="BibTeX">@inproceedings{KohBoeMar:frameit20,
      title = {{FrameIT}: Detangling Knowledge Management from Game Design in Serious Games},
     author = {Michael Kohlhase and Benjamin B{\"o}sl and Richard Marcus and Dennis M{\"u}ller and Denis Rochau and Navid Roux and John Schihada and Marc Stamminger},
+  crossref = {CICM20},
       year = {2020},
       note = {submitted},
        url = {http://kwarc.info/kohlhase/submit/cicm20-frameit.pdf},
@@ -697,11 +696,10 @@
       pubs = {akohlhase,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="BerKohRab:thqlmk20" type="unpublished" xml:id="bib.bib33">
+      <bibentry key="BerKohRab:thqlmk20" type="inproceedings" xml:id="bib.bib33">
         <bib-related bibrefs="BerKohRab:thqlmk20:base" role="host"/>
         <bib-title>Towards a heterogeneous query language for mathematical knowledge</bib-title>
         <bib-url href="http://kwarc.info/kohlhase/submit/cicm20-search.pdf">Link</bib-url>
-        <bib-note role="annotation">submitted</bib-note>
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
@@ -715,11 +713,10 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-data role="self" type="BibTeX">@unpublished{BerKohRab:thqlmk20,
+        <bib-data role="self" type="BibTeX">@inproceedings{BerKohRab:thqlmk20,
   crossref = {BerKohRab:thqlmk20:base},
      title = {Towards a Heterogeneous Query Language for Mathematical Knowledge},
        url = {http://kwarc.info/kohlhase/submit/cicm20-search.pdf},
-      note = {submitted},
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
       year = {2020}}
 </bib-data>
