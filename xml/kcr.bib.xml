@@ -5238,31 +5238,19 @@ Frank Tompa and Martin Suda},
         </bib-name><bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
-        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-url href="http://www.cermat.org/events/MathUI/15/proceedings">Link</bib-url><bib-date role="publication">2015-07</bib-date><bib-data role="pubs">akohlhase</bib-data><bib-data role="month">July</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI15,
+        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-data role="19">booktitle</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI15,
     editor = {Andrea Kohlhase and Paul Libbrecht},
      title = {Mathematical User Interfaces Workshop at {CICM}},
- booktitle = {Mathematical User Interfaces Workshop},
-       url = {http://www.cermat.org/events/MathUI/15/proceedings},
-      year = {2015},
-      pubs = {akohlhase},
-     month = {July}}
+        19 = {booktitle}}
 </bib-data></bib-related>
         <bib-url href="http://www.cermat.org/events/MathUI/15/proceedings/Lal-Kohlhase-Ginev_KAT_annotations_MathUI_15.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dginev,twiesing,comma,kat</bib-data>
-        <bib-related role="host" type="proceedings">
-          <bib-title>Mathematical User Interfaces Workshop</bib-title>
-        </bib-related>
-        <bib-date role="publication">2015-07</bib-date>
-        <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{GinLalKoh:katsd15,
     author = {Deyan Ginev and Sourabh Lal and Michael Kohlhase and Tom Wiesing},
      title = {{KAT}: an Annotation Tool for {STEM} Documents},
   crossref = {MathUI15},
        url = {http://www.cermat.org/events/MathUI/15/proceedings/Lal-Kohlhase-Ginev_KAT_annotations_MathUI_15.pdf},
-      pubs = {mkohlhase,dginev,twiesing,comma,kat},
- booktitle = {Mathematical User Interfaces Workshop},
-      year = {2015},
-     month = {July}}
+      pubs = {mkohlhase,dginev,twiesing,comma,kat}}
 </bib-data>
       </bibentry>
       <bibentry key="PenKoh:rpscsmc15" type="inproceedings" xml:id="bib.bib189">
@@ -5281,31 +5269,19 @@ Frank Tompa and Martin Suda},
         </bib-name><bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
-        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-url href="http://www.cermat.org/events/MathUI/15/proceedings">Link</bib-url><bib-date role="publication">2015-07</bib-date><bib-data role="pubs">akohlhase</bib-data><bib-data role="month">July</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI15,
+        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-data role="19">booktitle</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI15,
     editor = {Andrea Kohlhase and Paul Libbrecht},
      title = {Mathematical User Interfaces Workshop at {CICM}},
- booktitle = {Mathematical User Interfaces Workshop},
-       url = {http://www.cermat.org/events/MathUI/15/proceedings},
-      year = {2015},
-      pubs = {akohlhase},
-     month = {July}}
+        19 = {booktitle}}
 </bib-data></bib-related>
         <bib-url href="http://www.cermat.org/events/MathUI/15/proceedings/Pentrel-Kohlhase_Semantic_Closness-MathUI_15.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,omdoc</bib-data>
-        <bib-related role="host" type="proceedings">
-          <bib-title>Mathematical User Interfaces Workshop</bib-title>
-        </bib-related>
-        <bib-date role="publication">2015-07</bib-date>
-        <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{PenKoh:rpscsmc15,
     author = {Naomi Pentrel and Michael Kohlhase},
      title = {Relational Presentations Using Semantic Closeness Spatial Narrative for Mathematical Content},
   crossref = {MathUI15},
        url = {http://www.cermat.org/events/MathUI/15/proceedings/Pentrel-Kohlhase_Semantic_Closness-MathUI_15.pdf},
-      pubs = {mkohlhase,omdoc},
- booktitle = {Mathematical User Interfaces Workshop},
-      year = {2015},
-     month = {July}}
+      pubs = {mkohlhase,omdoc}}
 </bib-data>
       </bibentry>
       <bibentry key="LuzIanKoh:iolo15" type="inproceedings" xml:id="bib.bib190">
@@ -33147,31 +33123,19 @@ Sandro Wartzack},
         </bib-name><bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
-        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-url href="http://www.cermat.org/events/MathUI/15/proceedings">Link</bib-url><bib-date role="publication">2015-07</bib-date><bib-data role="pubs">akohlhase</bib-data><bib-data role="month">July</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI15,
+        </bib-name><bib-title>Mathematical user interfaces workshop at CICM</bib-title><bib-data role="19">booktitle</bib-data><bib-data role="self" type="BibTeX">@proceedings{MathUI15,
     editor = {Andrea Kohlhase and Paul Libbrecht},
      title = {Mathematical User Interfaces Workshop at {CICM}},
- booktitle = {Mathematical User Interfaces Workshop},
-       url = {http://www.cermat.org/events/MathUI/15/proceedings},
-      year = {2015},
-      pubs = {akohlhase},
-     month = {July}}
+        19 = {booktitle}}
 </bib-data></bib-related>
         <bib-url href="http://www.cermat.org/events/MathUI/15/proceedings/Kohlhase-Guseva-Cooccurences-context-MathUI_15.pdf">Link</bib-url>
         <bib-data role="pubs">akohlhase,aguseva,sissi</bib-data>
-        <bib-related role="host" type="proceedings">
-          <bib-title>Mathematical User Interfaces Workshop</bib-title>
-        </bib-related>
-        <bib-date role="publication">2015-07</bib-date>
-        <bib-data role="month">July</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohGus:CoOccurrencesInSpreadsheets:2015,
     author = {Andrea Kohlhase and Ana Guseva},
      title = {Co-Occurrences of Context Dimensions of Spreadsheets},
   crossref = {MathUI15},
        url = {http://www.cermat.org/events/MathUI/15/proceedings/Kohlhase-Guseva-Cooccurences-context-MathUI_15.pdf},
-      pubs = {akohlhase,aguseva,sissi},
- booktitle = {Mathematical User Interfaces Workshop},
-      year = {2015},
-     month = {July}}
+      pubs = {akohlhase,aguseva,sissi}}
 </bib-data>
       </bibentry>
       <bibentry key="Koh:FramingsOfInformation:2013" type="report" xml:id="bib.bib1095">
@@ -34620,18 +34584,11 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <givenname>Paul</givenname>
         </bib-name>
         <bib-title>Mathematical user interfaces workshop at CICM</bib-title>
-        <bib-url href="http://www.cermat.org/events/MathUI/15/proceedings">Link</bib-url>
-        <bib-date role="publication">2015-07</bib-date>
-        <bib-data role="pubs">akohlhase</bib-data>
-        <bib-data role="month">July</bib-data>
+        <bib-data role="19">booktitle</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI15,
     editor = {Andrea Kohlhase and Paul Libbrecht},
      title = {Mathematical User Interfaces Workshop at {CICM}},
- booktitle = {Mathematical User Interfaces Workshop},
-       url = {http://www.cermat.org/events/MathUI/15/proceedings},
-      year = {2015},
-      pubs = {akohlhase},
-     month = {July}}
+        19 = {booktitle}}
 </bib-data>
       </bibentry>
       <bibentry key="MathUI16" type="proceedings" xml:id="bib.bib1139">

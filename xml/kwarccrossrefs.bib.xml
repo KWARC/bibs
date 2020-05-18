@@ -143,18 +143,11 @@
           <givenname>Paul</givenname>
         </bib-name>
         <bib-title>Mathematical user interfaces workshop at CICM</bib-title>
-        <bib-url href="http://www.cermat.org/events/MathUI/15/proceedings">Link</bib-url>
-        <bib-date role="publication">2015-07</bib-date>
-        <bib-data role="pubs">akohlhase</bib-data>
-        <bib-data role="month">July</bib-data>
+        <bib-data role="19">booktitle</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI15,
     editor = {Andrea Kohlhase and Paul Libbrecht},
      title = {Mathematical User Interfaces Workshop at {CICM}},
- booktitle = {Mathematical User Interfaces Workshop},
-       url = {http://www.cermat.org/events/MathUI/15/proceedings},
-      year = {2015},
-      pubs = {akohlhase},
-     month = {July}}
+        19 = {booktitle}}
 </bib-data>
       </bibentry>
       <bibentry key="MathUI16" type="proceedings" xml:id="bib.bib4">
