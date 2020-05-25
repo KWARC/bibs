@@ -408,7 +408,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="Jucovschi:msc10" type="thesis" xml:id="bib.bib22">
-        <bib-title>Editing knowledge in large mathematical corpora. a case study with semantic <ERROR class="undefined">\LaTdX</ERROR> (sTeX)</bib-title>
+        <bib-title>Editing knowledge in large mathematical corpora. a case study with semantic LaTeX (sTeX)</bib-title>
         <bib-name role="author">
           <surname>Jucovschi</surname>
           <givenname>Constantin</givenname>
@@ -419,7 +419,7 @@
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2010/jucovschi_constantin.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,cjucovschi</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Jucovschi:msc10,
-     title = {Editing Knowledge in Large Mathematical Corpora. A case study with Semantic {\LaTdX} ({sTeX})},
+     title = {Editing Knowledge in Large Mathematical Corpora. A case study with Semantic {\LaTeX} ({sTeX})},
     author = {Constantin Jucovschi},
     school = {Jacobs University},
       year = {2010},
