@@ -2763,12 +2763,14 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
 </bib-data>
       </bibentry>
       <bibentry key="mitm:core:on" type="website" xml:id="bib.bib126">
+        <bib-data role="label">MitM</bib-data>
         <bib-title>MitM/core</bib-title>
         <bib-url href="https://gl.mathhub.info/MitM/core">Link</bib-url>
         <bib-data role="urldate">2020-01-18</bib-data>
         <bib-type>Math Archive</bib-type>
         <bib-data role="pubs">odk,odkWP6,smglom</bib-data>
         <bib-data role="self" type="BibTeX">@online{mitm:core:on,
+     label = {MitM},
      title = {{MitM}/core},
        url = {https://gl.mathhub.info/MitM/core},
    urldate = {2020-01-18},
