@@ -550,7 +550,6 @@
  booktitle = {Mathematical Software – ICMS 2020. 7th international conference},
      title = {Mathematical Software – ICMS 2020. 7th international conference},
     editor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
- booktitle = {Mathematical software – ICMS 2020},
     series = {Lecture Notes in Computer Science},
     volume = {12097},
  publisher = {Springer},
@@ -562,7 +561,7 @@
         <bib-url href="https://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf">Link</bib-url>
         <bib-data role="pubs">jfschaefer,mkohlhase,mmt,comma</bib-data>
         <bib-related role="host" type="proceedings">
-          <bib-title>Mathematical software – ICMS 2020</bib-title>
+          <bib-title>Mathematical Software – ICMS 2020. 7th international conference</bib-title>
           <bib-publisher>Springer</bib-publisher>
         </bib-related>
         <bib-data role="self" type="BibTeX">@inproceedings{SchKoh:pcmljn20,
@@ -572,7 +571,7 @@
   crossref = {ICMS20},
        url = {https://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf},
       pubs = {jfschaefer,mkohlhase,mmt,comma},
- booktitle = {Mathematical software – ICMS 2020},
+ booktitle = {Mathematical Software – ICMS 2020. 7th international conference},
  publisher = {Springer}}
 </bib-data>
       </bibentry>
@@ -36379,7 +36378,6 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  booktitle = {Mathematical Software – ICMS 2020. 7th international conference},
      title = {Mathematical Software – ICMS 2020. 7th international conference},
     editor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
- booktitle = {Mathematical software – ICMS 2020},
     series = {Lecture Notes in Computer Science},
     volume = {12097},
  publisher = {Springer},
