@@ -247,14 +247,21 @@
       </bibentry>
       <bibentry key="IJCAR20" type="proceedings" xml:id="bib.bib9">
         <bib-title>10th international joint conference on automated reasoning</bib-title>
-        <bib-data role="sooneditor"></bib-data>
+        <bib-name role="editor">
+          <surname>Peltier</surname>
+          <givenname>Nicolas</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Sofronie-Stokkermans</surname>
+          <givenname>Viorica</givenname>
+        </bib-name>
         <bib-publisher>Springer Verlag</bib-publisher>
         <bib-date role="publication">2020</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR20,
  booktitle = {10th International Joint Conference on Automated Reasoning},
      title = {10th International Joint Conference on Automated Reasoning},
- sooneditor = {},
+    editor = {Peltier, Nicolas and Sofronie-Stokkermans, Viorica},
  publisher = {Springer Verlag},
       year = {2020},
   keywords = {conference}}
