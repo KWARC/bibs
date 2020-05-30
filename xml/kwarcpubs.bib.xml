@@ -654,17 +654,17 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>The GLIF system: a framework for inference-based natural-language understanding</bib-title>
+        <bib-title>GLIF: a declarative framework for symbolic natural language understanding</bib-title>
         <bib-date role="publication">2020</bib-date>
         <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="https://kwarc.info/kohlhase/submit/cicm20-glif.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/kohlhase/submit/ki20-glif.pdf">Link</bib-url>
         <bib-data role="pubs">jfschaefer,mkohlhase,mmt,comma</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{SchKoh:glif20,
     author = {Jan Frederik Schaefer and Michael Kohlhase},
-     title = {The {GLIF} System: A Framework for Inference-Based Natural-Language Understanding},
+     title = {{GLIF}: A Declarative Framework for Symbolic Natural Language Understanding},
       year = {2020},
       note = {submitted},
-       url = {https://kwarc.info/kohlhase/submit/cicm20-glif.pdf},
+       url = {https://kwarc.info/kohlhase/submit/ki20-glif.pdf},
       pubs = {jfschaefer,mkohlhase,mmt,comma}}
 </bib-data>
       </bibentry>
