@@ -7,6 +7,46 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{spec:on,
+  label = {SPEC},
+  author = {{Kestrel Institute}},
+  title = {The Specware System},
+  url = {https://www.kestrel.edu/home/projects/specware/index.html},
+  urldate = {2020-05-27}
+}
+
+
+@inproceedings{mossakowski2007heterogeneous,
+  title={The heterogeneous tool set, Hets},
+  author={Mossakowski, Till and Maeder, Christian and L{\"u}ttich, Klaus},
+  booktitle={International Conference on Tools and Algorithms for the Construction and Analysis of Systems},
+  pages={519--522},
+  year={2007},
+  organization={Springer}
+}
+
+@online{phet:on,
+  label = {PhET},
+  author = {{University of Colorado}},
+  title = {PhET Interactive Simulations},
+  url = {https://phet.colorado.edu},
+  urldate = {2020-05-27}
+}
+
+@online{GFM:on,
+  key = {GFM},
+  url = {https://github.github.com/gfm/},
+  title = {GitHub Flavored Markdown Spec},
+  urldate = {2020-05-10}}
+  
+@phdthesis{Cramer:pcmticnl,
+    author = {Cramer, Marcos},
+    title = {Proof-checking mathematical texts in controlled natural language},
+    school = {Rheinische Friedrich-Wilhelms-Universit\"at Bonn},
+    year = {2013},
+    language = {eng},
+    URL = {http://hss.ulb.uni-bonn.de/2013/3390/3390.pdf}}
+
 @article{NautyTraces,
 title = "Practical graph isomorphism, II",
 journal = "Journal of Symbolic Computation",
@@ -55,7 +95,8 @@ series = {LOPSTR ’98}
   author = {{Unity Technologies}},
   version = {2019.3.6},
   urldate = {2020-03-19},
-  url = {https://unity.com/}
+  url = {https://unity.com/},
+  howpublished = {\url{https://unity.com/}}
 }
 
 @misc{paskevich2007syntax,
@@ -353,7 +394,7 @@ series = {LOPSTR ’98}
  and Peter McGeorge}}
 
  
-@techreport{PROV:W3C,
+@techreport{PROV:W3C0,
   url = {https://www.w3.org/TR/prov-overview/},
   date = {2013-04-30},
   title = {{PROV-Overview} -- An Overview of the PROV Family of Documents},
@@ -655,8 +696,7 @@ series = {LOPSTR ’98}
   author    = {European Commission Expert Group on FAIR Data},
   title     = {Turning {FAIR} into reality},
   year      = {2018},
-  doi       = {10.2777/1524}
-}
+  doi       = {10.2777/1524}}
 
 @online{RADAR:on,
   label = {RR},
@@ -2649,7 +2689,7 @@ journal = {The Computer Journal}
 	pages={25-32},
 	doi={10.1109/MC.2005.297},
 	ISSN={0018-9162},
-	month={Sept},
+	month=sep,
 }
 
 @InCollection{YanKpaRon:ssfet08,
@@ -3511,7 +3551,7 @@ year = {1999}}
   author={Bozdag, E. and Mesbah, A. and van Deursen, A.},
   booktitle={Web Site Evolution, 2007. WSE 2007. 9th IEEE International Workshop on}, title={A Comparison of Push and Pull Techniques for AJAX},
   year={2007},
-  month={oct.},
+  month={oct},
   volume={},
   number={},
   pages={15--22},
@@ -7576,14 +7616,14 @@ author = "Tjark Weber"}
 
 @online{geogebra:on,crossref={geogebra:base},
   label = {GG},
-  urldate = {2019-07-23}}
+  urldate = {2020-05-27}}
 @Misc{URL:geogebra,crossref={geogebra:base},
-  howpublished = {\url{http://www.geogebra.org/cms/}},
-  note = {seen March 2009}}
+  howpublished = {\url{https://www.geogebra.org}},
+  note = {seen May 2020}}
 @misc{geogebra:base,
-  author = {Markus Hohenwarter},
+  author = {International GeoGebra Institute},
   title = {Graphing Calculator -- {GeoGebra}},
-  url = {http://www.geogebra.org}}
+  url = {https://www.geogebra.org}}
 
 
 @Misc{URL:uDrawGraph,
@@ -12061,7 +12101,7 @@ lastchecked =  {May, 2008}}
   author =   {Claus Zinn},
   title =    {{Understanding Informal Mathematical Discourse}},
   school =   {Technischen Fakult{\"a}t der Universit{\"a}t Erlangen-N{\"u}rnberg},
-  url = {https://sites.google.com/site/clauszinn/verifying-informal-proofs/37_04.pdf},
+  url = {https://www.researchgate.net/publication/244522458_Understanding_Informal_Mathematical_Discourse},
   keywords = {lamapunbibs},
   year =     {2004}}
 
@@ -29372,7 +29412,6 @@ howpublished = {online at \url{http://nvie.com/posts/a-successful-git-branching-
   address = {New Haven}}
 
 @INBOOK{Montague:efl70,
-  chapter = {Linguaggi nella Societa e nella Tecnica, B. Visentini et al eds},
   pages = {189--224},
   title = {English as a Formal Language},
   publisher = {Edizioni di Communita, Milan},
@@ -31388,27 +31427,38 @@ pages= {325--329}}
   pages = {145--189},
   number = {2}}
 
-@online{GF:on,
+@misc{GF:url,crossref={GF:base},
+  key = {GF},
+  howpublished = {\url{http://www.grammaticalframework.org}},
+  note = {accessed May 2020}}
+@online{GF:on,crossref={GF:base},
   label = {GF},
-  title = {GF - Grammatical Framework},
-  url = {http://www.grammaticalframework.org},
-  urldate = {2017-09-27}}
+  urldate = {2017-09-27},
+  url = {http://www.grammaticalframework.org}}
+@misc{GF:base,  
+  title = {GF - Grammatical Framework}}
 
-@online{GFResourceGrammar:on,
+@misc{GFResourceGrammar:url,crossref={GFResourceGrammar:base},
+  key = {GFR},
+  howpublished = {\url{https://www.grammaticalframework.org/lib/doc/synopsis/}},
+  note = {accessed 2020-03-11}}
+@online{GFResourceGrammar:on,crossref={GFResourceGrammar:base},
   label = {GFR},
-  title = {GF Resource Grammar Library: Synopsis},
-  author = {B. Bringert and T. Hallgren and A. Ranta},
   url = {https://www.grammaticalframework.org/lib/doc/synopsis/},
   urldate = {2020-03-11}}
+@misc{GFResourceGrammar:base,  
+  title = {GF Resource Grammar Library: Synopsis},
+  author = {B. Bringert and T. Hallgren and A. Ranta}}
 
-@Book{ranta-2011,
+@book{ranta-2011,crossref={Ranta:gfpmg11}}
+@Book{Ranta:gfpmg11,
   author = {Aarne Ranta},
   title =  {{Grammatical Framework:
              Programming with Multilingual Grammars}},
   publisher = {{CSLI Publications}},
   year = {2011},
   address = "Stanford",
-  note = "ISBN-10: 1-57586-626-9 (Paper), 1-57586-627-7 (Cloth)"
+  note = "ISBN-10: 1-57586-626-9"
 }
 
 @ARTICLE{Ranta:ttigpsg95,
@@ -33933,7 +33983,7 @@ crossref={Heijenoort67},
  journal = {ACM Trans. Softw. Eng. Methodol.},
  volume = {7},
  issue = {2},
- month = {April},
+ month = apr,
  year = {1998},
  issn = {1049-331X},
  pages = {192--214},
@@ -40176,7 +40226,7 @@ doi = {10.1115/1.3149847}
   year = 2010,
   editor = {Sacerdoti Coen Claudio and David Aspinall},
   series = {ENTCS},
-  month = {July},
+  month = jul,
   publisher = {Elsevier},
   url = {http://www.lri.fr/~wenzel/papers/async-isabelle-scala.pdf}
 }
@@ -40647,7 +40697,7 @@ doi = {10.1115/1.3149847}
   author = {Neil McIntosh},
   journal = {The Guardian},
   day={1},
-  month = {November},
+  month = nov,
   year = {2003},
  note =  {\small{\url{http://www.guardian.co.uk/technology/2003/nov/01/internationalnews.onlinesupplement}}}
 }
@@ -43468,13 +43518,13 @@ title = {A Metamodel for Context-Aware Component-Based Mashup Applications},
 booktitle = {Proceedings of the 12th International Conference on Information Integration and Web-based Applications {\&} Services (iiWAS 2010)},
 isbn = {978-1-4503-0421-4},
 year = {2010},
-month = {nov},
+month = nov,
 publisher = {ACM}}
 
 @Inproceedings{KoschmiderEtAl:MashupHype:2009,
 	address = {Madrid},
 	booktitle = {2nd Workshop on Mashups, Enterprise Mashups and Lightweight Composition on the Web in conjunction with the 18th International World Wide Web Conference},
-	month = {April},
+	month = apr,
 	title = {Elucidating the Mashup Hype: Definition, Challenges, Methodical Guide and Tools for Mashups},
 	year = {2009},
 	type = {Inproceedings},
