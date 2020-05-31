@@ -17,9 +17,15 @@
           <surname>Rapp</surname>
           <givenname>Max</givenname>
         </bib-name>
+        <bib-date role="publication">2020</bib-date>
+        <bib-note role="annotation">submitted to KI2020</bib-note>
+        <bib-data role="pubs">mrapp,mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohRab:avdg20,
      title = {Argumentation via Context Graphs},
-    author = {Michael Kohlhase and Max Rapp}}
+    author = {Michael Kohlhase and Max Rapp},
+      year = {2020},
+      note = {submitted to KI2020},
+      pubs = {mrapp,mkohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="RapAdrKoh:cglra20" type="unpublished" xml:id="bib.bib2">
