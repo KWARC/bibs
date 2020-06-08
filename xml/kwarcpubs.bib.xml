@@ -18,13 +18,11 @@
           <givenname>Max</givenname>
         </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">submitted to KI2020</bib-note>
         <bib-data role="pubs">mrapp,mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohRab:avdg20,
      title = {Argumentation via Context Graphs},
     author = {Michael Kohlhase and Max Rapp},
       year = {2020},
-      note = {submitted to KI2020},
       pubs = {mrapp,mkohlhase}}
 </bib-data>
       </bibentry>
@@ -714,25 +712,14 @@
         <bib-related bibrefs="BerKohRab:thqlmk20:base" role="host"/>
         <bib-title>Towards a heterogeneous query language for mathematical knowledge</bib-title>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-search.pdf">Link</bib-url>
-        <bib-name role="author">
-          <surname>Berčič</surname>
-          <givenname>Katja</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Rabe</surname>
-          <givenname>Florian</givenname>
-        </bib-name>
-        <bib-date role="publication">2020</bib-date>
+        <bib-related bibrefs="CICM20" role="host"/>
+        <bib-data role="pubs">kbercic,mkohlhase,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BerKohRab:thqlmk20,
   crossref = {BerKohRab:thqlmk20:base},
      title = {Towards a Heterogeneous Query Language for Mathematical Knowledge},
        url = {https://kwarc.info/kohlhase/papers/cicm20-search.pdf},
-    author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
-      year = {2020}}
+  crossref = {CICM20},
+      pubs = {kbercic,mkohlhase,frabe}}
 </bib-data>
       </bibentry>
       <bibentry key="BerKohRab:thqlmker20" type="website" xml:id="bib.bib35">
