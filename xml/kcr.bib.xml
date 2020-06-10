@@ -5,10 +5,12 @@
     <title/>
     <biblist>
       <bibentry key="glif:on" type="website" xml:id="bib.bib1">
+        <bib-data role="label">GLIF</bib-data>
         <bib-title>GLIF kernel</bib-title>
         <bib-url href="https://github.com/KWARC/GLIF">Link</bib-url>
         <bib-data role="urldate">2020-06-09</bib-data>
         <bib-data role="self" type="BibTeX">@online{glif:on,
+     label = {GLIF},
      title = {{GLIF} Kernel},
        url = {https://github.com/KWARC/GLIF},
    urldate = {2020-06-09}}
