@@ -7,7 +7,7 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="RouRab:lfmtp20" type="unpublished" xml:id="bib.bib1">
+      <bibentry key="RouRab:lfmtp20abstract" type="unpublished" xml:id="bib.bib1">
         <bib-name role="author">
           <surname>Roux</surname>
           <givenname>Navid</givenname>
@@ -20,18 +20,16 @@
         <bib-data role="eventtitle">Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2020)</bib-data>
         <bib-data role="eventdate">2020-06-29/2020-06-30</bib-data>
         <bib-date role="publication">2020</bib-date>
-        <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-note role="annotation">Extended abstract</bib-note>
         <bib-url href="https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_9.pdf">Link</bib-url>
         <bib-data role="pubs">nroux,frabe</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{RouRab:lfmtp20,
+        <bib-data role="self" type="BibTeX">@unpublished{RouRab:lfmtp20abstract,
     author = {Navid Roux and Florian Rabe},
      title = {{Diagram Operators in a Logical Framework}},
  eventtitle = {Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2020)},
  eventdate = {2020-06-29/2020-06-30},
       year = {2020},
-    series = {Frontiers in Artificial Intelligence and Applications},
   keywords = {conference},
       note = {Extended abstract},
        url = {https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_9.pdf},
@@ -72,13 +70,13 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">Extended abstract submitted as <cite class="ltx_citemacro_cite">[<bibref bibrefs="RouRab:wadt20" separator="," yyseparator=","/>]</cite></bib-note>
+        <bib-note role="annotation">Extended abstract for full paper submitted as <cite class="ltx_citemacro_cite">[<bibref bibrefs="RouRab:wadt20" separator="," yyseparator=","/>]</cite></bib-note>
         <bib-data role="pubs">nroux,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RouRab:wadt20abstract,
      title = {{Functorial Diagram Operators}},
     author = {Navid Roux and Florian Rabe},
       year = {2020},
-      note = {Extended abstract submitted as \cite{RouRab:wadt20}},
+      note = {Extended abstract for full paper submitted as \cite{RouRab:wadt20}},
       pubs = {nroux,frabe}}
 </bib-data>
       </bibentry>
@@ -580,7 +578,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="Roux:bsc19" type="thesis" xml:id="bib.bib30">
-        <bib-title>Refactoring of theory graphs in knowledge representation systems</bib-title>
+        <bib-title>Refactoring of Theory Graphs in Knowledge Representation Systems</bib-title>
         <bib-name role="author">
           <surname>Roux</surname>
           <givenname>Navid</givenname>
@@ -592,7 +590,7 @@
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2019/Roux_Navid.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis,nroux</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Roux:bsc19,
-     title = {Refactoring of Theory Graphs in Knowledge Representation Systems},
+     title = {{Refactoring of Theory Graphs in Knowledge Representation Systems}},
     author = {Navid Roux},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2019},
