@@ -4,36 +4,7 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="RouRab:lfmtp20abstract" type="unpublished" xml:id="bib.bib1">
-        <bib-name role="author">
-          <surname>Roux</surname>
-          <givenname>Navid</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Rabe</surname>
-          <givenname>Florian</givenname>
-        </bib-name>
-        <bib-title>Diagram Operators in a Logical Framework</bib-title>
-        <bib-data role="eventtitle">Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2020)</bib-data>
-        <bib-data role="eventdate">2020-06-29/2020-06-30</bib-data>
-        <bib-date role="publication">2020</bib-date>
-        <bib-extract role="keywords">conference</bib-extract>
-        <bib-note role="annotation">Extended abstract</bib-note>
-        <bib-url href="https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_9.pdf">Link</bib-url>
-        <bib-data role="pubs">nroux,frabe</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{RouRab:lfmtp20abstract,
-    author = {Navid Roux and Florian Rabe},
-     title = {{Diagram Operators in a Logical Framework}},
- eventtitle = {Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2020)},
- eventdate = {2020-06-29/2020-06-30},
-      year = {2020},
-  keywords = {conference},
-      note = {Extended abstract},
-       url = {https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_9.pdf},
-      pubs = {nroux,frabe}}
-</bib-data>
-      </bibentry>
-      <bibentry key="RouRab:wadt20" type="unpublished" xml:id="bib.bib2">
+      <bibentry key="RouRab:wadt20" type="unpublished" xml:id="bib.bib1">
         <bib-title>Structure-Preserving Diagram Operators</bib-title>
         <bib-name role="author">
           <surname>Roux</surname>
@@ -46,17 +17,17 @@
         <bib-date role="publication">2020</bib-date>
         <bib-note role="annotation">submitted</bib-note>
         <bib-url href="https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf">Link</bib-url>
-        <bib-data role="pubs">nroux,frabe</bib-data>
+        <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RouRab:wadt20,
      title = {{Structure-Preserving Diagram Operators}},
     author = {Navid Roux and Florian Rabe},
       year = {2020},
       note = {submitted},
        url = {https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf},
-      pubs = {nroux,frabe}}
+      pubs = {nroux,frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="RouRab:wadt20abstract" type="unpublished" xml:id="bib.bib3">
+      <bibentry key="RouRab:wadt20abstract" type="unpublished" xml:id="bib.bib2">
         <bib-title>Functorial Diagram Operators</bib-title>
         <bib-name role="author">
           <surname>Roux</surname>
@@ -67,14 +38,45 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">Extended abstract for full paper submitted as <cite class="ltx_citemacro_cite">[<bibref bibrefs="RouRab:wadt20" separator="," yyseparator=","/>]</cite></bib-note>
-        <bib-data role="pubs">nroux,frabe</bib-data>
+        <bib-note role="annotation">Extended abstract submitted as <cite class="ltx_citemacro_cite">[<bibref bibrefs="RouRab:wadt20" separator="," yyseparator=","/>]</cite></bib-note>
+        <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RouRab:wadt20abstract,
      title = {{Functorial Diagram Operators}},
     author = {Navid Roux and Florian Rabe},
       year = {2020},
-      note = {Extended abstract for full paper submitted as \cite{RouRab:wadt20}},
-      pubs = {nroux,frabe}}
+      note = {Extended abstract submitted as \cite{RouRab:wadt20}},
+      pubs = {nroux,frabe,mmt,oaf}}
+</bib-data>
+      </bibentry>
+      <bibentry key="RouRab:lfmtp20abstract" type="unpublished" xml:id="bib.bib3">
+        <bib-name role="author">
+          <surname>Roux</surname>
+          <givenname>Navid</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Rabe</surname>
+          <givenname>Florian</givenname>
+        </bib-name>
+        <bib-title>Diagram Operators in a Logical Framework</bib-title>
+        <bib-data role="eventtitle">Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2020)</bib-data>
+        <bib-data role="eventdate">2020-06-29/2020-06-30</bib-data>
+        <bib-date role="publication">2020</bib-date>
+        <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-note role="annotation">Extended abstract</bib-note>
+        <bib-url href="https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_9.pdf">Link</bib-url>
+        <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
+        <bib-data role="self" type="BibTeX">@unpublished{RouRab:lfmtp20abstract,
+    author = {Navid Roux and Florian Rabe},
+     title = {{Diagram Operators in a Logical Framework}},
+ eventtitle = {Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2020)},
+ eventdate = {2020-06-29/2020-06-30},
+      year = {2020},
+    series = {Frontiers in Artificial Intelligence and Applications},
+  keywords = {conference},
+      note = {Extended abstract},
+       url = {https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_9.pdf},
+      pubs = {nroux,frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="glif:on" type="website" xml:id="bib.bib4">
