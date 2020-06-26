@@ -9,7 +9,6 @@
     <biblist>
       <bibentry key="CICM20" type="proceedings" xml:id="bib.bib1">
         <bib-data role="sooneditor">Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio</bib-data>
-        <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-data role="soondoi">10.1007/978-3-030-23250-4</bib-data>
@@ -20,7 +19,6 @@
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM20,
  sooneditor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
- eventtitle = {Conferences on Intelligent Computer Mathematics},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
  publisher = {Springer},
