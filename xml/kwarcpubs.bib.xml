@@ -26856,6 +26856,33 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
  acceptanceratecomment = {MKM/Calculemus/DML: 26/41, S&amp;P: 9/14, overall: 35/55}}
 </bib-data>
       </bibentry>
+      <bibentry key="RappAdrianKohlhase:LegContextGraphs" type="misc" xml:id="bib.bib1144">
+        <bib-title>Context graphs for legal reasoning and argumentation</bib-title>
+        <bib-name role="author">
+          <surname>Rapp</surname>
+          <givenname>Max</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Adrian</surname>
+          <givenname>Axel</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-date role="publication">2020</bib-date>
+        <bib-links>2007.00732</bib-links>
+        <bib-data role="archiveprefix">arXiv</bib-data>
+        <bib-data role="primaryclass">cs.LO</bib-data>
+        <bib-data role="self" type="BibTeX">@misc{RappAdrianKohlhase:LegContextGraphs,
+     title = {Context Graphs for Legal Reasoning and Argumentation},
+    author = {Max Rapp and Axel Adrian and Michael Kohlhase},
+      year = {2020},
+    eprint = {2007.00732},
+ archiveprefix = {arXiv},
+ primaryclass = {cs.LO}}
+</bib-data>
+      </bibentry>
     </biblist>
   </bibliography>
 </document>
