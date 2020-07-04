@@ -8,6 +8,7 @@
     <title/>
     <biblist>
       <bibentry key="CICM20" type="proceedings" xml:id="bib.bib1">
+        <bib-data role="label">CICM</bib-data>
         <bib-data role="sooneditor">Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
@@ -15,9 +16,9 @@
         <bib-part role="series">LNAI</bib-part>
         <bib-data role="soonnumber">11617</bib-data>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">accepted</bib-note>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM20,
+     label = {CICM},
  sooneditor = {Cezary Kaliszyck and Edwin Brady and Andrea Kohlhase and Sacerdoti Coen, Claudio},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
@@ -26,7 +27,6 @@
     series = {LNAI},
  soonnumber = {11617},
       year = {2020},
-      note = {accepted},
   keywords = {conference}}
 </bib-data>
       </bibentry>
