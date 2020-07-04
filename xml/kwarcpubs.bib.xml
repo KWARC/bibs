@@ -128,15 +128,15 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="https://kwarc.info/kohlhase/submit/comma20.pdf">Link</bib-url>
+        <bib-data role="archiveprefix">arXiv</bib-data>
+        <bib-links>2007.00732</bib-links>
         <bib-data role="pubs">mrapp,mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RapAdrKoh:cglra20,
      title = {Context Graphs for Legal Reasoning and Argumentation},
     author = {Max Rapp and Axel Adrian and Michael Kohlhase},
       year = {2020},
-      note = {submitted},
-       url = {https://kwarc.info/kohlhase/submit/comma20.pdf},
+ archiveprefix = {arXiv},
+    eprint = {2007.00732},
       pubs = {mrapp,mkohlhase}}
 </bib-data>
       </bibentry>
