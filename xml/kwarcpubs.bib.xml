@@ -764,6 +764,8 @@
             <givenname>Bruce</givenname>
           </bib-name>
           <bib-title>Intelligent Computer Mathematics</bib-title>
+          <bib-part role="series">Lecture Notes in Computer Science</bib-part>
+          <bib-part role="volume">12236</bib-part>
           <bib-publisher>Springer International Publishing</bib-publisher>
           <bib-title>Proceedings of the Fourteenth Workshop on
 Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-title>
@@ -1609,8 +1611,9 @@ Education Systems</bib-title>
           </bib-name>
           <bib-title>24th International Workshop on Algebraic Development Techniques 2018</bib-title>
         </bib-related>
-        <bib-date role="publication">2020</bib-date>
         <bib-part role="pages">173–189</bib-part>
+        <bib-date role="publication">2020</bib-date>
+        <bib-place>Cham, Switzerland</bib-place>
         <bib-extract role="abstract">Serious games are an attempt to leverage the inherent motivation in game-like scenarios for an educational application and to transpose the learning goals into real-world applications. Unfortunately, serious games are also very costly to develop and deploy. For very abstract domains like mathematics, already the representation of the knowledge involved becomes a problem.
 <bibliography xml:id="biba">
             <title/>
@@ -1622,19 +1625,28 @@ Education Systems</bib-title>
                 </tags>
                 <bibblock>We propose the FrameIT Method that uses OMDoc/MMT theory graphs to represent and track the underlying knowledge in serious games. In this paper we report on an implementation and experiment that tests the method. We obtain a simple serious game by representing a “word problem” in OMDoc/Mmt and connecting the Mmt API with a state-of-the-art game engine.
 <bib-identifier id="978-3-030-53518-6" scheme="isbn">ISBN 978-3-030-53518-6</bib-identifier>
+<bib-identifier href="http://dx.doi.org/10.1007/978-3-030-53518-6%5F11" id="10.1007/978-3-030-53518-6_11" scheme="doi">Document</bib-identifier>
+<bib-url href="https://kwarc.info/kohlhase/papers/cicm20-frameit.pdf">Link</bib-url>
+<bib-data role="pubs">mkohlhase,nroux,rmarcus,dmueller,frameit,mmt</bib-data>
 <bib-data role="self" type="BibTeX">@inproceedings{KohBoeMar:frameit20,
      title = {{FrameIT: Detangling Knowledge Management from Game Design in Serious Games}},
     author = {Michael Kohlhase and Benjamin B{\"o}sl and Richard Marcus and Dennis M{\"u}ller and Denis Rochau and Navid Roux and John Schihada and Marc Stamminger},
   crossref = {CICM20},
     editor = {Benzm{\"u}ller, Christoph and Miller, Bruce},
  booktitle = {Intelligent Computer Mathematics},
+    series = {Lecture Notes in Computer Science},
+     pages = {173–189},
+    volume = {12236},
       year = {2020},
  publisher = {Springer International Publishing},
-     pages = {173–189},
+   address = {Cham, Switzerland},
   abstract = {Serious games are an attempt to leverage the inherent motivation in game-like scenarios for an educational application and to transpose the learning goals into real-world applications. Unfortunately, serious games are also very costly to develop and deploy. For very abstract domains like mathematics, already the representation of the knowledge involved becomes a problem.
 
   We propose the FrameIT Method that uses OMDoc/MMT theory graphs to represent and track the underlying knowledge in serious games. In this paper we report on an implementation and experiment that tests the method. We obtain a simple serious game by representing a ``word problem'' in OMDoc/Mmt and connecting the Mmt API with a state-of-the-art game engine.},
-      isbn = {978-3-030-53518-6}}
+      isbn = {978-3-030-53518-6},
+       doi = {10.1007/978-3-030-53518-6_11},
+       url = {https://kwarc.info/kohlhase/papers/cicm20-frameit.pdf},
+      pubs = {mkohlhase,nroux,rmarcus,dmueller,frameit,mmt}}
 </bib-data>
 
 </bibblock>
@@ -2865,7 +2877,9 @@ Education Systems</bib-title>
                 <bib-identifier id="978-3-319-25638-2" scheme="isbn">ISBN 978-3-319-25638-2</bib-identifier>
                 <bib-identifier href="http://dx.doi.org/10.1007/978-3-319-25639-9%5F1" id="10.1007/978-3-319-25639-9_1" scheme="doi">Document</bib-identifier>
                 <bib-part role="pages">3–8</bib-part>
-                <bib-data role="bolume">9341</bib-data>
+                <bib-related role="host" type="book">
+                  <bib-part role="volume">9341</bib-part>
+                </bib-related>
                 <bib-date role="publication">2015</bib-date>
                 <bib-data role="pubs">kbercic</bib-data>
                 <bib-data role="self" type="BibTeX">@incollection{BerIJS:3xl,
@@ -2877,7 +2891,7 @@ Education Systems</bib-title>
       isbn = {978-3-319-25638-2},
        doi = {10.1007/978-3-319-25639-9_1},
      pages = {3-8},
-    bolume = {9341},
+    volume = {9341},
       year = {2015},
       pubs = {kbercic}}
 </bib-data>
