@@ -667,18 +667,18 @@
                 </bib-name><bib-name role="editor">
                   <surname>de Wolff</surname>
                   <givenname>Timo</givenname>
-                </bib-name><bib-part role="series">Lecture Notes in Computer Science</bib-part><bib-part role="volume">12097</bib-part><bib-publisher>Springer</bib-publisher><bib-data role="soonisbn">978-3-319-96417-1</bib-data><bib-date role="publication">2020</bib-date><bib-note role="annotation">accepted</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{ICMS20,
+                </bib-name><bib-part role="series">Lecture Notes in Computer Science</bib-part><bib-part role="volume">12097</bib-part><bib-publisher>Springer</bib-publisher><bib-identifier id="978-3-030-52199-8" scheme="isbn">ISBN 978-3-030-52199-8</bib-identifier><bib-date role="publication">2020</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{ICMS20,
  booktitle = {Mathematical Software – ICMS 2020. 7th international conference},
      title = {Mathematical Software – ICMS 2020. 7th international conference},
     editor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
     series = {Lecture Notes in Computer Science},
     volume = {12097},
  publisher = {Springer},
-  soonisbn = {978-3-319-96417-1},
+      isbn = {978-3-030-52199-8},
       year = {2020},
-      note = {accepted},
   keywords = {conference}}
 </bib-data></bib-related>
+        <bib-part role="pages">406–415</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf">Link</bib-url>
         <bib-data role="pubs">jfschaefer,mkohlhase,mmt,comma</bib-data>
         <bib-related role="host" type="proceedings">
@@ -690,6 +690,7 @@
      title = {Prototyping Controlled Mathematical Languages in Jupyter Notebooks},
       year = {2020},
   crossref = {ICMS20},
+     pages = {406–415},
        url = {https://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf},
       pubs = {jfschaefer,mkohlhase,mmt,comma},
  booktitle = {Mathematical Software – ICMS 2020. 7th international conference},
@@ -720,35 +721,31 @@
                 </bib-name><bib-name role="editor">
                   <surname>Miller</surname>
                   <givenname>Bruce</givenname>
-                </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-030-23250-4</bib-data><bib-part role="series">LNAI</bib-part><bib-part role="volume">12236</bib-part><bib-date role="publication">2020</bib-date><bib-identifier id="978-3-030-53518-6" scheme="isbn">ISBN 978-3-030-53518-6</bib-identifier><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM20,
+                </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="20">volume</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM20,
      label = {CICM},
     editor = {Benzm{\"u}ller, Christoph and Miller, Bruce},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
-    volume = {12236},
-      year = {2020},
-      isbn = {978-3-030-53518-6},
-  keywords = {conference}}
+        20 = {volume}}
 </bib-data></bib-related>
+        <bib-part role="pages">206–221</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-features.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,dmueller,oaf,mmt</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2020</bib-title>
           <bib-publisher>Springer</bib-publisher>
         </bib-related>
-        <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{MueRabRot:rslffml20,
      title = {Representing Structural Language Features in Formal Meta-Languages},
     author = {Dennis M{\"u}ller and Florian Rabe and Colin Rothgang and Michael Kohlhase},
   crossref = {CICM20},
+     pages = {206–221},
        url = {https://kwarc.info/kohlhase/papers/cicm20-features.pdf},
       pubs = {mkohlhase,frabe,dmueller,oaf,mmt},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
- publisher = {Springer},
-      year = {2020}}
+ publisher = {Springer}}
 </bib-data>
       </bibentry>
       <bibentry key="MarKohRab:tgview3D20" type="inproceedings" xml:id="bib.bib37">
@@ -771,35 +768,31 @@
                 </bib-name><bib-name role="editor">
                   <surname>Miller</surname>
                   <givenname>Bruce</givenname>
-                </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-030-23250-4</bib-data><bib-part role="series">LNAI</bib-part><bib-part role="volume">12236</bib-part><bib-date role="publication">2020</bib-date><bib-identifier id="978-3-030-53518-6" scheme="isbn">ISBN 978-3-030-53518-6</bib-identifier><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM20,
+                </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="20">volume</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM20,
      label = {CICM},
     editor = {Benzm{\"u}ller, Christoph and Miller, Bruce},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
-    volume = {12236},
-      year = {2020},
-      isbn = {978-3-030-53518-6},
-  keywords = {conference}}
+        20 = {volume}}
 </bib-data></bib-related>
+        <bib-part role="pages">290–296</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-tgview3d.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,rmarcus,mathhub,mmt</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2020</bib-title>
           <bib-publisher>Springer</bib-publisher>
         </bib-related>
-        <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{MarKohRab:tgview3D20,
      title = {TGView3D: a System  for 3-Dimensional Visualization of Theory Graphs},
     author = {Richard Marcus and Michael Kohlhase and Florian Rabe},
   crossref = {CICM20},
+     pages = {290–296},
        url = {https://kwarc.info/kohlhase/papers/cicm20-tgview3d.pdf},
       pubs = {mkohlhase,frabe,rmarcus,mathhub,mmt},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
- publisher = {Springer},
-      year = {2020}}
+ publisher = {Springer}}
 </bib-data>
       </bibentry>
       <bibentry key="KohBoeMar:frameit20" type="inproceedings" xml:id="bib.bib38">
@@ -842,18 +835,14 @@
                 </bib-name><bib-name role="editor">
                   <surname>Miller</surname>
                   <givenname>Bruce</givenname>
-                </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-data role="soondoi">10.1007/978-3-030-23250-4</bib-data><bib-part role="series">LNAI</bib-part><bib-part role="volume">12236</bib-part><bib-date role="publication">2020</bib-date><bib-identifier id="978-3-030-53518-6" scheme="isbn">ISBN 978-3-030-53518-6</bib-identifier><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM20,
+                </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="20">volume</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM20,
      label = {CICM},
     editor = {Benzm{\"u}ller, Christoph and Miller, Bruce},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
-    volume = {12236},
-      year = {2020},
-      isbn = {978-3-030-53518-6},
-  keywords = {conference}}
+        20 = {volume}}
 </bib-data></bib-related>
         <bib-part role="pages">173–189</bib-part>
         <bib-extract role="abstract">Serious games are an attempt to leverage the inherent motivation in game-like scenarios for an educational application and to transpose the learning goals into real-world applications. Unfortunately, serious games are also very costly to develop and deploy. For very abstract domains like mathematics, already the representation of the knowledge involved becomes a problem.
@@ -875,7 +864,6 @@
 <bib-related role="host" type="proceedings">
                     <bib-publisher>Springer</bib-publisher>
                   </bib-related>
-<bib-date role="publication">2020</bib-date>
 <bib-data role="self" type="BibTeX">@inproceedings{KohBoeMar:frameit20,
      title = {{FrameIT: Detangling Knowledge Management from Game Design in Serious Games}},
     author = {Michael Kohlhase and Benjamin B{\"o}sl and Richard Marcus and Dennis M{\"u}ller and Denis Rochau and Navid Roux and John Schihada and Marc Stamminger},
@@ -888,8 +876,7 @@
        url = {https://kwarc.info/kohlhase/papers/cicm20-frameit.pdf},
       pubs = {mkohlhase,nroux,rmarcus,dmueller,frameit,mmt},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
- publisher = {Springer},
-      year = {2020}}
+ publisher = {Springer}}
 </bib-data>
 
 </bibblock>
@@ -954,6 +941,7 @@
                 <bib-date role="publication">2020</bib-date>
                 <bib-title>Towards a heterogeneous query language for mathematical knowledge</bib-title>
                 <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-search.pdf">Link</bib-url>
+                <bib-part role="pages">39–54</bib-part>
                 <bib-data role="pubs">kbercic,mkohlhase,frabe</bib-data>
                 <bib-related role="host" type="proceedings">
                   <bib-title>Intelligent Computer Mathematics (CICM) 2020</bib-title>
@@ -967,6 +955,7 @@
      title = {Towards a Heterogeneous Query Language for Mathematical Knowledge},
        url = {https://kwarc.info/kohlhase/papers/cicm20-search.pdf},
   crossref = {CICM20},
+     pages = {39–54},
       pubs = {kbercic,mkohlhase,frabe},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
  publisher = {Springer}}
@@ -37251,24 +37240,16 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
                 </bib-name>
                 <bib-title>Intelligent computer mathematics</bib-title>
                 <bib-publisher>Springer</bib-publisher>
-                <bib-data role="soondoi">10.1007/978-3-030-23250-4</bib-data>
                 <bib-part role="series">LNAI</bib-part>
-                <bib-part role="volume">12236</bib-part>
-                <bib-date role="publication">2020</bib-date>
-                <bib-identifier id="978-3-030-53518-6" scheme="isbn">ISBN 978-3-030-53518-6</bib-identifier>
-                <bib-extract role="keywords">conference</bib-extract>
+                <bib-data role="20">volume</bib-data>
                 <bib-data role="self" type="BibTeX">@proceedings{CICM20,
      label = {CICM},
     editor = {Benzm{\"u}ller, Christoph and Miller, Bruce},
      title = {Intelligent Computer Mathematics},
  booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
  publisher = {Springer},
-   soondoi = {10.1007/978-3-030-23250-4},
     series = {LNAI},
-    volume = {12236},
-      year = {2020},
-      isbn = {978-3-030-53518-6},
-  keywords = {conference}}
+        20 = {volume}}
 </bib-data>
               </bibentry>
               <bibentry key="ICMS20" type="proceedings" xml:id="biba.bib1198">
@@ -37296,9 +37277,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
                 <bib-part role="series">Lecture Notes in Computer Science</bib-part>
                 <bib-part role="volume">12097</bib-part>
                 <bib-publisher>Springer</bib-publisher>
-                <bib-data role="soonisbn">978-3-319-96417-1</bib-data>
+                <bib-identifier id="978-3-030-52199-8" scheme="isbn">ISBN 978-3-030-52199-8</bib-identifier>
                 <bib-date role="publication">2020</bib-date>
-                <bib-note role="annotation">accepted</bib-note>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="self" type="BibTeX">@proceedings{ICMS20,
  booktitle = {Mathematical Software – ICMS 2020. 7th international conference},
@@ -37307,9 +37287,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
     series = {Lecture Notes in Computer Science},
     volume = {12097},
  publisher = {Springer},
-  soonisbn = {978-3-319-96417-1},
+      isbn = {978-3-030-52199-8},
       year = {2020},
-      note = {accepted},
   keywords = {conference}}
 </bib-data>
               </bibentry>
