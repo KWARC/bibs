@@ -475,6 +475,7 @@
         <bib-data role="pubs">mscthesis,frameit</bib-data>
         <bib-type>Bachelor’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2013/rachev_daniel.pdf">Link</bib-url>
+        <bib-identifier href="http://dx.doi.org/978-3-030-53518-6%5F11" id="978-3-030-53518-6_11" scheme="doi">Document</bib-identifier>
         <bib-data role="pubs">mscthesis,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Rachev:msc13,
     author = {Damiel Rachev},
@@ -484,6 +485,7 @@
       pubs = {bscthesis},
       type = {Bachelor's Thesis},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2013/rachev_daniel.pdf},
+       doi = {978-3-030-53518-6_11},
       pubs = {mscthesis,frameit}}
 </bib-data>
       </bibentry>
@@ -754,866 +756,7 @@
           <givenname>Marc</givenname>
         </bib-name>
         <bib-related bibrefs="CICM20" role="host"/>
-        <bib-related role="host" type="proceedings">
-          <bib-name role="editor">
-            <surname>Benzmüller</surname>
-            <givenname>Christoph</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Miller</surname>
-            <givenname>Bruce</givenname>
-          </bib-name>
-          <bib-title>Intelligent Computer Mathematics</bib-title>
-          <bib-part role="series">Lecture Notes in Computer Science</bib-part>
-          <bib-part role="volume">12236</bib-part>
-          <bib-publisher>Springer International Publishing</bib-publisher>
-          <bib-title>Proceedings of the Fourteenth Workshop on
-Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-title>
-          <bib-name role="editor">
-            <surname>Miller</surname>
-            <givenname>Dale</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Scagnetto</surname>
-            <givenname>Ivan</givenname>
-          </bib-name>
-          <bib-part role="volume">307</bib-part>
-          <bib-publisher>Electronic Proceedings in Theoretical Computer Science (EPTCS)</bib-publisher>
-          <bib-title>LFMTP 2019</bib-title>
-          <bib-publisher>Electronic Proceedings in Theoretical Computer Science (EPTCS)</bib-publisher>
-          <bib-title>Mathematical Software – ICMS 2018</bib-title>
-          <bib-publisher>Springer International Publishing</bib-publisher>
-          <bib-title>Logic in the Wild: 6th workshop in the ’Logic, Reasoning &amp; Rationality’ series</bib-title>
-          <bib-title>5th LSE Graduate Conference in Philosophy of Probability</bib-title>
-          <bib-title>Fifth Workshop on Proof eXchange for Theorem Proving - PxTP 2017</bib-title>
-          <bib-title>Workshop Human-Computer Algebra Interaction, Kassel, Germany</bib-title>
-          <bib-title>20<sup>th</sup> Automated Reasoning Workshop (ARW)</bib-title>
-          <bib-name role="editor">
-            <surname>Bolotov</surname>
-            <givenname>Alexander</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Colton</surname>
-            <givenname>Simon</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Crocker</surname>
-            <givenname>David</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Dennis</surname>
-            <givenname>Louise</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Dixon</surname>
-            <givenname>Clare</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Fleuriot</surname>
-            <givenname>Jacques</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Hustadt</surname>
-            <givenname>Ullrich</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Jamnik</surname>
-            <givenname>Mateja</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Komendantskaya</surname>
-            <givenname>Katya</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Miller</surname>
-            <givenname>Alice</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schmidt</surname>
-            <givenname>Renate</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Sorge</surname>
-            <givenname>Volker</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Heras</surname>
-            <givenname>Jónathan</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Horbach</surname>
-            <givenname>Matthias</givenname>
-          </bib-name>
-          <bib-title>INFORMATIK 2013: Informatik angepasst an Mensch, Organisation und Umwelt</bib-title>
-          <bib-part role="series">Lecture Notes in Informatics</bib-part>
-          <bib-part role="number">P-220</bib-part>
-          <bib-publisher>Köllen</bib-publisher>
-          <bib-name role="editor">
-            <surname>Benzmüller</surname>
-            <givenname>Christoph</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Otten</surname>
-            <givenname>Jens</givenname>
-          </bib-name>
-          <bib-title>Automated Reasoning in Quantified Non-Classical Logics (ARQNL)</bib-title>
-          <bib-publisher>EasyChair</bib-publisher>
-          <bib-part role="series">EasyChair Proceedings in Computing</bib-part>
-          <bib-part role="number">33</bib-part>
-          <bib-name role="editor">
-            <surname>Virgili</surname>
-            <givenname>Aurélie</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>others</surname>
-          </bib-name>
-          <bib-title>Mapping of classifications and other light-weight ontologies</bib-title>
-          <bib-title>What will the Semantic Web look like 10 Years from now? Workshop at ISWC</bib-title>
-          <bib-name role="editor">
-            <surname>van Harmelen</surname>
-            <givenname>Frank</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Hendler</surname>
-            <givenname>James A.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Hitzler</surname>
-            <givenname>Pascal</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Janowicz</surname>
-            <givenname>Krzysztof</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Vrandečić</surname>
-            <givenname>Denny</givenname>
-          </bib-name>
-          <bib-title>Symposium on Mathematical Practice and Cognition II</bib-title>
-          <bib-name role="editor">
-            <surname>Pease</surname>
-            <givenname>Alison</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Larvor</surname>
-            <givenname>Brendan</givenname>
-          </bib-name>
-          <bib-publisher>Society for the Study of Artificial Intelligence and Simulation of Behaviour (AISB)</bib-publisher>
-          <bib-title>Modular Ontologies</bib-title>
-          <bib-name role="editor">
-            <surname>Schneider</surname>
-            <givenname>Thomas</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Walther</surname>
-            <givenname>Dirk</givenname>
-          </bib-name>
-          <bib-part role="series">CEUR Workshop Proceedings</bib-part>
-          <bib-part role="number">875</bib-part>
-          <bib-title>Modular Ontologies</bib-title>
-          <bib-name role="editor">
-            <surname>Del Vescovo</surname>
-            <givenname>Chiara</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Hahmann</surname>
-            <givenname>Torsten</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Pearce</surname>
-            <givenname>David</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Walther</surname>
-            <givenname>Dirk</givenname>
-          </bib-name>
-          <bib-part role="series">CEUR Workshop Proceedings</bib-part>
-          <bib-part role="number">1081</bib-part>
-          <bib-title>Formal Ontology in Information Systems</bib-title>
-          <bib-name role="editor">
-            <surname>Donnelly</surname>
-            <givenname>Maureen</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Guizzardi</surname>
-            <givenname>Giancarlo</givenname>
-          </bib-name>
-          <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
-          <bib-part role="number">239</bib-part>
-          <bib-publisher>IOS Press</bib-publisher>
-          <bib-title>Formal Ontology in Information Systems</bib-title>
-          <bib-name role="editor">
-            <surname>Donnelly</surname>
-            <givenname>Maureen</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Guizzardi</surname>
-            <givenname>Giancarlo</givenname>
-          </bib-name>
-          <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
-          <bib-part role="number">239</bib-part>
-          <bib-publisher>IOS Press</bib-publisher>
-          <bib-title>Formal Ontology in Information Systems</bib-title>
-          <bib-name role="editor">
-            <surname>Donnelly</surname>
-            <givenname>Maureen</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Guizzardi</surname>
-            <givenname>Giancarlo</givenname>
-          </bib-name>
-          <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
-          <bib-part role="number">239</bib-part>
-          <bib-publisher>IOS Press</bib-publisher>
-          <bib-title>International Joint Conference on Artificial Intelligence</bib-title>
-          <bib-name role="editor">
-            <surname>Rossi</surname>
-            <givenname>Francesca</givenname>
-          </bib-name>
-          <bib-publisher>AAAI Press</bib-publisher>
-          <bib-title>Accessibility Reaching Everywhere</bib-title>
-          <bib-title>First International Conference on Terminology, Language and Content Resources (LaRC)</bib-title>
-          <bib-name role="editor">
-            <surname>Choi</surname>
-            <givenname>Key-Sun</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>others</surname>
-          </bib-name>
-          <bib-publisher>KATS</bib-publisher>
-          <bib-title>9<sup>th</sup> IT&amp;T Conference, Dublin Institute of Technology</bib-title>
-          <bib-title>Linked Data in the Future Internet</bib-title>
-          <bib-name role="editor">
-            <surname>Auer</surname>
-            <givenname>Sören</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Decker</surname>
-            <givenname>Stefan</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Hauswirth</surname>
-            <givenname>Manfred</givenname>
-          </bib-name>
-          <bib-part role="series">CEUR Workshop Proceedings</bib-part>
-          <bib-part role="number">700</bib-part>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>The Third International Tbilisi Symposium on Language, Logic and Computation</bib-title>
-          <bib-title>Proceedings of the Data Engineering Workshop DEWS</bib-title>
-          <bib-title>Poster Proceedings of the 6<sup>th</sup> European Semantic Web Conference (ESWC)</bib-title>
-          <bib-title>Contemporary Issues in Mathematical Publishing, JMM San Diego Special Session</bib-title>
-          <bib-name role="editor">
-            <surname>Kaiser</surname>
-            <givenname>Klaus</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Krantz</surname>
-            <givenname>Steven</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Wegner</surname>
-            <givenname>Bernd</givenname>
-          </bib-name>
-          <bib-publisher>EMIS</bib-publisher>
-          <bib-title>Applications of Semantic Technologies (AST) Workshop at Informatik 2009</bib-title>
-          <bib-title>The Joint Conference of ASCM 2009 and MACIS 2009: Asian Symposium on Computer Mathematics and Mathematical Aspects of Computer and Information Sciences</bib-title>
-          <bib-name role="editor">
-            <surname>Suzuki</surname>
-            <givenname>Masakazu</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Hong</surname>
-            <givenname>Hoon</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Anai</surname>
-            <givenname>Hirokazu</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Yap</surname>
-            <givenname>Chee</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Sato</surname>
-            <givenname>Yousuke</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Yoshida</surname>
-            <givenname>Hiroshi</givenname>
-          </bib-name>
-          <bib-part role="series">COE Lecture Notes</bib-part>
-          <bib-part role="volume">22</bib-part>
-          <bib-publisher>Faculty of Mathematics, Kyushu University</bib-publisher>
-          <bib-name role="editor">
-            <surname>Sutcliffe</surname>
-            <givenname>G.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Rudnicki</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schmidt</surname>
-            <givenname>R.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Konev</surname>
-            <givenname>B.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schulz</surname>
-            <givenname>S.</givenname>
-          </bib-name>
-          <bib-title>Proceedings of the LPAR Workshops: Knowledge Exchange:
-Automated Provers and Proof Assistants, and The 7<sup>th</sup>
-International Workshop on the Implementation of Logics</bib-title>
-          <bib-part role="series">CEUR Workshop Proceedings</bib-part>
-          <bib-part role="number">418</bib-part>
-          <bib-title>Proceedings of the LPAR Workshops on Knowledge Exchange: Automated Provers and Proof Assistants, and The 7th International Workshop on the Implementation of Logics</bib-title>
-          <bib-name role="editor">
-            <surname>Sutcliffe</surname>
-            <givenname>G.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Rudnicki</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schmidt</surname>
-            <givenname>R.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Konev</surname>
-            <givenname>B.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schulz</surname>
-            <givenname>S.</givenname>
-          </bib-name>
-          <bib-part role="series">CEUR Workshop Proceedings</bib-part>
-          <bib-publisher>CEUR-WS.org</bib-publisher>
-          <bib-part role="volume">418</bib-part>
-          <bib-publisher>Springer-Verlag Berlin Heidelberg</bib-publisher>
-          <bib-name role="editor">
-            <surname>Yang</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>others</surname>
-          </bib-name>
-          <bib-title>Proceedings of the United International Systems Conference (UNISCON) LNBIP 20</bib-title>
-          <bib-publisher>University of Western Sydney</bib-publisher>
-          <bib-title>UNISCON 2009 Supplementary Proceedings: Doctoral Consortium Papers</bib-title>
-          <bib-title>CADE-14 Workshop</bib-title>
-          <bib-title>In proceedings of the Workshop in Mathematical and Scientific eContent</bib-title>
-          <bib-name role="editor">
-            <surname>Lytras</surname>
-            <givenname>M. D.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>others</surname>
-          </bib-name>
-          <bib-title>Proceedings of the 1<sup>st</sup> World Summit of the Knowledge Society: Emerging
-Technologies and Information Systems for the Knowledge Society</bib-title>
-          <bib-part role="series">LNAI</bib-part>
-          <bib-part role="number">5288</bib-part>
-          <bib-publisher>Springer-Verlag Berlin Heidelberg</bib-publisher>
-          <bib-title>3<sup>rd</sup> JEM Workshop (Joining Educational Mathematics)</bib-title>
-          <bib-title>Wissens- und Erfahrungsmanagement LWA (Lernen, Wissensentdeckung
-und Adaptivität) conference proceedings</bib-title>
-          <bib-title>Workshop on User Interfaces for Theorem Provers</bib-title>
-          <bib-name role="editor">
-            <surname>Benzmüller</surname>
-            <givenname>Cristoph</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Woltzenlogel Paleo</surname>
-            <givenname>Bruno</givenname>
-          </bib-name>
-          <bib-publisher>Elsevier</bib-publisher>
-          <bib-title>Workshop on Algebraic Development Techniques</bib-title>
-          <bib-title>Workshop on Algebraic Development Techniques</bib-title>
-          <bib-title>Workshop on Algebraic Development Techniques</bib-title>
-          <bib-title>Typed Lambda Calculi and Applications (TLCA)</bib-title>
-          <bib-name role="editor">
-            <surname>Curien</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-part role="series">LNCS</bib-part>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-part role="volume">5608</bib-part>
-          <bib-title>CALCULEMUS (Emerging Trends)</bib-title>
-          <bib-name role="editor">
-            <surname>Delahaye</surname>
-            <givenname>D.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Rioboo</surname>
-            <givenname>R.</givenname>
-          </bib-name>
-          <bib-part role="series">Technical Reports of CEDRIC (CNAM/ENSIIE)</bib-part>
-          <bib-publisher>Centre d’Étude et de Recherche en Informatique du CNAM (Cédric)</bib-publisher>
-          <bib-title>Workshop on Algebraic Development Techniques</bib-title>
-          <bib-title>Logical Frameworks and Meta-languages: Theory and Practice</bib-title>
-          <bib-name role="editor">
-            <surname>Crary</surname>
-            <givenname>K.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Miculan</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-part role="series">Electronic Proceedings in Theoretical Computer Science</bib-part>
-          <bib-publisher>Electronic Proceedings in Theoretical Computer Science</bib-publisher>
-          <bib-part role="volume">34</bib-part>
-          <bib-title>Proceedings of the Workshop on Logical Frameworks: Meta-Theory and Practice (LFMTP)</bib-title>
-          <bib-name role="editor">
-            <surname>Cheney</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Felty</surname>
-            <givenname>A.</givenname>
-          </bib-name>
-          <bib-part role="series">ACM International Conference Proceeding Series</bib-part>
-          <bib-publisher>ACM Press</bib-publisher>
-          <bib-part role="volume">LFMTP’09</bib-part>
-          <bib-title>Ausgezeichnete Informatikdissertationen 2008</bib-title>
-          <bib-name role="editor">
-            <surname>Wagner et al.</surname>
-            <givenname>D.</givenname>
-          </bib-name>
-          <bib-part role="series">Lecture Notes in Informatics</bib-part>
-          <bib-publisher>Gesellschaft für Informatik e.V. (GI)</bib-publisher>
-          <bib-part role="volume">D-9</bib-part>
-          <bib-title>Fourth Workshop on Logical and Semantic Frameworks, with Applications</bib-title>
-          <bib-name role="editor">
-            <surname>Ayala-Rincón</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Kamareddine</surname>
-            <givenname>F.</givenname>
-          </bib-name>
-          <bib-part role="series">Electronic Notes in Theoretical Computer Science</bib-part>
-          <bib-publisher>Elsevier</bib-publisher>
-          <bib-part role="volume">256</bib-part>
-          <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
-          <bib-name role="editor">
-            <surname>Corradini</surname>
-            <givenname>A.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Montanari</surname>
-            <givenname>U.</givenname>
-          </bib-name>
-          <bib-part role="series">LNCS</bib-part>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-part role="volume">5486</bib-part>
-          <bib-title>4<sup>th</sup> International Joint Conference on Automated Reasoning</bib-title>
-          <bib-name role="editor">
-            <surname>Armando</surname>
-            <givenname>A.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Baumgartner</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Dowek</surname>
-            <givenname>G.</givenname>
-          </bib-name>
-          <bib-part role="series">LNCS</bib-part>
-          <bib-part role="number">5195</bib-part>
-          <bib-title>Proceedings of the OpenMath/JEM workshop</bib-title>
-          <bib-title>Proceedings of the FLoC 06 Workshop on Empirically Successful Computerized Reasoning, 3<sup>rd</sup> International Joint Conference on Automated Reasoning</bib-title>
-          <bib-name role="editor">
-            <surname>Sutcliffe</surname>
-            <givenname>G.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schmidt</surname>
-            <givenname>R.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schulz</surname>
-            <givenname>S.</givenname>
-          </bib-name>
-          <bib-part role="series">CEUR Workshop Proceedings</bib-part>
-          <bib-part role="number">192</bib-part>
-          <bib-title>Short Paper Proceedings of the International Conference on Logic for Programming, Artificial Intelligence, and Reasoning</bib-title>
-          <bib-name role="editor">
-            <surname>Sutcliffe</surname>
-            <givenname>G.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Voronkov</surname>
-            <givenname>A.</givenname>
-          </bib-name>
-          <bib-title>CADE-15 Workshop “Problem-solving Methodologies with Automated Deduction”</bib-title>
-          <bib-name role="editor">
-            <surname>Baumgartner</surname>
-            <givenname>Peter</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Furbach</surname>
-            <givenname>Ulrich</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Kohlhase</surname>
-            <givenname>Michael</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>McCune</surname>
-            <givenname>William</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Reif</surname>
-            <givenname>Wolfgang</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Stickel</surname>
-            <givenname>Mark</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Uribe</surname>
-            <givenname>Tomàs</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Hinneburg</surname>
-            <givenname>Alexander</givenname>
-          </bib-name>
-          <bib-title>LWA Conference Proceedings</bib-title>
-          <bib-title>Proceedings des Deduktionstreffen</bib-title>
-          <bib-part role="series">AIDA-Report</bib-part>
-          <bib-organization>Darmstadt University</bib-organization>
-          <bib-title>Workshop on “Mechanization of Partial
-Functions” at CADE-13</bib-title>
-          <bib-title>Proceedings of the 11<sup>th</sup> Amsterdam Colloquium</bib-title>
-          <bib-name role="editor">
-            <surname>Dekker</surname>
-            <givenname>Paul</givenname>
-          </bib-name>
-          <bib-publisher>ILLC</bib-publisher>
-          <bib-title>Proceedings der 6. Fachtagung der Sektion Computerlinguistik der
-DGfS</bib-title>
-          <bib-title>Proceedings of the 16<sup>th</sup> International Conference on Computational
-Linguistics</bib-title>
-          <bib-title>Proceedings of the 34<sup>th</sup> Annual Meeting of the Association for
-Computational
-Linguistics</bib-title>
-          <bib-publisher>ACL</bib-publisher>
-          <bib-title>Proceedings of KONVENS’96</bib-title>
-          <bib-publisher>De Gruyter</bib-publisher>
-          <bib-title>Society for Information Technology and Teacher Education, 17<sup>th</sup>
-International Conference SITE 2006</bib-title>
-          <bib-name role="editor">
-            <surname>Crawford</surname>
-            <givenname>Caroline M.</givenname>
-          </bib-name>
-          <bib-organization>SITE</bib-organization>
-          <bib-publisher>AACE</bib-publisher>
-          <bib-title>ICDML2006</bib-title>
-          <bib-name role="editor">
-            <surname>Thipakorn</surname>
-            <givenname>Bundit</givenname>
-          </bib-name>
-          <bib-part role="volume">1</bib-part>
-          <bib-publisher>Tana Press</bib-publisher>
-          <bib-title>Proceedings der Pre-Conference Workshops der 4.e-Learning Fachtagung
-Informatik DeLFI 2006</bib-title>
-          <bib-title>2<sup>nd</sup> Workshop on Learner Oriented Knowledge Management &amp; KM Oriented
-e-Learning</bib-title>
-          <bib-title>Informal Proceedings fo the Annual Meeting of “GI-Fachgruppe
-‘Deduktionssysteme’ ” in Kaiserslautern, 1993</bib-title>
-          <bib-name role="editor">
-            <surname>Avenhaus</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Denzinger</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-part role="number">SR-93-11 (SFB)</bib-part>
-          <bib-part role="series">SEKI-Report</bib-part>
-          <bib-title>Proceedings of the Tableau Workshop</bib-title>
-          <bib-title>Proceedings of the 5<sup>th</sup> Meeting on Mathematics of Language – MOL5</bib-title>
-          <bib-title>Proceedings of the 10<sup>th</sup> Amsterdam Colloquium</bib-title>
-          <bib-name role="editor">
-            <surname>Dekker</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Stokhof</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-organization>ILLC</bib-organization>
-          <bib-title>Proceedings of the International Logic Programming Symposion
-ILPS’93</bib-title>
-          <bib-name role="editor">
-            <surname>Miller</surname>
-            <givenname>Dale</givenname>
-          </bib-name>
-          <bib-publisher>MIT Press</bib-publisher>
-          <bib-title>Proceedings of the 38<sup>th</sup> Annual Meeting of the Association for Computational
-Linguistics</bib-title>
-          <bib-title>Proceedings of the International Workshop “User Interfaces for Theorem
-Provers 1998” (UITP’98)</bib-title>
-          <bib-title>Proceedings of ITS-2000 workshop on Adaptive and Intelligent Web-Based
-Education Systems</bib-title>
-          <bib-name role="editor">
-            <surname>Brusilovski</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Peylo</surname>
-            <givenname>Chrisoph</givenname>
-          </bib-name>
-          <bib-title>Interaktion im Plural</bib-title>
-          <bib-title>Proceedings of Society for Information Technology and Teacher Education International Conference 2007 (SITE’07)</bib-title>
-          <bib-name role="editor">
-            <surname>Carlsen</surname>
-            <givenname>Roger</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>McFerrin</surname>
-            <givenname>Karen</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Price</surname>
-            <givenname>Jerry</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Weber</surname>
-            <givenname>Roberta</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Willis</surname>
-            <givenname>Dee Anna</givenname>
-          </bib-name>
-          <bib-publisher>AACE</bib-publisher>
-          <bib-title>Current Developments in Technology-Assisted Education (mICTE06)</bib-title>
-          <bib-part role="volume">3</bib-part>
-          <bib-title>Workshop on Modules and Libraries for Proof Assistants</bib-title>
-          <bib-name role="editor">
-            <surname>Rabe</surname>
-            <givenname>Florian</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schürmann</surname>
-            <givenname>Carsten</givenname>
-          </bib-name>
-          <bib-part role="series">ACM International Conference Proceeding Series</bib-part>
-          <bib-part role="volume">429</bib-part>
-          <bib-title>Symposium on Applied Computing</bib-title>
-          <bib-publisher>ACM</bib-publisher>
-          <bib-title>International Symposium in Information Technology (ITSim)</bib-title>
-          <bib-publisher>IEEE</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Proc. 13th International Design Conference, DESIGN 2014</bib-title>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>European Conference on Data Analysis ECDA2015; Data Science: Foundations, Methods and Applications</bib-title>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics 2014</bib-title>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>FMM - Formal Mathematics for Mathematicians</bib-title>
-          <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
-          <bib-name role="editor">
-            <surname>James</surname>
-            <givenname>Phillip</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Roggenbach</surname>
-            <givenname>Markus</givenname>
-          </bib-name>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Workshop on Algebraic Development Techniques</bib-title>
-          <bib-name role="editor">
-            <surname>Roggenbach</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>James</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-title>Logical and Semantic Frameworks, with Applications</bib-title>
-          <bib-name role="editor">
-            <surname>Alves</surname>
-            <givenname>S.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Wassermann</surname>
-            <givenname>R.</givenname>
-          </bib-name>
-          <bib-title>Workshop on Practical Aspects of Automated Reasoning</bib-title>
-          <bib-name role="editor">
-            <surname>Fontaine</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Schulz</surname>
-            <givenname>S.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Urban</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-title>Dagstuhl Seminar on Universality of Proofs</bib-title>
-          <bib-name role="editor">
-            <surname>Dowek</surname>
-            <givenname>G.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Dubois</surname>
-            <givenname>C.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Pientka</surname>
-            <givenname>B.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Rabe</surname>
-            <givenname>Florian</givenname>
-          </bib-name>
-          <bib-publisher>Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik</bib-publisher>
-          <bib-title>Dagstuhl Seminar on Universality of Proofs</bib-title>
-          <bib-name role="editor">
-            <surname>Dowek</surname>
-            <givenname>G.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Dubois</surname>
-            <givenname>C.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Pientka</surname>
-            <givenname>B.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Rabe</surname>
-            <givenname>Florian</givenname>
-          </bib-name>
-          <bib-publisher>Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics</bib-title>
-          <bib-name role="editor">
-            <surname>Kerber</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Carette</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Kaliszyk</surname>
-            <givenname>C.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Rabe</surname>
-            <givenname>Florian</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Sorge</surname>
-            <givenname>V.</givenname>
-          </bib-name>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Intelligent Computer Mathematics</bib-title>
-          <bib-name role="editor">
-            <surname>Kerber</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Carette</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Kaliszyk</surname>
-            <givenname>C.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Rabe</surname>
-            <givenname>Florian</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Sorge</surname>
-            <givenname>V.</givenname>
-          </bib-name>
-          <bib-publisher>Springer</bib-publisher>
-          <bib-title>Workshops and Work in Progress at CICM 2014: OpenMath Workshop</bib-title>
-          <bib-name role="editor">
-            <surname>England</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Davenport</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Kohlhase</surname>
-            <givenname>A.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Kohlhase</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Libbrecht</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Neuper</surname>
-            <givenname>W.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Quaresma</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Sexton</surname>
-            <givenname>A.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Sojka</surname>
-            <givenname>P.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Urban</surname>
-            <givenname>J.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Watt</surname>
-            <givenname>S.</givenname>
-          </bib-name>
-          <bib-publisher>CEUR-WS.org</bib-publisher>
-          <bib-title>Workshop on User Interfaces for Theorem Provers</bib-title>
-          <bib-name role="editor">
-            <surname>Kaliszyk</surname>
-            <givenname>C.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Lüth</surname>
-            <givenname>C.</givenname>
-          </bib-name>
-          <bib-title>24th International Workshop on Algebraic Development Techniques 2018</bib-title>
-        </bib-related>
         <bib-part role="pages">173–189</bib-part>
-        <bib-date role="publication">2020</bib-date>
-        <bib-place>Cham, Switzerland</bib-place>
         <bib-extract role="abstract">Serious games are an attempt to leverage the inherent motivation in game-like scenarios for an educational application and to transpose the learning goals into real-world applications. Unfortunately, serious games are also very costly to develop and deploy. For very abstract domains like mathematics, already the representation of the knowledge involved becomes a problem.
 <bibliography xml:id="biba">
             <title/>
@@ -1624,7 +767,6 @@ Education Systems</bib-title>
                   <tag role="refnum">39</tag>
                 </tags>
                 <bibblock>We propose the FrameIT Method that uses OMDoc/MMT theory graphs to represent and track the underlying knowledge in serious games. In this paper we report on an implementation and experiment that tests the method. We obtain a simple serious game by representing a “word problem” in OMDoc/Mmt and connecting the Mmt API with a state-of-the-art game engine.
-<bib-identifier id="978-3-030-53518-6" scheme="isbn">ISBN 978-3-030-53518-6</bib-identifier>
 <bib-identifier href="http://dx.doi.org/10.1007/978-3-030-53518-6%5F11" id="10.1007/978-3-030-53518-6_11" scheme="doi">Document</bib-identifier>
 <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-frameit.pdf">Link</bib-url>
 <bib-data role="pubs">mkohlhase,nroux,rmarcus,dmueller,frameit,mmt</bib-data>
@@ -1632,18 +774,10 @@ Education Systems</bib-title>
      title = {{FrameIT: Detangling Knowledge Management from Game Design in Serious Games}},
     author = {Michael Kohlhase and Benjamin B{\"o}sl and Richard Marcus and Dennis M{\"u}ller and Denis Rochau and Navid Roux and John Schihada and Marc Stamminger},
   crossref = {CICM20},
-    editor = {Benzm{\"u}ller, Christoph and Miller, Bruce},
- booktitle = {Intelligent Computer Mathematics},
-    series = {Lecture Notes in Computer Science},
      pages = {173–189},
-    volume = {12236},
-      year = {2020},
- publisher = {Springer International Publishing},
-   address = {Cham, Switzerland},
   abstract = {Serious games are an attempt to leverage the inherent motivation in game-like scenarios for an educational application and to transpose the learning goals into real-world applications. Unfortunately, serious games are also very costly to develop and deploy. For very abstract domains like mathematics, already the representation of the knowledge involved becomes a problem.
 
   We propose the FrameIT Method that uses OMDoc/MMT theory graphs to represent and track the underlying knowledge in serious games. In this paper we report on an implementation and experiment that tests the method. We obtain a simple serious game by representing a ``word problem'' in OMDoc/Mmt and connecting the Mmt API with a state-of-the-art game engine.},
-      isbn = {978-3-030-53518-6},
        doi = {10.1007/978-3-030-53518-6_11},
        url = {https://kwarc.info/kohlhase/papers/cicm20-frameit.pdf},
       pubs = {mkohlhase,nroux,rmarcus,dmueller,frameit,mmt}}
@@ -2358,7 +1492,27 @@ Education Systems</bib-title>
                   <surname>Schaefer</surname>
                   <givenname>Jan Frederik</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the Fourteenth Workshop on
+Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Miller</surname>
+                    <givenname>Dale</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Scagnetto</surname>
+                    <givenname>Ivan</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-date role="publication">2019</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">307</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Electronic Proceedings in Theoretical Computer Science (EPTCS)</bib-publisher>
+                </bib-related>
                 <bib-part role="pages">24–39</bib-part>
                 <bib-identifier href="http://dx.doi.org/10.4204/EPTCS.307.4" id="10.4204/EPTCS.307.4" scheme="doi">Document</bib-identifier>
                 <bib-data role="pubs">mkohlhase,jfschaefer,comma</bib-data>
@@ -2410,6 +1564,12 @@ Education Systems</bib-title>
                   <surname>Rabe</surname>
                   <givenname>Florian</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>LFMTP 2019</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Electronic Proceedings in Theoretical Computer Science (EPTCS)</bib-publisher>
+                </bib-related>
                 <bib-url href="https://kwarc.info/people/frabe/Research/MR_prototyping_19.pdf">Link</bib-url>
                 <bib-data role="pubs">dmueller,frabe,oaf,odk</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{MueRab:rpfsm19,
@@ -2914,7 +2074,13 @@ Education Systems</bib-title>
                 <bib-url href="https://link.springer.com/chapter/10.1007/978-3-319-96418-8_5">Link</bib-url>
                 <bib-part role="pages">36–44</bib-part>
                 <bib-date role="publication">2018</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Mathematical Software – ICMS 2018</bib-title>
+                </bib-related>
                 <bib-identifier id="978-3-319-96418-8" scheme="isbn">ISBN 978-3-319-96418-8</bib-identifier>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer International Publishing</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">kbercic</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{BerVid:DZ:18,
      title = {DiscreteZOO: Towards a Fingerprint Database of Discrete Objects},
@@ -3073,6 +2239,9 @@ Education Systems</bib-title>
                   <surname>Rapp</surname>
                   <givenname>Max</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Logic in the Wild: 6th workshop in the ’Logic, Reasoning &amp; Rationality’ series</bib-title>
+                </bib-related>
                 <bib-date role="publication">2017</bib-date>
                 <bib-url href="https://www.clps.ugent.be/sites/default/files/events/LogicInTheWild-Abstracts.pdf">Link</bib-url>
                 <bib-data role="urldate">2018-10-13</bib-data>
@@ -3103,6 +2272,9 @@ Education Systems</bib-title>
                   <surname>Rapp</surname>
                   <givenname>Max</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>5th LSE Graduate Conference in Philosophy of Probability</bib-title>
+                </bib-related>
                 <bib-date role="publication">2016</bib-date>
                 <bib-url href="http://www.lse.ac.uk/philosophy/blog/2016/12/14/5th-lse-graduate-conference-in-philosophy-of-probability/">Link</bib-url>
                 <bib-data role="urldate">2018-10-16</bib-data>
@@ -3887,6 +3059,9 @@ Education Systems</bib-title>
                 </bib-name>
                 <bib-date role="publication">2017</bib-date>
                 <bib-url href="http://jazzpirate.com/Math/AlignmentTranslation.pdf">Link</bib-url>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Fifth Workshop on Proof eXchange for Theorem Proving - PxTP 2017</bib-title>
+                </bib-related>
                 <bib-data role="pubs">dmueller,frabe,crothgang,yliu,oaf,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{MueRoYuRa:abtafs17,
      title = {Alignment-based Translations Across Formal Systems Using
@@ -4212,6 +3387,9 @@ Interface Theories},
                   <givenname>Andrea</givenname>
                 </bib-name>
                 <bib-title>Math web search interfaces and the generation gap of mathematicians</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop Human-Computer Algebra Interaction, Kassel, Germany</bib-title>
+                </bib-related>
                 <bib-date role="publication">2016</bib-date>
                 <bib-url href="http://minimair.org/hcai2016/math_web_search.pdf">Link</bib-url>
                 <bib-data role="pubs">akohlhase,mws</bib-data>
@@ -5635,6 +4813,9 @@ Language Data Processing</bib-title>
               </bibentry>
               <bibentry key="KerberEtAl:AutoReasEcon13" type="inproceedings" xml:id="biba.bib223">
                 <bib-title>Automated reasoning for economics</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>20<sup>th</sup> Automated Reasoning Workshop (ARW)</bib-title>
+                </bib-related>
                 <bib-name role="author">
                   <surname>Kerber</surname>
                   <givenname>Manfred</givenname>
@@ -5647,6 +4828,60 @@ Language Data Processing</bib-title>
                   <surname>Rowat</surname>
                   <givenname>Colin</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Bolotov</surname>
+                    <givenname>Alexander</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Colton</surname>
+                    <givenname>Simon</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Crocker</surname>
+                    <givenname>David</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Dennis</surname>
+                    <givenname>Louise</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Dixon</surname>
+                    <givenname>Clare</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Fleuriot</surname>
+                    <givenname>Jacques</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Hustadt</surname>
+                    <givenname>Ullrich</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Jamnik</surname>
+                    <givenname>Mateja</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Komendantskaya</surname>
+                    <givenname>Katya</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Miller</surname>
+                    <givenname>Alice</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schmidt</surname>
+                    <givenname>Renate</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Sorge</surname>
+                    <givenname>Volker</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Heras</surname>
+                    <givenname>Jónathan</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-note role="annotation">Invited paper</bib-note>
                 <bib-date role="publication">2013</bib-date>
                 <bib-data role="venue">Dundee, UK</bib-data>
@@ -5917,12 +5152,30 @@ Language Data Processing</bib-title>
                   <surname>Rowat</surname>
                   <givenname>Colin</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Horbach</surname>
+                    <givenname>Matthias</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>INFORMATIK 2013: Informatik angepasst an Mensch, Organisation und Umwelt</bib-title>
+                </bib-related>
                 <bib-data role="eventtitle">43\textsuperscript{rd} annual meeting of the German Informatics Society (Gesellschaft f{\"u}r Informatik e.V. (GI))</bib-data>
                 <bib-date role="publication">2013</bib-date>
                 <bib-data role="eventdate">2013-09-16/2013-09-20</bib-data>
                 <bib-data role="venue">Koblenz, Germany</bib-data>
                 <bib-part role="pages">153–156</bib-part>
                 <bib-identifier id="978-3-88579-614-5" scheme="isbn">ISBN 978-3-88579-614-5</bib-identifier>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">Lecture Notes in Informatics</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">P-220</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Köllen</bib-publisher>
+                </bib-related>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">clange,formare</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{LKR:MechReasEcon13:Abstract,
@@ -6022,7 +5275,29 @@ Language Data Processing</bib-title>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-date role="publication">2014</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Benzmüller</surname>
+                    <givenname>Christoph</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Otten</surname>
+                    <givenname>Jens</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Automated Reasoning in Quantified Non-Classical Logics (ARQNL)</bib-title>
+                </bib-related>
                 <bib-data role="venue">Vienna, Austria</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>EasyChair</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">EasyChair Proceedings in Computing</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">33</bib-part>
+                </bib-related>
                 <bib-part role="pages">42–58</bib-part>
                 <bib-data role="eventdate">2014-07-23</bib-data>
                 <bib-url href="http://easychair.org/publications/paper/Proof_Support_for_Common_Logic">Link</bib-url>
@@ -6159,6 +5434,18 @@ Language Data Processing</bib-title>
                 </bib-name>
                 <bib-title>cMap’s product classification mapping from an ontology interoperability perspective</bib-title>
                 <bib-date role="publication">2012</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Virgili</surname>
+                    <givenname>Aurélie</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>others</surname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Mapping of classifications and other light-weight ontologies</bib-title>
+                </bib-related>
                 <bib-data role="eventtitle">Workshop of the cMap project (Classification Mapping for open and standardized product classification usage in eBusiness)</bib-data>
                 <bib-data role="eventdate">2012-06-22</bib-data>
                 <bib-data role="venue">Madrid, Spain</bib-data>
@@ -6312,6 +5599,31 @@ Language Data Processing</bib-title>
                   <surname>Grüninger</surname>
                   <givenname>Michael</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>What will the Semantic Web look like 10 Years from now? Workshop at ISWC</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>van Harmelen</surname>
+                    <givenname>Frank</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Hendler</surname>
+                    <givenname>James A.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Hitzler</surname>
+                    <givenname>Pascal</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Janowicz</surname>
+                    <givenname>Krzysztof</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Vrandečić</surname>
+                    <givenname>Denny</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-date role="publication">2012</bib-date>
                 <bib-url href="http://stko.geog.ucsb.edu/sw2022/">Link</bib-url>
                 <bib-extract role="keywords">workshop</bib-extract>
@@ -6428,12 +5740,28 @@ Language Data Processing</bib-title>
                   <surname>Rowat</surname>
                   <givenname>Colin</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Symposium on Mathematical Practice and Cognition II</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Pease</surname>
+                    <givenname>Alison</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Larvor</surname>
+                    <givenname>Brendan</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-part role="pages">15–18</bib-part>
                 <bib-date role="publication">2012</bib-date>
                 <bib-data role="eventdate">2012-07-02/2012-07-03</bib-data>
                 <bib-data role="venue">Birmingham, UK</bib-data>
                 <bib-url href="http://homepages.inf.ed.ac.uk/apease/aisb12/1.pdf">Link</bib-url>
                 <bib-identifier id="978-1-908187-10-9" scheme="isbn">ISBN 978-1-908187-10-9</bib-identifier>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Society for the Study of Artificial Intelligence and Simulation of Behaviour (AISB)</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">clange,formare</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{KLR:FormReprProofCoopGames12,
      title = {Formal representation and proof for cooperative games},
@@ -6695,10 +6023,29 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <surname>Kutz</surname>
                   <givenname>Oliver</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Modular Ontologies</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Schneider</surname>
+                    <givenname>Thomas</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Walther</surname>
+                    <givenname>Dirk</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-data role="eventtitle">6\textsuperscript{th} International Workshop (WoMO)</bib-data>
                 <bib-date role="publication">2012</bib-date>
                 <bib-data role="eventdate">2012-07-24</bib-data>
                 <bib-data role="venue">Graz, Austria</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">CEUR Workshop Proceedings</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">875</bib-part>
+                </bib-related>
                 <bib-place>Aachen</bib-place>
                 <bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier>
                 <bib-url href="http://CEUR-WS.org/Vol-875">Link</bib-url>
@@ -6741,10 +6088,37 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <givenname>Christoph</givenname>
                 </bib-name>
                 <bib-note role="annotation">Invited paper</bib-note>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Modular Ontologies</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Del Vescovo</surname>
+                    <givenname>Chiara</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Hahmann</surname>
+                    <givenname>Torsten</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Pearce</surname>
+                    <givenname>David</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Walther</surname>
+                    <givenname>Dirk</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-data role="eventtitle">7\textsuperscript{th} International Workshop (WoMO)</bib-data>
                 <bib-date role="publication">2013</bib-date>
                 <bib-data role="eventdate">2013-09-15</bib-data>
                 <bib-data role="venue">Corunna, Spain</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">CEUR Workshop Proceedings</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">1081</bib-part>
+                </bib-related>
                 <bib-place>Aachen</bib-place>
                 <bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier>
                 <bib-url href="http://CEUR-WS.org/Vol-1081">Link</bib-url>
@@ -8030,12 +7404,34 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <givenname>Christoph</givenname>
                 </bib-name>
                 <bib-title>Three semantics for the core of the Distributed Ontology Language</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Formal Ontology in Information Systems</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Donnelly</surname>
+                    <givenname>Maureen</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Guizzardi</surname>
+                    <givenname>Giancarlo</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-part role="pages">337–352</bib-part>
                 <bib-data role="eventtitle">7\textsuperscript{th} International Conference (FOIS 2012)</bib-data>
                 <bib-data role="eventdate">2012-07-24/2012-07-27</bib-data>
                 <bib-data role="venue">Graz, Austria</bib-data>
                 <bib-date role="publication">2012</bib-date>
                 <bib-data role="pubs">clange,ontoiop</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">239</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>IOS Press</bib-publisher>
+                </bib-related>
                 <bib-related role="event" type="conference">
                   <bib-place>Amsterdam</bib-place>
                 </bib-related>
@@ -8084,11 +7480,33 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <givenname>Christoph</givenname>
                 </bib-name>
                 <bib-title>Three semantics for the core of the Distributed Ontology Language</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Formal Ontology in Information Systems</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Donnelly</surname>
+                    <givenname>Maureen</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Guizzardi</surname>
+                    <givenname>Giancarlo</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-part role="pages">337–352</bib-part>
                 <bib-data role="eventtitle">7\textsuperscript{th} International Conference (FOIS 2012)</bib-data>
                 <bib-data role="eventdate">2012-07-24/2012-07-27</bib-data>
                 <bib-data role="venue">Graz, Austria</bib-data>
                 <bib-date role="publication">2012</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">239</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>IOS Press</bib-publisher>
+                </bib-related>
                 <bib-related role="event" type="conference">
                   <bib-place>Amsterdam</bib-place>
                 </bib-related>
@@ -8134,11 +7552,33 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <givenname>Christoph</givenname>
                 </bib-name>
                 <bib-title>Three semantics for the core of the Distributed Ontology Language</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Formal Ontology in Information Systems</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Donnelly</surname>
+                    <givenname>Maureen</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Guizzardi</surname>
+                    <givenname>Giancarlo</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-part role="pages">337–352</bib-part>
                 <bib-data role="eventtitle">7\textsuperscript{th} International Conference (FOIS 2012)</bib-data>
                 <bib-data role="eventdate">2012-07-24/2012-07-27</bib-data>
                 <bib-data role="venue">Graz, Austria</bib-data>
                 <bib-date role="publication">2012</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">239</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>IOS Press</bib-publisher>
+                </bib-related>
                 <bib-related role="event" type="conference">
                   <bib-place>Amsterdam</bib-place>
                 </bib-related>
@@ -8186,11 +7626,23 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <givenname>Christoph</givenname>
                 </bib-name>
                 <bib-title>Three semantics for the core of the Distributed Ontology Language (extended abstract)</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>International Joint Conference on Artificial Intelligence</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Rossi</surname>
+                    <givenname>Francesca</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-data role="eventtitle">23\textsuperscript{rd} International Conference (IJCAI 2013), track on best papers in sister conferences</bib-data>
                 <bib-data role="eventdate">2013-08-03/2013-08-09</bib-data>
                 <bib-data role="venue">Beijing, China</bib-data>
                 <bib-date role="publication">2013</bib-date>
                 <bib-data role="pubs">clange,ontoiop</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>AAAI Press</bib-publisher>
+                </bib-related>
                 <bib-related role="event" type="conference">
                   <bib-place>Palo Alto, CA, USA</bib-place>
                 </bib-related>
@@ -8310,6 +7762,9 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                 </bib-name>
                 <bib-title>Making heterogeneous ontologies interoperable through standardisation</bib-title>
                 <bib-subtitle>A Meta Ontology Language to be Standardised: Ontology Integration and Interoperability (OntoIOp)</bib-subtitle>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Accessibility Reaching Everywhere</bib-title>
+                </bib-related>
                 <bib-part role="pages">185–196</bib-part>
                 <bib-data role="eventtitle">AEGIS 2\textsuperscript{nd} International Conference</bib-data>
                 <bib-data role="month">11</bib-data>
@@ -8353,11 +7808,26 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <givenname>Christoph</givenname>
                 </bib-name>
                 <bib-title>Towards a standard for heterogeneous ontology integration and interoperability</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>First International Conference on Terminology, Language and Content Resources (LaRC)</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Choi</surname>
+                    <givenname>Key-Sun</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>others</surname>
+                  </bib-name>
+                </bib-related>
                 <bib-part role="pages">101–110</bib-part>
                 <bib-date role="publication">2011-06</bib-date>
                 <bib-data role="month">6</bib-data>
                 <bib-data role="eventdate">2011-06-10/2011-06-11</bib-data>
                 <bib-data role="venue">Seoul, Korea</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>KATS</bib-publisher>
+                </bib-related>
                 <bib-related role="event" type="conference">
                   <bib-place>Seoul</bib-place>
                 </bib-related>
@@ -8399,6 +7869,9 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <givenname>Marie</givenname>
                 </bib-name>
                 <bib-title>Parallelised em wave propagation modelling for accurate network simulation</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>9<sup>th</sup> IT&amp;T Conference, Dublin Institute of Technology</bib-title>
+                </bib-related>
                 <bib-date role="publication">2009</bib-date>
                 <bib-data role="pubs">cdavid</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{cdavid:ParEMNS,
@@ -8434,10 +7907,33 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
                   <givenname>Christoph</givenname>
                 </bib-name>
                 <bib-title>Integrating mathematics into the web of data</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Linked Data in the Future Internet</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Auer</surname>
+                    <givenname>Sören</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Decker</surname>
+                    <givenname>Stefan</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Hauswirth</surname>
+                    <givenname>Manfred</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-date role="publication">2010</bib-date>
                 <bib-data role="eventtitle">Future Internet Assembly</bib-data>
                 <bib-data role="eventdate">2010-12-16/2010-12-17</bib-data>
                 <bib-data role="venue">Ghent, Belgium</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">CEUR Workshop Proceedings</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">700</bib-part>
+                </bib-related>
                 <bib-place>Aachen</bib-place>
                 <bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier>
                 <bib-url href="http://CEUR-WS.org/Vol-700">Link</bib-url>
@@ -8901,6 +8397,12 @@ Rudnicki and Josef Urban},
                 <bib-part role="pages">427–430</bib-part>
                 <bib-url href="http://arxiv.org/abs/1404.6547">Link</bib-url>
                 <bib-data role="pubs">dginev</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{GinMilOpr:latexml:14,
      title = {E-books and Graphics with {\LaTeX}ML},
@@ -8967,6 +8469,12 @@ Rudnicki and Josef Urban},
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">clange</bib-data>
                 <bib-data role="vgwortseiten">29</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{CKLR:SetThyHOLAuctIsa14,
      title = {Set Theory or Higher Order Logic to Represent Auction Concepts in {Isabelle}?},
@@ -9272,6 +8780,9 @@ Rudnicki and Josef Urban},
                   <surname>Kohlhase</surname>
                   <givenname>Michael</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>The Third International Tbilisi Symposium on Language, Logic and Computation</bib-title>
+                </bib-related>
                 <bib-place>Batumi, Georgia</bib-place>
                 <bib-date role="publication">1999</bib-date>
                 <bib-data role="pubs">mkohlhase</bib-data>
@@ -9823,6 +9334,9 @@ Rudnicki and Josef Urban},
                   <givenname>Yukari</givenname>
                 </bib-name>
                 <bib-title>Metadata for web-based mathematical learning materials</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the Data Engineering Workshop DEWS</bib-title>
+                </bib-related>
                 <bib-date role="publication">2005</bib-date>
                 <bib-url href="http://www.ieice.org/~de/DEWS/DEWS2005/procs/papers/2B-o2.pdf">Link</bib-url>
                 <bib-data role="pubs">omdoc</bib-data>
@@ -9845,6 +9359,9 @@ Rudnicki and Josef Urban},
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Documenting ontologies the mathematical way</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Poster Proceedings of the 6<sup>th</sup> European Semantic Web Conference (ESWC)</bib-title>
+                </bib-related>
                 <bib-data role="editors">Elena Simperl and Philipp Cimiano</bib-data>
                 <bib-url href="http://www.eswc2009.org/program-menu/posters">Link</bib-url>
                 <bib-data role="pubs">clange,mkohlhase,krextor,omdoc,docOnto</bib-data>
@@ -9900,7 +9417,27 @@ Rudnicki and Josef Urban},
                   <givenname>Lars</givenname>
                 </bib-name>
                 <bib-title><text font="smallcaps">OpenMathMap</text>: accessing math via interactive maps</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Contemporary Issues in Mathematical Publishing, JMM San Diego Special Session</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Kaiser</surname>
+                    <givenname>Klaus</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Krantz</surname>
+                    <givenname>Steven</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Wegner</surname>
+                    <givenname>Bernd</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-url href="https://kwarc.info/kohlhase/papers/cimp13.pdf">Link</bib-url>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>EMIS</bib-publisher>
+                </bib-related>
                 <bib-part role="pages">81–98</bib-part>
                 <bib-date role="publication">2013</bib-date>
                 <bib-data role="pubs">mkohlhase,mathsearch</bib-data>
@@ -9942,6 +9479,9 @@ Rudnicki and Josef Urban},
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>An architecture for linguistic and semantic analysis on the arXMLiv corpus</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Applications of Semantic Technologies (AST) Workshop at Informatik 2009</bib-title>
+                </bib-related>
                 <bib-date role="publication">2009</bib-date>
                 <bib-extract role="keywords">lamapunbibs</bib-extract>
                 <bib-url href="http://www.kwarc.info/lamapun/pubs/AST09_LaMaPUn+appendix.pdf">Link</bib-url>
@@ -9971,12 +9511,50 @@ Rudnicki and Josef Urban},
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Towards context-based disambiguation of mathematical expressions</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>The Joint Conference of ASCM 2009 and MACIS 2009: Asian Symposium on Computer Mathematics and Mathematical Aspects of Computer and Information Sciences</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Suzuki</surname>
+                    <givenname>Masakazu</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Hong</surname>
+                    <givenname>Hoon</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Anai</surname>
+                    <givenname>Hirokazu</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Yap</surname>
+                    <givenname>Chee</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Sato</surname>
+                    <givenname>Yousuke</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Yoshida</surname>
+                    <givenname>Hiroshi</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-part role="pages">262–271</bib-part>
                 <bib-data role="day">14</bib-data>
                 <bib-data role="month">December</bib-data>
                 <bib-date role="publication">2009-12-14</bib-date>
                 <bib-place>Fukuoka, Japan</bib-place>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">COE Lecture Notes</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">22</bib-part>
+                </bib-related>
                 <bib-identifier id="1881-4042" scheme="issn">ISSN 1881-4042</bib-identifier>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Faculty of Mathematics, Kyushu University</bib-publisher>
+                </bib-related>
                 <bib-url href="https://kwarc.info/kohlhase/papers/ASCM-DML09.pdf">Link</bib-url>
                 <bib-extract role="keywords">conference,lamapunbibs</bib-extract>
                 <bib-data role="pubs">mkohlhase,comma</bib-data>
@@ -11002,8 +10580,41 @@ Rudnicki and Josef Urban},
                 </bib-name>
                 <bib-date role="publication">2008</bib-date>
                 <bib-title>An exchange format for modular knowledge</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Sutcliffe</surname>
+                    <givenname>G.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Rudnicki</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schmidt</surname>
+                    <givenname>R.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Konev</surname>
+                    <givenname>B.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schulz</surname>
+                    <givenname>S.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the LPAR Workshops: Knowledge Exchange:
+Automated Provers and Proof Assistants, and The 7<sup>th</sup>
+International Workshop on the Implementation of Logics</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">CEUR Workshop Proceedings</bib-part>
+                </bib-related>
                 <bib-place>Aachen</bib-place>
                 <bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">418</bib-part>
+                </bib-related>
                 <bib-part role="pages">50–68</bib-part>
                 <bib-data role="pubs">mkohlhase,frabe,latin,mmt,omdoc</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{RabeKohlhase:ExchangeModularKnowledge,
@@ -11034,6 +10645,40 @@ Rudnicki and Josef Urban},
                 <bib-title>An Exchange Format for Modular Knowledge</bib-title>
                 <bib-date role="publication">2008</bib-date>
                 <bib-part role="pages">50–68</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the LPAR Workshops on Knowledge Exchange: Automated Provers and Proof Assistants, and The 7th International Workshop on the Implementation of Logics</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Sutcliffe</surname>
+                    <givenname>G.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Rudnicki</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schmidt</surname>
+                    <givenname>R.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Konev</surname>
+                    <givenname>B.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schulz</surname>
+                    <givenname>S.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">CEUR Workshop Proceedings</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>CEUR-WS.org</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">418</bib-part>
+                </bib-related>
                 <bib-data role="pubs">frabe,mkohlhase,mmt,omdoc</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{RK:keappa:08,
     author = {Florian Rabe and Michael Kohlhase},
@@ -11055,8 +10700,23 @@ Rudnicki and Josef Urban},
                 </bib-name>
                 <bib-title>Communities of Practice &amp; Semantic Web: Stimulating Collaboration by Document Markup</bib-title>
                 <bib-date role="publication">2009</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer-Verlag Berlin Heidelberg</bib-publisher>
+                </bib-related>
                 <bib-part role="pages">432–437</bib-part>
                 <bib-url href="https://kwarc.info/cmueller/papers/UNISCON2009.pdf">Link</bib-url>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Yang</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>others</surname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the United International Systems Conference (UNISCON) LNBIP 20</bib-title>
+                </bib-related>
                 <bib-data role="pubs">cmueller,omdoc</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{CM:CoPSW,
     author = {Christine M{\"u}ller},
@@ -11079,6 +10739,12 @@ Rudnicki and Josef Urban},
                 <bib-date role="publication">2009</bib-date>
                 <bib-url href="https://kwarc.info/cmueller/papers/UNISCON2009.pdf">Link</bib-url>
                 <bib-part role="pages">1–8</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>University of Western Sydney</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>UNISCON 2009 Supplementary Proceedings: Doctoral Consortium Papers</bib-title>
+                </bib-related>
                 <bib-data role="pubs">cmueller,omdoc</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{CM:CoPSW:DC,
     author = {Christine M{\"u}ller},
@@ -11270,6 +10936,9 @@ Rudnicki and Josef Urban},
                   <givenname>Jörn</givenname>
                 </bib-name>
                 <bib-title>Guaranteeing correctness through the communication of checkable proofs (or: would you really trust an automated reasoning system?)</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>CADE-14 Workshop</bib-title>
+                </bib-related>
                 <bib-date role="publication">1994</bib-date>
                 <bib-data role="pubs">mkohlhase,omega</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{HuKeKo:gcccp94,
@@ -11748,6 +11417,9 @@ Rudnicki and Josef Urban},
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Communities of practice in mathematical elearning</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>In proceedings of the Workshop in Mathematical and Scientific eContent</bib-title>
+                </bib-related>
                 <bib-part role="pages">34–35</bib-part>
                 <bib-date role="publication">2008</bib-date>
                 <bib-data role="pubs">cmueller,mkohlhase,jem</bib-data>
@@ -11770,7 +11442,29 @@ Rudnicki and Josef Urban},
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-date role="publication">2008</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Lytras</surname>
+                    <givenname>M. D.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>others</surname>
+                  </bib-name>
+                </bib-related>
                 <bib-title>Towards a community of practice toolkit based on semantically marked up artifacts</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the 1<sup>st</sup> World Summit of the Knowledge Society: Emerging
+Technologies and Information Systems for the Knowledge Society</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">LNAI</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">5288</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer-Verlag Berlin Heidelberg</bib-publisher>
+                </bib-related>
                 <bib-part role="pages">41–50</bib-part>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">cmueller,mkohlhase,jem</bib-data>
@@ -12103,6 +11797,9 @@ Rudnicki and Josef Urban},
                 <bib-url href="http://jem-thematic.net/node/524">Link</bib-url>
                 <bib-date role="publication">2008-02</bib-date>
                 <bib-data role="month">February</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>3<sup>rd</sup> JEM Workshop (Joining Educational Mathematics)</bib-title>
+                </bib-related>
                 <bib-data role="pubs">clange,swim,jem</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{Lange:SWiM-OpenMath08,
     author = {Christoph Lange},
@@ -12951,6 +12648,10 @@ Rudnicki and Josef Urban},
                 </bib-name>
                 <bib-title>An Ontology-Driven Management of Change</bib-title>
                 <bib-date role="publication">2006</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Wissens- und Erfahrungsmanagement LWA (Lernen, Wissensentdeckung
+und Adaptivität) conference proceedings</bib-title>
+                </bib-related>
                 <bib-organization>Universität Hildesheim</bib-organization>
                 <bib-part role="pages">186–193</bib-part>
                 <bib-url href="https://kwarc.info/nmueller/papers/lwa06.pdf">Link</bib-url>
@@ -13416,6 +13117,22 @@ Rudnicki and Josef Urban},
                 <bib-date role="publication">2014</bib-date>
                 <bib-part role="pages">48–60</bib-part>
                 <bib-identifier href="http://dx.doi.org/10.4204/EPTCS.167.7" id="10.4204/EPTCS.167.7" scheme="doi">Document</bib-identifier>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on User Interfaces for Theorem Provers</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Benzmüller</surname>
+                    <givenname>Cristoph</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Woltzenlogel Paleo</surname>
+                    <givenname>Bruno</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Elsevier</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">frabe,mmt,oaf</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:ui:14,
     author = {Florian Rabe},
@@ -13449,6 +13166,9 @@ Rudnicki and Josef Urban},
                 <bib-title>Compiling Logics</bib-title>
                 <bib-date role="publication">2012</bib-date>
                 <bib-data role="pubs">fhorozal,frabe,latin,mmt</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on Algebraic Development Techniques</bib-title>
+                </bib-related>
                 <bib-data role="self" type="BibTeX">@inproceedings{CHMR:compiling:12,
     author = {Mihai Codescu and Fulya Horozal and Till Mossakowski and Florian Rabe},
      title = {{Compiling Logics}},
@@ -13476,6 +13196,9 @@ Rudnicki and Josef Urban},
                 </bib-name>
                 <bib-title>Representing CASL in a Proof-Theoretical Logical Framework</bib-title>
                 <bib-date role="publication">2012</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on Algebraic Development Techniques</bib-title>
+                </bib-related>
                 <bib-data role="pubs">fhorozal,frabe,mmt,latin</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{CHIR:casl:12,
     author = {Mihai Codescu and Fulya Horozal and Iulia Ignatov and Florian Rabe},
@@ -13496,6 +13219,9 @@ Rudnicki and Josef Urban},
                 </bib-name>
                 <bib-title>Representing Categories of Theories in a Proof-Theoretical Logical Framework</bib-title>
                 <bib-date role="publication">2012</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on Algebraic Development Techniques</bib-title>
+                </bib-related>
                 <bib-data role="pubs">fhorozal,frabe,latin,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{HR:patterns:12,
     author = {Fulya Horozal and Florian Rabe},
@@ -13741,6 +13467,24 @@ Rudnicki and Josef Urban},
                 <bib-title>Kripke Semantics for Martin-Löf’s Extensional Type Theory</bib-title>
                 <bib-date role="publication">2009</bib-date>
                 <bib-part role="pages">249–263</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Typed Lambda Calculi and Applications (TLCA)</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Curien</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">LNCS</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">5608</bib-part>
+                </bib-related>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">frabe</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{AR:lamkrip:09,
@@ -14038,6 +13782,25 @@ Rudnicki and Josef Urban},
                 <bib-title>Interactive Documents as Interfaces to Computer Algebra Systems: JOBAD and Wolfram—Alpha</bib-title>
                 <bib-date role="publication">2010</bib-date>
                 <bib-part role="pages">13–30</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>CALCULEMUS (Emerging Trends)</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Delahaye</surname>
+                    <givenname>D.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Rioboo</surname>
+                    <givenname>R.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">Technical Reports of CEDRIC (CNAM/ENSIIE)</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Centre d’Étude et de Recherche en Informatique du CNAM (Cédric)</bib-publisher>
+                </bib-related>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">frabe,jobad,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{DLR:jobad:10,
@@ -14064,6 +13827,9 @@ Rudnicki and Josef Urban},
                 </bib-name>
                 <bib-title>Mechanically Verifying Logic Translations</bib-title>
                 <bib-date role="publication">2012</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on Algebraic Development Techniques</bib-title>
+                </bib-related>
                 <bib-data role="pubs">frabe,mmt,latin</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{RS:vertrans:12,
     author = {Florian Rabe and Kristina Sojakova},
@@ -14146,6 +13912,28 @@ Rudnicki and Josef Urban},
                 <bib-title>Representing Isabelle in LF</bib-title>
                 <bib-date role="publication">2010</bib-date>
                 <bib-part role="pages">85–100</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Logical Frameworks and Meta-languages: Theory and Practice</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Crary</surname>
+                    <givenname>K.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Miculan</surname>
+                    <givenname>M.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">Electronic Proceedings in Theoretical Computer Science</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Electronic Proceedings in Theoretical Computer Science</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">34</bib-part>
+                </bib-related>
                 <bib-data role="pubs">frabe,mmt,latin</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:isalf:10,
     author = {Florian Rabe},
@@ -14237,6 +14025,28 @@ Rudnicki and Josef Urban},
                 <bib-title>A Practical Module System for LF</bib-title>
                 <bib-date role="publication">2009</bib-date>
                 <bib-part role="pages">40–48</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the Workshop on Logical Frameworks: Meta-Theory and Practice (LFMTP)</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Cheney</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Felty</surname>
+                    <givenname>A.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">ACM International Conference Proceeding Series</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>ACM Press</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">LFMTP’09</bib-part>
+                </bib-related>
                 <bib-data role="pubs">frabe,mmt,latin</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{RS:twelfmod:09,
     author = {Florian Rabe and C. Sch{\"u}rmann},
@@ -14327,6 +14137,24 @@ Rudnicki and Josef Urban},
                 <bib-date role="publication">2009</bib-date>
                 <bib-note role="annotation">English title: Outstanding Dissertations in Computer Science 2008</bib-note>
                 <bib-part role="pages">201–210</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Ausgezeichnete Informatikdissertationen 2008</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Wagner et al.</surname>
+                    <givenname>D.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">Lecture Notes in Informatics</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Gesellschaft für Informatik e.V. (GI)</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">D-9</bib-part>
+                </bib-related>
                 <bib-data role="pubs">frabe,mmt,latin</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:gi:09,
     author = {Florian Rabe},
@@ -14354,6 +14182,28 @@ Rudnicki and Josef Urban},
                 <bib-title>Representing Model Theory in a Type-Theoretical Logical Framework</bib-title>
                 <bib-date role="publication">2009</bib-date>
                 <bib-part role="pages">49–65</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Fourth Workshop on Logical and Semantic Frameworks, with Applications</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Ayala-Rincón</surname>
+                    <givenname>M.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Kamareddine</surname>
+                    <givenname>F.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">Electronic Notes in Theoretical Computer Science</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Elsevier</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">256</bib-part>
+                </bib-related>
                 <bib-data role="pubs">frabe,mmt,latin</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{HR:folsound:09,
     author = {F. Horozal and Florian Rabe},
@@ -14420,6 +14270,28 @@ Rudnicki and Josef Urban},
                 <bib-title>Translating Dependently-Typed Logic to First-Order Logic</bib-title>
                 <bib-date role="publication">2009</bib-date>
                 <bib-part role="pages">326–341</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Corradini</surname>
+                    <givenname>A.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Montanari</surname>
+                    <givenname>U.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">LNCS</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">5486</bib-part>
+                </bib-related>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">frabe,latin,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{SR:dfol_fol:08,
@@ -14450,7 +14322,30 @@ Rudnicki and Josef Urban},
                   <givenname>G.</givenname>
                 </bib-name>
                 <bib-title>THF0 – The core of the TPTP Language for Higher-Order Logic</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>4<sup>th</sup> International Joint Conference on Automated Reasoning</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Armando</surname>
+                    <givenname>A.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Baumgartner</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Dowek</surname>
+                    <givenname>G.</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-date role="publication">2008</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">LNCS</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">5195</bib-part>
+                </bib-related>
                 <bib-part role="pages">491–506</bib-part>
                 <bib-data role="pubs">frabe,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{BRS:tptphol:08,
@@ -14567,6 +14462,9 @@ Rudnicki and Josef Urban},
                   <givenname>Florian</givenname>
                 </bib-name>
                 <bib-title>OMDoc Theory Graphs Revisited</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the OpenMath/JEM workshop</bib-title>
+                </bib-related>
                 <bib-date role="publication">2007</bib-date>
                 <bib-data role="pubs">frabe,omdoc,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:graphs:07,
@@ -14600,9 +14498,32 @@ Rudnicki and Josef Urban},
                   <givenname>Florian</givenname>
                 </bib-name>
                 <bib-title>Towards Determining the Subset Relation between Propositional Modal Logics</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the FLoC 06 Workshop on Empirically Successful Computerized Reasoning, 3<sup>rd</sup> International Joint Conference on Automated Reasoning</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Sutcliffe</surname>
+                    <givenname>G.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schmidt</surname>
+                    <givenname>R.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schulz</surname>
+                    <givenname>S.</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-date role="publication">2006</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">CEUR Workshop Proceedings</bib-part>
+                </bib-related>
                 <bib-place>Aachen</bib-place>
                 <bib-identifier id="1613-0073" scheme="issn">ISSN 1613-0073</bib-identifier>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">192</bib-part>
+                </bib-related>
                 <bib-part role="pages">126–140</bib-part>
                 <bib-data role="pubs">frabe</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:moloss:06,
@@ -14656,6 +14577,19 @@ Rudnicki and Josef Urban},
                       </XMApp>
                     </XMath>
                   </Math></bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Short Paper Proceedings of the International Conference on Logic for Programming, Artificial Intelligence, and Reasoning</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Sutcliffe</surname>
+                    <givenname>G.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Voronkov</surname>
+                    <givenname>A.</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-date role="publication">2005</bib-date>
                 <bib-part role="pages">21–27</bib-part>
                 <bib-data role="pubs">frabe</bib-data>
@@ -16009,7 +15943,40 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                   <givenname>Hans</givenname>
                 </bib-name>
                 <bib-title>Automated theorem proving for natural language understanding</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>CADE-15 Workshop “Problem-solving Methodologies with Automated Deduction”</bib-title>
+                </bib-related>
                 <bib-date role="publication">1998</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Baumgartner</surname>
+                    <givenname>Peter</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Furbach</surname>
+                    <givenname>Ulrich</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Kohlhase</surname>
+                    <givenname>Michael</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>McCune</surname>
+                    <givenname>William</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Reif</surname>
+                    <givenname>Wolfgang</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Stickel</surname>
+                    <givenname>Mark</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Uribe</surname>
+                    <givenname>Tomàs</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-related bibrefs="CADE15-WS-PSMAD" role="host"/>
                 <bib-extract role="keywords">!OMEGA!,lamapunbibs,ARTICLE,LISA,SFB</bib-extract>
                 <bib-data role="pubs">mkohlhase</bib-data>
@@ -17159,6 +17126,15 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                 </bib-name>
                 <bib-title>Panta rhei</bib-title>
                 <bib-part role="pages">318–323</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Hinneburg</surname>
+                    <givenname>Alexander</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>LWA Conference Proceedings</bib-title>
+                </bib-related>
                 <bib-date role="publication">2007</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{MuKo:pr07-small,
     author = {Christine M{\"u}ller and Michael Kohlhase},
@@ -18323,7 +18299,16 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Formalizing mathematics with dependent sorts</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings des Deduktionstreffen</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">AIDA-Report</bib-part>
+                </bib-related>
                 <bib-date role="publication">1994</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-organization>Darmstadt University</bib-organization>
+                </bib-related>
                 <bib-data role="pubs">mkohlhase</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{KerKoh:fmds94,
     author = {Manfred Kerber and Michael Kohlhase},
@@ -18345,6 +18330,10 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Partiality without the cost</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on “Mechanization of Partial
+Functions” at CADE-13</bib-title>
+                </bib-related>
                 <bib-date role="publication">1996</bib-date>
                 <bib-data role="pubs">mkohlhase</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{KerKoh:pwtc96,
@@ -18367,8 +18356,20 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                 </bib-name>
                 <bib-title>Dynamic control of quantifier scope</bib-title>
                 <bib-date role="publication">1997</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the 11<sup>th</sup> Amsterdam Colloquium</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Dekker</surname>
+                    <givenname>Paul</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-place>Amsterdam, The Netherlands</bib-place>
                 <bib-part role="pages">109–114</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>ILLC</bib-publisher>
+                </bib-related>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">mkohlhase</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{EggKoh:dcqs97,
@@ -18394,6 +18395,10 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Underspecification of quantifier scope</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings der 6. Fachtagung der Sektion Computerlinguistik der
+DGfS</bib-title>
+                </bib-related>
                 <bib-date role="publication">1997</bib-date>
                 <bib-url href="https://kwarc.info/kohlhase/papers/amscoll97.pdf">Link</bib-url>
                 <bib-place>Heidelberg</bib-place>
@@ -18577,6 +18582,10 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Focus and higher–order unification</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the 16<sup>th</sup> International Conference on Computational
+Linguistics</bib-title>
+                </bib-related>
                 <bib-date role="publication">1996</bib-date>
                 <bib-place>Copenhagen</bib-place>
                 <bib-part role="pages">268–279</bib-part>
@@ -18606,9 +18615,17 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Higher–order coloured unification and natural language semantics</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the 34<sup>th</sup> Annual Meeting of the Association for
+Computational
+Linguistics</bib-title>
+                </bib-related>
                 <bib-date role="publication">1996</bib-date>
                 <bib-part role="pages">1–9</bib-part>
                 <bib-place>Santa Cruz</bib-place>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>ACL</bib-publisher>
+                </bib-related>
                 <bib-url href="https://kwarc.info/kohlhase/papers/acl96.pdf">Link</bib-url>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">mkohlhase</bib-data>
@@ -18792,9 +18809,15 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
                   <givenname>Noor</givenname>
                 </bib-name>
                 <bib-title>Corrections and higher-order unification</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of KONVENS’96</bib-title>
+                </bib-related>
                 <bib-date role="publication">1996</bib-date>
                 <bib-part role="pages">268–279</bib-part>
                 <bib-place>Bielefeld, Germany</bib-place>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>De Gruyter</bib-publisher>
+                </bib-related>
                 <bib-url href="https://kwarc.info/kohlhase/papers/konvens96.pdf">Link</bib-url>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">mkohlhase</bib-data>
@@ -19521,8 +19544,24 @@ CADE’94</bib-note>
                   <givenname>Andrea</givenname>
                 </bib-name>
                 <bib-title>What if PowerPoint became emPowerPoint (through CPoint)?</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Society for Information Technology and Teacher Education, 17<sup>th</sup>
+International Conference SITE 2006</bib-title>
+                </bib-related>
                 <bib-part role="pages">2934–2939</bib-part>
                 <bib-date role="publication">2006</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Crawford</surname>
+                    <givenname>Caroline M.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-organization>SITE</bib-organization>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>AACE</bib-publisher>
+                </bib-related>
                 <bib-note role="annotation">Orlando (USA), 2006-03-20/24</bib-note>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">akohlhase,cpoint</bib-data>
@@ -19580,9 +19619,24 @@ CADE’94</bib-note>
                   <givenname>Andrea</givenname>
                 </bib-name>
                 <bib-title>Media or Medea Society? Learner and Learning Technology as Full Partners</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>ICDML2006</bib-title>
+                </bib-related>
                 <bib-part role="pages">6–12</bib-part>
                 <bib-date role="publication">2006-03</bib-date>
                 <bib-data role="month">March</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Thipakorn</surname>
+                    <givenname>Bundit</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">1</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Tana Press</bib-publisher>
+                </bib-related>
                 <bib-note role="annotation">Bangkok (Thailand), 2006-03-13/14</bib-note>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">akohlhase</bib-data>
@@ -19626,6 +19680,10 @@ CADE’94</bib-note>
                   <givenname>Andrea</givenname>
                 </bib-name>
                 <bib-title>CPoint – ein invasiver, semantischer Editor für wiederverwendaren Content in MS PowerPoint</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings der Pre-Conference Workshops der 4.e-Learning Fachtagung
+Informatik DeLFI 2006</bib-title>
+                </bib-related>
                 <bib-related bibrefs="Pre-ConferenceWorkshopsDeLFI2006" role="host"/>
                 <bib-part role="pages">35–42</bib-part>
                 <bib-extract role="keywords">workshop</bib-extract>
@@ -19649,6 +19707,10 @@ CADE’94</bib-note>
                 </bib-name>
                 <bib-title>The User as Prisoner: How the Dilemma Might Dissolve</bib-title>
                 <bib-related bibrefs="LOKMOL2006" role="host"/>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>2<sup>nd</sup> Workshop on Learner Oriented Knowledge Management &amp; KM Oriented
+e-Learning</bib-title>
+                </bib-related>
                 <bib-part role="pages">26–31</bib-part>
                 <bib-url href="http://dimeb.informatik.uni-bremen.de/documents/LOKMOL2006_UserAsPrisoner.pdf">Link</bib-url>
                 <bib-extract role="keywords">workshop</bib-extract>
@@ -19671,7 +19733,27 @@ CADE’94</bib-note>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Higher-order resolution with combinators</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Informal Proceedings fo the Annual Meeting of “GI-Fachgruppe
+‘Deduktionssysteme’ ” in Kaiserslautern, 1993</bib-title>
+                </bib-related>
                 <bib-date role="publication">1993</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Avenhaus</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Denzinger</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="number">SR-93-11 (SFB)</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">SEKI-Report</bib-part>
+                </bib-related>
                 <bib-part role="pages">15</bib-part>
                 <bib-data role="pubs">mkohlhase</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:horwc93,
@@ -20207,6 +20289,9 @@ CADE’94</bib-note>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Higher-order tableaux</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the Tableau Workshop</bib-title>
+                </bib-related>
                 <bib-date role="publication">1995</bib-date>
                 <bib-part role="pages">294–309</bib-part>
                 <bib-place>Koblenz, Germany</bib-place>
@@ -20591,6 +20676,9 @@ CADE’94</bib-note>
                   <givenname>Susanna</givenname>
                 </bib-name>
                 <bib-title>Dynamic lambda calculus</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the 5<sup>th</sup> Meeting on Mathematics of Language – MOL5</bib-title>
+                </bib-related>
                 <bib-date role="publication">1997</bib-date>
                 <bib-part role="pages">85–92</bib-part>
                 <bib-extract role="keywords">conference</bib-extract>
@@ -20623,9 +20711,25 @@ CADE’94</bib-note>
                       <XMTok font="italic" name="lambda" role="UNKNOWN">λ</XMTok>
                     </XMath>
                   </Math>-DRT</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the 10<sup>th</sup> Amsterdam Colloquium</bib-title>
+                </bib-related>
                 <bib-date role="publication">1996</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Dekker</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Stokhof</surname>
+                    <givenname>M.</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-part role="pages">479–498</bib-part>
                 <bib-place>Amsterdam</bib-place>
+                <bib-related role="host" type="proceedings">
+                  <bib-organization>ILLC</bib-organization>
+                </bib-related>
                 <bib-url href="https://kwarc.info/kohlhase/papers/amscoll95.pdf">Link</bib-url>
                 <bib-extract role="keywords">conference,lamapunbibs</bib-extract>
                 <bib-data role="pubs">mkohlhase</bib-data>
@@ -20657,8 +20761,21 @@ CADE’94</bib-note>
                       <XMTok font="italic" name="lambda" role="UNKNOWN">λ</XMTok>
                     </XMath>
                   </Math>-calculus with intersection types</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the International Logic Programming Symposion
+ILPS’93</bib-title>
+                </bib-related>
                 <bib-date role="publication">1993</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Miller</surname>
+                    <givenname>Dale</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-part role="pages">488–505</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>MIT Press</bib-publisher>
+                </bib-related>
                 <bib-url href="https://kwarc.info/kohlhase/papers/ilps93.pdf">Link</bib-url>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">mkohlhase</bib-data>
@@ -20806,6 +20923,10 @@ CADE’94</bib-note>
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Feature logic for dotted types: a formalism for complex word meanings</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the 38<sup>th</sup> Annual Meeting of the Association for Computational
+Linguistics</bib-title>
+                </bib-related>
                 <bib-date role="publication">2000</bib-date>
                 <bib-place>Hongkong</bib-place>
                 <bib-part role="pages">521–528</bib-part>
@@ -20940,6 +21061,10 @@ CADE’94</bib-note>
                   <givenname>Volker</givenname>
                 </bib-name>
                 <bib-title>LOUI: a distributed graphical user interface for the interactive proof system OMEGA</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of the International Workshop “User Interfaces for Theorem
+Provers 1998” (UITP’98)</bib-title>
+                </bib-related>
                 <bib-date role="publication">1998</bib-date>
                 <bib-place>Eindhoven, Netherlands</bib-place>
                 <bib-extract role="keywords">!OMEGA!,ARTICLE,SFB</bib-extract>
@@ -21097,7 +21222,21 @@ CADE’94</bib-note>
                   <givenname>Jürgen</givenname>
                 </bib-name>
                 <bib-title>Adaptive course generation and presentation</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of ITS-2000 workshop on Adaptive and Intelligent Web-Based
+Education Systems</bib-title>
+                </bib-related>
                 <bib-date role="publication">2000</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Brusilovski</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Peylo</surname>
+                    <givenname>Chrisoph</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-place>Montreal</bib-place>
                 <bib-data role="pubs">mkohlhase</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{SieBen:acgap00,
@@ -23770,6 +23909,9 @@ CADE’94</bib-note>
                 </bib-name>
                 <bib-title>What can the hundred languages of children teach us?</bib-title>
                 <bib-related bibrefs="MuC2007" role="host"/>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Interaktion im Plural</bib-title>
+                </bib-related>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">akohlhase,cpoint</bib-data>
                 <bib-part role="pages">189–198</bib-part>
@@ -23789,8 +23931,36 @@ CADE’94</bib-note>
                   <givenname>Andrea</givenname>
                 </bib-name>
                 <bib-title>The music is not in the piano: engaging vs. enabling MS PowerPoint</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proceedings of Society for Information Technology and Teacher Education International Conference 2007 (SITE’07)</bib-title>
+                </bib-related>
                 <bib-part role="pages">2026–2028</bib-part>
                 <bib-date role="publication">2007</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Carlsen</surname>
+                    <givenname>Roger</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>McFerrin</surname>
+                    <givenname>Karen</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Price</surname>
+                    <givenname>Jerry</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Weber</surname>
+                    <givenname>Roberta</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Willis</surname>
+                    <givenname>Dee Anna</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>AACE</bib-publisher>
+                </bib-related>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">akohlhase,cpoint</bib-data>
                 <bib-note role="annotation">St. Antonio, TX (USA), 2007-03-24/28</bib-note>
@@ -23838,8 +24008,14 @@ CADE’94</bib-note>
                   <givenname>Milena</givenname>
                 </bib-name>
                 <bib-title>Embodied constructionist learning: social tagging and folksonomies in e-learning environments</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Current Developments in Technology-Assisted Education (mICTE06)</bib-title>
+                </bib-related>
                 <bib-date role="publication">2006</bib-date>
                 <bib-place>Badajoz, Spain</bib-place>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">3</bib-part>
+                </bib-related>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">akohlhase</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{Reichel:FolksonomiesAsEmbodiedActions,
@@ -24006,7 +24182,26 @@ CADE’94</bib-note>
                   <givenname>Kristina</givenname>
                 </bib-name>
                 <bib-title>A Case Study on Formalizing Algebra in a Module System</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on Modules and Libraries for Proof Assistants</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Rabe</surname>
+                    <givenname>Florian</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schürmann</surname>
+                    <givenname>Carsten</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-data role="publischer">ACM</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="series">ACM International Conference Proceeding Series</bib-part>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-part role="volume">429</bib-part>
+                </bib-related>
                 <bib-date role="publication">2009</bib-date>
                 <bib-part role="pages">11–18</bib-part>
                 <bib-data role="pubs">fhorozal,sdumbrava,ksojakova,omdoc,mmt</bib-data>
@@ -24041,8 +24236,14 @@ CADE’94</bib-note>
                   <givenname>Sami</givenname>
                 </bib-name>
                 <bib-title>Semantically enabled business process discovery</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Symposium on Applied Computing</bib-title>
+                </bib-related>
                 <bib-part role="pages">1396–1403</bib-part>
                 <bib-date role="publication">2010</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>ACM</bib-publisher>
+                </bib-related>
                 <bib-data role="eventdate">2010</bib-data>
                 <bib-data role="venue">Sierre, Switzerland</bib-data>
                 <bib-identifier id="978-1-60558-639-7" scheme="isbn">ISBN 978-1-60558-639-7</bib-identifier>
@@ -24099,8 +24300,14 @@ CADE’94</bib-note>
                   <givenname>Nor</givenname>
                 </bib-name>
                 <bib-title>Mathematical knowledge representation for education semantic web based on learning style</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>International Symposium in Information Technology (ITSim)</bib-title>
+                </bib-related>
                 <bib-part role="pages">1–4</bib-part>
                 <bib-date role="publication">2010</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>IEEE</bib-publisher>
+                </bib-related>
                 <bib-identifier href="http://dx.doi.org/10.1109/ITSIM.2010.5561332" id="10.1109/ITSIM.2010.5561332" scheme="doi">Document</bib-identifier>
                 <bib-data role="pubs">omdoc,krextor</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{FA:MathKnowReprEduSemWebLearnStyle10,
@@ -24840,6 +25047,12 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
                 <bib-url href="http://arxiv.org/abs/1404.6548">Link</bib-url>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="pubs">dginev,mathhub</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{GinCor:nnexus:14,
      title = {NNexus Reloaded},
@@ -25103,6 +25316,9 @@ Sandro Wartzack},
                   <surname>Wartzack</surname>
                   <givenname>Sandro</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Proc. 13th International Design Conference, DESIGN 2014</bib-title>
+                </bib-related>
                 <bib-title>Semantic support for engineering design processes</bib-title>
                 <bib-url href="https://kwarc.info/kohlhase/papers/design14.pdf">Link</bib-url>
                 <bib-date role="publication">2013</bib-date>
@@ -25237,6 +25453,12 @@ Sandro Wartzack},
                 <bib-part role="pages">440–443</bib-part>
                 <bib-url href="https://kwarc.info/kohlhase/papers/cicm14-l2o.pdf">Link</bib-url>
                 <bib-data role="pubs">mkohlhase</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{KohKoh:sdsaloc14,
      title = {System Description: A Semantics-Aware {\LaTeX}-to-Office Converter},
@@ -25260,6 +25482,12 @@ Sandro Wartzack},
                 <bib-part role="pages">169–183</bib-part>
                 <bib-url href="https://kwarc.info/kohlhase/papers/cicm14-smglom.pdf">Link</bib-url>
                 <bib-data role="pubs">mkohlhase,comma,mathsearch,smglom</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:dmesmgm14,
      title = {A Data Model and Encoding for a Semantic, Multilingual Terminology of Mathematics},
@@ -25333,6 +25561,12 @@ Sandro Wartzack},
                 <bib-part role="pages">431–434</bib-part>
                 <bib-url href="https://kwarc.info/kohlhase/papers/cicm14-mathhub.pdf">Link</bib-url>
                 <bib-data role="pubs">mkohlhase,cjucovschi,miancu,twiesing,oaf,mathhub</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{IanJucKoh:sdm14,
      title = {System Description: {MathHub.info}},
@@ -25403,6 +25637,12 @@ Sandro Wartzack},
                 <bib-part role="pages">252–266</bib-part>
                 <bib-data role="pubs">mkohlhase,omdoc,tetrapod</bib-data>
                 <bib-note role="annotation">MKM Best-Paper-Award</bib-note>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{CarFarKoh:rsckmt14,
     author = {Jacques Carette and William Farmer and Michael Kohlhase},
@@ -25427,6 +25667,12 @@ Sandro Wartzack},
                 <bib-part role="pages">153–168</bib-part>
                 <bib-url href="http://arxiv.org/abs/1405.3758">Link</bib-url>
                 <bib-data role="pubs">akohlhase,mws,mathsearch</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{Koh:SearchInterfacesMath:2014,
      title = {Search Interfaces for Mathematicians},
@@ -25454,6 +25700,12 @@ Sandro Wartzack},
                 <bib-part role="pages">357–372</bib-part>
                 <bib-url href="https://kwarc.info/frabe/Research/KR_hollight_14.pdf">Link</bib-url>
                 <bib-data role="pubs">frabe,oaf,mmt,omdoc</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{KalRab:hollight:14,
     author = {Cezary Kaliszyk and Florian Rabe},
@@ -25477,6 +25729,9 @@ Sandro Wartzack},
                   <surname>Sperber</surname>
                   <givenname>Wolfram</givenname>
                 </bib-name>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>European Conference on Data Analysis ECDA2015; Data Science: Foundations, Methods and Applications</bib-title>
+                </bib-related>
                 <bib-url href="https://kwarc.info/kohlhase/papers/ecda15.pdf">Link</bib-url>
                 <bib-date role="publication">2015</bib-date>
                 <bib-extract role="keywords">conference</bib-extract>
@@ -25501,6 +25756,12 @@ Sandro Wartzack},
                 <bib-part role="pages">344–356</bib-part>
                 <bib-url href="http://arxiv.org/abs/1403.5058">Link</bib-url>
                 <bib-data role="pubs">cjucovschi,sissi,sally</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{cjucovschi:interaction_integration:14,
     author = {Constantin Jucovschi},
@@ -25532,6 +25793,12 @@ Sandro Wartzack},
                 <bib-part role="pages">312–327</bib-part>
                 <bib-url href="https://kwarc.info/kohlhase/papers/cicm14-lfs.pdf">Link</bib-url>
                 <bib-data role="pubs">fhorozal,mkohlhase,frabe,mmt,omdoc</bib-data>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics 2014</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-date role="publication">2014</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{HKR:flexary:14,
     author = {Fulya Horozal and Michael Kohlhase and Florian Rabe},
@@ -25765,6 +26032,9 @@ Sandro Wartzack},
                   <givenname>Michael</givenname>
                 </bib-name>
                 <bib-title>Understanding mathematical theory formation via theory intersections in MMT</bib-title>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>FMM - Formal Mathematics for Mathematicians</bib-title>
+                </bib-related>
                 <bib-url href="http://cicm-conference.org/2015/fm4m/FMM_2015_paper_2.pdf">Link</bib-url>
                 <bib-date role="publication">2015</bib-date>
                 <bib-data role="self" type="BibTeX">@inproceedings{KohMue:cicm15,
@@ -26308,6 +26578,22 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 <bib-title>Canonical Selection of Colimits</bib-title>
                 <bib-date role="publication">2017</bib-date>
                 <bib-part role="pages">170–188</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>James</surname>
+                    <givenname>Phillip</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Roggenbach</surname>
+                    <givenname>Markus</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">frabe,oaf</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{CMR:colimits:16,
     author = {Mihai Codescu and Till Mossakowski and Florian Rabe},
@@ -26335,6 +26621,19 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 </bib-name>
                 <bib-title>Selecting Colimits for Parameterisation and Networks of Specifications</bib-title>
                 <bib-date role="publication">2016</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on Algebraic Development Techniques</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Roggenbach</surname>
+                    <givenname>M.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>James</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-data role="pubs">frabe,oaf</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{CMR:selecting:16,
     author = {M. Codescu and T. Mossakowski and Florian Rabe},
@@ -26376,6 +26675,19 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 <bib-title>The MMT Perspective on Conservativity</bib-title>
                 <bib-date role="publication">2017</bib-date>
                 <bib-part role="pages">17–33</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Logical and Semantic Frameworks, with Applications</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Alves</surname>
+                    <givenname>S.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Wassermann</surname>
+                    <givenname>R.</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-data role="pubs">frabe,oaf,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:cons:16,
     author = {Florian Rabe},
@@ -26442,6 +26754,23 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 <bib-title>TH1: The TPTP Typed Higher-Order Form with Rank-1 Polymorphism</bib-title>
                 <bib-date role="publication">2016</bib-date>
                 <bib-part role="pages">41–55</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on Practical Aspects of Automated Reasoning</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Fontaine</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Schulz</surname>
+                    <givenname>S.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Urban</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-data role="pubs">frabe,oaf</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{KRS:thf1:16,
     author = {C. Kaliszyk and Florian Rabe and G. Sutcliffe},
@@ -26465,6 +26794,30 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 <bib-title>Breakout session on A standard for system integration and proof interchange</bib-title>
                 <bib-date role="publication">2016</bib-date>
                 <bib-part role="pages">94–94</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Dagstuhl Seminar on Universality of Proofs</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Dowek</surname>
+                    <givenname>G.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Dubois</surname>
+                    <givenname>C.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Pientka</surname>
+                    <givenname>B.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Rabe</surname>
+                    <givenname>Florian</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">frabe,oaf,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:mmt:standard:16,
     author = {R. Kumar and Florian Rabe},
@@ -26485,6 +26838,30 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 <bib-title>MMT: A UniFormal Approach to Knowledge Representation</bib-title>
                 <bib-date role="publication">2016</bib-date>
                 <bib-part role="pages">88–88</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Dagstuhl Seminar on Universality of Proofs</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Dowek</surname>
+                    <givenname>G.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Dubois</surname>
+                    <givenname>C.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Pientka</surname>
+                    <givenname>B.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Rabe</surname>
+                    <givenname>Florian</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">frabe,oaf,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:mmt:universality:16,
     author = {Florian Rabe},
@@ -26559,6 +26936,34 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 <bib-title>Formal Logic Definitions for Interchange Languages</bib-title>
                 <bib-date role="publication">2015</bib-date>
                 <bib-part role="pages">171–186</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Kerber</surname>
+                    <givenname>M.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Carette</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Kaliszyk</surname>
+                    <givenname>C.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Rabe</surname>
+                    <givenname>Florian</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Sorge</surname>
+                    <givenname>V.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">frabe,oaf,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{HR:tptp:12,
     author = {F. Horozal and Florian Rabe},
@@ -26579,6 +26984,34 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 <bib-title>Generic Literals</bib-title>
                 <bib-date role="publication">2015</bib-date>
                 <bib-part role="pages">102–117</bib-part>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Intelligent Computer Mathematics</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Kerber</surname>
+                    <givenname>M.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Carette</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Kaliszyk</surname>
+                    <givenname>C.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Rabe</surname>
+                    <givenname>Florian</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Sorge</surname>
+                    <givenname>V.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>Springer</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">frabe,oaf,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:literals:14,
     author = {Florian Rabe},
@@ -26598,6 +27031,58 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 </bib-name>
                 <bib-title>MMT Objects</bib-title>
                 <bib-date role="publication">2014</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshops and Work in Progress at CICM 2014: OpenMath Workshop</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>England</surname>
+                    <givenname>M.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Davenport</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Kohlhase</surname>
+                    <givenname>A.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Kohlhase</surname>
+                    <givenname>M.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Libbrecht</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Neuper</surname>
+                    <givenname>W.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Quaresma</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Sexton</surname>
+                    <givenname>A.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Sojka</surname>
+                    <givenname>P.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Urban</surname>
+                    <givenname>J.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Watt</surname>
+                    <givenname>S.</givenname>
+                  </bib-name>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-publisher>CEUR-WS.org</bib-publisher>
+                </bib-related>
                 <bib-data role="pubs">frabe,mmt,oaf</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{rabe:mmtobjects:14,
     author = {Florian Rabe},
@@ -26620,6 +27105,19 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 </bib-name>
                 <bib-title>(Work-in-Progress) An MMT-Based User-Interface</bib-title>
                 <bib-date role="publication">2012</bib-date>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>Workshop on User Interfaces for Theorem Provers</bib-title>
+                </bib-related>
+                <bib-related role="host" type="proceedings">
+                  <bib-name role="editor">
+                    <surname>Kaliszyk</surname>
+                    <givenname>C.</givenname>
+                  </bib-name>
+                  <bib-name role="editor">
+                    <surname>Lüth</surname>
+                    <givenname>C.</givenname>
+                  </bib-name>
+                </bib-related>
                 <bib-data role="pubs">miancu,frabe,mmt</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{IR:ui:12,
     author = {Mihnea Iancu and Florian Rabe},
@@ -26665,6 +27163,9 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
                 <bib-title>Structuring theories with implicit morphisms</bib-title>
                 <bib-date role="publication">2018</bib-date>
                 <bib-url href="https://kwarc.info/people/frabe/Research/RM_implicit_18.pdf">Link</bib-url>
+                <bib-related role="host" type="proceedings">
+                  <bib-title>24th International Workshop on Algebraic Development Techniques 2018</bib-title>
+                </bib-related>
                 <bib-data role="pubs">frabe,mmt,dmueller,oaf</bib-data>
                 <bib-data role="self" type="BibTeX">@inproceedings{RabMue:WADT18,
     author = {Florian Rabe and Dennis M{\"u}ller},
