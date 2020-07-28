@@ -20,15 +20,21 @@
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
-        <bib-data role="20">volume</bib-data>
+        <bib-part role="volume">12236</bib-part>
+        <bib-date role="publication">2020</bib-date>
+        <bib-identifier id="978-3-030-53518-6" scheme="isbn">ISBN 978-3-030-53518-6</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM20,
      label = {CICM},
     editor = {Benzm{\"u}ller, Christoph and Miller, Bruce},
      title = {Intelligent Computer Mathematics},
- booktitle = {{Intelligent Computer Mathematics} (CICM) 2020},
+ booktitle = {Intelligent Computer Mathematics ({CICM}) 2020},
  publisher = {Springer},
     series = {LNAI},
-        20 = {volume}}
+    volume = {12236},
+      year = {2020},
+      isbn = {978-3-030-53518-6},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="ICMS20" type="proceedings" xml:id="bib.bib2">
