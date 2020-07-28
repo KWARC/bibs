@@ -249,7 +249,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="IJCAR20" type="proceedings" xml:id="bib.bib9">
-        <bib-title>10th international joint conference on automated reasoning</bib-title>
+        <bib-title>10th international joint conference on automated reasoning (IJCAR 2020)</bib-title>
         <bib-name role="editor">
           <surname>Peltier</surname>
           <givenname>Nicolas</givenname>
@@ -262,8 +262,8 @@
         <bib-date role="publication">2020</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR20,
- booktitle = {10th International Joint Conference on Automated Reasoning},
-     title = {10th International Joint Conference on Automated Reasoning},
+ booktitle = {10th International Joint Conference on Automated Reasoning({IJCAR} 2020)},
+     title = {10th International Joint Conference on Automated Reasoning ({IJCAR} 2020)},
     editor = {Peltier, Nicolas and Sofronie-Stokkermans, Viorica},
  publisher = {Springer Verlag},
       year = {2020},

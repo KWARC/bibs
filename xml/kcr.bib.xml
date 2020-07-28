@@ -736,6 +736,7 @@
         <bib-part role="pages">206–221</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-features.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,dmueller,oaf,mmt</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2020</bib-title>
           <bib-publisher>Springer</bib-publisher>
@@ -748,6 +749,7 @@
      pages = {206–221},
        url = {https://kwarc.info/kohlhase/papers/cicm20-features.pdf},
       pubs = {mkohlhase,frabe,dmueller,oaf,mmt},
+  keywords = {conference},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2020},
  publisher = {Springer},
       year = {2020}}
@@ -788,6 +790,7 @@
         <bib-part role="pages">290–296</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-tgview3d.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,rmarcus,mathhub,mmt</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2020</bib-title>
           <bib-publisher>Springer</bib-publisher>
@@ -800,6 +803,7 @@
      pages = {290–296},
        url = {https://kwarc.info/kohlhase/papers/cicm20-tgview3d.pdf},
       pubs = {mkohlhase,frabe,rmarcus,mathhub,mmt},
+  keywords = {conference},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2020},
  publisher = {Springer},
       year = {2020}}
@@ -871,6 +875,7 @@
 <bib-identifier href="http://dx.doi.org/10.1007/978-3-030-53518-6%5F11" id="10.1007/978-3-030-53518-6_11" scheme="doi">Document</bib-identifier>
 <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-frameit.pdf">Link</bib-url>
 <bib-data role="pubs">mkohlhase,nroux,rmarcus,dmueller,frameit,mmt</bib-data>
+<bib-extract role="keywords">conference</bib-extract>
 <bib-related role="host" type="proceedings">
                     <bib-title>Intelligent Computer Mathematics (CICM) 2020</bib-title>
                   </bib-related>
@@ -889,6 +894,7 @@
        doi = {10.1007/978-3-030-53518-6_11},
        url = {https://kwarc.info/kohlhase/papers/cicm20-frameit.pdf},
       pubs = {mkohlhase,nroux,rmarcus,dmueller,frameit,mmt},
+  keywords = {conference},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2020},
  publisher = {Springer},
       year = {2020}}
@@ -958,6 +964,7 @@
                 <bib-url href="https://kwarc.info/kohlhase/papers/cicm20-search.pdf">Link</bib-url>
                 <bib-part role="pages">39–54</bib-part>
                 <bib-data role="pubs">kbercic,mkohlhase,frabe</bib-data>
+                <bib-extract role="keywords">conference</bib-extract>
                 <bib-related role="host" type="proceedings">
                   <bib-title>Intelligent Computer Mathematics (CICM) 2020</bib-title>
                 </bib-related>
@@ -972,6 +979,7 @@
   crossref = {CICM20},
      pages = {39–54},
       pubs = {kbercic,mkohlhase,frabe},
+  keywords = {conference},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2020},
  publisher = {Springer}}
 </bib-data>
@@ -1221,23 +1229,24 @@
                   <surname>Schaefer</surname>
                   <givenname>Jan Frederik</givenname>
                 </bib-name>
-                <bib-related role="host" type="proceedings"><bib-title>10th international joint conference on automated reasoning</bib-title><bib-name role="editor">
+                <bib-related role="host" type="proceedings"><bib-title>10th international joint conference on automated reasoning (IJCAR 2020)</bib-title><bib-name role="editor">
                   <surname>Peltier</surname>
                   <givenname>Nicolas</givenname>
                 </bib-name><bib-name role="editor">
                   <surname>Sofronie-Stokkermans</surname>
                   <givenname>Viorica</givenname>
                 </bib-name><bib-publisher>Springer Verlag</bib-publisher><bib-date role="publication">2020</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{IJCAR20,
- booktitle = {10th International Joint Conference on Automated Reasoning},
-     title = {10th International Joint Conference on Automated Reasoning},
+ booktitle = {10th International Joint Conference on Automated Reasoning({IJCAR} 2020)},
+     title = {10th International Joint Conference on Automated Reasoning ({IJCAR} 2020)},
     editor = {Peltier, Nicolas and Sofronie-Stokkermans, Viorica},
  publisher = {Springer Verlag},
       year = {2020},
   keywords = {conference}}
 </bib-data></bib-related>
                 <bib-data role="pubs">mkohlhase,frabe,jfschaefer,oaf,comma</bib-data>
+                <bib-extract role="keywords">conference</bib-extract>
                 <bib-related role="host" type="proceedings">
-                  <bib-title>10th International Joint Conference on Automated Reasoning</bib-title>
+                  <bib-title>10th International Joint Conference on Automated Reasoning(IJCAR 2020)</bib-title>
                 </bib-related>
                 <bib-related role="host" type="proceedings">
                   <bib-publisher>Springer Verlag</bib-publisher>
@@ -1248,7 +1257,8 @@
     author = {Michael Kohlhase and Florian Rabe and Claudio Sacerdoti Coen and Jan Frederik Schaefer},
   crossref = {IJCAR20},
       pubs = {mkohlhase,frabe,jfschaefer,oaf,comma},
- booktitle = {10th International Joint Conference on Automated Reasoning},
+  keywords = {conference},
+ booktitle = {10th International Joint Conference on Automated Reasoning({IJCAR} 2020)},
  publisher = {Springer Verlag},
       year = {2020}}
 </bib-data>
@@ -37485,7 +37495,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
 </bib-data>
               </bibentry>
               <bibentry key="IJCAR20" type="proceedings" xml:id="biba.bib1205">
-                <bib-title>10th international joint conference on automated reasoning</bib-title>
+                <bib-title>10th international joint conference on automated reasoning (IJCAR 2020)</bib-title>
                 <bib-name role="editor">
                   <surname>Peltier</surname>
                   <givenname>Nicolas</givenname>
@@ -37498,8 +37508,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
                 <bib-date role="publication">2020</bib-date>
                 <bib-extract role="keywords">conference</bib-extract>
                 <bib-data role="self" type="BibTeX">@proceedings{IJCAR20,
- booktitle = {10th International Joint Conference on Automated Reasoning},
-     title = {10th International Joint Conference on Automated Reasoning},
+ booktitle = {10th International Joint Conference on Automated Reasoning({IJCAR} 2020)},
+     title = {10th International Joint Conference on Automated Reasoning ({IJCAR} 2020)},
     editor = {Peltier, Nicolas and Sofronie-Stokkermans, Viorica},
  publisher = {Springer Verlag},
       year = {2020},
