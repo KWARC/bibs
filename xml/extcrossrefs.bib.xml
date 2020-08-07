@@ -59,7 +59,7 @@
           <surname>de Wolff</surname>
           <givenname>Timo</givenname>
         </bib-name>
-        <bib-part role="series">Lecture Notes in Computer Science</bib-part>
+        <bib-part role="series">LNCS</bib-part>
         <bib-part role="volume">12097</bib-part>
         <bib-publisher>Springer</bib-publisher>
         <bib-identifier id="978-3-030-52199-8" scheme="isbn">ISBN 978-3-030-52199-8</bib-identifier>
@@ -69,7 +69,7 @@
  booktitle = {Mathematical Software – ICMS 2020. 7th international conference},
      title = {Mathematical Software – ICMS 2020. 7th international conference},
     editor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
-    series = {Lecture Notes in Computer Science},
+    series = {LNCS},
     volume = {12097},
  publisher = {Springer},
       isbn = {978-3-030-52199-8},
@@ -262,7 +262,7 @@
         <bib-date role="publication">2020</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{IJCAR20,
- booktitle = {10th International Joint Conference on Automated Reasoning({IJCAR} 2020)},
+ booktitle = {10th International Joint Conference on Automated Reasoning ({IJCAR} 2020)},
      title = {10th International Joint Conference on Automated Reasoning ({IJCAR} 2020)},
     editor = {Peltier, Nicolas and Sofronie-Stokkermans, Viorica},
  publisher = {Springer Verlag},
