@@ -11,14 +11,14 @@
           <givenname>Jonas</givenname>
         </bib-name>
         <bib-title><text font="typewriter">juptyter.kwarc.info</text> documentation</bib-title>
-        <bib-url href="https://kwarc.info/teaching/IWGS/serverdoc.pdf">Link</bib-url>
+        <bib-url href="https://kwarc.info/teaching/IWGS/jupyter-documentation.pdf">Link</bib-url>
         <bib-data role="urldate">2020-08-29</bib-data>
         <bib-data role="pubs">jbetzendahl</bib-data>
         <bib-data role="self" type="BibTeX">@online{Betzendahl:jkid20,
      label = {JKI},
     author = {Jonas Betzendahl},
      title = {\texttt{juptyter.kwarc.info} Documentation},
-       url = {https://kwarc.info/teaching/IWGS/serverdoc.pdf},
+       url = {https://kwarc.info/teaching/IWGS/jupyter-documentation.pdf},
    urldate = {2020-08-29},
       pubs = {jbetzendahl}}
 </bib-data>
