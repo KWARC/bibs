@@ -2,6 +2,15 @@
 @STRING{stexyear = 2020}
 @STRING{testing = 16}
 
+@online{Betzendahl:jkid20,
+  label = {JKI},
+  author = {Jonas Betzendahl},
+  title = {\texttt{juptyter.kwarc.info} Documentation},
+  url = {https://kwarc.info/teaching/IWGS/jupyter-documentation.pdf},
+  urldate = {2020-08-29},
+  pubs = {jbetzendahl}}
+  
+
 @unpublished{RouRab:wadt20,
   title = {{Structure-Preserving Diagram Operators}},
   author = {Navid Roux and Florian Rabe},
@@ -43,11 +52,24 @@
  
 
 @misc{popovhayashi:url,crossref={popovhayashi:base},
-  howpublished = {\url{https://gl.mathhub.info/jlogic/pvh}},
+  howpublished = {\url{https://gl.mathhub.info/jlogic/pvh}}}
+@online{popovhayashi:on,crossref={popovhayashi:base},
+  label = {PvH},
+  url = {https://gl.mathhub.info/jlogic/pvh},
   year = 2020}
 @misc{popovhayashi:base,
   key = {PvH},
-  url = {https://gl.mathhub.info/jlogic/pvh},
+  year = 2020,
+  title = {{Popov v. Hayashi} as a Context Graph}}
+
+@misc{jlogic:url,crossref={jlogic:base},
+  key = {PvH},
+  howpublished = {\url{https://gl.mathhub.info/jlogic/course}}}
+@online{jlogic:on,crossref={jlogic:base},
+  label = {PvH},
+  url = {https://gl.mathhub.info/jlogic/course},
+  year = 2020}
+@misc{jlogic:base,
   title = {{Popov v. Hayashi} as a Context Graph}}
 
 @MastersThesis{Meier:msc97,
@@ -182,6 +204,7 @@
   pubs = {bscthesis},
   type =     {Bachelor's Thesis},
   url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2013/rachev_daniel.pdf},
+  doi = {978-3-030-53518-6_11},
   pubs={mscthesis,frameit}}
 
 @mastersthesis{Makaveeva:msc09,
@@ -254,6 +277,7 @@
   title = {Prototyping Controlled Mathematical Languages in Jupyter Notebooks},
   year = {2020},
   crossref = {ICMS20},
+  pages = {406--415},
   url = {https://kwarc.info/kohlhase/papers/icms20-glf-jupyter.pdf},
   pubs = {jfschaefer,mkohlhase,mmt,comma}}
   
@@ -261,22 +285,30 @@
   title = {Representing Structural Language Features in Formal Meta-Languages},
   author = {Dennis M{\"u}ller and Florian Rabe and Colin Rothgang and Michael Kohlhase},
   crossref = {CICM20},
+  pages = {206--221},
   url = {https://kwarc.info/kohlhase/papers/cicm20-features.pdf},
-  pubs = {mkohlhase,frabe,dmueller,oaf,mmt}}
+  pubs = {mkohlhase,frabe,dmueller,oaf,mmt},
+  keywords = {conference}}
+
 
 @inproceedings{MarKohRab:tgview3D20,
   title = {TGView3D: a System  for 3-Dimensional Visualization of Theory Graphs},
   author = {Richard Marcus and Michael Kohlhase and Florian Rabe},
   crossref = {CICM20},
+  pages = {290--296},
   url = {https://kwarc.info/kohlhase/papers/cicm20-tgview3d.pdf},
-  pubs = {mkohlhase,frabe,rmarcus,mathhub,mmt}}
+  pubs = {mkohlhase,frabe,rmarcus,mathhub,mmt},
+  keywords = {conference}}
 
 @inproceedings{KohBoeMar:frameit20,
-  title = {{FrameIT: Detangling Knowledge Management from Game Design in Serious Games}},
+  title = {{FrameIT}: Detangling Knowledge Management from Game Design in Serious Games},
   author = {Michael Kohlhase and Benjamin B{\"o}sl and Richard Marcus and Dennis M{\"u}ller and Denis Rochau and Navid Roux and John Schihada and Marc Stamminger}, 
   crossref = {CICM20},
+  pages={173--189},
+  XXdoi = {10.1007/978-3-030-53518-6_11},
   url = {https://kwarc.info/kohlhase/papers/cicm20-frameit.pdf},
-  pubs = {mkohlhase,nroux,rmarcus,dmueller,frameit,mmt}}
+  pubs = {mkohlhase,nroux,rmarcus,dmueller,frameit,mmt},
+  keywords = {conference}}
 
 @unpublished{SchKoh:glif20,
   author = {Jan Frederik Schaefer and Michael Kohlhase},
@@ -294,22 +326,23 @@
   pubs = {akohlhase,mkohlhase}}
 
 @inproceedings{BerKohRab:thqlmk20,
-  crossref = {BerKohRab:thqlmk20:base},
+  author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
+  year = {2020},
   title = {Towards a Heterogeneous Query Language for Mathematical Knowledge},
   url = {https://kwarc.info/kohlhase/papers/cicm20-search.pdf},
   crossref = {CICM20},
-  pubs = {kbercic,mkohlhase,frabe}}
+  pages = {39--54},
+  pubs = {kbercic,mkohlhase,frabe},
+  keywords = {conference}}
   
 @online{BerKohRab:thqlmker20,
-  crossref = {BerKohRab:thqlmk20:base},
+  author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
+  year = {2020},
   title = {Towards a Heterogeneous Query Language for Mathematical Knowledge -- Extended Report},
   url = {https://kwarc.info/kohlhase/papers/tetrasearch.pdf},
   type = {Living Whitepaper},
   pubs = {mkohlhase,frabe,kbercic,mathhub,mmt},
   urldate = {2020-03-27}}
-@misc{BerKohRab:thqlmk20:base,
-  author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
-  year = {2020}}  
 
 @online{ufmmt:on,
   label = {UFM},
@@ -373,7 +406,8 @@
   title = {Logic-Independent Proof Search in Logical Frameworks (short paper)},
   author = {Michael Kohlhase and Florian Rabe and Claudio Sacerdoti Coen and Jan Frederik Schaefer},
   crossref = {IJCAR20},
-  pubs = {mkohlhase,frabe,jfschaefer,oaf,comma}}
+  pubs = {mkohlhase,frabe,jfschaefer,oaf,comma},
+  keywords = {conference}}
 
 @phdthesis{DMueller:phd:19,
   author = {Dennis M{\"u}ller},
@@ -720,7 +754,7 @@
   isbn = {978-3-319-25638-2},
   doi = {10.1007/978-3-319-25639-9_1},
   pages = {3-8},
-  bolume = {9341},
+  volume = {9341},
   year = {2015},
   pubs = {kbercic}}
 
@@ -8769,25 +8803,6 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
   url = {https://kwarc.info/people/frabe/Research/RM_implicit_18.pdf},
   booktitle = {24th International Workshop on Algebraic Development Techniques 2018},
   pubs={frabe,mmt,dmueller,oaf}
-}
-
-@proceedings{CICM14,
-  editor = {Stephan Watt and James Davenport and Alan Sexton and Petr Sojka and Josef Urban},
-  venue = {Coimbra, Portugal},
-  eventdate = {2014-07-07/2014-07-11},
-  eventtitle = {Conferences on Intelligent Computer Mathematics},
-  title = {Intelligent Computer Mathematics},
-  booktitle = {{Intelligent Computer Mathematics} 2014},
-  NOkey = {CICM14},
-  NOlabel = {CICM14},
-  keywords = {conference},
-  publisher = {Springer},
-  series    = {LNCS},
-  number    = {8543},
-  isbn = {978-3-319-08433-6},
-  year = 2014,
-  acceptancerate = {64},
-  acceptancerateCOMMENT = {MKM/Calculemus/DML: 26/41, S&P: 9/14, overall: 35/55},
 }
 
 @unpublished{RapAdrKoh:cglra20,
