@@ -822,7 +822,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="SchKoh:glif20" type="unpublished" xml:id="bib.bib41">
+      <bibentry key="SchKoh:glif20" type="inproceedings" xml:id="bib.bib41">
         <bib-name role="author">
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
@@ -832,16 +832,37 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>GLIF: a declarative framework for symbolic natural language understanding</bib-title>
+        <bib-related role="host" type="proceedings">
+          <bib-title>Proceedings of the 6th Workshop on Formal and Cognitive Reasoning</bib-title>
+          <bib-name role="editor">
+            <surname>Beierle</surname>
+            <givenname>Christoph</givenname>
+          </bib-name>
+          <bib-name role="editor">
+            <surname>Ragni</surname>
+            <givenname>Marco</givenname>
+          </bib-name>
+          <bib-name role="editor">
+            <surname>Stolzenburg</surname>
+            <givenname>Frieder</givenname>
+          </bib-name>
+          <bib-name role="editor">
+            <surname>Thimm</surname>
+            <givenname>Matthias</givenname>
+          </bib-name>
+        </bib-related>
+        <bib-part role="pages">4–11</bib-part>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">submitted</bib-note>
-        <bib-url href="https://kwarc.info/kohlhase/submit/ki20-glif.pdf">Link</bib-url>
+        <bib-url href="http://ceur-ws.org/Vol-2680/paper1.pdf">Link</bib-url>
         <bib-data role="pubs">jfschaefer,mkohlhase,mmt,comma</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{SchKoh:glif20,
+        <bib-data role="self" type="BibTeX">@inproceedings{SchKoh:glif20,
     author = {Jan Frederik Schaefer and Michael Kohlhase},
      title = {{GLIF}: A Declarative Framework for Symbolic Natural Language Understanding},
+ booktitle = {Proceedings of the 6th Workshop on Formal and Cognitive Reasoning},
+    editor = {Beierle, Christoph and Ragni, Marco and Stolzenburg, Frieder and Thimm, Matthias},
+     pages = {4–11},
       year = {2020},
-      note = {submitted},
-       url = {https://kwarc.info/kohlhase/submit/ki20-glif.pdf},
+       url = {http://ceur-ws.org/Vol-2680/paper1.pdf},
       pubs = {jfschaefer,mkohlhase,mmt,comma}}
 </bib-data>
       </bibentry>
