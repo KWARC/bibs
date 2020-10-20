@@ -51,14 +51,14 @@
         <bib-url href="https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Schihada_John.pdf">Link</bib-url>
         <bib-type>Master Project Report</bib-type>
         <bib-date role="publication">2020</bib-date>
-        <bib-data role="pubs">msproject</bib-data>
+        <bib-data role="pubs">msproject,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Schihada:f20,
      title = {{FameIT}},
     author = {John Schihada},
        url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Schihada_John.pdf},
       type = {Master Project Report},
       date = {2020},
-      pubs = {msproject}}
+      pubs = {msproject,frameit}}
 </bib-data>
       </bibentry>
       <bibentry key="AizKoh:mir20" type="incollection" xml:id="bib.bib4">
