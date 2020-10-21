@@ -155,7 +155,7 @@
 	<xsl:choose>
 	  <xsl:when test="$id='phdthesis'"><title>KWARC Ph.D. Theses</title></xsl:when>
 	  <xsl:when test="$id='mscthesis'"><title>KWARC Masters Theses</title></xsl:when>
-	  <xsl:when test="$id='mscproject"><title>KWARC Masters Project Reports</title></xsl:when>
+	  <xsl:when test="$id='mscproject'"><title>KWARC Masters Project Reports</title></xsl:when>
 	  <xsl:when test="$id='bscthesis'"><title>KWARC Bachelors Theses</title></xsl:when>
 	  <xsl:when test="$id='bscproject'"><title>KWARC Bachelors Project Reports</title></xsl:when>
 	  <xsl:when test="$id='theses'"><title>KWARC Theses</title></xsl:when>
