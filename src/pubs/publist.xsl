@@ -155,7 +155,9 @@
 	<xsl:choose>
 	  <xsl:when test="$id='phdthesis'"><title>KWARC Ph.D. Theses</title></xsl:when>
 	  <xsl:when test="$id='mscthesis'"><title>KWARC Masters Theses</title></xsl:when>
+	  <xsl:when test="$id='mscproject"><title>KWARC Masters Project Reports</title></xsl:when>
 	  <xsl:when test="$id='bscthesis'"><title>KWARC Bachelors Theses</title></xsl:when>
+	  <xsl:when test="$id='bscproject'"><title>KWARC Bachelors Project Reports</title></xsl:when>
 	  <xsl:when test="$id='theses'"><title>KWARC Theses</title></xsl:when>
 	  <xsl:otherwise>
 	    <title><xsl:value-of select="$name"/>: Selected Publications</title>
@@ -183,7 +185,9 @@
 	      <xsl:choose>
 		<xsl:when test="$id='phdthesis'"><H1>KWARC Ph.D. Theses</H1></xsl:when>
 		<xsl:when test="$id='mscthesis'"><H1>KWARC Masters Theses</H1></xsl:when>
+		<xsl:when test="$id='mscproject'"><H1>KWARC Masters Project Reports</H1></xsl:when>
 		<xsl:when test="$id='bscthesis'"><H1>KWARC Bachelors Theses</H1></xsl:when>
+		<xsl:when test="$id='bscproject'"><H1>KWARC Bachelors Project Reports</H1></xsl:when>
 		<xsl:when test="$id='theses'"><H1>KWARC Theses</H1></xsl:when>
 		<xsl:otherwise>
 		  <h1><xsl:value-of select="$name"/>: Selected Publications</h1>
@@ -238,8 +242,20 @@
 		    <xsl:copy-of select="."/>
 		  </xsl:for-each>
 		</xsl:when>
+		<xsl:when test="$id='mscproject'">
+		  <xsl:for-each select="document('mscproject-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
+		    <xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]"/>
+		    <xsl:copy-of select="."/>
+		  </xsl:for-each>
+		</xsl:when>
 		<xsl:when test="$id='bscthesis'">
 		  <xsl:for-each select="document('bscthesis-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
+		    <xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]"/>
+		    <xsl:copy-of select="."/>
+		  </xsl:for-each>
+		</xsl:when>
+		<xsl:when test="$id='bscproject'">
+		  <xsl:for-each select="document('bscproject-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
 		    <xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]"/>
 		    <xsl:copy-of select="."/>
 		  </xsl:for-each>
@@ -255,8 +271,18 @@
 		    <xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]"/>
 		    <xsl:copy-of select="."/>
 		  </xsl:for-each>
+		  <h2>Masters Project Reports</h2>
+		  <xsl:for-each select="document('mscproject-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
+		    <xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]"/>
+		    <xsl:copy-of select="."/>
+		  </xsl:for-each>
 		  <h2>Bachelors Theses</h2>
 		  <xsl:for-each select="document('bscthesis-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
+		    <xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]"/>
+		    <xsl:copy-of select="."/>
+		  </xsl:for-each>
+		  <h2>Bachelors Project Reports</h2>
+		  <xsl:for-each select="document('bscproject-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
 		    <xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]"/>
 		    <xsl:copy-of select="."/>
 		  </xsl:for-each>
