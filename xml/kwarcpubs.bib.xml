@@ -1171,12 +1171,14 @@
           <givenname>Jan Frederik</givenname>
         </bib-name>
         <bib-related bibrefs="IJCAR20" role="host"/>
+        <bib-part role="pages">395–401</bib-part>
         <bib-data role="pubs">mkohlhase,frabe,jfschaefer,oaf,comma</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{KohRabSacSch:lipslfsp20,
      title = {Logic-Independent Proof Search in Logical Frameworks (short paper)},
     author = {Michael Kohlhase and Florian Rabe and Claudio Sacerdoti Coen and Jan Frederik Schaefer},
   crossref = {IJCAR20},
+     pages = {395–401},
       pubs = {mkohlhase,frabe,jfschaefer,oaf,comma},
   keywords = {conference}}
 </bib-data>
