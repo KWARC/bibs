@@ -1789,21 +1789,19 @@
         </bib-name>
         <bib-title>Big math and the one-brain barrier – the tetrapod model of mathematical knowledge</bib-title>
         <bib-date role="publication">2020</bib-date>
-        <bib-url href="https://arxiv.org/abs/1904.10405">Link</bib-url>
+        <bib-identifier href="http://dx.doi.org/10.1007/s00283-020-10006-0" id="10.1007/s00283-020-10006-0" scheme="doi">Document</bib-identifier>
         <bib-related role="host" type="journal">
           <bib-title>Mathematical Intelligencer</bib-title>
         </bib-related>
         <bib-data role="pubisher">Springer Verlag</bib-data>
-        <bib-note role="annotation">in press</bib-note>
         <bib-data role="pubs">mkohlhase,frabe,tetrapod,odk,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@article{CarFarKohRab:bmobb19,
     author = {Jacques Carette and William M. Farmer and Michael Kohlhase and Florian Rabe},
      title = {Big Math and the  One-Brain Barrier – The Tetrapod Model of Mathematical Knowledge},
       year = {2020},
-       url = {https://arxiv.org/abs/1904.10405},
+       doi = {10.1007/s00283-020-10006-0},
    journal = {Mathematical Intelligencer},
   pubisher = {Springer Verlag},
-      note = {in press},
       pubs = {mkohlhase,frabe,tetrapod,odk,oaf}}
 </bib-data>
       </bibentry>
