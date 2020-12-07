@@ -418,7 +418,7 @@
         <bib-part role="volume">8592</bib-part>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-662-44199-2" id="10.1007/978-3-662-44199-2" scheme="doi">Document</bib-identifier>
         <bib-identifier id="978-3-662-44198-5" scheme="isbn">ISBN 978-3-662-44198-5</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS14,
     editor = {Hoon Hong and Chee Yap},
@@ -456,7 +456,7 @@
         <bib-part role="volume">9725</bib-part>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-publisher>Springer</bib-publisher>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-319-42432-3" id="10.1007/978-3-319-42432-3" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-319-42432-3" id="10.1007/978-3-319-42432-3" scheme="doi">Document</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS16,
     editor = {Gert-Martin Greuel and Thorsten Koch and Peter Paule and Andrew Sommese},
      title = {Mathematical Software - {ICMS} 2016 - 5th International Congress},
@@ -744,7 +744,7 @@
         <bib-part role="series">EPTCS</bib-part>
         <bib-part role="volume">79</bib-part>
         <bib-date role="publication">2011</bib-date>
-        <bib-identifier href="http://dx.doi.org/10.4204/EPTCS.79" id="10.4204/EPTCS.79" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.4204/EPTCS.79" id="10.4204/EPTCS.79" scheme="doi">Document</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{THEDU11,
     editor = {Pedro Quaresma and Ralph-Johan Back},
      title = {Proceedings First Workshop on CTP Components for Educational
@@ -893,7 +893,7 @@
         <bib-part role="series">LNCS</bib-part>
         <bib-part role="number">7295</bib-part>
         <bib-date role="publication">2012</bib-date>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-642-30284-8" id="10.1007/978-3-642-30284-8" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-642-30284-8" id="10.1007/978-3-642-30284-8" scheme="doi">Document</bib-identifier>
         <bib-identifier id="978-3-642-30283-1" scheme="isbn">ISBN 978-3-642-30283-1</bib-identifier>
         <bib-data role="acceptancerate">25</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{eswc2012,
@@ -8782,7 +8782,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-identifier id="1-59593-375-1" scheme="isbn">ISBN 1-59593-375-1</bib-identifier>
         <bib-data role="location">Shanghai, China</bib-data>
-        <bib-identifier href="http://dx.doi.org/10.1145/1134285.1134312" id="10.1145/1134285.1134312" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1145/1134285.1134312" id="10.1145/1134285.1134312" scheme="doi">Document</bib-identifier>
         <bib-url href="http://doi.acm.org/10.1145/1134285.1134312">Link</bib-url>
         <bib-publisher>ACM</bib-publisher>
         <bib-place>New York, NY, USA</bib-place>
@@ -10643,7 +10643,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-organization>ACM Special Interest Group for Design of Communication</bib-organization>
         <bib-publisher>ACM Press</bib-publisher>
         <bib-place>New York, NY, USA</bib-place>
-        <bib-identifier href="http://dx.doi.org/10.1145/1621995.1622013" id="10.1145/1621995.1622013" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1145/1621995.1622013" id="10.1145/1621995.1622013" scheme="doi">Document</bib-identifier>
         <bib-data role="venue">Bloomington, Indiana, USA</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="eventdate">2009</bib-data>
@@ -10685,7 +10685,7 @@ Intelligence (IJCAI)</bib-title>
         <bib-organization>ACM Special Interest Group for Design of Communication</bib-organization>
         <bib-publisher>ACM Press</bib-publisher>
         <bib-place>New York, NY, USA</bib-place>
-        <bib-identifier href="http://dx.doi.org/10.1145/1621995.1622013" id="10.1145/1621995.1622013" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1145/1621995.1622013" id="10.1145/1621995.1622013" scheme="doi">Document</bib-identifier>
         <bib-data role="venue">Bloomington, Indiana, USA</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="eventdate">2009</bib-data>
@@ -11201,7 +11201,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-part role="number">5901</bib-part>
         <bib-date role="publication">2010</bib-date>
         <bib-identifier id="978-3-642-11265-2" scheme="isbn">ISBN 978-3-642-11265-2</bib-identifier>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-642-11266-9" id="10.1007/978-3-642-11266-9" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-642-11266-9" id="10.1007/978-3-642-11266-9" scheme="doi">Document</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{SOFSEM2010,
     editor = {Jan van Leeuwen and
                Anca Muscholl and
@@ -11554,7 +11554,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-part role="number">5972</bib-part>
         <bib-date role="publication">2010</bib-date>
         <bib-identifier id="978-3-642-14417-2" scheme="isbn">ISBN 978-3-642-14417-2</bib-identifier>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-642-14418-9" id="10.1007/978-3-642-14418-9" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-642-14418-9" id="10.1007/978-3-642-14418-9" scheme="doi">Document</bib-identifier>
         <bib-data role="bibsource">DBLP, http://dblp.uni-trier.de</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{cnl2009,
     editor = {Norbert E. Fuchs},
@@ -11605,7 +11605,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-title>LNCS: Online Communities and Social Computing</bib-title>
         <bib-date role="publication">2007</bib-date>
         <bib-identifier id="978-3-540-73256-3" scheme="isbn">ISBN 978-3-540-73256-3</bib-identifier>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-540-73257-0" id="10.1007/978-3-540-73257-0" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-540-73257-0" id="10.1007/978-3-540-73257-0" scheme="doi">Document</bib-identifier>
         <bib-url href="http://doi.acm.org/10.1007/978-3-540-73257-0">Link</bib-url>
         <bib-part role="number">4564</bib-part>
         <bib-publisher>Springer Berlin/ Heidelberg</bib-publisher>
@@ -11774,7 +11774,7 @@ Lutz Schr{\"o}der and Shi Hui and Mattias Werner},
         <bib-data role="booktitle">Emerging Technologies for Semantic Work Environments: Techniques,
                   Methods, and Applications</bib-data>
         <bib-publisher>IGI Global</bib-publisher>
-        <bib-identifier href="http://dx.doi.org/10.4018/978-1-59904-877-2" id="10.4018/978-1-59904-877-2" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.4018/978-1-59904-877-2" id="10.4018/978-1-59904-877-2" scheme="doi">Document</bib-identifier>
         <bib-url href="http://www.igi-global.com/reference/details.asp?ID=7543">Link</bib-url>
         <bib-data role="self" type="BibTeX">@book{ReDeRa:SWE07,
       year = {2008},

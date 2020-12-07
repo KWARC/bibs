@@ -280,7 +280,7 @@ Frank Tompa and Martin Suda},
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-319-62075-6" id="10.1007/978-3-319-62075-6" scheme="doi">Document</bib-identifier>
         <bib-part role="series">LNAI</bib-part>
         <bib-part role="number">10383</bib-part>
         <bib-identifier id="978-3-319-62074-9" scheme="isbn">ISBN 978-3-319-62074-9</bib-identifier>
@@ -322,7 +322,7 @@ Frank Tompa and Martin Suda},
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-319-96812-4" id="10.1007/978-3-319-96812-4" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-319-96812-4" id="10.1007/978-3-319-96812-4" scheme="doi">Document</bib-identifier>
         <bib-identifier id="978-3-319-96811-7" scheme="isbn">ISBN 978-3-319-96811-7</bib-identifier>
         <bib-part role="series">LNAI</bib-part>
         <bib-part role="number">11006</bib-part>
@@ -367,7 +367,7 @@ Frank Tompa and Martin Suda},
         <bib-data role="eventtitle">Conferences on Intelligent Computer Mathematics</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-030-23250-4" id="10.1007/978-3-030-23250-4" scheme="doi">Document</bib-identifier>
         <bib-part role="series">LNAI</bib-part>
         <bib-part role="number">11617</bib-part>
         <bib-date role="publication">2019</bib-date>
@@ -465,7 +465,7 @@ Frank Tompa and Martin Suda},
         <bib-part role="series">Lecture Notes in Computer Science</bib-part>
         <bib-part role="number">7961</bib-part>
         <bib-date role="publication">2013</bib-date>
-        <bib-identifier href="http://dx.doi.org/10.1007/978-3-642-39320-4" id="10.1007/978-3-642-39320-4" scheme="doi">Document</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-642-39320-4" id="10.1007/978-3-642-39320-4" scheme="doi">Document</bib-identifier>
         <bib-identifier id="978-3-642-39319-8" scheme="isbn">ISBN 978-3-642-39319-8</bib-identifier>
         <bib-data role="acceptancerate">54</bib-data>
         <bib-data role="acceptanceratecomment">MKM: 7/18, Calculemus: 5/12, DML: 6/8, S&amp;P: 12/16</bib-data>
