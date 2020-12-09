@@ -102,11 +102,12 @@
         </bib-name><bib-name role="editor">
           <surname>Kando</surname>
           <givenname>Noriko</givenname>
-        </bib-name><bib-publisher>Springer</bib-publisher><bib-date role="publication">2020</bib-date><bib-data role="self" type="BibTeX">@collection{NTCIR:eirat20,
+        </bib-name><bib-publisher>Springer</bib-publisher><bib-url href="https://www.springer.com/gp/book/9789811555534">Link</bib-url><bib-date role="publication">2020</bib-date><bib-data role="self" type="BibTeX">@collection{NTCIR:eirat20,
      title = {Evaluating Information Retrieval and Access Tasks – {NTCIR}'s Legacy of Research Impact},
  booktitle = {Evaluating Information Retrieval and Access Tasks – {NTCIR}'s Legacy of Research Impact},
     editor = {Sakai, Tetsuya and Oard, Douglas W. and Kando, Noriko},
  publisher = {Springer},
+       url = {https://www.springer.com/gp/book/9789811555534},
       year = {2020}}
 </bib-data></bib-related>
         <bib-data role="pubs">mkohlhase</bib-data>
@@ -36682,12 +36683,14 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
           <givenname>Noriko</givenname>
         </bib-name>
         <bib-publisher>Springer</bib-publisher>
+        <bib-url href="https://www.springer.com/gp/book/9789811555534">Link</bib-url>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@collection{NTCIR:eirat20,
      title = {Evaluating Information Retrieval and Access Tasks – {NTCIR}'s Legacy of Research Impact},
  booktitle = {Evaluating Information Retrieval and Access Tasks – {NTCIR}'s Legacy of Research Impact},
     editor = {Sakai, Tetsuya and Oard, Douglas W. and Kando, Noriko},
  publisher = {Springer},
+       url = {https://www.springer.com/gp/book/9789811555534},
       year = {2020}}
 </bib-data>
       </bibentry>
