@@ -74,14 +74,14 @@
           <surname>Schärtl</surname>
           <givenname>Andreas</givenname>
         </bib-name>
-        <bib-url href="https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Schaertl_Andreas.pdf">Link</bib-url>
+        <bib-url href="https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Schaertl_Andreas.pdF">Link</bib-url>
         <bib-type>Master Project Report</bib-type>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="pubs">mscproject</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Schaertl:iqodml20,
      title = {ulo-storage – Indexing and Querying Organizational Data in Mathematical Libraries},
     author = {Andreas Sch{\"a}rtl},
-       url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Schaertl_Andreas.pdf},
+       url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Schaertl_Andreas.pdF},
       type = {Master Project Report},
       date = {2020},
       pubs = {mscproject}}
