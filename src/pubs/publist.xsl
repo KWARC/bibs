@@ -376,7 +376,7 @@
 										</xsl:if>
 										<xsl:if test="$bscproject!='' or $mscproject!=''">
 											<li>
-												<a href="#report">Bachelors/Masters Project Reports</a>
+												<a href="#project">Bachelors/Masters Project Reports</a>
 											</li>
 										</xsl:if>
 										<xsl:if test="$wproceedings!='' or $workshop!='' or $report!=''">
@@ -522,7 +522,7 @@
 										</ol>
 									</xsl:if>
 									<xsl:if test="$bscproject!='' or $mscproject!=''">
-										<h2 id="report">Bachelors/Masters Project Reports</h2>
+										<h2 id="project">Bachelors/Masters Project Reports</h2>
 										<ol class="ltx_biblist">
 											<xsl:copy-of select="$mscproject" />
 											<xsl:copy-of select="$bscproject" />
