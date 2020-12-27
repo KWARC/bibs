@@ -92,14 +92,14 @@
         </bib-name>
         <bib-url href="https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Roux_Navid.pdf">Link</bib-url>
         <bib-type>Master Project Report</bib-type>
-        <bib-date role="publication">2020</bib-date>
+        <bib-date role="publication">2020-07-17</bib-date>
         <bib-data role="pubs">nroux,mscproject</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Roux:spdo20,
      title = {Structure-Preserving Diagram Operators},
     author = {Navid Roux},
        url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Roux_Navid.pdf},
       type = {Master Project Report},
-      date = {2020},
+      date = {2020-07-17},
       pubs = {nroux,mscproject}}
 </bib-data>
       </bibentry>
@@ -197,14 +197,14 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">submitted</bib-note>
+        <bib-note role="annotation">accepted</bib-note>
         <bib-url href="https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf">Link</bib-url>
         <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RouRab:wadt20,
      title = {{Structure-Preserving Diagram Operators}},
     author = {Navid Roux and Florian Rabe},
       year = {2020},
-      note = {submitted},
+      note = {accepted},
        url = {https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf},
       pubs = {nroux,frabe,mmt,oaf}}
 </bib-data>
@@ -780,8 +780,7 @@
           <givenname>Navid</givenname>
         </bib-name>
         <bib-organization>FAU Erlangen-Nürnberg</bib-organization>
-        <bib-date role="publication">2019-07</bib-date>
-        <bib-data role="month">July</bib-data>
+        <bib-date role="publication">2019-07-01</bib-date>
         <bib-type>B.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2019/Roux_Navid.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis,nroux</bib-data>
@@ -789,8 +788,7 @@
      title = {{Refactoring of Theory Graphs in Knowledge Representation Systems}},
     author = {Navid Roux},
     school = {FAU Erlangen-N{\"u}rnberg},
-      year = {2019},
-     month = {July},
+      date = {2019-07-01},
       type = {B.Sc. Thesis},
        url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2019/Roux_Navid.pdf},
       pubs = {bscthesis,nroux}}
@@ -804,7 +802,7 @@
         </bib-name>
         <bib-organization>FAU Erlangen-Nürnberg</bib-organization>
         <bib-date role="publication">2020-03</bib-date>
-        <bib-data role="month">March</bib-data>
+        <bib-data role="month">3</bib-data>
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2020/Boesl_Benjamin.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,frameit</bib-data>
@@ -813,7 +811,7 @@
     author = {Benjamin B{\"o}sl},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2020},
-     month = {March},
+     month = {3},
       type = {M.Sc. Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2020/Boesl_Benjamin.pdf},
       pubs = {mscthesis,frameit}}
