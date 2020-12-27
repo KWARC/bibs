@@ -230,6 +230,18 @@
 			<xsl:copy-of select="." />
 		</xsl:for-each>
 	</xsl:variable>
+	<xsl:variable name="bscproject">
+		<xsl:for-each select="document(concat($id,'-bscproject.html'))//x:ul[@class='ltx_biblist']/x:li">
+			<xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]" />
+			<xsl:copy-of select="." />
+		</xsl:for-each>
+	</xsl:variable>
+	<xsl:variable name="mscproject">
+		<xsl:for-each select="document(concat($id,'-mscproject.html'))//x:ul[@class='ltx_biblist']/x:li">
+			<xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]" />
+			<xsl:copy-of select="." />
+		</xsl:for-each>
+	</xsl:variable>
 	<xsl:variable name="report">
 		<xsl:for-each select="document(concat($id,'-report.html'))//x:ul[@class='ltx_biblist']/x:li">
 			<xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]" />
