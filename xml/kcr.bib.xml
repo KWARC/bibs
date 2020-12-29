@@ -220,13 +220,15 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">Extended abstract submitted as <cite class="ltx_citemacro_cite">[<bibref bibrefs="RouRab:wadt20" separator="," yyseparator=","/>]</cite></bib-note>
+        <bib-type>Extended Abstract</bib-type>
+        <bib-note role="annotation">Extended abstract accepted as <cite class="ltx_citemacro_cite">[<bibref bibrefs="RouRab:wadt20" separator="," yyseparator=","/>]</cite></bib-note>
         <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RouRab:wadt20abstract,
      title = {{Functorial Diagram Operators}},
     author = {Navid Roux and Florian Rabe},
       year = {2020},
-      note = {Extended abstract submitted as \cite{RouRab:wadt20}},
+      type = {Extended Abstract},
+      note = {Extended abstract accepted as \cite{RouRab:wadt20}},
       pubs = {nroux,frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
@@ -245,7 +247,7 @@
         <bib-date role="publication">2020</bib-date>
         <bib-part role="series">Frontiers in Artificial Intelligence and Applications</bib-part>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-note role="annotation">Extended abstract</bib-note>
+        <bib-type>Extended Abstract</bib-type>
         <bib-url href="https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_9.pdf">Link</bib-url>
         <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RouRab:lfmtp20abstract,
@@ -256,7 +258,7 @@
       year = {2020},
     series = {Frontiers in Artificial Intelligence and Applications},
   keywords = {conference},
-      note = {Extended abstract},
+      type = {Extended Abstract},
        url = {https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_9.pdf},
       pubs = {nroux,frabe,mmt,oaf}}
 </bib-data>
