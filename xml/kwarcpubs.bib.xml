@@ -16,6 +16,7 @@
         <bib-organization>FAU Erlangen-Nürnberg</bib-organization>
         <bib-date role="publication">2020-12-04</bib-date>
         <bib-type>B.Sc. Thesis</bib-type>
+        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/blob/master/2020/DreierMarcel.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Dreier:bsc20,
      title = {Syntax und Semantik von Funktionalen Konzepten in der Mathematik},
@@ -23,6 +24,7 @@
     school = {FAU Erlangen-N{\"u}rnberg},
       date = {2020-12-04},
       type = {B.Sc. Thesis},
+       url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2020/DreierMarcel.pdf},
       pubs = {bscthesis}}
 </bib-data>
       </bibentry>
