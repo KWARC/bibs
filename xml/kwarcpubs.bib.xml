@@ -27018,6 +27018,31 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {mrapp,mkohlhase}}
 </bib-data>
       </bibentry>
+      <bibentry key="MueKal:dseid21" type="inproceedings" xml:id="bib.bib1157">
+        <bib-title>Disambiguating symbolic expressions in informal documents</bib-title>
+        <bib-name role="author">
+          <surname>Müller</surname>
+          <givenname>Dennis</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kaliszyk</surname>
+          <givenname>Cezary</givenname>
+        </bib-name>
+        <bib-related role="host" type="proceedings">
+          <bib-title>International Conference on Learning Representations</bib-title>
+        </bib-related>
+        <bib-date role="publication">2021</bib-date>
+        <bib-url href="https://openreview.net/forum?id=K5j7D81ABvt">Link</bib-url>
+        <bib-data role="pubs">dmueller</bib-data>
+        <bib-data role="self" type="BibTeX">@inproceedings{MueKal:dseid21,
+     title = {Disambiguating Symbolic Expressions in Informal Documents},
+    author = {Dennis M{\"u}ller and Cezary Kaliszyk},
+ booktitle = {International Conference on Learning Representations},
+      year = {2021},
+       url = {https://openreview.net/forum?id=K5j7D81ABvt},
+      pubs = {dmueller}}
+</bib-data>
+      </bibentry>
     </biblist>
   </bibliography>
 </document>
