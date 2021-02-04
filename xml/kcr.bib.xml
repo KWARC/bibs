@@ -228,7 +228,7 @@
       pubs = {jbetzendahl}}
 </bib-data>
       </bibentry>
-      <bibentry key="RouRab:wadt20" type="unpublished" xml:id="bib.bib11">
+      <bibentry key="RouRab:wadt20" type="inproceedings" xml:id="bib.bib11">
         <bib-title>Structure-Preserving Diagram Operators</bib-title>
         <bib-name role="author">
           <surname>Roux</surname>
@@ -239,16 +239,37 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">accepted</bib-note>
+        <bib-note role="annotation">to appear</bib-note>
         <bib-url href="https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf">Link</bib-url>
-        <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{RouRab:wadt20,
+        <bib-related role="host" type="proceedings">
+          <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
+          <bib-name role="editor">
+            <surname>Corradini</surname>
+            <givenname>A.</givenname>
+          </bib-name>
+          <bib-name role="editor">
+            <surname>Huisman</surname>
+            <givenname>M.</givenname>
+          </bib-name>
+          <bib-name role="editor">
+            <surname>Knapp</surname>
+            <givenname>A.</givenname>
+          </bib-name>
+          <bib-name role="editor">
+            <surname>Roggenbach</surname>
+            <givenname>M.</givenname>
+          </bib-name>
+          <bib-publisher>Springer</bib-publisher>
+        </bib-related>
+        <bib-data role="self" type="BibTeX">@inproceedings{RouRab:wadt20,
      title = {{Structure-Preserving Diagram Operators}},
     author = {Navid Roux and Florian Rabe},
       year = {2020},
-      note = {accepted},
+      note = {to appear},
        url = {https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf},
-      pubs = {nroux,frabe,mmt,oaf}}
+ booktitle = {Recent Trends in Algebraic Development Techniques},
+    editor = {A. Corradini and M. Huisman and A. Knapp and M. Roggenbach},
+ publisher = {Springer}}
 </bib-data>
       </bibentry>
       <bibentry key="RouRab:wadt20abstract" type="unpublished" xml:id="bib.bib12">
