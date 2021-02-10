@@ -267,6 +267,7 @@
           </bib-name>
           <bib-publisher>Springer</bib-publisher>
         </bib-related>
+        <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{RouRab:wadt20,
      title = {{Structure-Preserving Diagram Operators}},
     author = {Navid Roux and Florian Rabe},
@@ -275,7 +276,8 @@
        url = {https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf},
  booktitle = {Recent Trends in Algebraic Development Techniques},
     editor = {A. Corradini and M. Huisman and A. Knapp and M. Roggenbach},
- publisher = {Springer}}
+ publisher = {Springer},
+      pubs = {nroux,frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
       <bibentry key="RouRab:wadt20abstract" type="unpublished" xml:id="bib.bib13">
