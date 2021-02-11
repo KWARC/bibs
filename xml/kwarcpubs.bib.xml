@@ -18,16 +18,14 @@
           <givenname>Navid</givenname>
         </bib-name>
         <bib-date role="publication">2021</bib-date>
-        <bib-type>Extended Abstract</bib-type>
-        <bib-note role="annotation">Submitted to ITP 2021</bib-note>
+        <bib-note role="annotation">under review</bib-note>
         <bib-url href="https://kwarc.info/people/frabe/Research/RR_modlog_21.pdf">Link</bib-url>
         <bib-data role="pubs">frabe,nroux,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RabRou:modlog21,
      title = {Modular Formalization of Formal Systems},
     author = {Florian Rabe and Navid Roux},
       year = {2021},
-      type = {Extended Abstract},
-      note = {Submitted to ITP 2021},
+      note = {under review},
        url = {https://kwarc.info/people/frabe/Research/RR_modlog_21.pdf},
       pubs = {frabe,nroux,mmt,oaf}}
 </bib-data>
