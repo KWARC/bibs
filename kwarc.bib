@@ -60,6 +60,16 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@INPROCEEDINGS{SchSar:structurallogrel,
+  author={C. {Schürmann} and J. {Sarnat}},
+  booktitle={2008 23rd Annual IEEE Symposium on Logic in Computer Science},
+  title={Structural Logical Relations},
+  year={2008},
+  pages={69-80},
+  doi={10.1109/LICS.2008.44},
+  url={https://core.ac.uk/download/pdf/189668382.pdf},
+  urldate = {2020-01-26}}
+
 @article{Goedel:zia32,
   journal = {Anzeiger der Akademie der Wissenschaften in Wien},
   pages = {65--66},
@@ -1608,7 +1618,7 @@ doi = {10.1108/IDD-06-2018-0022}}
 @inproceedings{MouKonAvi:tltp15,
   title = {The Lean Theorem Prover},
   url = {https://leanprover.github.io/papers/system.pdf},
-  author = {Leonardo de Moura and Soonho Kong and Jeremy Avigad and van Doorn, Floris and  von Raumer, Jakob},
+  author = {de Moura, Leonardo and Soonho Kong and Jeremy Avigad and van Doorn, Floris and  von Raumer, Jakob},
   crossref = {CADE25},
   pages = {378--388}}
 
@@ -35804,6 +35814,12 @@ key = {Buswell}}
  url = {http://doi.acm.org/10.1145/75277.75283},
  doi = {10.1145/75277.75283}}
 
+@online{W3Schools:xmlns,
+  label = {XMLNS},
+  url = {https://www.w3schools.com/xml/xml_namespaces.asp},
+  title = {{XML} Namespaces},
+  urldate = {2021-01-29}}
+  
 @TECHREPORT{w3c:xml-namespaces,
   title = {Namespaces in {XML} 1.0 (Third Edition)},
   institution = {World Wide Web Consortium ({W3C})},
@@ -35812,16 +35828,6 @@ key = {Buswell}}
   type = {{W3C} Recommendation},
   author = {Tim Bray and Dave Hollander and Andrew Layman and Richard Tobin and Henry S. Thompson},
   url = {http://www.w3.org/TR/2009/REC-xml-names-20091208/}}
-
-@TECHREPORT{BHLR:xmln06,
-  title = {{Namespaces in XML 1.0 (Second Edition)}},
-  institution = {World Wide Web Consortium ({W3C})},
-  year = {2006},
-  month = aug,
-  type = {{W3C} Recommendation},
-  author = {Tim Bray and Dave Hollander and Andrew Layman and Richard Tobin},
-  url = {http://www.w3.org/TR/REC-xml-names/},
-  key = {Bray}}
 
 
 @MISC{orcca:openmath-xslt,
@@ -44377,9 +44383,54 @@ journal = {Information and Computation},
 doi = {10.1006/inco.2001.2951}
 }
 
+@article{KrausePaulAmbler:LogicOfArgumentation,
+author = {Krause, Paul and Ambler, Simon and Elvang-Goransson, Morten and Fox, John},
+title = {A LOGIC OF ARGUMENTATION FOR REASONING UNDER UNCERTAINTY},
+journal = {Computational Intelligence},
+volume = {11},
+number = {1},
+pages = {113-131},
+keywords = {uncertain reasoning, epistemic probability, argumentation, nonclassical logics, nonmonotonic reasoning},
+doi = {https://doi.org/10.1111/j.1467-8640.1995.tb00025.x},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8640.1995.tb00025.x},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8640.1995.tb00025.x},
+abstract = {We present the syntax and proof theory of a logic of argumentation, LA. We also outline the development of a category theoretic semantics for LA. LA is the core of a proof theoretic model for reasoning under uncertainty. In this logic, propositions are labeled with a representation of the arguments which support their validity. Arguments may then be aggregated to collect more information about the potential validity of the propositions of interest. We make the notion of aggregation primitive to the logic, and then define strength mappings from sets of arguments to one of a number of possible dictionaries. This provides a uniform framework which incorporates a number of numerical and symbolic techniques for assigning subjective confidences to propositions on the basis of their supporting arguments. These aggregation techniques are also described with examples.},
+year = {1995}
+}
+
+@article{Ambler1996:CategoricalSemanticsArgumentation,
+title={A categorical approach to the semantics of argumentation},
+volume={6},
+DOI={10.1017/S0960129500000931},
+number={2},
+journal={Mathematical Structures in Computer Science},
+publisher={Cambridge University Press},
+author={Ambler, Simon},
+year={1996},
+pages={167–188}
+}
+
+@article{BenchCapon:NeedGOFAIL,
+title={The Need for Good Old Fashioned AI and Law},
+DOI={10.38023/cefe7081-e6dd-49de-9592-9adbb6063fd6},
+journal={Jusletter IT},
+number={21},
+publisher={Editions Weblaw},
+author={Bench-Capon, Trevor},
+year={2020}
+}
+
 @string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
 @STRING{stexyear = 2020}
 @STRING{testing = 16}
+
+@unpublished{RabRou:modlog21,
+  title = {Modular Formalization of Formal Systems},
+  author = {Florian Rabe and Navid Roux},
+  year = {2021},
+  note = {under review},
+  url = {https://kwarc.info/people/frabe/Research/RR_modlog_21.pdf},
+  pubs = {frabe,nroux,mmt,oaf}}
 
 @mastersthesis{Cerny:bsc20,
   title = {Generating Expressions in MMT},
@@ -44387,7 +44438,7 @@ doi = {10.1006/inco.2001.2951}
   school = {FAU Erlangen-N{\"u}rnberg},
   date = {2020-12-04},
   type = {B.Sc. Thesis},
-  url =      {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2020/CernyChristian.pdf},
+  url =  {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2020/CernyChristian.pdf},
   pubs = {bscthesis}}
 
 @mastersthesis{Dreier:bsc20,
@@ -44396,7 +44447,7 @@ doi = {10.1006/inco.2001.2951}
   school = {FAU Erlangen-N{\"u}rnberg},
   date = {2020-12-04},
   type = {B.Sc. Thesis},
-  url =      {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2020/DreierMarcel.pdf},
+  url = {https://gl.kwarc.info/supervision/BSc-archive/blob/master/2020/DreierMarcel.pdf},
   pubs = {bscthesis}}
 
 @MastersThesis{Schaefer:msc20,
@@ -44438,6 +44489,7 @@ doi = {10.1006/inco.2001.2951}
   author = {Navid Roux},
   url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Roux_Navid.pdf},
   type  = {Master Project Report},
+  school = {FAU Erlangen-N{\"u}rnberg},
   date = {2020-07-17},
   pubs = {nroux,mscproject}}
 
@@ -44463,14 +44515,17 @@ doi = {10.1006/inco.2001.2951}
   url = {https://kwarc.info/teaching/IWGS/jupyter-documentation.pdf},
   urldate = {2020-08-29},
   pubs = {jbetzendahl}}
-  
 
-@unpublished{RouRab:wadt20,
+
+@inproceedings{RouRab:wadt20,
   title = {{Structure-Preserving Diagram Operators}},
   author = {Navid Roux and Florian Rabe},
   year = {2020},
-  note = {accepted},
+  note = {to appear},
   url = {https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf},
+  booktitle = "Recent Trends in Algebraic Development Techniques",
+  editor = "A. Corradini and M. Huisman and A. Knapp and M. Roggenbach",
+  publisher = "Springer",
   pubs = {nroux,frabe,mmt,oaf}}
 
 @unpublished{RouRab:wadt20abstract,
@@ -44875,16 +44930,33 @@ doi = {10.1006/inco.2001.2951}
   year = {2019},
   pubs = {dmueller,phdthesis,mmt,oaf}}
 
-@unpublished{KohRabWen:micakrf20,
-  title = {Making Isabelle Content Accessible in Knowledge Representation Formats},
+	
+@inproceedings{KohRabWen:micakrf20,
+  title = {Making {Isabelle} Content Accessible in Knowledge Representation Formats},
   author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
-  url = {https://kwarc.info/kohlhase/submit/isabelle-export.pdf},
+  booktitle = {Proceedings of the 25th International Conference on Types for Proofs and Programs, TYPES 2019},
+  editor = {Marc Bezem and Assia Mahboubi},
+  publisher = {Dagstuhl Publishing},
+  year = {2020},
+  series ={Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN ={978-3-95977-158-0},
+  ISSN ={1868-8969},
+  volume ={175},
+  URL ={https://drops.dagstuhl.de/opus/volltexte/2020/13065},
+  URN ={urn:nbn:de:0030-drops-130651},
+  doi ={10.4230/LIPIcs.TYPES.2019.1},
+  pubs = {mkohlhase,oaf,frabe}}
+
+@unpublished{KohRabWen:micakrf20,
+  title = {Making {Isabelle} Content Accessible in Knowledge Representation Formats},
+  author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
+  url = {https://arxiv.org/abs/2005.08884},
   eprint = {2005.08884},
-  eprinttype = {arxiv},
+  Eprinttype = {arxiv},
   eprintclass = {cs.LO},
-  note = {under review},
-  year = {2020}}
-  
+  year = {2020},
+  pubs = {mkohlhase,oaf,frabe}}
+
 @mastersthesis{Alt:bsc19,
   title = {Diagram Chasing Done Meta -- Formula Search for {nLab}},
   author = {Christoph Alt},
