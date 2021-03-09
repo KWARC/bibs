@@ -20,14 +20,14 @@
         <bib-date role="publication">2021</bib-date>
         <bib-note role="annotation">under review</bib-note>
         <bib-url href="https://kwarc.info/people/frabe/Research/RR_modlog_21.pdf">Link</bib-url>
-        <bib-data role="pubs">frabe,nroux,mmt,oaf</bib-data>
+        <bib-data role="pubs">frabe,nroux,mmt,oaf,latin</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{RabRou:modlog21,
      title = {Modular Formalization of Formal Systems},
     author = {Florian Rabe and Navid Roux},
       year = {2021},
       note = {under review},
        url = {https://kwarc.info/people/frabe/Research/RR_modlog_21.pdf},
-      pubs = {frabe,nroux,mmt,oaf}}
+      pubs = {frabe,nroux,mmt,oaf,latin}}
 </bib-data>
       </bibentry>
       <bibentry key="Cerny:bsc20" type="thesis" xml:id="bib.bib2">
