@@ -1573,7 +1573,7 @@
       pubs = {dmueller,phdthesis,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohRabWen:micakrf20" type="unpublished" xml:id="bib.bib63">
+      <bibentry key="KohRabWen:micakrf20" type="inproceedings" xml:id="bib.bib63">
         <bib-title>Making Isabelle content accessible in knowledge representation formats</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1587,24 +1587,43 @@
           <surname>Wenzel</surname>
           <givenname>Makarius</givenname>
         </bib-name>
-        <bib-url href="https://arxiv.org/abs/2005.08884">Link</bib-url>
-        <bib-links>2005.08884</bib-links>
-        <bib-data role="eprinttype">arxiv</bib-data>
-        <bib-data role="eprintclass">cs.LO</bib-data>
+        <bib-related role="host" type="proceedings">
+          <bib-title>Proceedings of the 25th International Conference on Types for Proofs and Programs, TYPES 2019</bib-title>
+          <bib-name role="editor">
+            <surname>Bezem</surname>
+            <givenname>Marc</givenname>
+          </bib-name>
+          <bib-name role="editor">
+            <surname>Mahboubi</surname>
+            <givenname>Assia</givenname>
+          </bib-name>
+          <bib-publisher>Dagstuhl Publishing</bib-publisher>
+          <bib-part role="series">Leibniz International Proceedings in Informatics (LIPIcs)</bib-part>
+          <bib-part role="volume">175</bib-part>
+        </bib-related>
         <bib-date role="publication">2020</bib-date>
+        <bib-identifier id="978-3-95977-158-0" scheme="isbn">ISBN 978-3-95977-158-0</bib-identifier>
+        <bib-url href="https://drops.dagstuhl.de/opus/volltexte/2020/13065">Link</bib-url>
+        <bib-data role="urn">urn:nbn:de:0030-drops-130651</bib-data>
+        <bib-identifier href="https://dx.doi.org/10.4230/LIPIcs.TYPES.2019.1" id="10.4230/LIPIcs.TYPES.2019.1" scheme="doi">Document</bib-identifier>
         <bib-data role="pubs">mkohlhase,oaf,frabe</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohRabWen:micakrf20,
+        <bib-data role="self" type="BibTeX">@inproceedings{KohRabWen:micakrf20,
      title = {Making {Isabelle} Content Accessible in Knowledge Representation Formats},
     author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
-       url = {https://arxiv.org/abs/2005.08884},
-    eprint = {2005.08884},
- eprinttype = {arxiv},
- eprintclass = {cs.LO},
+ booktitle = {Proceedings of the 25th International Conference on Types for Proofs and Programs, TYPES 2019},
+    editor = {Marc Bezem and Assia Mahboubi},
+ publisher = {Dagstuhl Publishing},
       year = {2020},
+    series = {Leibniz International Proceedings in Informatics (LIPIcs)},
+      isbn = {978-3-95977-158-0},
+    volume = {175},
+       url = {https://drops.dagstuhl.de/opus/volltexte/2020/13065},
+       urn = {urn:nbn:de:0030-drops-130651},
+       doi = {10.4230/LIPIcs.TYPES.2019.1},
       pubs = {mkohlhase,oaf,frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohRabWen:micakrf20" type="unpublished" xml:id="bib.bib64">
+      <bibentry key="KohRabWen:micakrf20a" type="unpublished" xml:id="bib.bib64">
         <bib-title>Making Isabelle content accessible in knowledge representation formats</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1624,7 +1643,7 @@
         <bib-data role="eprintclass">cs.LO</bib-data>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="pubs">mkohlhase,oaf,frabe</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohRabWen:micakrf20,
+        <bib-data role="self" type="BibTeX">@unpublished{KohRabWen:micakrf20a,
      title = {Making {Isabelle} Content Accessible in Knowledge Representation Formats},
     author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
        url = {https://arxiv.org/abs/2005.08884},
