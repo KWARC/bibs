@@ -12423,7 +12423,10 @@ Rudnicki and Josef Urban},
       isbn = {3642141277},
  booktitle = {{Intelligent Computer Mathematics}}}
 </bib-data></bib-related>
+        <bib-part role="pages">336–344</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf">Link</bib-url>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-data role="pubs">mkohlhase,cjucovschi,sTeX</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics</bib-title>
           <bib-publisher>Springer Verlag</bib-publisher>
@@ -12433,7 +12436,10 @@ Rudnicki and Josef Urban},
     author = {Constantin Jucovschi and Michael Kohlhase},
      title = {{sTeXIDE}: An Integrated Development Environment for {sTeX} Collections},
   crossref = {CICM10},
+     pages = {336–344},
        url = {https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf},
+  keywords = {conference},
+      pubs = {mkohlhase,cjucovschi,sTeX},
  booktitle = {{Intelligent Computer Mathematics}},
  publisher = {Springer Verlag},
       year = {2010}}
@@ -12487,8 +12493,6 @@ Rudnicki and Josef Urban},
         <bib-part role="pages">336–344</bib-part>
         <bib-data role="eprinttype">arxiv</bib-data>
         <bib-data role="eprintclass">cs.OH</bib-data>
-        <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">mkohlhase,cjucovschi,sTeX</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics</bib-title>
           <bib-publisher>Springer Verlag</bib-publisher>
@@ -12502,8 +12506,6 @@ Rudnicki and Josef Urban},
      pages = {336–344},
  eprinttype = {arxiv},
  eprintclass = {cs.OH},
-  keywords = {conference},
-      pubs = {mkohlhase,cjucovschi,sTeX},
  booktitle = {{Intelligent Computer Mathematics}},
  publisher = {Springer Verlag},
       year = {2010}}

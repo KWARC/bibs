@@ -9048,12 +9048,18 @@ Rudnicki and Josef Urban},
         </bib-name>
         <bib-title>sTeXIDE: an integrated development environment for sTeX collections</bib-title>
         <bib-related bibrefs="CICM10" role="host"/>
+        <bib-part role="pages">336–344</bib-part>
         <bib-url href="https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf">Link</bib-url>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-data role="pubs">mkohlhase,cjucovschi,sTeX</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{JucKoh:sidesc10,
     author = {Constantin Jucovschi and Michael Kohlhase},
      title = {{sTeXIDE}: An Integrated Development Environment for {sTeX} Collections},
   crossref = {CICM10},
-       url = {https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf}}
+     pages = {336–344},
+       url = {https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf},
+  keywords = {conference},
+      pubs = {mkohlhase,cjucovschi,sTeX}}
 </bib-data>
       </bibentry>
       <bibentry key="JucKoh:sidesc10:biblatex" type="inproceedings" xml:id="bib.bib373">
@@ -9071,8 +9077,6 @@ Rudnicki and Josef Urban},
         <bib-part role="pages">336–344</bib-part>
         <bib-data role="eprinttype">arxiv</bib-data>
         <bib-data role="eprintclass">cs.OH</bib-data>
-        <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">mkohlhase,cjucovschi,sTeX</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{JucKoh:sidesc10:biblatex,
     author = {Constantin Jucovschi and Michael Kohlhase},
      title = {{sTeXIDE}: An Integrated Development Environment for {sTeX} Collections},
@@ -9080,9 +9084,7 @@ Rudnicki and Josef Urban},
     eprint = {1005.5489v1},
      pages = {336–344},
  eprinttype = {arxiv},
- eprintclass = {cs.OH},
-  keywords = {conference},
-      pubs = {mkohlhase,cjucovschi,sTeX}}
+ eprintclass = {cs.OH}}
 </bib-data>
       </bibentry>
 <!--  %**** String Line 375 **** -->      <bibentry key="KohKohLan:ssffld10:biblatex" type="inproceedings" xml:id="bib.bib374">
