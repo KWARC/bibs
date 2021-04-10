@@ -60,6 +60,71 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+online{sophize:on,
+  title = {Sophize},
+  url = {https://sophize.org},
+  urldate = {2021-04-01}}
+  
+
+@book{Fischer:la14,
+  author = {Gerd Fischer},
+  title = {Lineare Algebra -- Eine Einführung für Studienanfänger},
+  series = {Grundkurs Mathematik},
+  doi = {10.1007/978-3-658-03945-5},
+  year = {2014},
+  edition = {18}}
+  
+@incollection{paulinmohring:cic-intro,
+  TITLE = {{Introduction to the Calculus of Inductive Constructions}},
+  AUTHOR = {Paulin-Mohring, Christine},
+  URL = {https://hal.inria.fr/hal-01094195},
+  BOOKTITLE = {{All about Proofs, Proofs for All}},
+  EDITOR = {Bruno Woltzenlogel Paleo and David Delahaye},
+  PUBLISHER = {{College Publications}},
+  SERIES = {Studies in Logic (Mathematical logic and foundations)},
+  VOLUME = {55},
+  YEAR = {2015},
+  MONTH = Jan,
+  KEYWORDS = {Coq proof assistant ; Calculus of Inductive Constructions},
+  PDF = {https://hal.inria.fr/hal-01094195/file/CIC.pdf},
+  HAL_ID = {hal-01094195},
+  HAL_VERSION = {v1},
+}
+
+@inproceedings{wadler:theorems-for-free,
+  author = {Wadler, Philip},
+  title = {Theorems for Free!},
+  year = {1989},
+  isbn = {0897913280},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/99370.99404},
+  doi = {10.1145/99370.99404},
+  booktitle = {Proceedings of the Fourth International Conference on Functional Programming Languages and Computer Architecture},
+  pages = {347–359},
+  numpages = {13},
+  location = {Imperial College, London, United Kingdom},
+  series = {FPCA '89}
+}
+
+@article{coq:coq-coq-correct,
+  author = {Sozeau, Matthieu and Boulier, Simon and Forster, Yannick and Tabareau, Nicolas and Winterhalter, Th\'{e}o},
+  title = {Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq},
+  year = {2019},
+  issue_date = {January 2020},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {4},
+  number = {POPL},
+  url = {https://doi.org/10.1145/3371076},
+  doi = {10.1145/3371076},
+  journal = {Proc. ACM Program. Lang.},
+  month = dec,
+  articleno = {8},
+  numpages = {28},
+  keywords = {certification, proof assistants, type checker}
+}
+
 @INPROCEEDINGS{SchSar:structurallogrel,
   author={C. {Schürmann} and J. {Sarnat}},
   booktitle={2008 23rd Annual IEEE Symposium on Logic in Computer Science},
@@ -1618,7 +1683,7 @@ doi = {10.1108/IDD-06-2018-0022}}
 @inproceedings{MouKonAvi:tltp15,
   title = {The Lean Theorem Prover},
   url = {https://leanprover.github.io/papers/system.pdf},
-  author = {Leonardo de Moura and Soonho Kong and Jeremy Avigad and van Doorn, Floris and  von Raumer, Jakob},
+  author = {de Moura, Leonardo and Soonho Kong and Jeremy Avigad and van Doorn, Floris and  von Raumer, Jakob},
   crossref = {CADE25},
   pages = {378--388}}
 
@@ -12216,7 +12281,7 @@ lastchecked =  {May, 2008}}
   year =     2003,
   address =      {Rome}}
 
-@online{Miller:latexml:online,crossref={Miller:latexml:base},urldate={2013-03-12},label={LTX}}
+@online{Miller:latexml:online,crossref={Miller:latexml:base},urldate={2021-03-12},label={LTX}}
 @Misc{Miller:latexml,crossref={Miller:latexml:base},
   howpublished = {Web Manual at \url{http://dlmf.nist.gov/LaTeXML/}},
   note = {seen September 2011}}
@@ -35740,7 +35805,16 @@ title = {Web Map}}
 @TECHREPORT{CapCarCoh:oms02,
   title = {The {OpenMath} Standard, Version 1.1b},
   year = {2002},
-  note = {{The {OpenMath} Society},~\url{http://www.nag.co.uk/projects/OpenMath/omstd/}},
+  note = {The {OpenMath} Society},
+  url = {http://www.nag.co.uk/projects/OpenMath/omstd/},
+  editor = {Olga Caprotti and David P. Carlisle and Arjeh M. Cohen},
+  key = {Caprotti}}
+
+@TECHREPORT{CapCarCoh:oms00,
+  title = {The {OpenMath} Standard},
+  year = {2000},
+  note = {The {OpenMath} Society},
+  url = {https://www.openmath.org/standard/om10/omstd.pdf},
   editor = {Olga Caprotti and David P. Carlisle and Arjeh M. Cohen},
   key = {Caprotti}}
 
@@ -44424,14 +44498,23 @@ year={2020}
 @STRING{stexyear = 2020}
 @STRING{testing = 16}
 
+@mastersthesis{Dalga:bsc,
+  title = {Semantik-Extraktion f{\"u}r Mengen-Phrasen in naturwissenschaftlichen Papieren durch Sequence-to-sequence Modelle},
+  author = {Alpcan Dalga},
+  school = {FAU Erlangen-N{\"u}rnberg},
+  year = {2021},
+  type = {B.Sc. Thesis},
+  month = {3},
+  url = {https://gl.kwarc.info/supervision/BSc-archive/-/blob/master/2021/DalgaAlpcan.pdf},
+  pubs = {bscthesis,comma}}
+
 @unpublished{RabRou:modlog21,
   title = {Modular Formalization of Formal Systems},
   author = {Florian Rabe and Navid Roux},
   year = {2021},
-  type = {Extended Abstract},
-  note = {Submitted to ITP 2021},
+  note = {under review},
   url = {https://kwarc.info/people/frabe/Research/RR_modlog_21.pdf},
-  pubs = {frabe,nroux,mmt,oaf}}
+  pubs = {frabe,nroux,mmt,oaf,latin}}
 
 @mastersthesis{Cerny:bsc20,
   title = {Generating Expressions in MMT},
@@ -44931,16 +45014,32 @@ year={2020}
   year = {2019},
   pubs = {dmueller,phdthesis,mmt,oaf}}
 
-@unpublished{KohRabWen:micakrf20,
-  title = {Making Isabelle Content Accessible in Knowledge Representation Formats},
+	
+@inproceedings{KohRabWen:micakrf20,
+  title = {Making {Isabelle} Content Accessible in Knowledge Representation Formats},
   author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
-  url = {https://kwarc.info/kohlhase/submit/isabelle-export.pdf},
+  booktitle = {Proceedings of the 25th International Conference on Types for Proofs and Programs, TYPES 2019},
+  editor = {Marc Bezem and Assia Mahboubi},
+  publisher = {Dagstuhl Publishing},
+  year = {2020},
+  series ={Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN ={978-3-95977-158-0},
+  volume ={175},
+  URL ={https://drops.dagstuhl.de/opus/volltexte/2020/13065},
+  URN ={urn:nbn:de:0030-drops-130651},
+  doi ={10.4230/LIPIcs.TYPES.2019.1},
+  pubs = {mkohlhase,oaf,frabe}}
+
+@unpublished{KohRabWen:micakrf20a,
+  title = {Making {Isabelle} Content Accessible in Knowledge Representation Formats},
+  author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
+  url = {https://arxiv.org/abs/2005.08884},
   eprint = {2005.08884},
-  eprinttype = {arxiv},
+  Eprinttype = {arxiv},
   eprintclass = {cs.LO},
-  note = {under review},
-  year = {2020}}
-  
+  year = {2020},
+  pubs = {mkohlhase,oaf,frabe}}
+
 @mastersthesis{Alt:bsc19,
   title = {Diagram Chasing Done Meta -- Formula Search for {nLab}},
   author = {Christoph Alt},
@@ -46541,9 +46640,9 @@ urldate={2015-05-21}}
 
 @online{MathHub:on,
 label = {MH},
-url = {http://mathhub.info},
+url = {https://mathhub.info},
 title = {MathHub.info: Active Mathematics},
-urldate={2014-01-28}}
+urldate={2021-01-28}}
 
 @online{sissi:SPSHP:on,
   url = {https://tnt.kwarc.info/repos/stc/sissi/trunk/spshp},
@@ -47541,7 +47640,10 @@ Rudnicki and Josef Urban},
   author = 	 {Constantin Jucovschi and Michael Kohlhase},
   title = {{sTeXIDE}: An Integrated Development Environment for {sTeX} Collections},
   crossref = 	 {CICM10},
-  url = {https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf}}
+  pages = {336--344},
+  url = {https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf},
+  keywords = {conference},
+  pubs = {mkohlhase,cjucovschi,sTeX}}
 
 @InProceedings{JucKoh:sidesc10:biblatex,
   author = 	 {Constantin Jucovschi and Michael Kohlhase},
@@ -47550,9 +47652,7 @@ Rudnicki and Josef Urban},
   eprint = {1005.5489v1},
   pages = {336--344},
   eprinttype = {arxiv},
-  eprintclass = {cs.OH},
-  keywords = {conference},
-  pubs = {mkohlhase,cjucovschi,sTeX}}
+  eprintclass = {cs.OH}}
 
 @InProceedings{KohKohLan:ssffld10:biblatex,
   author = 	 {Andrea Kohlhase and Michael Kohlhase and Christoph Lange},
@@ -48728,10 +48828,21 @@ url = {http://www.balisage.net/Proceedings/vol7/print/Hennum01/BalisageVol7-Henn
   title = {{sTeX}: A semantic Extension of {TeX/LaTeX}},
   url = {https://github.com/sLaTeX/sTeX}}
 
+@MISC{URL:sLaTeX:github,crossref={sLaTeX:github:base},
+  key = {sLX},
+  howpublished = {GitHub organization at \url{https://github.com/sLaTeX}},
+  note = {accessed 11. 3. 2021}}
+@online{sLaTeX:github:on,crossref={sLaTeX:github:base},
+  label = {sLX},
+  urldate = {2021-03-11}}
+@misc{sLaTeX:github:base,
+  title = {{sLaTeX}: An Ecosystem for Semantically Enhanced {\LaTeX}},
+  url = {https://github.com/sLaTeX}}
+
 @MISC{URL:lmhtools:github,crossref={lmhtools:github:base},
   key = {LMH},
   howpublished = {GitHub repository at \url{https://github.com/sLaTeX/lmhtools}},
-  note = {accessed 15. 11. 2019}}
+  note = {accessed 15. 11. 2019}}b
 @online{lmhtools:github:on,crossref={lmhtools:github:base},
   label = {LMH},
   urldate = {2015-011-19}}

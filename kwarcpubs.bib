@@ -2,13 +2,23 @@
 @STRING{stexyear = 2020}
 @STRING{testing = 16}
 
+@mastersthesis{Dalga:bsc,
+  title = {Semantik-Extraktion f{\"u}r Mengen-Phrasen in naturwissenschaftlichen Papieren durch Sequence-to-sequence Modelle},
+  author = {Alpcan Dalga},
+  school = {FAU Erlangen-N{\"u}rnberg},
+  year = {2021},
+  type = {B.Sc. Thesis},
+  month = {3},
+  url = {https://gl.kwarc.info/supervision/BSc-archive/-/blob/master/2021/DalgaAlpcan.pdf},
+  pubs = {bscthesis,comma}}
+
 @unpublished{RabRou:modlog21,
   title = {Modular Formalization of Formal Systems},
   author = {Florian Rabe and Navid Roux},
   year = {2021},
   note = {under review},
   url = {https://kwarc.info/people/frabe/Research/RR_modlog_21.pdf},
-  pubs = {frabe,nroux,mmt,oaf}}
+  pubs = {frabe,nroux,mmt,oaf,latin}}
 
 @mastersthesis{Cerny:bsc20,
   title = {Generating Expressions in MMT},
@@ -510,16 +520,32 @@
   year = {2019},
   pubs = {dmueller,phdthesis,mmt,oaf}}
 
-@unpublished{KohRabWen:micakrf20,
-  title = {Making Isabelle Content Accessible in Knowledge Representation Formats},
+	
+@inproceedings{KohRabWen:micakrf20,
+  title = {Making {Isabelle} Content Accessible in Knowledge Representation Formats},
   author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
-  url = {https://kwarc.info/kohlhase/submit/isabelle-export.pdf},
+  booktitle = {Proceedings of the 25th International Conference on Types for Proofs and Programs, TYPES 2019},
+  editor = {Marc Bezem and Assia Mahboubi},
+  publisher = {Dagstuhl Publishing},
+  year = {2020},
+  series ={Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN ={978-3-95977-158-0},
+  volume ={175},
+  URL ={https://drops.dagstuhl.de/opus/volltexte/2020/13065},
+  URN ={urn:nbn:de:0030-drops-130651},
+  doi ={10.4230/LIPIcs.TYPES.2019.1},
+  pubs = {mkohlhase,oaf,frabe}}
+
+@unpublished{KohRabWen:micakrf20a,
+  title = {Making {Isabelle} Content Accessible in Knowledge Representation Formats},
+  author = {Michael Kohlhase and Florian Rabe and Makarius Wenzel},
+  url = {https://arxiv.org/abs/2005.08884},
   eprint = {2005.08884},
-  eprinttype = {arxiv},
+  Eprinttype = {arxiv},
   eprintclass = {cs.LO},
-  note = {under review},
-  year = {2020}}
-  
+  year = {2020},
+  pubs = {mkohlhase,oaf,frabe}}
+
 @mastersthesis{Alt:bsc19,
   title = {Diagram Chasing Done Meta -- Formula Search for {nLab}},
   author = {Christoph Alt},
@@ -2120,9 +2146,9 @@ urldate={2015-05-21}}
 
 @online{MathHub:on,
 label = {MH},
-url = {http://mathhub.info},
+url = {https://mathhub.info},
 title = {MathHub.info: Active Mathematics},
-urldate={2014-01-28}}
+urldate={2021-01-28}}
 
 @online{sissi:SPSHP:on,
   url = {https://tnt.kwarc.info/repos/stc/sissi/trunk/spshp},
@@ -3120,7 +3146,10 @@ Rudnicki and Josef Urban},
   author = 	 {Constantin Jucovschi and Michael Kohlhase},
   title = {{sTeXIDE}: An Integrated Development Environment for {sTeX} Collections},
   crossref = 	 {CICM10},
-  url = {https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf}}
+  pages = {336--344},
+  url = {https://kwarc.info/kohlhase/papers/mkm10-stexide.pdf},
+  keywords = {conference},
+  pubs = {mkohlhase,cjucovschi,sTeX}}
 
 @InProceedings{JucKoh:sidesc10:biblatex,
   author = 	 {Constantin Jucovschi and Michael Kohlhase},
@@ -3129,9 +3158,7 @@ Rudnicki and Josef Urban},
   eprint = {1005.5489v1},
   pages = {336--344},
   eprinttype = {arxiv},
-  eprintclass = {cs.OH},
-  keywords = {conference},
-  pubs = {mkohlhase,cjucovschi,sTeX}}
+  eprintclass = {cs.OH}}
 
 @InProceedings{KohKohLan:ssffld10:biblatex,
   author = 	 {Andrea Kohlhase and Michael Kohlhase and Christoph Lange},
@@ -4307,10 +4334,21 @@ url = {http://www.balisage.net/Proceedings/vol7/print/Hennum01/BalisageVol7-Henn
   title = {{sTeX}: A semantic Extension of {TeX/LaTeX}},
   url = {https://github.com/sLaTeX/sTeX}}
 
+@MISC{URL:sLaTeX:github,crossref={sLaTeX:github:base},
+  key = {sLX},
+  howpublished = {GitHub organization at \url{https://github.com/sLaTeX}},
+  note = {accessed 11. 3. 2021}}
+@online{sLaTeX:github:on,crossref={sLaTeX:github:base},
+  label = {sLX},
+  urldate = {2021-03-11}}
+@misc{sLaTeX:github:base,
+  title = {{sLaTeX}: An Ecosystem for Semantically Enhanced {\LaTeX}},
+  url = {https://github.com/sLaTeX}}
+
 @MISC{URL:lmhtools:github,crossref={lmhtools:github:base},
   key = {LMH},
   howpublished = {GitHub repository at \url{https://github.com/sLaTeX/lmhtools}},
-  note = {accessed 15. 11. 2019}}
+  note = {accessed 15. 11. 2019}}b
 @online{lmhtools:github:on,crossref={lmhtools:github:base},
   label = {LMH},
   urldate = {2015-011-19}}
