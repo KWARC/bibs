@@ -256,7 +256,6 @@
 </bib-data>
       </bibentry>
       <bibentry key="RouRab:wadt20" type="inproceedings" xml:id="bib.bib13">
-        <bib-title>Structure-Preserving Diagram Operators</bib-title>
         <bib-name role="author">
           <surname>Roux</surname>
           <givenname>Navid</givenname>
@@ -265,39 +264,32 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-date role="publication">2020</bib-date>
-        <bib-note role="annotation">to appear</bib-note>
+        <bib-title>Structure-Preserving Diagram Operators</bib-title>
         <bib-url href="https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf">Link</bib-url>
         <bib-related role="host" type="proceedings">
-          <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
-          <bib-name role="editor">
-            <surname>Corradini</surname>
-            <givenname>A.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Huisman</surname>
-            <givenname>M.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Knapp</surname>
-            <givenname>A.</givenname>
-          </bib-name>
           <bib-name role="editor">
             <surname>Roggenbach</surname>
-            <givenname>M.</givenname>
+            <givenname>Markus</givenname>
           </bib-name>
-          <bib-publisher>Springer</bib-publisher>
+          <bib-title>Recent Trends in Algebraic Development Techniques</bib-title>
+          <bib-publisher>Springer International Publishing</bib-publisher>
         </bib-related>
+        <bib-date role="publication">2021</bib-date>
+        <bib-part role="pages">142–163</bib-part>
+        <bib-identifier id="978-3-030-73785-6" scheme="isbn">ISBN 978-3-030-73785-6</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-030-73785-6%5F8" id="10.1007/978-3-030-73785-6_8" scheme="doi">Document</bib-identifier>
         <bib-data role="pubs">nroux,frabe,mmt,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{RouRab:wadt20,
-     title = {{Structure-Preserving Diagram Operators}},
     author = {Navid Roux and Florian Rabe},
-      year = {2020},
-      note = {to appear},
+     title = {{Structure-Preserving Diagram Operators}},
        url = {https://kwarc.info/people/frabe/Research/RR_diagops_20.pdf},
+    editor = {Markus Roggenbach},
  booktitle = {Recent Trends in Algebraic Development Techniques},
-    editor = {A. Corradini and M. Huisman and A. Knapp and M. Roggenbach},
- publisher = {Springer},
+      year = {2021},
+ publisher = {Springer International Publishing},
+     pages = {142–163},
+      isbn = {978-3-030-73785-6},
+       doi = {10.1007/978-3-030-73785-6_8},
       pubs = {nroux,frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
