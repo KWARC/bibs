@@ -1,8 +1,8 @@
-# The KWARC.bib repository [![Build Status](https://travis-ci.org/KWARC/bibs.svg?branch=master)](https://travis-ci.org/KWARC/bibs)
+# The KWARC.bib repository [![Build Status](https://app.travis-ci.com/KWARC/bibs.svg?branch=master)](https://app.travis-ci.com/KWARC/bibs)
 
 The repository contains the bib resources of the KWARC group, most notably the
 citation database ```kwarc.bib```. It is generated automatically by concatenating
-several source files via a [Travis CI](https://travis-ci.org/) build job. 
+several source files via a [Travis CI](https://travis-ci.com/) build job. 
 We additionally use the Travis job to generate  
 [publication websites](https://kwarc.github.io/bibs/) with the help of 
 [LaTeXML](http://dlmf.nist.gov/LaTeXML/)  - see (far below).

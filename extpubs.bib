@@ -7,6 +7,369 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@article{coq:metacoq,
+	TITLE = {{The MetaCoq Project}},
+	AUTHOR = {Sozeau, Matthieu and Anand, Abhishek and Boulier, Simon and Cohen, Cyril and Forster, Yannick and Kunze, Fabian and Malecha, Gregory and Tabareau, Nicolas and Winterhalter, Th{\'e}o},
+	URL = {https://hal.inria.fr/hal-02167423},
+	JOURNAL = {{Journal of Automated Reasoning}},
+	PUBLISHER = {{Springer Verlag}},
+	YEAR = {2020},
+	MONTH = Feb,
+	DOI = {10.1007/s10817-019-09540-0},
+	PDF = {https://hal.inria.fr/hal-02167423/file/The_MetaCoq_Project.pdf},
+	HAL_ID = {hal-02167423},
+	HAL_VERSION = {v1},
+}
+
+@article{coq:ssreflect,
+	title={An introduction to small scale reflection in Coq},
+	author={Georges Gonthier and Assia Mahboubi},
+	journal={J. Formaliz. Reason.},
+	year={2010},
+	volume={3},
+	pages={95-152},
+	doi={10.6092/issn.1972-5787/1979}
+}
+
+@article{coq:mtac2,
+	author = {Kaiser, Jan-Oliver and Ziliani, Beta and Krebbers, Robbert and R\'{e}gis-Gianas, Yann and Dreyer, Derek},
+	title = {Mtac2: Typed Tactics for Backward Reasoning in Coq},
+	year = {2018},
+	issue_date = {September 2018},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	volume = {2},
+	number = {ICFP},
+	url = {https://doi.org/10.1145/3236773},
+	doi = {10.1145/3236773},
+	abstract = {Coq supports a range of built-in tactics, which are engineered primarily to support
+	backward reasoning. Starting from a desired goal, the Coq programmer can use these
+	tactics to manipulate the proof state interactively, applying axioms or lemmas to
+	break the goal into subgoals until all subgoals have been solved. Additionally, it
+	provides support for tactic programming via OCaml and Ltac, so that users can roll
+	their own custom proof automation routines. Unfortunately, though, these tactic languages
+	share a significant weakness. They do not offer the tactic programmer any static guarantees
+	about the soundness of their custom tactics, making large tactic developments difficult
+	to maintain. To address this limitation, Ziliani et al. previously proposed Mtac,
+	a new typed approach to custom proof automation in Coq which provides the static guarantees
+	that OCaml and Ltac are missing. However, despite its name, Mtac is really more of
+	a metaprogramming language than it is a full-blown tactic language: it misses an essential
+	feature of tactic programming, namely the ability to directly manipulate Coq’s proof
+	state and perform backward reasoning on it. In this paper, we present Mtac2, a next-generation
+	version of Mtac that combines its support for typed metaprogramming with additional
+	support for the programming of backward-reasoning tactics in the style of Ltac. In
+	so doing, Mtac2 introduces a novel feature in tactic programming languages—what we
+	call typed backward reasoning. With this feature, Mtac2 is capable of statically ruling
+	out several classes of errors that would otherwise remain undetected at tactic definition
+	time. We demonstrate the utility of Mtac2’s typed tactics by porting several tactics
+	from a large Coq development, the Iris Proof Mode, from Ltac to Mtac2.},
+	journal = {Proc. ACM Program. Lang.},
+	month = jul,
+	articleno = {78},
+	numpages = {31},
+	keywords = {Tactic Languages, Theorem Proving, Dependent Types, Metaprogramming, Coq}
+}
+
+@unpublished{coq:ltac2,
+	author = "Pédrot, Pierre-Marie",
+	title = "Ltac2: Tactical Warfare",
+	year = "2019",
+	maintitle = {Principles of Programming Languages},
+  booktitle = {The Fifth International Workshop on Coq for Programming Languages},
+	url = {https://www.xn--pdrot-bsa.fr/articles/coqpl2019.pdf}
+}
+
+@InProceedings{coq:ltac,
+	author="Delahaye, David",
+	editor="Parigot, Michel
+	and Voronkov, Andrei",
+	title="A Tactic Language for the System Coq",
+	booktitle="Logic for Programming and Automated Reasoning",
+	year="2000",
+	publisher="Springer Berlin Heidelberg",
+	address="Berlin, Heidelberg",
+	pages="85--95",
+	abstract="We propose a new tactic language for the system Coq, which is intended to enrich the current tactic combinators (tacticals). This language is based on a functional core with recursors and matching operators for Coq terms but also for proof contexts. It can be used directly in proof scripts or in toplevel definitions (tactic definitions). We show that the implementation of this language involves considerable changes in the interpretation of proof scripts, essentially due to the matching operators. We give some examples which solve small proof parts locally and some others which deal with non-trivial problems. Finally, we discuss the status of this meta-language with respect to the Coq language and the implementation language of Coq.",
+	isbn="978-3-540-44404-6",
+	doi={10.1007/3-540-44404-1_7}
+}
+
+@InProceedings{E-atp,
+  author =       {Stephan Schulz and Simon Cruanes and Petar Vukmirovi{\'c}},
+  title =        {Faster, Higher, Stronger: {E} 2.3},
+  year =         {2019},
+  booktitle =    {Proc.\ of the 27th CADE, Natal, Brasil},
+  editor =       {Pascal Fontaine},
+  number =       {11716},
+  series =       {LNAI},
+  pages =        {495--507},
+  publisher =    {Springer},
+}
+
+@article{lean:meta-programming,
+	author = {Ebner, Gabriel and Ullrich, Sebastian and Roesch, Jared and Avigad, Jeremy and de Moura, Leonardo},
+	title = {A Metaprogramming Framework for Formal Verification},
+	year = {2017},
+	issue_date = {September 2017},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	volume = {1},
+	number = {ICFP},
+	url = {https://doi.org/10.1145/3110278},
+	doi = {10.1145/3110278},
+	abstract = { We describe the metaprogramming framework currently used in Lean, an interactive
+	theorem prover based on dependent type theory. This framework extends Lean's object
+	language with an API to some of Lean's internal structures and procedures, and provides
+	ways of reflecting object-level expressions into the metalanguage. We provide evidence
+	to show that our implementation is performant, and that it provides a convenient and
+	flexible way of writing not only small-scale interactive tactics, but also more substantial
+	kinds of automation. },
+	journal = {Proc. ACM Program. Lang.},
+	month = aug,
+	articleno = {34},
+	numpages = {29},
+	keywords = {theorem proving, dependent type theory, tactic language, metaprogramming}
+}
+
+@InProceedings{haskell:template,
+	author = {Sheard, Tim and Peyton Jones, Simon},
+	title = {Template meta-programming for Haskell},
+	booktitle = {Proceedings of the 2002 Haskell Workshop, Pittsburgh},
+	year = {2002},
+	month = {October},
+	abstract = {We propose a new extension to the purely functional programming language Haskell that supports compile-time meta-programming. The purpose of the system is to support the algorithmic construction of programs at compile-time.
+	
+	The ability to generate code at compile time allows the programmer to implement such features as polytypic programs, macro-like expansion, user directed optimization (such as inlining), and the generation of supporting data structures and functions from existing data structures and functions.
+	
+	Our design is being implemented in the Glasgow Haskell Compiler, ghc.},
+	url = {https://www.microsoft.com/en-us/research/publication/template-meta-programming-for-haskell/},
+	pages = {1-16},
+	edition = {Proceedings of the 2002 Haskell Workshop, Pittsburgh},
+}
+
+@inproceedings{haskell:derivingvia,
+	author = {Bl\"{o}ndal, Baldur and L\"{o}h, Andres and Scott, Ryan},
+	title = {Deriving via: Or, How to Turn Hand-Written Instances into an Anti-Pattern},
+	year = {2018},
+	isbn = {9781450358354},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3242744.3242746},
+	doi = {10.1145/3242744.3242746},
+	abstract = {Haskell's deriving construct is a cheap and cheerful way to quickly generate instances
+	of type classes that follow common patterns. But at present, there is only a subset
+	of such type class patterns that deriving supports, and if a particular class lies
+	outside of this subset, then one cannot derive it at all, with no alternative except
+	for laboriously declaring the instances by hand.  To overcome this deficit, we introduce
+	Deriving Via, an extension to deriving that enables programmers to compose instances
+	from named programming patterns, thereby turning deriving into a high-level domain-specific
+	language for defining instances. Deriving Via leverages newtypes---an already familiar
+	tool of the Haskell trade---to declare recurring patterns in a way that both feels
+	natural and allows a high degree of abstraction.},
+	booktitle = {Proceedings of the 11th ACM SIGPLAN International Symposium on Haskell},
+	pages = {55–67},
+	numpages = {13},
+	keywords = {type classes, instances, functional programming, deriving, Haskell},
+	location = {St. Louis, MO, USA},
+	series = {Haskell 2018}
+}
+
+@InProceedings{coq:template,
+	author="Anand, Abhishek and Boulier, Simon and Cohen, Cyril and Sozeau, Matthieu and Tabareau, Nicolas",
+	editor="Avigad, Jeremy
+	and Mahboubi, Assia",
+	title="Towards Certified Meta-Programming with Typed Template-Coq",
+	booktitle="Interactive Theorem Proving",
+	year="2018",
+	publisher="Springer International Publishing",
+	address="Cham",
+	pages="20--39",
+	abstract="Template-Coq (https://template-coq.github.io/template-coq) is a plugin for Coq, originally implemented by Malecha [18], which provides a reifier for Coq terms and global declarations, as represented in the Coq kernel, as well as a denotation command. Initially, it was developed for the purpose of writing functions on Coq's AST in Gallina. Recently, it was used in the CertiCoq certified compiler project [4], as its front-end language, to derive parametricity properties [3], and to extract Coq terms to a CBV {\$}{\$}{\backslash}lambda {\$}{\$}-calculus [13]. However, the syntax lacked semantics, be it typing semantics or operational semantics, which should reflect, as formal specifications in Coq, the semantics of Coq's type theory itself. The tool was also rather bare bones, providing only rudimentary quoting and unquoting commands. We generalize it to handle the entire Calculus of Inductive Constructions (CIC), as implemented by Coq, including the kernel's declaration structures for definitions and inductives, and implement a monad for general manipulation of Coq's logical environment. We demonstrate how this setup allows Coq users to define many kinds of general purpose plugins, whose correctness can be readily proved in the system itself, and that can be run efficiently after extraction. We give a few examples of implemented plugins, including a parametricity translation. We also advocate the use of Template-Coq as a foundation for higher-level tools.",
+	isbn="978-3-319-94821-8"
+}
+
+@article{ls:metaprogramming,
+	author = {Lilis, Yannis and Savidis, Anthony},
+	title = {A Survey of Metaprogramming Languages},
+	year = {2019},
+	issue_date = {January 2020},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	volume = {52},
+	number = {6},
+	issn = {0360-0300},
+	url = {https://doi.org/10.1145/3354584},
+	doi = {10.1145/3354584},
+	abstract = {Metaprogramming is the process of writing computer programs that treat programs as
+	data, enabling them to analyze or transform existing programs or generate new ones.
+	While the concept of metaprogramming has existed for several decades, activities focusing
+	on metaprogramming have been increasing rapidly over the past few years, with most
+	languages offering some metaprogramming support and the amount of metacode being developed
+	growing exponentially. In this article, we introduce a taxonomy of metaprogramming
+	languages and present a survey of metaprogramming languages and systems based on the
+	taxonomy. Our classification is based on the metaprogramming model adopted by the
+	language, the phase of the metaprogram evaluation, the metaprogram source location,
+	and the relation between the metalanguage and the object language.},
+	journal = {ACM Comput. Surv.},
+	month = oct,
+	articleno = {113},
+	numpages = {39},
+	keywords = {Metaprogramming, reflection, generative programming, multistage languages, macro systems, aspect-oriented programming, meta-object protocols}
+}
+
+@article{Harnad:sgp07,
+author = {Harnad, Stevan},
+title   = {{S}ymbol grounding problem},
+year    = {2007},
+journal = {Scholarpedia},
+volume  = {2},
+number  = {7},
+doi     = {10.4249/scholarpedia.2373},
+note    = {revision \#73220}
+}
+
+
+@article{MarMarSan:balacoe93,
+  title = {Building a large annotated corpus of {English}: the penn treebank},
+  author = {Mitchell P. Marcus and Mary Ann Marcinkiewicz and Beatrice Santorini},
+  journal = {Computational Linguistics},
+  volume  = {19},
+  number = {2},
+  year = {1993},
+  pages = {313--330}}
+  
+@article{Lee:fcfprfbmm02,
+   author = {Lillian Lee},
+   title = {Fast context-free grammar parsing requires fast {Boolean} matrix multiplication},
+   year = {2002},
+   pages = {1--15},
+   journal = {Journal of the ACM},
+   volume = {49},
+   number = {1}
+}
+
+@book{Searle:sa69,
+  address = {Cambridge, London},
+  author = {Searle, John R.},
+  publisher = {Cambridge University Press},
+  title = {Speech Acts: An Essay in the Philosophy of Language},
+  year = 1969}
+
+
+@book{Wittgenstein:pi53,
+  author = {Wittgenstein, Ludwig},
+  isbn = {0631119000},
+  publisher = {Basil Blackwell},
+  title = {Philosophical Investigations},
+  year = 1953}
+
+
+@book{Austin:htw62,
+  author = {Austin, John Langshaw},
+  publisher = {Oxford University Press},
+  series = {William James Lectures},
+  title = {How to do things with words},
+  year = 1962}
+
+
+@incollection{Steels:sgphbs08,
+  author = {Luc Steels},
+  title = {The symbol grounding problem has been solved, so what's next?},
+  booktitle = {Symbols and Embodiment: Debates on Meaning and Cognition},
+  editor = {de Vega, Manuel and Arthur Glenberg and Arthur Graesser},
+  publisher = {Oxford University Press},
+  pages = {223--244},
+  year  = {2008}, 
+  url = {https://ai.vub.ac.be/sites/default/files/steels-08e.pdf}}
+  
+@article{Lucas:kadtes96,
+  author = {Peter Lucas},
+  title = {Knowledge Acquisition for Decision-theoretic Expert Systems},
+  journal = {AISB Quarterly},
+  volume = {94},
+  pages = {23--33},
+  year = {1996},
+  url = {https://www.researchgate.net/publication/2460438_Knowledge_Acquisition_for_Decision-theoretic_Expert_Systems}}
+
+@online{MARC:on,
+  label = {MARC},
+  title = {MARC STANDARDS (Network Development and MARC Standards Office, Library of Congress)},
+  url = {https://www.loc.gov/marc/},
+  urldate = {2021-04-18}}
+  
+@online{sophize:on,
+  title = {Sophize},
+  url = {https://sophize.org},
+  urldate = {2021-04-01}}
+
+@book{Forster:a16,
+  title={Analysis 1: Differential- und Integralrechnung einer Ver{\"a}nderlichen},
+  author={Forster, Otto},
+  isbn={9783658115456},
+  doi = {10.1007/978-3-658-11545-6},
+  series={Grundkurs Mathematik},
+  year={2016},
+  publisher={Springer Spektrum}}
+
+@book{Fischer:la14,
+  author = {Gerd Fischer},
+  title = {Lineare Algebra -- Eine Einführung für Studienanfänger},
+  series = {Grundkurs Mathematik},
+  doi = {10.1007/978-3-658-03945-5},
+  year = {2014},
+  edition = {18}}
+  
+@incollection{paulinmohring:cic-intro,
+  TITLE = {{Introduction to the Calculus of Inductive Constructions}},
+  AUTHOR = {Paulin-Mohring, Christine},
+  URL = {https://hal.inria.fr/hal-01094195},
+  BOOKTITLE = {{All about Proofs, Proofs for All}},
+  EDITOR = {Bruno Woltzenlogel Paleo and David Delahaye},
+  PUBLISHER = {{College Publications}},
+  SERIES = {Studies in Logic (Mathematical logic and foundations)},
+  VOLUME = {55},
+  YEAR = {2015},
+  MONTH = Jan,
+  KEYWORDS = {Coq proof assistant ; Calculus of Inductive Constructions},
+  PDF = {https://hal.inria.fr/hal-01094195/file/CIC.pdf},
+  HAL_ID = {hal-01094195},
+  HAL_VERSION = {v1},
+}
+
+@inproceedings{wadler:theorems-for-free,
+  author = {Wadler, Philip},
+  title = {Theorems for Free!},
+  year = {1989},
+  isbn = {0897913280},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/99370.99404},
+  doi = {10.1145/99370.99404},
+  booktitle = {Proceedings of the Fourth International Conference on Functional Programming Languages and Computer Architecture},
+  pages = {347–359},
+  numpages = {13},
+  location = {Imperial College, London, United Kingdom},
+  series = {FPCA '89}
+}
+
+@article{coq:coq-coq-correct,
+  author = {Sozeau, Matthieu and Boulier, Simon and Forster, Yannick and Tabareau, Nicolas and Winterhalter, Th\'{e}o},
+  title = {Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq},
+  year = {2019},
+  issue_date = {January 2020},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {4},
+  number = {POPL},
+  url = {https://doi.org/10.1145/3371076},
+  doi = {10.1145/3371076},
+  journal = {Proc. ACM Program. Lang.},
+  month = dec,
+  articleno = {8},
+  numpages = {28},
+  keywords = {certification, proof assistants, type checker}
+}
+
 @INPROCEEDINGS{SchSar:structurallogrel,
   author={C. {Schürmann} and J. {Sarnat}},
   booktitle={2008 23rd Annual IEEE Symposium on Logic in Computer Science},
@@ -25,6 +388,15 @@
   author = {Kurt G{\"o}del},
   title = {Zum Intuitionistischen Aussagenkalk\"ul}
 }
+
+@Inbook{Cresswell:aos82,
+  author = "Cresswell, M. J.",
+  crossref = {PetSaa:pbq82},
+  title = "The Autonomy of Semantics",
+  pages = "69--86",
+  doi = "10.1007/978-94-015-7668-0_2"}
+
+
 @book{HugCre:acml84,
   author = {G. E. Hughes and M. M. Cresswell},
   title = {A companion to Modal Logic},
@@ -490,6 +862,24 @@ series = {LOPSTR ’98}}
   title = {All {CSS} Specifications},
   url = {https://www.w3.org/Style/CSS/specs.en.html},
   urldate = {2020-01-12}}
+
+@online{pyjson:on,
+  label = {JS},
+  title = {\texttt{json} -- {JSON} encoder and decoder},
+  url = {https://docs.python.org/3/library/json.html},
+  urldate = {2021-04-16}}
+  
+@online{ElementTree:on,
+  label = {ET},
+  title = {\texttt{xml.etree.ElementTree} -- {The ElementTree XML API}},
+  url = {https://docs.python.org/3/library/xml.etree.elementtree.html},
+  urldate = {2021-04-15}}
+
+@online{urllib:on,
+  label = {UL},
+  title = {\texttt{urllib} -- {URL} handling modules},
+  url = {https://docs.python.org/3/library/urllib.html},
+  urldate = {2021-04-15}}
   
 @online{lxml:on,
   label = {LXML},
@@ -778,6 +1168,42 @@ series = {LOPSTR ’98}}
  title = "{The Agda WiKi}",
  url = {http://wiki.portal.chalmers.se/agda}}
 
+@inproceedings{agda,
+	author = {Norell, Ulf},
+	title = {Dependently Typed Programming in Agda},
+	year = {2009},
+	isbn = {9781605584201},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/1481861.1481862},
+	doi = {10.1145/1481861.1481862},
+	abstract = {Dependently typed languages have for a long time been used to describe proofs about
+	programs. Traditionally, dependent types are used mostly for stating and proving the
+	properties of the programs and not in defining the programs themselves. An impressive
+	example is the certified compiler by Leroy (2006) implemented and proved correct in
+	Coq (Bertot and Cast\'{e}ran 2004).Recently there has been an increased interest in dependently
+	typed programming, where the aim is to write programs that use the dependent type
+	system to a much higher degree. In this way a lot of the properties that were previously
+	proved separately can be integrated in the type of the program, in many cases adding
+	little or no complexity to the definition of the program. New languages, such as Epigram
+	(McBride and McKinna 2004), are being designed, and existing languages are being extended
+	with new features to accomodate these ideas, for instance the work on dependently
+	typed programming in Coq by Sozeau (2007).This talk gives an overview of the Agda
+	programming language (Norell 2007), whose main focus is on dependently typed programming.
+	Agda provides a rich set of inductive types with a powerful mechanism for pattern
+	matching, allowing dependently typed programs to be written with minimal fuss. To
+	read about programming in Agda, see the lecture notes from the Advanced Functional
+	Programming summer school (Norell 2008) and the work by Oury and Swierstra (2008).In
+	the talk a number of examples of interesting dependently typed programs chosen from
+	the domain of programming language implementation are presented as they are implemented
+	in Agda.},
+	booktitle = {Proceedings of the 4th International Workshop on Types in Language Design and Implementation},
+	pages = {1–2},
+	numpages = {2},
+	keywords = {dependent types, programming},
+	location = {Savannah, GA, USA},
+	series = {TLDI '09}
+}
 
 @article{CarFarJer:mlspe11,
   Author    = {Jacques Carette and
@@ -1565,7 +1991,7 @@ doi = {10.1108/IDD-06-2018-0022}}
 @inproceedings{MouKonAvi:tltp15,
   title = {The Lean Theorem Prover},
   url = {https://leanprover.github.io/papers/system.pdf},
-  author = {Leonardo de Moura and Soonho Kong and Jeremy Avigad and van Doorn, Floris and  von Raumer, Jakob},
+  author = {de Moura, Leonardo and Soonho Kong and Jeremy Avigad and van Doorn, Floris and  von Raumer, Jakob},
   crossref = {CADE25},
   pages = {378--388}}
 
@@ -12163,7 +12589,7 @@ lastchecked =  {May, 2008}}
   year =     2003,
   address =      {Rome}}
 
-@online{Miller:latexml:online,crossref={Miller:latexml:base},urldate={2013-03-12},label={LTX}}
+@online{Miller:latexml:online,crossref={Miller:latexml:base},urldate={2021-03-12},label={LTX}}
 @Misc{Miller:latexml,crossref={Miller:latexml:base},
   howpublished = {Web Manual at \url{http://dlmf.nist.gov/LaTeXML/}},
   note = {seen September 2011}}
@@ -16957,11 +17383,30 @@ year      = {1993}}
   title = {{Ordered Semantic Hyper Linking}},
   crossref = {AAAI97}}
 
-@InProceedings{RiaVor:Vampire01,
-  author = 	 {Alexandre Riazanov and Andrei Voronkov},
-  title = 	 {Vampire 1.1 (System Description)},
-  crossref =  {IJCAR01},
-  pages = 	 {376--380}}
+@inproceedings{RiaVor:Vampire01,
+	author = {Riazanov, Alexandre and Voronkov, Andrei},
+	title = {Vampire 1.1 (System Description)},
+	year = {2001},
+	isbn = {3540422544},
+	publisher = {Springer-Verlag},
+	address = {Berlin, Heidelberg},
+	abstract = {In this abstract we describe version 1.1 of the theorem prover Vampire. We give a
+	general description and comment on Vampire's original features and differences with
+	the previously described version 0.0.From the very beginning, the main research principle
+	of Vampire was efficiency. Vampire uses a large number of data structures for indexing
+	terms and clauses. Efficiency is still the most distinctive feature of Vampire. Due
+	to reimplementation of some algorithms and data structures, Vampire 1.1 is on the
+	average considerably more efficient than Vampire 0.0.However, the last year many efforts
+	were invested in flexibility: several new inference and simplification rules were
+	implemented, options for controlling the proof search process added, and new literal
+	selection schemes designed.For the remaining time before IJCAR 2001, we are going
+	to concentrate on adding more flexibility to Vampire, both for experienced and inexperienced
+	users.},
+	booktitle = {Proceedings of the First International Joint Conference on Automated Reasoning},
+	pages = {376–380},
+	numpages = {5},
+	series = {IJCAR '01}
+}
 
 @INPROCEEDINGS{vandePol:tpfhor93,
   author = {J. van de Pol},
@@ -19984,8 +20429,7 @@ YEAR = 1989}
   volume = {284}}
 
 @BOOK{BertotCasteran:coq04,
-  title = {Interactive Theorem Proving and Program Development --- Coq'Art:
-    The Calculus of Inductive Constructions},
+  title = {Interactive Theorem Proving and Program Development --- Coq'Art: The Calculus of Inductive Constructions},
   publisher = {Springer Verlag},
   year = {2004},
   author = {Bertot, Yves and Cast{\'e}ran, Pierre},
@@ -21245,6 +21689,13 @@ YEAR = 1989}
   editor = {J. Jacobs and A. van Stechow and W. Sternefeld and T. Vennemann},
   author = {Noam Chomsky and Howard Lasnik},
   note = {To appear}}
+
+@book{Chomsky:st57,
+  author = {Chomsky, Noam},
+  year =  {1965},
+  title = {Syntactic structures},
+  address = {Den Haag},
+  publisher = {Mouton}}
 
 @book{Chomsky:ats65,
   author = {Chomsky, Noam},
@@ -23378,14 +23829,13 @@ YEAR = 1989}
   note = {Seen July 2006},
   timestamp = {2006.07.27}}
 
-@INCOLLECTION{freg:sinn92,
-  author = {Frege, G.},
+@article{Frege:sub92,
+  author = {Frege, Gottlob},
   title = {{\"U}ber {Sinn} und {Bedeutung}},
-  booktitle = {Funktion, Begriff, Bedeutung. F{\"u}nf Logische Studien},
-  publisher = {Vanden Hoeck},
+  journal = {Zeitschrift für Philosophie und philosophische Kritik},
+  volume = {100},
   year = {1892},
-  editor = {G. Patzig},
-  address = {G{\"o}ttingen}}
+  pages = {25--50}}
 
 @InCollection{Speaks:ToM19,
 	author       =	{Speaks, Jeff},
@@ -35687,7 +36137,16 @@ title = {Web Map}}
 @TECHREPORT{CapCarCoh:oms02,
   title = {The {OpenMath} Standard, Version 1.1b},
   year = {2002},
-  note = {{The {OpenMath} Society},~\url{http://www.nag.co.uk/projects/OpenMath/omstd/}},
+  note = {The {OpenMath} Society},
+  url = {http://www.nag.co.uk/projects/OpenMath/omstd/},
+  editor = {Olga Caprotti and David P. Carlisle and Arjeh M. Cohen},
+  key = {Caprotti}}
+
+@TECHREPORT{CapCarCoh:oms00,
+  title = {The {OpenMath} Standard},
+  year = {2000},
+  note = {The {OpenMath} Society},
+  url = {https://www.openmath.org/standard/om10/omstd.pdf},
   editor = {Olga Caprotti and David P. Carlisle and Arjeh M. Cohen},
   key = {Caprotti}}
 
@@ -41239,6 +41698,20 @@ crossref = {OpenMathUIWiP2012}}
   url = {http://www.ags.uni-sb.de/~leo/},
   urldate =      {2012-09-16}}
 
+@InProceedings{leo-iii,
+	author="Steen, Alexander and Benzm{\"u}ller, Christoph",
+	editor="Galmiche, Didier and Schulz, Stephan and Sebastiani, Roberto",
+	title="The Higher-Order Prover Leo-III",
+	booktitle="Automated Reasoning",
+	year="2018",
+	publisher="Springer International Publishing",
+	address="Cham",
+	pages="108--116",
+	abstract="The automated theorem prover Leo-III for classical higher-order logic with Henkin semantics and choice is presented. Leo-III is based on extensional higher-order paramodulation and accepts every common TPTP dialect (FOF, TFF, THF), including their recent extensions to rank-1 polymorphism (TF1, TH1). In addition, the prover natively supports almost every normal higher-order modal logic. Leo-III cooperates with first-order reasoning tools using translations to many-sorted first-order logic and produces verifiable proof certificates. The prover is evaluated on heterogeneous benchmark sets.",
+	isbn="978-3-319-94205-6",
+	doi={10.1007/978-3-319-94205-6_8}
+}
+
 @online{afp,
   editor = {Gerwin Klein and Tobias Nipkow and Larry Paulson},
   title =  {Archive of Formal Proofs},
@@ -44367,6 +44840,7 @@ author={Bench-Capon, Trevor},
 year={2020}
 }
 
+
 @InProceedings{BockSchuerMann:CLF,
 author="Bock, Peter Brottveit
 and Sch{\"u}rmann, Carsten",
@@ -44382,4 +44856,16 @@ address="Berlin, Heidelberg",
 pages="402--417",
 abstract="A new logical framework with explicit linear contexts and names is presented with the purpose of enabling direct and flexible manipulation of contexts, both for representing systems and meta-properties. The framework is a conservative extension of the logical framework LF, and builds on linear logic and contextual modal type theory. We prove that the framework admits canonical forms, and that it possesses all desirable meta-theoretic properties, in particular hereditary substitutions.",
 isbn="978-3-662-48899-7"
+}
+
+@inproceedings{BenzuellerFuenmayor:ValLegArgIsa,
+  Author =	 {Benzm\"uller, Christoph and Fuenmayor, David},
+  Editor =      {Liron Cohen and Cezary Kaliszyk},
+  OPTdoi =          {10.13140/RG.2.2.21514.80320},
+  Title =	 {Value-oriented Legal Argumentation in Isabelle/HOL},
+  Booktitle =    {International Conference on Interactive Theorem Proving (ITP), Proceedings},
+  series =       {LIPIcs},
+  volume =    {193},
+  publisher =    {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  Year =	 2021,
 }
