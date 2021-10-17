@@ -60,6 +60,105 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@article{coq:metacoq,
+	TITLE = {{The MetaCoq Project}},
+	AUTHOR = {Sozeau, Matthieu and Anand, Abhishek and Boulier, Simon and Cohen, Cyril and Forster, Yannick and Kunze, Fabian and Malecha, Gregory and Tabareau, Nicolas and Winterhalter, Th{\'e}o},
+	URL = {https://hal.inria.fr/hal-02167423},
+	JOURNAL = {{Journal of Automated Reasoning}},
+	PUBLISHER = {{Springer Verlag}},
+	YEAR = {2020},
+	MONTH = Feb,
+	DOI = {10.1007/s10817-019-09540-0},
+	PDF = {https://hal.inria.fr/hal-02167423/file/The_MetaCoq_Project.pdf},
+	HAL_ID = {hal-02167423},
+	HAL_VERSION = {v1},
+}
+
+@article{coq:ssreflect,
+	title={An introduction to small scale reflection in Coq},
+	author={Georges Gonthier and Assia Mahboubi},
+	journal={J. Formaliz. Reason.},
+	year={2010},
+	volume={3},
+	pages={95-152},
+	doi={10.6092/issn.1972-5787/1979}
+}
+
+@article{coq:mtac2,
+	author = {Kaiser, Jan-Oliver and Ziliani, Beta and Krebbers, Robbert and R\'{e}gis-Gianas, Yann and Dreyer, Derek},
+	title = {Mtac2: Typed Tactics for Backward Reasoning in Coq},
+	year = {2018},
+	issue_date = {September 2018},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	volume = {2},
+	number = {ICFP},
+	url = {https://doi.org/10.1145/3236773},
+	doi = {10.1145/3236773},
+	abstract = {Coq supports a range of built-in tactics, which are engineered primarily to support
+	backward reasoning. Starting from a desired goal, the Coq programmer can use these
+	tactics to manipulate the proof state interactively, applying axioms or lemmas to
+	break the goal into subgoals until all subgoals have been solved. Additionally, it
+	provides support for tactic programming via OCaml and Ltac, so that users can roll
+	their own custom proof automation routines. Unfortunately, though, these tactic languages
+	share a significant weakness. They do not offer the tactic programmer any static guarantees
+	about the soundness of their custom tactics, making large tactic developments difficult
+	to maintain. To address this limitation, Ziliani et al. previously proposed Mtac,
+	a new typed approach to custom proof automation in Coq which provides the static guarantees
+	that OCaml and Ltac are missing. However, despite its name, Mtac is really more of
+	a metaprogramming language than it is a full-blown tactic language: it misses an essential
+	feature of tactic programming, namely the ability to directly manipulate Coq’s proof
+	state and perform backward reasoning on it. In this paper, we present Mtac2, a next-generation
+	version of Mtac that combines its support for typed metaprogramming with additional
+	support for the programming of backward-reasoning tactics in the style of Ltac. In
+	so doing, Mtac2 introduces a novel feature in tactic programming languages—what we
+	call typed backward reasoning. With this feature, Mtac2 is capable of statically ruling
+	out several classes of errors that would otherwise remain undetected at tactic definition
+	time. We demonstrate the utility of Mtac2’s typed tactics by porting several tactics
+	from a large Coq development, the Iris Proof Mode, from Ltac to Mtac2.},
+	journal = {Proc. ACM Program. Lang.},
+	month = jul,
+	articleno = {78},
+	numpages = {31},
+	keywords = {Tactic Languages, Theorem Proving, Dependent Types, Metaprogramming, Coq}
+}
+
+@unpublished{coq:ltac2,
+	author = "Pédrot, Pierre-Marie",
+	title = "Ltac2: Tactical Warfare",
+	year = "2019",
+	maintitle = {Principles of Programming Languages},
+  booktitle = {The Fifth International Workshop on Coq for Programming Languages},
+	url = {https://www.xn--pdrot-bsa.fr/articles/coqpl2019.pdf}
+}
+
+@InProceedings{coq:ltac,
+	author="Delahaye, David",
+	editor="Parigot, Michel
+	and Voronkov, Andrei",
+	title="A Tactic Language for the System Coq",
+	booktitle="Logic for Programming and Automated Reasoning",
+	year="2000",
+	publisher="Springer Berlin Heidelberg",
+	address="Berlin, Heidelberg",
+	pages="85--95",
+	abstract="We propose a new tactic language for the system Coq, which is intended to enrich the current tactic combinators (tacticals). This language is based on a functional core with recursors and matching operators for Coq terms but also for proof contexts. It can be used directly in proof scripts or in toplevel definitions (tactic definitions). We show that the implementation of this language involves considerable changes in the interpretation of proof scripts, essentially due to the matching operators. We give some examples which solve small proof parts locally and some others which deal with non-trivial problems. Finally, we discuss the status of this meta-language with respect to the Coq language and the implementation language of Coq.",
+	isbn="978-3-540-44404-6",
+	doi={10.1007/3-540-44404-1_7}
+}
+
+@InProceedings{E-atp,
+  author =       {Stephan Schulz and Simon Cruanes and Petar Vukmirovi{\'c}},
+  title =        {Faster, Higher, Stronger: {E} 2.3},
+  year =         {2019},
+  booktitle =    {Proc.\ of the 27th CADE, Natal, Brasil},
+  editor =       {Pascal Fontaine},
+  number =       {11716},
+  series =       {LNAI},
+  pages =        {495--507},
+  publisher =    {Springer},
+}
+
 @article{lean:meta-programming,
 	author = {Ebner, Gabriel and Ullrich, Sebastian and Roesch, Jared and Avigad, Jeremy and de Moura, Leonardo},
 	title = {A Metaprogramming Framework for Formal Verification},
@@ -168,8 +267,61 @@
 	month = oct,
 	articleno = {113},
 	numpages = {39},
-	keywords = {Metaprogramming, reflection, generative programming, multistage languages, macro systems, aspect-oriented programming, meta-object protocols}
+	keywords = {Metaprogramming, reflection, generative programming, multistage languages, macro systems, aspect-oriented programming, meta-object protocols}}
+
+@online{flightright:on,
+  title = {Flightright: Ihr Experte für Ticketerstattung und Flugentschädigung},
+  url = {https://flightright.com},
+  urldate = {2021-10-10}}
+  
+@article{Adrian:rimsi17,
+  author = {Axel Adrian},
+  title = {Der Richterautomat ist möglich -- Semantik ist nur eine Illusion},
+  journal = {Rechtstheorie},
+  volume = {48},
+  number = {1},
+  year = {2017},
+  pages = {77--121}}
+  
+@online{pentium-bug:on,
+  title = {Pentium-FDIV-Bug},
+  note = {Wikipedia},
+  url = {https://de.wikipedia.org/wiki/Pentium-FDIV-Bug},
+  urldate = {2021-10-06}}
+  
+
+@online{mdzd:21,
+  title = {Modernisierung des Zivilprozesses -- Diskussionspapier},
+  author = {Arbeitsgruppe „Modernisierung des Zivilprozesses“},
+  year = {2021},
+  note = {Im Auftrag der Präsidentinnen und Präsidenten der Oberlandesgerichte, des
+                  Kammergerichts, des Bayerischen Obersten Landesgerichts und des
+                  Bundesgerichthofs},
+  url = {https://www.justiz.bayern.de/media/images/behoerden-und-gerichte/oberlandesgerichte/nuernberg/diskussionspapier_ag_modernisierung.pdf}}
+@unpublished{AdrBar:ebsbsdv21,
+title = {Expertensysteme im Bereich der Steuerverwaltung als Beispiel eines strukturierten digitalen Verfahrens -- Ein Erfahrungsaustausch zum Nutzen eines künftigen digitalen Justizportals},
+author = {Axel Adrian and Holger Barthel},
+year = 2021,
+note = {Im Tagugungsband \emph{Digitalisierung von Zivilprozess und Rechtsdurchsetzung} in Vorbereitung}}
+
+@article{Thomas:bnataim17,
+	title = {Beauty Is Not All There Is to Aesthetics in Mathematics},
+	year = {2017},
+	journal = {Philosophia Mathematica},
+	volume = {25},
+	doi = {10.1093/philmat/nkw019},
+	author = {R. S. D. Thomas},
+	pages = {116--127}
 }
+
+@misc{Avigad:doml21,
+           month = {August},
+           title = {The design of mathematical language},
+          author = {Jeremy Avigad},
+            year = {2021},
+        keywords = {mathematical language, formalization, proof assistants},
+             url = {http://philsci-archive.pitt.edu/19508/},
+        abstract = {As idealized descriptions of mathematical language, there is a sense in which formal systems specify too little, and there is a sense in which they specify too much. They are silent with respect to a number of features of mathematical language that are essential to the communicative and inferential goals of the subject, while many of these features are independent of a specific choice of foundation. This chapter begins to map out the design features of mathematical language without descending to the level of formal implementation, drawing on examples from the mathematical literature and insights from the design of computational proof assistants.}}
 
 @article{Harnad:sgp07,
 author = {Harnad, Stevan},
@@ -1122,6 +1274,42 @@ series = {LOPSTR ’98}}
  title = "{The Agda WiKi}",
  url = {http://wiki.portal.chalmers.se/agda}}
 
+@inproceedings{agda,
+	author = {Norell, Ulf},
+	title = {Dependently Typed Programming in Agda},
+	year = {2009},
+	isbn = {9781605584201},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/1481861.1481862},
+	doi = {10.1145/1481861.1481862},
+	abstract = {Dependently typed languages have for a long time been used to describe proofs about
+	programs. Traditionally, dependent types are used mostly for stating and proving the
+	properties of the programs and not in defining the programs themselves. An impressive
+	example is the certified compiler by Leroy (2006) implemented and proved correct in
+	Coq (Bertot and Cast\'{e}ran 2004).Recently there has been an increased interest in dependently
+	typed programming, where the aim is to write programs that use the dependent type
+	system to a much higher degree. In this way a lot of the properties that were previously
+	proved separately can be integrated in the type of the program, in many cases adding
+	little or no complexity to the definition of the program. New languages, such as Epigram
+	(McBride and McKinna 2004), are being designed, and existing languages are being extended
+	with new features to accomodate these ideas, for instance the work on dependently
+	typed programming in Coq by Sozeau (2007).This talk gives an overview of the Agda
+	programming language (Norell 2007), whose main focus is on dependently typed programming.
+	Agda provides a rich set of inductive types with a powerful mechanism for pattern
+	matching, allowing dependently typed programs to be written with minimal fuss. To
+	read about programming in Agda, see the lecture notes from the Advanced Functional
+	Programming summer school (Norell 2008) and the work by Oury and Swierstra (2008).In
+	the talk a number of examples of interesting dependently typed programs chosen from
+	the domain of programming language implementation are presented as they are implemented
+	in Agda.},
+	booktitle = {Proceedings of the 4th International Workshop on Types in Language Design and Implementation},
+	pages = {1–2},
+	numpages = {2},
+	keywords = {dependent types, programming},
+	location = {Savannah, GA, USA},
+	series = {TLDI '09}
+}
 
 @article{CarFarJer:mlspe11,
   Author    = {Jacques Carette and
@@ -17301,11 +17489,30 @@ year      = {1993}}
   title = {{Ordered Semantic Hyper Linking}},
   crossref = {AAAI97}}
 
-@InProceedings{RiaVor:Vampire01,
-  author = 	 {Alexandre Riazanov and Andrei Voronkov},
-  title = 	 {Vampire 1.1 (System Description)},
-  crossref =  {IJCAR01},
-  pages = 	 {376--380}}
+@inproceedings{RiaVor:Vampire01,
+	author = {Riazanov, Alexandre and Voronkov, Andrei},
+	title = {Vampire 1.1 (System Description)},
+	year = {2001},
+	isbn = {3540422544},
+	publisher = {Springer-Verlag},
+	address = {Berlin, Heidelberg},
+	abstract = {In this abstract we describe version 1.1 of the theorem prover Vampire. We give a
+	general description and comment on Vampire's original features and differences with
+	the previously described version 0.0.From the very beginning, the main research principle
+	of Vampire was efficiency. Vampire uses a large number of data structures for indexing
+	terms and clauses. Efficiency is still the most distinctive feature of Vampire. Due
+	to reimplementation of some algorithms and data structures, Vampire 1.1 is on the
+	average considerably more efficient than Vampire 0.0.However, the last year many efforts
+	were invested in flexibility: several new inference and simplification rules were
+	implemented, options for controlling the proof search process added, and new literal
+	selection schemes designed.For the remaining time before IJCAR 2001, we are going
+	to concentrate on adding more flexibility to Vampire, both for experienced and inexperienced
+	users.},
+	booktitle = {Proceedings of the First International Joint Conference on Automated Reasoning},
+	pages = {376–380},
+	numpages = {5},
+	series = {IJCAR '01}
+}
 
 @INPROCEEDINGS{vandePol:tpfhor93,
   author = {J. van de Pol},
@@ -20328,8 +20535,7 @@ YEAR = 1989}
   volume = {284}}
 
 @BOOK{BertotCasteran:coq04,
-  title = {Interactive Theorem Proving and Program Development --- Coq'Art:
-    The Calculus of Inductive Constructions},
+  title = {Interactive Theorem Proving and Program Development --- Coq'Art: The Calculus of Inductive Constructions},
   publisher = {Springer Verlag},
   year = {2004},
   author = {Bertot, Yves and Cast{\'e}ran, Pierre},
@@ -41598,6 +41804,20 @@ crossref = {OpenMathUIWiP2012}}
   url = {http://www.ags.uni-sb.de/~leo/},
   urldate =      {2012-09-16}}
 
+@InProceedings{leo-iii,
+	author="Steen, Alexander and Benzm{\"u}ller, Christoph",
+	editor="Galmiche, Didier and Schulz, Stephan and Sebastiani, Roberto",
+	title="The Higher-Order Prover Leo-III",
+	booktitle="Automated Reasoning",
+	year="2018",
+	publisher="Springer International Publishing",
+	address="Cham",
+	pages="108--116",
+	abstract="The automated theorem prover Leo-III for classical higher-order logic with Henkin semantics and choice is presented. Leo-III is based on extensional higher-order paramodulation and accepts every common TPTP dialect (FOF, TFF, THF), including their recent extensions to rank-1 polymorphism (TF1, TH1). In addition, the prover natively supports almost every normal higher-order modal logic. Leo-III cooperates with first-order reasoning tools using translations to many-sorted first-order logic and produces verifiable proof certificates. The prover is evaluated on heterogeneous benchmark sets.",
+	isbn="978-3-319-94205-6",
+	doi={10.1007/978-3-319-94205-6_8}
+}
+
 @online{afp,
   editor = {Gerwin Klein and Tobias Nipkow and Larry Paulson},
   title =  {Archive of Formal Proofs},
@@ -44725,7 +44945,6 @@ publisher={Editions Weblaw},
 author={Bench-Capon, Trevor},
 year={2020}
 }
-<<<<<<< HEAD
 
 @InProceedings{BockSchuerMann:CLF,
 author="Bock, Peter Brottveit
@@ -44753,14 +44972,25 @@ isbn="978-3-662-48899-7"
   series =       {LIPIcs},
   volume =    {193},
   publisher =    {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  Year =	 2021,
-}
-=======
->>>>>>> 6c873d65981b22bbcd636b295d29a948dc3b761d
+  year =	 2021}
 
 @string{kpmessage = "READ the README please!!!!!!!!!!!!!!"}
 @STRING{stexyear = 2021}
 @STRING{testing = 16}
+
+@InProceedings{KR:survey-for-formalizing,
+	author="Kaliszyk, Cezary and Rabe, Florian",
+	editor="Benzm{\"u}ller, Christoph and Miller, Bruce",
+	title="A Survey of Languages for Formalizing Mathematics",
+	booktitle="Intelligent Computer Mathematics",
+	year="2020",
+	publisher="Springer International Publishing",
+	address="Cham",
+	pages="138--156",
+	abstract="In order to work with mathematical content in computer systems, it is necessary to represent it in formal languages. Ideally, these are supported by tools that verify the correctness of the content, allow computing with it, and produce human-readable documents. These goals are challenging to combine and state-of-the-art tools typically have to make difficult compromises.",
+	isbn="978-3-030-53518-6",
+	pubs = {frabe}
+}
 
 @inproceedings{rabe:tde:21,
   author = "F. Rabe",
@@ -53780,6 +54010,37 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
   year={2021},
   url={https://openreview.net/forum?id=K5j7D81ABvt},
   pubs = {dmueller}
+}
+
+@inproceedings{AdrianKohlhaseRapp:LegalSyllogism21,
+title = {A novel understanding of legal syllogism as a starting point for better legal symbolic AI systems},
+author = {Axel Adrian and Michael Kohlhase and Max Rapp},
+booktitle = {24. Internationalen Rechtsinformatik Symposion (IRIS 2021)},
+year = {2021},
+url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&login=false},
+pubs = {mrapp, mkohlhase}
+}
+
+@inproceedings{AdrianKohlhaseRapp:,
+title = {A novel understanding of legal syllogism as a starting point for better legal symbolic AI systems},
+author = {Axel Adrian and Michael Kohlhase and Max Rapp},
+booktitle = {Cybergovernance, Tagungsband des 24. Internationalen Rechtsinformatik Symposion IRIS},
+year = {2021},
+pages = {169ff.},
+editor = {Erich Schweighofer und Walter H{\"o}tzendorfer und Franz Kummer und Ahti Saarenp{\"a}{\"a} und Stefan Eder und Philip Hanke},
+url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&login=false},
+pubs = {mrapp, mkohlhase}
+}
+
+@inproceedings{AdrianKohlhaseRapp:,
+title = {Context Graphs for Ampliative Analogical Legal Reasoning and Argumentation},
+author = {Michael Kohlhase and Axel Adrian and Max Rapp},
+booktitle = {Cybergovernance, Tagungsband des 24. Internationalen Rechtsinformatik Symposion IRIS},
+year = {2021},
+pages = {231ff.},
+editor = {Erich Schweighofer und Walter H{\"o}tzendorfer und Franz Kummer und Ahti Saarenp{\"a}{\"a} und Stefan Eder und Philip Hanke},
+url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&login=false},
+pubs = {mrapp, mkohlhase}
 }
 
 
