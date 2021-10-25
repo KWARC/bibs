@@ -7,6 +7,33 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@InProceedings{cfs:diagops,
+  author="Carette, Jacques and Farmer, William M. and Sharoda, Yasmine",
+  editor="Benzm{\"u}ller, Christoph
+  and Miller, Bruce",
+  title="Leveraging the Information Contained in Theory Presentations",
+  booktitle="Intelligent Computer Mathematics",
+  year="2020",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="55--70",
+  abstract="A theorem prover without an extensive library is much less useful to its potential users. Algebra, the study of algebraic structures, is a core component of such libraries. Algebraic theories also are themselves structured, the study of which was started as Universal Algebra. Various constructions (homomorphism, term algebras, products, etc.) and their properties are both universal and constructive. Thus they are ripe for being automated. Unfortunately, current practice still requires library builders to write these by hand. We first highlight specific redundancies in libraries of existing systems. Then we describe a framework for generating these derived concepts from theory definitions. We demonstrate the usefulness of this framework on a test library of 227 theories.",
+  isbn="978-3-030-53518-6",
+  url={https://arxiv.org/pdf/2006.09292.pdf}
+}
+
+
+
+@inproceedings{agda:proof-by-reflection,
+  title={Engineering Proof by Reflection in Agda},
+  author={van der Walt, Paul and Swierstra, Wouter},
+  booktitle={IFL -- 24th International Symposium on Implementation and Application of Functional Languages},
+  date={08-2012},
+	place={Oxford, United Kingdom},
+	pages={157--173},
+	url={https://hal.inria.fr/hal-00987610/PDF/ReflectionProofs.pdf}
+}
+
 @book{jacobs:coalgebra,
   author={Jacobs, Bart},
 	title={Introduction to Coalgebra: Towards Mathematics of States and Observation},
@@ -276,7 +303,37 @@
   publisher =    {Springer},
 }
 
-@article{lean:meta-programming,
+@article{idris:metaprogramming,
+  author = {Christiansen, David and Brady, Edwin},
+  title = {Elaborator Reflection: Extending Idris in Idris},
+  year = {2016},
+  issue_date = {September 2016},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {51},
+  number = {9},
+  issn = {0362-1340},
+  url = {https://dl.acm.org/doi/pdf/10.1145/2951913.2951932},
+  doi = {10.1145/3022670.2951932},
+  abstract = {Many programming languages and proof assistants are defined by elaboration from a
+  high-level language with a great deal of implicit information to a highly explicit
+  core language. In many advanced languages, these elaboration facilities contain powerful
+  tools for program construction, but these tools are rarely designed to be repurposed
+  by users. We describe elaborator reflection, a paradigm for metaprogramming in which
+  the elaboration machinery is made directly available to metaprograms, as well as a
+  concrete realization of elaborator reflection in Idris, a functional language with
+  full dependent types. We demonstrate the applicability of Idris’s reflected elaboration
+  framework to a number of realistic problems, we discuss the motivation for the specific
+  features of its design, and we explore the broader meaning of elaborator reflection
+  as it can relate to other languages.},
+  journal = {SIGPLAN Not.},
+  month = sep,
+  pages = {284–297},
+  numpages = {14},
+  keywords = {Metaprogramming, dependent types, elaboration}
+}
+
+@article{lean:metaprogramming,
 	author = {Ebner, Gabriel and Ullrich, Sebastian and Roesch, Jared and Avigad, Jeremy and de Moura, Leonardo},
 	title = {A Metaprogramming Framework for Formal Verification},
 	year = {2017},
@@ -285,7 +342,7 @@
 	address = {New York, NY, USA},
 	volume = {1},
 	number = {ICFP},
-	url = {https://doi.org/10.1145/3110278},
+	url = {https://dl.acm.org/doi/pdf/10.1145/3110278},
 	doi = {10.1145/3110278},
 	abstract = { We describe the metaprogramming framework currently used in Lean, an interactive
 	theorem prover based on dependent type theory. This framework extends Lean's object
@@ -584,7 +641,7 @@ note    = {revision \#73220}
   address = {New York, NY, USA},
   volume = {4},
   number = {POPL},
-  url = {https://doi.org/10.1145/3371076},
+  url = {https://dl.acm.org/doi/pdf/10.1145/3371076},
   doi = {10.1145/3371076},
   journal = {Proc. ACM Program. Lang.},
   month = dec,
