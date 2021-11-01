@@ -60,6 +60,203 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@online{Goodenough:lt3,
+  note = {Blog post},
+  author = {Oliver R. Goodenough},
+  title = {Legal Technology 3.0},
+  url = {https://www.huffpost.com/entry/legal-technology-30_b_6603658},
+  year = {2015}}
+  
+  
+@InProceedings{cfs:diagops,
+  author="Carette, Jacques and Farmer, William M. and Sharoda, Yasmine",
+  editor="Benzm{\"u}ller, Christoph
+  and Miller, Bruce",
+  title="Leveraging the Information Contained in Theory Presentations",
+  booktitle="Intelligent Computer Mathematics",
+  year="2020",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="55--70",
+  abstract="A theorem prover without an extensive library is much less useful to its potential users. Algebra, the study of algebraic structures, is a core component of such libraries. Algebraic theories also are themselves structured, the study of which was started as Universal Algebra. Various constructions (homomorphism, term algebras, products, etc.) and their properties are both universal and constructive. Thus they are ripe for being automated. Unfortunately, current practice still requires library builders to write these by hand. We first highlight specific redundancies in libraries of existing systems. Then we describe a framework for generating these derived concepts from theory definitions. We demonstrate the usefulness of this framework on a test library of 227 theories.",
+  isbn="978-3-030-53518-6",
+  url={https://arxiv.org/pdf/2006.09292.pdf}
+}
+
+@inproceedings{agda:proof-by-reflection,
+  title={Engineering Proof by Reflection in Agda},
+  author={van der Walt, Paul and Swierstra, Wouter},
+  booktitle={IFL -- 24th International Symposium on Implementation and Application of Functional Languages},
+  date={08-2012},
+	place={Oxford, United Kingdom},
+	pages={157--173},
+	url={https://hal.inria.fr/hal-00987610/PDF/ReflectionProofs.pdf}
+}
+
+@book{jacobs:coalgebra,
+  author={Jacobs, Bart},
+	title={Introduction to Coalgebra: Towards Mathematics of States and Observation},
+	series={Cambridge Tracts in Theoretical Computer Science},
+	place={Cambridge},
+	doi={10.1017/CBO9781316823187},
+	publisher={Cambridge University Press},
+	year={2016},
+	collection={Cambridge Tracts in Theoretical Computer Science},
+	url={http://www.cs.ru.nl/B.Jacobs/CLG/JacobsCoalgebraIntro.pdf}
+}
+
+@book{wechler:univalg,
+	location = {Berlin, Heidelberg},
+	title = {Universal Algebra for Computer Scientists},
+	isbn = {9783540542803},
+	numpages = {339},
+	series = {EATCS Monographs on Theoretical Computer Science},
+	issn = {14312654},
+	url = {http://link.springer.com/10.1007/978-3-642-76771-5},
+	publisher = {Springer, Berlin, Heidelberg},
+	author = {Wechler, Wolfgang},
+	urldate = {2021-10-22},
+	year = {1992},
+	doi = {10.1007/978-3-642-76771-5}
+}
+
+@book{bs:course-univalg,
+  title = {A Course in Universal Algebra},
+	subtitle = {The Millennium Edition},
+  author = {Burris, Stanley and Sankappanavar, H. P.},
+	year = {2012},
+	isbn = {9780988055209},
+	issn = {00725285},
+	howpublished = {\url{https://www.math.uwaterloo.ca/~snburris/htdocs/UALG/univ-algebra2012.pdf}},
+	series = {Graduate Texts in Mathematics},
+	volume = {78},
+	publisher = {Springer-Verlag New York},
+	numpages = {276}
+}
+
+@inproceedings{lean:mathlib,
+  author = {The mathlib Community},
+  title = {The Lean Mathematical Library},
+  year = {2020},
+  isbn = {9781450370974},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3372885.3373824},
+  doi = {10.1145/3372885.3373824},
+  abstract = {This paper describes mathlib, a community-driven effort to build a unified library
+  of mathematics formalized in the Lean proof assistant. Among proof assistant libraries,
+  it is distinguished by its dependently typed foundations, focus on classical mathematics,
+  extensive hierarchy of structures, use of large- and small-scale automation, and distributed
+  organization. We explain the architecture and design decisions of the library and
+  the social organization that has led to its development.},
+  booktitle = {Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs},
+  pages = {367–381},
+  numpages = {15},
+  keywords = {formal library, Lean, formal proof, mathlib},
+  location = {New Orleans, LA, USA},
+  series = {CPP 2020}
+}
+
+@misc{agda:stdlib-algebra,
+  label = {agd},
+  author = {{Contributors of agda/agda-stdlib on GitHub}},
+  title = {Agda standard library -- Algebra Structures},
+	year = {2021},
+	publisher = {GitHub},
+	journal = {GitHub repository},
+	url = {https://github.com/agda/agda-stdlib/blob/dd20869e959eb2eac3b8214ddf124b40cabc03e7/src/Algebra/Structures.agda},
+	howpublished = {\url{https://github.com/agda/agda-stdlib/blob/dd20869e959eb2eac3b8214ddf124b40cabc03e7/src/Algebra/Structures.agda}},
+	commit = {dd20869e959eb2eac3b8214ddf124b40cabc03e7}
+}
+
+@article{gpwz:coq-algebra,
+  title = {A Constructive Algebraic Hierarchy in Coq},
+  journal = {Journal of Symbolic Computation},
+  volume = {34},
+  number = {4},
+  pages = {271-286},
+  year = {2002},
+  issn = {0747-7171},
+  doi = {https://doi.org/10.1006/jsco.2002.0552},
+  url = {https://www.sciencedirect.com/science/article/pii/S0747717102905523},
+  author = {Herman Geuvers and Randy Pollack and Freek Wiedijk and Jan Zwanenburg},
+  abstract = {We describe a framework of algebraic structures in the proof assistant Coq. We have developed this framework as part of the FTA project in Nijmegen, in which a constructive proof of the fundamental theorem of algebra has been formalized in Coq. The algebraic hierarchy that is described here is both abstract and structured. Structures like groups and rings are part of it in an abstract way, defining e.g. a ring as a tuple consisting of a group, a binary operation and a constant that together satisfy the properties of a ring. In this way, a ring automatically inherits the group properties of the additive subgroup. The algebraic hierarchy is formalized in Coq by applying a combination of labelled record types and coercions. In the labelled record types of Coq, one can use dependent types: the type of one label may depend on another label. This allows us to give a type to a dependent-typed tuple like 〈A, f, a〉, where A is a set,f an operation on A and a an element of A. Coercions are functions that are used implicitly (they are inferred by the type checker) and allow, for example, to use the structure A:= 〈A, f, a〉 as a synonym for the carrier set A, as is often done in mathematical practice. Apart from the inheritance and reuse of properties, the algebraic hierarchy has proven very useful for reusing notations.}
+}
+
+@inproceedings{jackson:nuprl-algebra,
+  title={Enhancing the NUPRL proof development system and applying it to computational abstract algebra},
+  author={Paul B. Jackson},
+  year={1995},
+	url={https://homepages.inf.ed.ac.uk/pbj/papers/thesis.pdf}
+}
+
+@misc{mathcomp:algebra,
+  label = {mathcomp},
+  author = {{Contributors of math-comp/math-comp on GitHub}},
+  title = "Mathematical Components -- Algebra Part of Algebraic Hierarchy",
+	year = {2021},
+	publisher = {GitHub},
+	journal = {GitHub repository},
+	url = {https://github.com/math-comp/math-comp/blob/07830d201e29d208a5a4bf13e630468f03bfadd5/mathcomp/algebra/ssralg.v},
+	howpublished = {\url{https://github.com/math-comp/math-comp/blob/07830d201e29d208a5a4bf13e630468f03bfadd5/mathcomp/algebra/ssralg.v}},
+	commit = {07830d201e29d208a5a4bf13e630468f03bfadd5}
+}
+
+@InProceedings{mathcomp:packaging-algebra,
+  author="Garillot, Fran{\c{c}}ois and Gonthier, Georges and Mahboubi, Assia and Rideau, Laurence",
+	editor="Berghofer, Stefan and Nipkow, Tobias and Urban, Christian and Wenzel, Makarius",
+  title="Packaging Mathematical Structures",
+  booktitle="Theorem Proving in Higher Order Logics",
+  year="2009",
+  publisher="Springer Berlin Heidelberg",
+  address="Berlin, Heidelberg",
+  pages="327--342",
+  abstract="This paper proposes generic design patterns to define and combine algebraic structures, using dependent records, coercions and type inference, inside the Coq system. This alternative to telescopes in particular supports multiple inheritance, maximal sharing of notations and theories, and automated structure inference. Our methodology is robust enough to handle a hierarchy comprising a broad variety of algebraic structures, from types with a choice operator to algebraically closed fields. Interfaces for the structures enjoy the convenience of a classical setting, without requiring any axiom. Finally, we present two applications of our proof techniques: a key lemma for characterising the discrete logarithm, and a matrix decomposition problem.",
+  isbn="978-3-642-03359-9"
+}
+
+@article{gunther:univalg,
+  title = {Formalization of Universal Algebra in Agda},
+  journal = {Electronic Notes in Theoretical Computer Science},
+  volume = {338},
+  pages = {147-166},
+  year = {2018},
+  note = {The 12th Workshop on Logical and Semantic Frameworks, with Applications (LSFA 2017)},
+  issn = {1571-0661},
+  doi = {https://doi.org/10.1016/j.entcs.2018.10.010},
+  url = {https://www.sciencedirect.com/science/article/pii/S1571066118300768},
+  author = {Emmanuel Gunther and Alejandro Gadea and Miguel Pagano},
+  keywords = {universal algebra, formalization of mathematics, equational logic},
+  abstract = {In this work we present a novel formalization of universal algebra in Agda. We show that heterogeneous signatures can be elegantly modelled in type-theory using sets indexed by arities to represent operations. We prove elementary results of heterogeneous algebras, including the proof that the term algebra is initial and the proofs of the three isomorphism theorems. We further formalize equational theory and prove soundness and completeness. At the end, we define (derived) signature morphisms, from which we get the contravariant functor between algebras; moreover, we also proved that, under some restrictions, the translation of a theory induces a contra-variant functor between models.}
+}
+
+@article{spitters:univalg,
+  title={Type classes for mathematics in type theory†},
+  author={Bas Spitters and Eelis van der Weegen},
+  journal={Mathematical Structures in Computer Science},
+  year={2011},
+  volume={21},
+  pages={795 - 825},
+	url={https://arxiv.org/pdf/1102.1323.pdf}
+}
+
+@INPROCEEDINGS{capretta:univalg,
+  author = {Venanzio Capretta},
+  title = {Universal Algebra in Type Theory},
+  booktitle = {Theorem Proving in Higher Order Logics, 12th International Conference, TPHOLs '99, volume 1690 of LNCS},
+  year = {1999},
+  pages = {131--148},
+  publisher = {Springer-Verlag}
+}
+
+@techreport{RumMicKau:dgsdss21,
+  series = {Berichte des {NEGZ}},
+  number = {19},
+  title = {{Digitalisierung der Gesetzgebung zur Steigerung der Digitalen Souveränität des Staates}},
+  author = {Bernhard Rumpe and Judith Michael and Oliver Kautz and Roland Krebs and Sabine Gandenberger and Janos Standt and Uli Weber},
+  institution = {Nationales E-Government Kompetenzzentrum},
+  url = {https://negz.org/wp-content/uploads/2021/06/NEGZ-Kurzstudie-19-Digitalisierung-der-Gesetzgebung-2021.pdf}} 
+
 @article{agda:ualib,
  author        = {William DeMeo},
  title         = {The {A}gda {U}niversal {A}lgebra {L}ibrary and
@@ -173,7 +370,37 @@
   publisher =    {Springer},
 }
 
-@article{lean:meta-programming,
+@article{idris:metaprogramming,
+  author = {Christiansen, David and Brady, Edwin},
+  title = {Elaborator Reflection: Extending Idris in Idris},
+  year = {2016},
+  issue_date = {September 2016},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {51},
+  number = {9},
+  issn = {0362-1340},
+  url = {https://dl.acm.org/doi/pdf/10.1145/2951913.2951932},
+  doi = {10.1145/3022670.2951932},
+  abstract = {Many programming languages and proof assistants are defined by elaboration from a
+  high-level language with a great deal of implicit information to a highly explicit
+  core language. In many advanced languages, these elaboration facilities contain powerful
+  tools for program construction, but these tools are rarely designed to be repurposed
+  by users. We describe elaborator reflection, a paradigm for metaprogramming in which
+  the elaboration machinery is made directly available to metaprograms, as well as a
+  concrete realization of elaborator reflection in Idris, a functional language with
+  full dependent types. We demonstrate the applicability of Idris’s reflected elaboration
+  framework to a number of realistic problems, we discuss the motivation for the specific
+  features of its design, and we explore the broader meaning of elaborator reflection
+  as it can relate to other languages.},
+  journal = {SIGPLAN Not.},
+  month = sep,
+  pages = {284–297},
+  numpages = {14},
+  keywords = {Metaprogramming, dependent types, elaboration}
+}
+
+@article{lean:metaprogramming,
 	author = {Ebner, Gabriel and Ullrich, Sebastian and Roesch, Jared and Avigad, Jeremy and de Moura, Leonardo},
 	title = {A Metaprogramming Framework for Formal Verification},
 	year = {2017},
@@ -182,7 +409,7 @@
 	address = {New York, NY, USA},
 	volume = {1},
 	number = {ICFP},
-	url = {https://doi.org/10.1145/3110278},
+	url = {https://dl.acm.org/doi/pdf/10.1145/3110278},
 	doi = {10.1145/3110278},
 	abstract = { We describe the metaprogramming framework currently used in Lean, an interactive
 	theorem prover based on dependent type theory. This framework extends Lean's object
@@ -203,7 +430,7 @@
 	title = {Template meta-programming for Haskell},
 	booktitle = {Proceedings of the 2002 Haskell Workshop, Pittsburgh},
 	year = {2002},
-	month = {October},
+	month = {10},
 	abstract = {We propose a new extension to the purely functional programming language Haskell that supports compile-time meta-programming. The purpose of the system is to support the algorithmic construction of programs at compile-time.
 	
 	The ability to generate code at compile time allows the programmer to implement such features as polytypic programs, macro-like expansion, user directed optimization (such as inlining), and the generation of supporting data structures and functions from existing data structures and functions.
@@ -296,7 +523,12 @@
   number = {1},
   year = {2017},
   pages = {77--121}}
-  
+
+@online{legaltech:on,
+  title = {Legal Technology},
+  url = {https://de.wikipedia.org/wiki/Legal_Technology},
+  urldate = {2021-11-01},
+  note = {Wikipedia}}
 @online{pentium-bug:on,
   title = {Pentium-FDIV-Bug},
   note = {Wikipedia},
@@ -481,7 +713,7 @@ note    = {revision \#73220}
   address = {New York, NY, USA},
   volume = {4},
   number = {POPL},
-  url = {https://doi.org/10.1145/3371076},
+  url = {https://dl.acm.org/doi/pdf/10.1145/3371076},
   doi = {10.1145/3371076},
   journal = {Proc. ACM Program. Lang.},
   month = dec,
@@ -23925,13 +24157,6 @@ YEAR = 1989}
   address = {P.O. Box 15 11 50, 66041 Saarbr{\"u}cken},
   month = oct}
 
-
-
-
-
-
-
-
 @INPROCEEDINGS{ags-2002-d-15,
   author = {Andreas Franke and Markus Moschner and Martin Pollet},
   title = {Cooperation between the Mathematical Knowledge Base {{\sc MBase}}
@@ -32510,15 +32735,14 @@ pages= {325--329}}
  year = {2003},
  isbn = {0137903952},
  edition = {2},
- publisher = {Pearso
- n Education}}
+ publisher = {Pearson Education}}
 
 @book{RusNor:AIMA09,
  author = {Russell, Stuart and Norvig, Peter},
  title = {Artificial Intelligence: A Modern Approach},
  year = {2009},
  isbn = {0136042597, 9780136042594},
- edition = {3rd},
+ edition = {3rd Edition},
  publisher = {Prentice Hall Press}}
 
 @BOOK{bloom:handbook,
@@ -45845,13 +46069,24 @@ isbn="978-3-662-48899-7"
   url = {https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf},
   pubs = {frabe,mkohlhase,twiesing,kamann,odk}}
 
-@inproceedings{ShaRab:dcm19,
+@InProceedings{ShaRab:dcm19,
   crossref = {CICM19},
-  keywords = {conference},
-  title = {Diagram Operators in {MMT}},
-  pages = {211--226},
-  author = {Yasmine Sharoda and Florian Rabe},
-  pubs = {frabe}}
+  author="Rabe, Florian and Sharoda, Yasmine",
+  editor="Kaliszyk, Cezary
+  and Brady, Edwin
+  and Kohlhase, Andrea
+  and Sacerdoti Coen, Claudio",
+  title="Diagram Combinators in {MMT}",
+  booktitle="Intelligent Computer Mathematics",
+  year="2019",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="211--226",
+  abstract="Formal libraries, especially large ones, usually employ modularity to build and maintain large theories efficiently. Although the techniques used to achieve modularity vary between systems, most of them can be understood as operations in the category of theories and theory morphisms. This yields a representation of libraries as diagrams in this category, with all theory-forming operations extending the diagram.",
+  isbn="978-3-030-23250-4",
+  url={https://kwarc.info/people/frabe/Research/RS_diagops_19.pdf},
+  pubs = {frabe}
+}
 
 @online{TGWiki:on,
 	url = {https://github.com/UniFormal/TGView/wiki},
@@ -50094,11 +50329,11 @@ pages = "126--140",
 pubs={frabe}}
 
 @inproceedings{rabe:dfol:06,
-author = "Florian Rabe",
-title = "{First-Order Logic with Dependent Types}",
+  author = "Florian Rabe",
+  title = "{First-Order Logic with Dependent Types}",
   crossref = {IJCAR06},
-pages = "377--391",
-pubs={frabe}}
+  pages = "377--391",
+  pubs={frabe}}
 
 @inproceedings{rabeEA:promela:05,
  author    = "Florian Rabe and S. Schlager and P. Schmitt",
