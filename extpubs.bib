@@ -7,6 +7,36 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@phdthesis{dreyer:phd,
+	author = {Dreyer, Derek},
+	title = {Understanding and Evolving the {ML} Module System},
+	year = {2005},
+	isbn = {0542015501},
+	publisher = {Carnegie Mellon University},
+	address = {USA},
+	abstract = {The ML module system stands as a high-water mark of programming language support for data abstraction. Nevertheless, it is not in a fully evolved state. One prominent weakness is that module interdependencies in ML are restricted to be acyclic, which means that mutually recursive functions and data types must be written in the same module even if they belong conceptually in different modules. Existing efforts to remedy this limitation either involve drastic changes to the notion of what a module is, or fail to allow mutually recursive modules to hide type information from one another. Another issue is that there are several dialects of ML, and the module systems of these dialects differ in subtle yet semantically significant ways that have been difficult to account for in any rigorous way. It is important to come to a clear assessment of the existing design space and consolidate what is meant by “the ML module system” before embarking on such a major extension as recursive modules. In this dissertation I contribute to the understanding and evolution of the ML module system by: (1)&nbsp;developing a unifying account of the ML module system in which existing variants may be understood as subsystems that pick and choose different features, (2)&nbsp;exploring how to extend ML with recursive modules in a way that does not inhibit data abstraction, and (3)&nbsp;incorporating the understanding gained from (1) and (2) into the design of a new, evolved dialect of ML. I formalize the language of part (3) using the framework of Harper and Stone, in which the meanings of “external” ML programs are interpreted by translation into an “internal” type system. In my exploration of the recursive module problem, I also propose a type system for statically detecting whether or not recursive module definitions are “safe”—that is, whether they can be evaluated without referring to one another prematurely—thus enabling more efficient compilation of recursive modules. Future work remains, however, with regard to type inference and type system complexity, before my proposal can be feasibly incorporated into ML.},
+	note = {AAI3166274},
+	url = {https://people.mpi-sws.org/~dreyer/thesis/main.pdf}
+}
+
+@inproceedings{dch:type-system-for-modules,
+	author = {Dreyer, Derek and Crary, Karl and Harper, Robert},
+	title = {A Type System for Higher-Order Modules},
+	year = {2003},
+	isbn = {1581136285},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/604131.604151},
+	doi = {10.1145/604131.604151},
+	abstract = {We present a type theory for higher-order modules that accounts for many central issues in module system design, including translucency, applicativity, generativity, and modules as first-class values. Our type system harmonizes design elements from previous work, resulting in a simple, economical account of modular programming. The main unifying principle is the treatment of abstraction mechanisms as computational effects. Our language is the first to provide a complete and practical formalization of all of these critical issues in module system design.},
+	booktitle = {Proceedings of the 30th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages},
+	pages = {236–249},
+	numpages = {14},
+	keywords = {modularity, computational effects, functors, abstract data types, singleton types, type theory, generativity},
+	location = {New Orleans, Louisiana, USA},
+	series = {POPL '03}
+}
+
 @online{Goodenough:lt3,
   note = {Blog post},
   author = {Oliver R. Goodenough},
