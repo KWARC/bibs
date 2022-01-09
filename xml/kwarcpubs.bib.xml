@@ -27527,22 +27527,20 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <surname>Rapp</surname>
           <givenname>Max</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings">
-          <bib-title>24. Internationalen Rechtsinformatik Symposion (IRIS 2021)</bib-title>
-        </bib-related>
-        <bib-date role="publication">2021</bib-date>
+        <bib-related bibrefs="IRIS21" role="host"/>
+        <bib-part role="pages">169ff.</bib-part>
         <bib-url href="https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&amp;login=false">Link</bib-url>
         <bib-data role="pubs">mrapp, mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{AdrianKohlhaseRapp:LegalSyllogism21,
      title = {A novel understanding of legal syllogism as a starting point for better legal symbolic AI systems},
     author = {Axel Adrian and Michael Kohlhase and Max Rapp},
- booktitle = {24. Internationalen Rechtsinformatik Symposion (IRIS 2021)},
-      year = {2021},
+  crossref = {IRIS21},
+     pages = {169ff.},
        url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&amp;login=false},
       pubs = {mrapp, mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="AdrianKohlhaseRapp:" type="inproceedings" xml:id="bib.bib1175">
+      <bibentry key="AdrianKohlhaseRapp:ContextGrahps21" type="inproceedings" xml:id="bib.bib1175">
         <bib-title>Context graphs for ampliative analogical legal reasoning and argumentation</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -27556,61 +27554,16 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <surname>Rapp</surname>
           <givenname>Max</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings">
-          <bib-title>Cybergovernance, Tagungsband des 24. Internationalen Rechtsinformatik Symposion IRIS</bib-title>
-          <bib-name role="editor">
-            <surname>und Walter Hötzendorfer und Franz Kummer und Ahti Saarenpää und Stefan Eder und Philip Hanke</surname>
-            <givenname>Erich Schweighofer</givenname>
-          </bib-name>
-        </bib-related>
-        <bib-date role="publication">2021</bib-date>
+        <bib-related bibrefs="IRIS21" role="host"/>
         <bib-part role="pages">231ff.</bib-part>
-        <bib-url href="https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&amp;login=false">Link</bib-url>
+        <bib-url href="https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_03._3ed8681731.html__ONCE&amp;login=false">Link</bib-url>
         <bib-data role="pubs">mrapp, mkohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{AdrianKohlhaseRapp:,
+        <bib-data role="self" type="BibTeX">@inproceedings{AdrianKohlhaseRapp:ContextGrahps21,
      title = {Context Graphs for Ampliative Analogical Legal Reasoning and Argumentation},
     author = {Michael Kohlhase and Axel Adrian and Max Rapp},
- booktitle = {Cybergovernance, Tagungsband des 24. Internationalen Rechtsinformatik Symposion IRIS},
-      year = {2021},
+  crossref = {IRIS21},
      pages = {231ff.},
-    editor = {Erich Schweighofer und Walter H{\"o}tzendorfer und Franz Kummer und Ahti Saarenp{\"a}{\"a} und Stefan Eder und Philip Hanke},
-       url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&amp;login=false},
-      pubs = {mrapp, mkohlhase}}
-</bib-data>
-      </bibentry>
-      <bibentry key="AdrianKohlhaseRapp:" type="inproceedings" xml:id="bib.bib1176">
-        <bib-title>Context graphs for ampliative analogical legal reasoning and argumentation</bib-title>
-        <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Adrian</surname>
-          <givenname>Axel</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Rapp</surname>
-          <givenname>Max</givenname>
-        </bib-name>
-        <bib-related role="host" type="proceedings">
-          <bib-title>Cybergovernance, Tagungsband des 24. Internationalen Rechtsinformatik Symposion IRIS</bib-title>
-          <bib-name role="editor">
-            <surname>und Walter Hötzendorfer und Franz Kummer und Ahti Saarenpää und Stefan Eder und Philip Hanke</surname>
-            <givenname>Erich Schweighofer</givenname>
-          </bib-name>
-        </bib-related>
-        <bib-date role="publication">2021</bib-date>
-        <bib-part role="pages">231ff.</bib-part>
-        <bib-url href="https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&amp;login=false">Link</bib-url>
-        <bib-data role="pubs">mrapp, mkohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{AdrianKohlhaseRapp:,
-     title = {Context Graphs for Ampliative Analogical Legal Reasoning and Argumentation},
-    author = {Michael Kohlhase and Axel Adrian and Max Rapp},
- booktitle = {Cybergovernance, Tagungsband des 24. Internationalen Rechtsinformatik Symposion IRIS},
-      year = {2021},
-     pages = {231ff.},
-    editor = {Erich Schweighofer und Walter H{\"o}tzendorfer und Franz Kummer und Ahti Saarenp{\"a}{\"a} und Stefan Eder und Philip Hanke},
-       url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&amp;login=false},
+       url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_03._3ed8681731.html__ONCE&amp;login=false},
       pubs = {mrapp, mkohlhase}}
 </bib-data>
       </bibentry>
