@@ -2,6 +2,53 @@
 @STRING{stexyear = 2021}
 @STRING{testing = 16}
 
+@MastersThesis{Schaefer:msc20,
+  author =   {John Schihada},
+  title =    {Knowledge-based Physics Simulation},
+  school =   {Informatik, FAU Erlangen-N\"urnberg},
+  type =     {Master's Thesis},
+  url =      {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2021/Schihada_John.pdf},
+  pubs =     {mscthesis},
+  year =     {2021}}
+
+@unpublished{Kohlhase:wids22,
+  author = {Michael Kholhase},
+  title = {Wann ist ein juristischer Text strukturiert? Die Sicht der Informatik und der Künstlichen Intelligenz},
+  url = {https://kwarc.info/kohlhase/papers/wids22.pdf},
+  note = {submitted},
+  year = {2022},
+  pubs = {mkohlhase}}
+  
+@online{mmt:intellij,
+	author = {Contributors of {UniFormal/IntelliJ-MMT}},
+	title = {An IntelliJ-Plugin for MMT},
+	url = {https://github.com/UniFormal/IntelliJ-MMT},
+	urldate = {2021-11-17},
+	year = {2021},
+	publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/UniFormal/IntelliJ-MMT}},
+  commit = {43cc997f338aeba323f80639ef02c3b6802aad6d},
+	pubs = {dmueller,nroux}
+}	
+
+@article{kmrs:incremental-frameit,
+	author = "Kohlhase, Michael and Marcus, Richard and Roux, Navid and Schihada, John",
+	title = "Dynamic User Interfaces via Incremental Knowledge Management",
+	keywords = {Serious Games,MMT,User Interfaces,User Experience,Knowledge Management,Development Tool,Unity,Game Engine},
+	year = "2021",
+	pubs = {mkohlhase,rmarcus,nroux,frameit},
+	url = {https://cicm-conference.org/2021/MathUI/mathuiPubs/MathUI_2021_paper_77.pdf},
+  urldate = {2021-11-16},
+	OPTwhere = {13th MathUI Workshop 2021, Mathematical User Interaction, at the Conference on Intelligent Computer Mathematics, Timisoara, Romania (online) between July 26 - 31, 2021 (exact date tba.)}
+}
+
+@online{mmt:archives:on,
+	author = {{MMT Contributors}},
+	url = {https://uniformal.github.io/doc/archives/},
+	title = {MMT Archives},
+	urldate = {2021-11-01}}
+
 @InProceedings{KR:survey-for-formalizing,
 	author="Kaliszyk, Cezary and Rabe, Florian",
 	editor="Benzm{\"u}ller, Christoph and Miller, Bruce",
@@ -544,6 +591,9 @@
   doi = {10.1007/s10817-021-09604-0},
   year = {2021},
   journal  = {Journal of Automated Reasoning},
+  volume = {65},
+  number = {8},
+  pages = {1265--1298},
   publisher = {Springer}, 
   pubs = {mkohlhase,frabe,oaf}}
 
@@ -855,13 +905,24 @@
   url = {https://kwarc.info/kohlhase/papers/cicm19-jupyter.pdf},
   pubs = {frabe,mkohlhase,twiesing,kamann,odk}}
 
-@inproceedings{ShaRab:dcm19,
+@InProceedings{ShaRab:dcm19,
   crossref = {CICM19},
-  keywords = {conference},
-  title = {Diagram Operators in {MMT}},
-  pages = {211--226},
-  author = {Yasmine Sharoda and Florian Rabe},
-  pubs = {frabe}}
+  author="Rabe, Florian and Sharoda, Yasmine",
+  editor="Kaliszyk, Cezary
+  and Brady, Edwin
+  and Kohlhase, Andrea
+  and Sacerdoti Coen, Claudio",
+  title="Diagram Combinators in {MMT}",
+  booktitle="Intelligent Computer Mathematics",
+  year="2019",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="211--226",
+  abstract="Formal libraries, especially large ones, usually employ modularity to build and maintain large theories efficiently. Although the techniques used to achieve modularity vary between systems, most of them can be understood as operations in the category of theories and theory morphisms. This yields a representation of libraries as diagrams in this category, with all theory-forming operations extending the diagram.",
+  isbn="978-3-030-23250-4",
+  url={https://kwarc.info/people/frabe/Research/RS_diagops_19.pdf},
+  pubs = {frabe}
+}
 
 @online{TGWiki:on,
 	url = {https://github.com/UniFormal/TGView/wiki},
@@ -5104,11 +5165,11 @@ pages = "126--140",
 pubs={frabe}}
 
 @inproceedings{rabe:dfol:06,
-author = "Florian Rabe",
-title = "{First-Order Logic with Dependent Types}",
+  author = "Florian Rabe",
+  title = "{First-Order Logic with Dependent Types}",
   crossref = {IJCAR06},
-pages = "377--391",
-pubs={frabe}}
+  pages = "377--391",
+  pubs={frabe}}
 
 @inproceedings{rabeEA:promela:05,
  author    = "Florian Rabe and S. Schlager and P. Schmitt",
@@ -9039,31 +9100,17 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
 @inproceedings{AdrianKohlhaseRapp:LegalSyllogism21,
 title = {A novel understanding of legal syllogism as a starting point for better legal symbolic AI systems},
 author = {Axel Adrian and Michael Kohlhase and Max Rapp},
-booktitle = {24. Internationalen Rechtsinformatik Symposion (IRIS 2021)},
-year = {2021},
-url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&login=false},
-pubs = {mrapp, mkohlhase}
-}
-
-@inproceedings{AdrianKohlhaseRapp:,
-title = {A novel understanding of legal syllogism as a starting point for better legal symbolic AI systems},
-author = {Axel Adrian and Michael Kohlhase and Max Rapp},
-booktitle = {Cybergovernance, Tagungsband des 24. Internationalen Rechtsinformatik Symposion IRIS},
-year = {2021},
+crossref={IRIS21},
 pages = {169ff.},
-editor = {Erich Schweighofer und Walter H{\"o}tzendorfer und Franz Kummer und Ahti Saarenp{\"a}{\"a} und Stefan Eder und Philip Hanke},
 url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&login=false},
 pubs = {mrapp, mkohlhase}
 }
 
-@inproceedings{AdrianKohlhaseRapp:,
+@inproceedings{AdrianKohlhaseRapp:ContextGrahps21,
 title = {Context Graphs for Ampliative Analogical Legal Reasoning and Argumentation},
 author = {Michael Kohlhase and Axel Adrian and Max Rapp},
-booktitle = {Cybergovernance, Tagungsband des 24. Internationalen Rechtsinformatik Symposion IRIS},
-year = {2021},
+crossref={IRIS21},
 pages = {231ff.},
-editor = {Erich Schweighofer und Walter H{\"o}tzendorfer und Franz Kummer und Ahti Saarenp{\"a}{\"a} und Stefan Eder und Philip Hanke},
-url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_01._863f4db39a.html__ONCE&login=false},
+url = {https://jusletter-it.weblaw.ch/issues/2021/27-Mai-2021/05_rechtstheorie_03._3ed8681731.html__ONCE&login=false},
 pubs = {mrapp, mkohlhase}
 }
-
