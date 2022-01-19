@@ -7,25 +7,25 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="Schaefer:msc20" type="thesis" xml:id="bib.bib1">
+      <bibentry key="Schihada:msc21" type="thesis" xml:id="bib.bib1">
         <bib-name role="author">
-          <surname>Schaefer</surname>
-          <givenname>Jan Frederik</givenname>
+          <surname>Schihada</surname>
+          <givenname>John</givenname>
         </bib-name>
-        <bib-title>Prototyping NLU pipelines – a type-theoretical framework</bib-title>
+        <bib-title>Knowledge-based physics simulation</bib-title>
         <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
         <bib-type>Master’s Thesis</bib-type>
-        <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2020/Schaefer_Jan_Frederik.pdf">Link</bib-url>
-        <bib-data role="pubs">jfschaefer,mscthesis</bib-data>
-        <bib-date role="publication">2020</bib-date>
-        <bib-data role="self" type="BibTeX">@mastersthesis{Schaefer:msc20,
-    author = {Jan Frederik Schaefer},
-     title = {Prototyping {NLU} Pipelines – A Type-Theoretical Framework},
+        <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2021/Schihada_John.pdf">Link</bib-url>
+        <bib-data role="pubs">mscthesis</bib-data>
+        <bib-date role="publication">2021</bib-date>
+        <bib-data role="self" type="BibTeX">@mastersthesis{Schihada:msc21,
+    author = {John Schihada},
+     title = {Knowledge-based Physics Simulation},
     school = {Informatik, FAU Erlangen-N\"urnberg},
       type = {Master's Thesis},
-       url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2020/Schaefer_Jan_Frederik.pdf},
-      pubs = {jfschaefer,mscthesis},
-      year = {2020}}
+       url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2021/Schihada_John.pdf},
+      pubs = {mscthesis},
+      year = {2021}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:wids22" type="unpublished" xml:id="bib.bib2">
