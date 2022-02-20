@@ -494,7 +494,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="Schihada:f20" type="mscthesis" xml:id="bib.bib21">
-        <bib-title>FameIT</bib-title>
+        <bib-title>FrameIT</bib-title>
         <bib-name role="author">
           <surname>Schihada</surname>
           <givenname>John</givenname>
@@ -504,7 +504,7 @@
         <bib-date role="publication">2020</bib-date>
         <bib-data role="pubs">mscproject,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mscthesis{Schihada:f20,
-     title = {{FameIT}},
+     title = {{FrameIT}},
     author = {John Schihada},
        url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2020/Schihada_John.pdf},
       type = {Master Project Report},
