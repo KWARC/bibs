@@ -92,7 +92,7 @@
       pubs = {dmueller,nroux}}
 </bib-data>
       </bibentry>
-      <bibentry key="kmrs:incremental-frameit" type="article" xml:id="bib.bib5">
+      <bibentry key="kmrs:incremental-frameit" type="inproceedings" xml:id="bib.bib5">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -112,19 +112,21 @@
         <bib-title>Dynamic user interfaces via incremental knowledge management</bib-title>
         <bib-extract role="keywords">Serious Games,MMT,User Interfaces,User Experience,Knowledge Management,Development Tool,Unity,Game Engine</bib-extract>
         <bib-date role="publication">2021</bib-date>
-        <bib-data role="pubs">mkohlhase,rmarcus,nroux,frameit</bib-data>
         <bib-url href="https://cicm-conference.org/2021/MathUI/mathuiPubs/MathUI_2021_paper_77.pdf">Link</bib-url>
         <bib-data role="urldate">2021-11-16</bib-data>
-        <bib-data role="optwhere">13th MathUI Workshop 2021, Mathematical User Interaction, at the Conference on Intelligent Computer Mathematics, Timisoara, Romania (online) between July 26 - 31, 2021 (exact date tba.)</bib-data>
-        <bib-data role="self" type="BibTeX">@article{kmrs:incremental-frameit,
+        <bib-related role="host" type="proceedings">
+          <bib-title>13th MathUI Workshop 2021, Mathematical User Interaction, at the Conference on Intelligent Computer Mathematics</bib-title>
+        </bib-related>
+        <bib-data role="pubs">mkohlhase,rmarcus,nroux,frameit</bib-data>
+        <bib-data role="self" type="BibTeX">@inproceedings{kmrs:incremental-frameit,
     author = {Kohlhase, Michael and Marcus, Richard and Roux, Navid and Schihada, John},
      title = {Dynamic User Interfaces via Incremental Knowledge Management},
   keywords = {Serious Games,MMT,User Interfaces,User Experience,Knowledge Management,Development Tool,Unity,Game Engine},
       year = {2021},
-      pubs = {mkohlhase,rmarcus,nroux,frameit},
        url = {https://cicm-conference.org/2021/MathUI/mathuiPubs/MathUI_2021_paper_77.pdf},
    urldate = {2021-11-16},
-  optwhere = {13th MathUI Workshop 2021, Mathematical User Interaction, at the Conference on Intelligent Computer Mathematics, Timisoara, Romania (online) between July 26 - 31, 2021 (exact date tba.)}}
+ booktitle = {13th MathUI Workshop 2021, Mathematical User Interaction, at the Conference on Intelligent Computer Mathematics},
+      pubs = {mkohlhase,rmarcus,nroux,frameit}}
 </bib-data>
       </bibentry>
       <bibentry key="mmt:archives:on" type="website" xml:id="bib.bib6">
