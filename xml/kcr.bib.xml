@@ -34,7 +34,7 @@
         <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
         <bib-type>Master’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2021/Schihada_John.pdf">Link</bib-url>
-        <bib-data role="pubs">mscthesis</bib-data>
+        <bib-data role="pubs">mscthesis,frameit</bib-data>
         <bib-date role="publication">2021</bib-date>
         <bib-data role="self" type="BibTeX">@mastersthesis{Schihada:msc21,
     author = {John Schihada},
@@ -42,7 +42,7 @@
     school = {Informatik, FAU Erlangen-N{\"u}rnberg},
       type = {Master's Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2021/Schihada_John.pdf},
-      pubs = {mscthesis},
+      pubs = {mscthesis,frameit},
       year = {2021}}
 </bib-data>
       </bibentry>
