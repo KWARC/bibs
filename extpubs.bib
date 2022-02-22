@@ -140,6 +140,34 @@ note = {Im Tagugungsband \emph{Digitalisierung von Zivilprozess und Rechtsdurchs
 	HAL_VERSION = {v1},
 }
 
+@article{agda:ualib,
+ author        = {William DeMeo},
+ title         = {The {A}gda {U}niversal {A}lgebra {L}ibrary and
+                 {B}irkhoff's {T}heorem in {D}ependent {T}ype {T}heory},
+ journal       = {CoRR},
+ volume        = {abs/2101.10166},
+ year          = {2021},
+ eprint        = {2101.10166},
+ archivePrefix = {arXiv},
+ primaryClass  = {cs.LO},
+ url           = {https://arxiv.org/abs/2101.10166},
+ note          = {source code: \url{https://gitlab.com/ualib/ualib.gitlab.io}}
+}
+
+@article{coq:metacoq,
+	TITLE = {{The MetaCoq Project}},
+	AUTHOR = {Sozeau, Matthieu and Anand, Abhishek and Boulier, Simon and Cohen, Cyril and Forster, Yannick and Kunze, Fabian and Malecha, Gregory and Tabareau, Nicolas and Winterhalter, Th{\'e}o},
+	URL = {https://hal.inria.fr/hal-02167423},
+	JOURNAL = {{Journal of Automated Reasoning}},
+	PUBLISHER = {{Springer Verlag}},
+	YEAR = {2020},
+	MONTH = Feb,
+	DOI = {10.1007/s10817-019-09540-0},
+	PDF = {https://hal.inria.fr/hal-02167423/file/The_MetaCoq_Project.pdf},
+	HAL_ID = {hal-02167423},
+	HAL_VERSION = {v1},
+}
+
 @article{coq:ssreflect,
 	title={An introduction to small scale reflection in Coq},
 	author={Georges Gonthier and Assia Mahboubi},
@@ -225,7 +253,37 @@ note = {Im Tagugungsband \emph{Digitalisierung von Zivilprozess und Rechtsdurchs
   publisher =    {Springer},
 }
 
-@article{lean:meta-programming,
+@article{idris:metaprogramming,
+  author = {Christiansen, David and Brady, Edwin},
+  title = {Elaborator Reflection: Extending Idris in Idris},
+  year = {2016},
+  issue_date = {September 2016},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {51},
+  number = {9},
+  issn = {0362-1340},
+  url = {https://dl.acm.org/doi/pdf/10.1145/2951913.2951932},
+  doi = {10.1145/3022670.2951932},
+  abstract = {Many programming languages and proof assistants are defined by elaboration from a
+  high-level language with a great deal of implicit information to a highly explicit
+  core language. In many advanced languages, these elaboration facilities contain powerful
+  tools for program construction, but these tools are rarely designed to be repurposed
+  by users. We describe elaborator reflection, a paradigm for metaprogramming in which
+  the elaboration machinery is made directly available to metaprograms, as well as a
+  concrete realization of elaborator reflection in Idris, a functional language with
+  full dependent types. We demonstrate the applicability of Idris’s reflected elaboration
+  framework to a number of realistic problems, we discuss the motivation for the specific
+  features of its design, and we explore the broader meaning of elaborator reflection
+  as it can relate to other languages.},
+  journal = {SIGPLAN Not.},
+  month = sep,
+  pages = {284–297},
+  numpages = {14},
+  keywords = {Metaprogramming, dependent types, elaboration}
+}
+
+@article{lean:metaprogramming,
 	author = {Ebner, Gabriel and Ullrich, Sebastian and Roesch, Jared and Avigad, Jeremy and de Moura, Leonardo},
 	title = {A Metaprogramming Framework for Formal Verification},
 	year = {2017},
@@ -234,7 +292,7 @@ note = {Im Tagugungsband \emph{Digitalisierung von Zivilprozess und Rechtsdurchs
 	address = {New York, NY, USA},
 	volume = {1},
 	number = {ICFP},
-	url = {https://doi.org/10.1145/3110278},
+	url = {https://dl.acm.org/doi/pdf/10.1145/3110278},
 	doi = {10.1145/3110278},
 	abstract = { We describe the metaprogramming framework currently used in Lean, an interactive
 	theorem prover based on dependent type theory. This framework extends Lean's object
@@ -255,7 +313,7 @@ note = {Im Tagugungsband \emph{Digitalisierung von Zivilprozess und Rechtsdurchs
 	title = {Template meta-programming for Haskell},
 	booktitle = {Proceedings of the 2002 Haskell Workshop, Pittsburgh},
 	year = {2002},
-	month = {October},
+	month = {10},
 	abstract = {We propose a new extension to the purely functional programming language Haskell that supports compile-time meta-programming. The purpose of the system is to support the algorithmic construction of programs at compile-time.
 	
 	The ability to generate code at compile time allows the programmer to implement such features as polytypic programs, macro-like expansion, user directed optimization (such as inlining), and the generation of supporting data structures and functions from existing data structures and functions.
@@ -333,8 +391,7 @@ note = {Im Tagugungsband \emph{Digitalisierung von Zivilprozess und Rechtsdurchs
 	month = oct,
 	articleno = {113},
 	numpages = {39},
-	keywords = {Metaprogramming, reflection, generative programming, multistage languages, macro systems, aspect-oriented programming, meta-object protocols}
-}
+	keywords = {Metaprogramming, reflection, generative programming, multistage languages, macro systems, aspect-oriented programming, meta-object protocols}}
 
 @article{Harnad:sgp07,
 author = {Harnad, Stevan},
