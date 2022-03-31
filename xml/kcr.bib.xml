@@ -29,14 +29,18 @@
           <bib-title>IAAI 2022</bib-title>
         </bib-related>
         <bib-data role="pubs">dmueller</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-date role="publication">2022</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{mmss:xai22,
        doi = {10.48550/ARXIV.2203.09181},
        url = {https://arxiv.org/abs/2203.09181},
-    author = {M\"uller, Dennis and M\"arz, Michael and Scheele, Stephan and Schmid, Ute},
+    author = {M{\"u}ller, Dennis and M{\"a}rz, Michael and Scheele, Stephan and Schmid, Ute},
   keywords = {Machine Learning (cs.LG), Computer Vision and Pattern Recognition (cs.CV), Human-Computer Interaction (cs.HC), FOS: Computer and information sciences, FOS: Computer and information sciences},
      title = {An Interactive Explanatory AI System for Industrial Quality Control},
  booktitle = {IAAI 2022},
-      pubs = {dmueller}}
+      pubs = {dmueller},
+  keywords = {conference},
+      year = {2022}}
 </bib-data>
       </bibentry>
       <bibentry key="VoLL-KI:on" type="website" xml:id="bib.bib2">
