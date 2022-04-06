@@ -108,22 +108,22 @@
       year = {2021}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:wids22" type="unpublished" xml:id="bib.bib6">
+      <bibentry key="Kohlhase:wids22" type="inproceedings" xml:id="bib.bib6">
         <bib-name role="author">
           <surname>Kholhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Wann ist ein juristischer text strukturiert? die sicht der informatik und der künstlichen intelligenz</bib-title>
         <bib-url href="https://kwarc.info/kohlhase/papers/wids22.pdf">Link</bib-url>
+        <bib-related bibrefs="AdrEveKohZwi:dzr22" role="host"/>
         <bib-note role="annotation">in print</bib-note>
-        <bib-date role="publication">2022</bib-date>
         <bib-data role="pubs">mkohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{Kohlhase:wids22,
+        <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:wids22,
     author = {Michael Kholhase},
      title = {Wann ist ein juristischer Text strukturiert? Die Sicht der Informatik und der Künstlichen Intelligenz},
        url = {https://kwarc.info/kohlhase/papers/wids22.pdf},
+  crossref = {AdrEveKohZwi:dzr22},
       note = {in print},
-      year = {2022},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
