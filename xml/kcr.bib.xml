@@ -114,7 +114,7 @@
         <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
         <bib-type>Master’s Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/blob/master/2021/Wagner_Michael.pdf">Link</bib-url>
-        <bib-data role="pubs">mscthesis,mathhub</bib-data>
+        <bib-data role="pubs">mscthesis,mathhub,mwagner</bib-data>
         <bib-date role="publication">2021</bib-date>
         <bib-data role="self" type="BibTeX">@mastersthesis{Wagner:msc21,
     author = {Michael Wagner},
@@ -122,7 +122,7 @@
     school = {Informatik, FAU Erlangen-N{\"u}rnberg},
       type = {Master's Thesis},
        url = {https://gl.kwarc.info/supervision/MSc-archive/blob/master/2021/Wagner_Michael.pdf},
-      pubs = {mscthesis,mathhub},
+      pubs = {mscthesis,mathhub,mwagner},
       year = {2021}}
 </bib-data>
       </bibentry>
