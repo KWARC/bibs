@@ -73,6 +73,9 @@
 			<xsl:when test="$id='nroux'">
 				<xsl:text>Navid Roux</xsl:text>
 			</xsl:when>
+			<xsl:when test="$id='mwagner'">
+				<xsl:text>Michael Wagner</xsl:text>
+			</xsl:when>
 			<xsl:when test="$id='rmarcus'">
 				<xsl:text>Richard Marcus</xsl:text>
 			</xsl:when>
