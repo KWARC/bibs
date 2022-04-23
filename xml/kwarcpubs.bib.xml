@@ -13184,11 +13184,13 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="RusTeX:on" type="website" xml:id="bib.bib540">
+        <bib-data role="label">RT</bib-data>
         <bib-title>SLaTeX/rustex</bib-title>
         <bib-url href="https://github.com/sLaTeX/RusTeX">Link</bib-url>
         <bib-data role="urldate">2022-04-22</bib-data>
         <bib-data role="pubs">dmueller,sTeX</bib-data>
         <bib-data role="self" type="BibTeX">@online{RusTeX:on,
+     label = {RT},
      title = {sLaTeX/RusTeX},
        url = {https://github.com/sLaTeX/RusTeX},
    urldate = {2022-04-22},
