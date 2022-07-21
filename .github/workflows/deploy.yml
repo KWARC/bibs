@@ -1,0 +1,30 @@
+name: Deploy
+on:
+    push:
+        branches:
+            - master
+jobs:
+  deploy:
+    name: Deploy to 'gh-pages' branch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Configure Git Client
+        run: |
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "GitHub Action"
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check if a build is required
+        id: check
+        run: |
+          (git diff --quiet --exit-code "HEAD" "HEAD^" .github src/ Makefile preamble.bib kwarcpubs.bib extpubs.bib kwarccrossrefs.bib extcrossrefs.bib && echo "::set-output name=NEEDS_BUILD::0") ||  echo "::set-output name=NEEDS_BUILD::1"
+      - name: Cleanup rebuild kwarc.bib
+        if: steps.check.outputs.NEEDS_BUILD == 1
+        run: |
+          make clean
+          make bib
+      
