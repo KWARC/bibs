@@ -1,11 +1,11 @@
-name: Deploy
+name: CI
 on:
     push:
         branches:
             - master
 jobs:
   deploy:
-    name: Deploy to 'gh-pages' branch
+    name: Update 'kwarc.bib' and website
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -27,7 +27,7 @@ jobs:
         run: |
           make clean
           make bib
-      - name: Deploy kwarc.bib
+      - name: Commit 'kwarc.bib' back into repo
         if: steps.check.outputs.NEEDS_BUILD == 1
         run: |
           SHA=$(git rev-parse --short HEAD)
@@ -38,6 +38,36 @@ jobs:
           cd deploy/bib
           
           git add kwarc.bib
-          git commit -m "Auto-generated kwarc.bib for commit $SHA"
+          git commit --allow-empty -m "[skip ci] Auto-generated kwarc.bib for commit $SHA"
           git push
-      
+      - name: Install website generation dependencies
+        if: steps.check.outputs.NEEDS_BUILD == 1
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -qq cpanminus xsltproc
+          sudo apt-get install   \
+            libarchive-zip-perl libfile-which-perl libimage-size-perl  \
+            libio-string-perl libjson-xs-perl libtext-unidecode-perl \
+            libparse-recdescent-perl liburi-perl libuuid-tiny-perl libwww-perl \
+            libxml2 libxml-libxml-perl libxslt1.1 libxml-libxslt-perl  \
+            texlive-latex-base imagemagick libimage-magick-perl
+          cpanm --notest --sudo LaTeXML
+      - name: Generating 'deploy/pub'
+        if: steps.check.outputs.NEEDS_BUILD == 1
+        run: |
+          make xml pubs
+      - name: Deploy 'deploy/pub' files
+        if: steps.check.outputs.NEEDS_BUILD == 1
+        run: |
+          SHA=$(git rev-parse --short HEAD)
+          REMOTE=$(git ls-remote --get-url)
+          git clone $REMOTE deploy/pub --branch gh-pages --depth 1
+
+          cp -rv dist/pubs/* deploy/pub
+          mkdir -p deploy/pub/xml
+          cp -v dist/ltxml/*.xml deploy/pub/xml
+          cd deploy/pub
+
+          git add --all
+          git commit --allow-empty -m "Auto-generated website for commit $SHA"
+          git push
