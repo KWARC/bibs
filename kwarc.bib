@@ -60,6 +60,19 @@
 @STRING{spring   = "Springer-Verlag"}
 @STRING{JWS = {Web Semantics: Science, Services and Agents on the World Wide Web}}
 
+@article{hr:syntactic_thy_functors,
+	title = {Specifying with syntactic theory functors},
+	journal = {Journal of Logical and Algebraic Methods in Programming},
+	volume = {113},
+	pages = {100543},
+	year = {2020},
+	issn = {2352-2208},
+	doi = "10.1016/j.jlamp.2020.100543",
+	url = {https://www.sciencedirect.com/science/article/pii/S2352220820300286},
+	author = {Magne Haveraaen and Markus Roggenbach},
+	keywords = {Specification languages, Reuse mechanisms, Institution-independence}
+}
+
 @article{Fuller.2007,
  abstract = {Bloom's taxonomy of the cognitive domain and the SOLO taxonomy are being increasingly widely used in the design and assessment of courses, but there are some drawbacks to their use in computer science. This paper reviews the literature on educational taxonomies and their use in computer science education, identifies some of the problems that arise, proposes a new taxonomy and discusses how this can be used in application-oriented courses such as programming.},
  author = {Fuller, Ursula and Johnson, Colin G. and Ahoniemi, Tuukka and Cukierman, Diana and Hern{\'a}n-Losada, Isidoro and Jackova, Jana and Lahtinen, Essi and Lewis, Tracy L. and Thompson, Donna McGee and Riedesel, Charles and Thompson, Errol},
@@ -15300,11 +15313,11 @@ url = {https://www.sciencedirect.com/science/article/pii/S0004370212000719}}
   year =     1999}
 
 @misc{URL:tex4ht,crossref={URL:tex4ht:base},key={T4H},
-  howpublished = {\url{http://www.tug.org/applications/tex4ht/mn.html}}}
-@online{tex4ht:online,crossref={URL:tex4ht:base},urldate={2010-01-08},label={T4H}}
+  howpublished = {\url{https://tug.org/tex4ht/}}}
+@online{tex4ht:online,crossref={URL:tex4ht:base},urldate={2022-7-11},label={T4H}}
 @Misc{URL:tex4ht:base,
-  title = {{TeX4ht}: {LaTeX} and {TeX} for Hypertext},
-  url = {http://www.tug.org/applications/tex4ht/mn.html}}
+  title = {{TeX4ht}},
+  url = {https://tug.org/tex4ht/}}
 
 @misc{URL:latex2rtf,crossref={URL:latex2rtf:base},key={L2R},
   howpublished = {\url{http://www.tug.org/applications/latex2rtf/mn.html}}}
@@ -45771,6 +45784,65 @@ isbn="978-3-662-48899-7"
 @STRING{stexyear = 2022}
 @STRING{testing = 16}
 
+@mscthesis{Weber:pcm22,
+  title = {The Problem-Creator-Menu -- A Game Content {IDE} for Unity based {UFrameIT} Games},
+  author = {Sebastian Weber},
+  url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2022/Weber_Sebastian.pdf},
+  type  = {Bachelor Project Report},
+  school = {Computer Scieence, FAU Erlangen-Nürnberg},
+  date = {2022},
+  pubs = {bscproject,frameit}}
+
+@mscthesis{Albert:tmsnsml,
+  title = {Towards a Multi-System Narrative Search for Mathematical Libraries -- Narrative
+                  Harvesting},
+  author = {Jakob Albert},
+  url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2022/Albert_Jakob.pdf},
+  type  = {Master Project Report},
+  school = {Computer Scieence, FAU Erlangen-Nürnberg},
+  date = {2022},
+  pubs = {mscproject,mathhub}}
+
+@mscthesis{Zimmer:ppfs22,
+  title = {From Proof-of-Concept to proto-game: First Steps},
+  author = {Marco Zimmer},
+  url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2022/Zimmer_Marco.pdf},
+  type  = {Bachelor Project Report},
+  school = {Computer Scieence, FAU Erlangen-Nürnberg},
+  date = {2022},
+  pubs = {bscproject,frameit}}
+
+@inproceedings{hmss:eicnmnhp22,
+  doi = {10.1007/978-3-031-09282-4_35},
+  url = {https://link.springer.com/chapter/10.1007/978-3-031-09282-4_35},
+  author = {Herchenbach, Marvin and M{\"u}ller, Dennis and Scheele, Stephan and Schmid, Ute},
+  title = {Explaining Image Classifications with Near Misses, Near Hits and Prototypes: Supporting Domain Experts in Understanding Decision Boundaries},
+  booktitle = {Pattern Recognition and Artificial Intelligence: Third International Conference, ICPRAI 2022},
+  pubs = {dmueller},
+  keywords = {conference},
+  year = {2022}
+}
+
+@inproceeding{KohKoh:cdetefl21,
+  title = {A Conceptual Design for an Eye-Tracking Experiment on Formula Linebreaking},
+  author = {Andrea Kohlhase, Michael Kohlhase},
+  crossref = {MathUI21},
+  pubs = {akohlhase,mkohlhase}}
+  
+@TechReport{stexMan:on,
+  title = {The {sTeX3} Manual},
+  author = {Michael Kohlhase and Dennis M{\"u}ller},
+  url = {https://github.com/slatex/sTeX/blob/main/doc/stex-manual.pdf},
+  urldate = {2022-04-24},
+  pubs = {mkohlhase,dmueller,sTeX,voll-ki}}
+
+@online{stexDoc:on,
+  title = {The {sTeX3} Package Collection},
+  author = {Michael Kohlhase and Dennis M{\"u}ller},
+  url = {https://github.com/slatex/sTeX/blob/main/doc/stex-doc.pdf},
+  urldate = {2022-04-24},
+  pubs = {mkohlhase,dmueller,sTeX,voll-ki}}
+
 @online{stexCTAN:on,
   label = {ST},
   title = {sTeX – An Infrastructure for Semantic Preloading of LaTeX Documents},
@@ -45845,12 +45917,22 @@ isbn="978-3-662-48899-7"
   pubs =     {mscthesis,mathhub,mwagner},
   year =     {2021}}
 
+@online{Wagner:thods,
+  author =   {Michael Wagner},
+  title =      {THODS - OEIS Semantified},
+  school =      {Informatik, FAU Erlangen-N{\"u}rnberg},
+  year =      2022,
+  type =      {dataset},
+  url =      {https://zenodo.org/record/6809687},
+  doi = "10.5281/zenodo.6809687",
+  pubs = {mwagner}}
+
 @inproceedings{Kohlhase:wids22,
   author = {Michael Kohlhase},
   title = {Wann ist ein juristischer Text strukturiert? Die Sicht der Informatik und der Künstlichen Intelligenz},
   url = {https://kwarc.info/kohlhase/papers/wids22.pdf},
   crossref = {AdrEveKohZwi:dzr22},
-  note = {in print},
+  pages = {156--170},
   pubs = {mkohlhase}}
   
 @online{mmt:intellij,
@@ -45938,6 +46020,7 @@ isbn="978-3-662-48899-7"
   editor = "E. Pimentel and E. Tassi",
   publisher = "Open Publishing Association",
   url = {https://kwarc.info/people/frabe/Research/RR_soften_21.pdf},
+  doi = {10.4204/EPTCS.337.7},
   pubs = {frabe,nroux,mmt,oaf,latin}}
 
 @mastersthesis{Dalga:bsc,
@@ -47454,7 +47537,6 @@ pubs={MaMoReD}}
   urldate = {2019-01-15},
   note = {Project web site}}
 @misc{uniformal:base,
-  label = {MMT},
   title = {{MMT} -- Language and System for the Uniform Representation of Knowledge},
   url = {https://uniformal.github.io/}}
 
@@ -50320,7 +50402,7 @@ url = {http://www.balisage.net/Proceedings/vol7/print/Hennum01/BalisageVol7-Henn
   note = {accessed 15. 11. 2019}}b
 @online{lmhtools:github:on,crossref={lmhtools:github:base},
   label = {LMH},
-  urldate = {2015-011-19}}
+  urldate = {2015-11-19}}
 @misc{lmhtools:github:base,
   title = {{LMH} Scripts},
   url = {https://github.com/sLaTeX/lmhtools}}
@@ -54517,11 +54599,13 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
   author = "Florian Rabe",
   title = "{The Future of Logic: Foundation-Independence}",
   year = "2015",
-  note = "10.1007/s11787-015-0132-x; Winner of the Contest ``The Future of Logic'' at the World Congress on Universal Logic",
+  doi = {10.1007/s11787-015-0132-x},
+  note = "Winner of the Contest ``The Future of Logic'' at the World Congress on Universal Logic",
   pages = "1--20",
   journal = "Logica Universalis",
   volume = "10",
   number = "1",
+  url = {https://kwarc.info/people/frabe/Research/rabe_future_15.pdf},
   pubs = {frabe,mmt,oaf}
 }
 
@@ -54628,6 +54712,8 @@ pubs = {mrapp, mkohlhase}
   title = {Digitalisierung von Zivilprozess und Rechtsdurchsetzung},
   publisher = {Duncker \& Humblot, Berlin},
   year = {2022},
+  series = {Schriften zum Prozessrecht},
+  number = {284},
   pubs = {mkohlhase}}
   
 @PROCEEDINGS{CICM18WIP,
@@ -54671,9 +54757,17 @@ pubs = {mrapp, mkohlhase}
   editor =   {Andrea Kohlhase and Marco Pollanen},
   title =    {MathUI 2017: The 12th Workshop on Mathematical User Interfaces},
   booktitle =    {MathUI 2017: The 12th Workshop on Mathematical User Interfaces},
-  SOONurl = {http://ceur-ws.org/Vol-1785/},
+  url = {http://ceur-ws.org/Vol-1785/},
   pubs = {akohlhase},
   year =    {2017}}
+
+@Proceedings{MathUI21,
+  editor =   {Andrea Kohlhase},
+  title =    {MathUI 2021: The 13th Workshop on Mathematical User Interfaces},
+  booktitle =    {MathUI 2021: The 13th Workshop on Mathematical User Interfaces},
+  SOONurl = {http://ceur-ws.org/Vol-????/},
+  pubs = {akohlhase},
+  year =    {2022}}
 
 @PROCEEDINGS{CICM16WIP,
   title = {Intelligent Computer Mathematics -- Work in Progress Papers},
