@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?latexml searchpaths="/home/travis/build/KWARC/bibs,/home/travis/build/KWARC/bibs/src/ltxml,/home/travis/build/KWARC/bibs"?>
+<?latexml searchpaths="/home/runner/work/bibs/bibs,/home/runner/work/bibs/bibs/src/ltxml,/home/runner/work/bibs/bibs"?>
 <?latexml package="src/ltxml/kwarcbibs.sty.ltxml"?>
 <?latexml RelaxNGSchema="LaTeXML"?>
 <document xmlns="http://dlmf.nist.gov/LaTeXML">
@@ -27,12 +27,16 @@
         <bib-title>Digitalisierung von zivilprozess und rechtsdurchsetzung</bib-title>
         <bib-publisher>Duncker &amp; Humblot, Berlin</bib-publisher>
         <bib-date role="publication">2022</bib-date>
+        <bib-part role="series">Schriften zum Prozessrecht</bib-part>
+        <bib-part role="number">284</bib-part>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{AdrEveKohZwi:dzr22,
     editor = {Axel Adrian and Stephanie Evert and Michael Kohlhase Kohlhase and Martin Zwickel},
      title = {Digitalisierung von Zivilprozess und Rechtsdurchsetzung},
  publisher = {Duncker \&amp; Humblot, Berlin},
       year = {2022},
+    series = {Schriften zum Prozessrecht},
+    number = {284},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
@@ -220,19 +224,37 @@
           <givenname>Marco</givenname>
         </bib-name>
         <bib-title>MathUI 2017: the 12th workshop on mathematical user interfaces</bib-title>
-        <bib-data role="soonurl">http://ceur-ws.org/Vol-1785/</bib-data>
+        <bib-url href="http://ceur-ws.org/Vol-1785/">Link</bib-url>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-date role="publication">2017</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI17,
     editor = {Andrea Kohlhase and Marco Pollanen},
      title = {MathUI 2017: The 12th Workshop on Mathematical User Interfaces},
  booktitle = {MathUI 2017: The 12th Workshop on Mathematical User Interfaces},
-   soonurl = {http://ceur-ws.org/Vol-1785/},
+       url = {http://ceur-ws.org/Vol-1785/},
       pubs = {akohlhase},
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM16WIP" type="proceedings" xml:id="bib.bib7">
+      <bibentry key="MathUI21" type="proceedings" xml:id="bib.bib7">
+        <bib-name role="editor">
+          <surname>Kohlhase</surname>
+          <givenname>Andrea</givenname>
+        </bib-name>
+        <bib-title>MathUI 2021: the 13th workshop on mathematical user interfaces</bib-title>
+        <bib-data role="soonurl">http://ceur-ws.org/Vol-????/</bib-data>
+        <bib-data role="pubs">akohlhase</bib-data>
+        <bib-date role="publication">2022</bib-date>
+        <bib-data role="self" type="BibTeX">@proceedings{MathUI21,
+    editor = {Andrea Kohlhase},
+     title = {MathUI 2021: The 13th Workshop on Mathematical User Interfaces},
+ booktitle = {MathUI 2021: The 13th Workshop on Mathematical User Interfaces},
+   soonurl = {http://ceur-ws.org/Vol-????/},
+      pubs = {akohlhase},
+      year = {2022}}
+</bib-data>
+      </bibentry>
+      <bibentry key="CICM16WIP" type="proceedings" xml:id="bib.bib8">
         <bib-title>Intelligent computer mathematics – work in progress papers</bib-title>
         <bib-key>CICM16WIP</bib-key>
         <bib-date role="publication">2016</bib-date>
@@ -285,7 +307,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase,akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM17" type="proceedings" xml:id="bib.bib8">
+      <bibentry key="CICM17" type="proceedings" xml:id="bib.bib9">
         <bib-name role="editor">
           <surname>Geuvers</surname>
           <givenname>Herman</givenname>
@@ -331,7 +353,7 @@ Frank Tompa and Martin Suda},
       pubs = {frabe,odk,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM18" type="proceedings" xml:id="bib.bib9">
+      <bibentry key="CICM18" type="proceedings" xml:id="bib.bib10">
         <bib-name role="editor">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -376,7 +398,7 @@ Frank Tompa and Martin Suda},
       pubs = {frabe,oaf,odk}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM19" type="proceedings" xml:id="bib.bib10">
+      <bibentry key="CICM19" type="proceedings" xml:id="bib.bib11">
         <bib-name role="editor">
           <surname>Kaliszyck</surname>
           <givenname>Cezary</givenname>
@@ -416,7 +438,7 @@ Frank Tompa and Martin Suda},
       pubs = {akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM16" type="proceedings" xml:id="bib.bib11">
+      <bibentry key="CICM16" type="proceedings" xml:id="bib.bib12">
         <bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -464,7 +486,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM13" type="proceedings" xml:id="bib.bib12">
+      <bibentry key="CICM13" type="proceedings" xml:id="bib.bib13">
         <bib-name role="editor">
           <surname>Carette</surname>
           <givenname>Jacques</givenname>
@@ -518,7 +540,7 @@ Frank Tompa and Martin Suda},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="DoForm13" type="proceedings" xml:id="bib.bib13">
+      <bibentry key="DoForm13" type="proceedings" xml:id="bib.bib14">
         <bib-title>Enabling domain experts to use formalised reasoning</bib-title>
         <bib-data role="eventtitle">Do-Form, symposium at the AISB Annual Convention</bib-data>
         <bib-name role="editor">
@@ -554,7 +576,7 @@ Frank Tompa and Martin Suda},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="AIMashup10" type="proceedings" xml:id="bib.bib14">
+      <bibentry key="AIMashup10" type="proceedings" xml:id="bib.bib15">
         <bib-title>AI Mashup Challenge</bib-title>
         <bib-date role="publication">2010-06</bib-date>
         <bib-data role="month">June</bib-data>
@@ -590,7 +612,7 @@ Frank Tompa and Martin Suda},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="DFRU:cicmwip:11" type="proceedings" xml:id="bib.bib15">
+      <bibentry key="DFRU:cicmwip:11" type="proceedings" xml:id="bib.bib16">
         <bib-title>Intelligent Computer Mathematics, Work-in-Progress Proceedings</bib-title>
         <bib-date role="publication">2011</bib-date>
         <bib-name role="editor">
@@ -627,7 +649,7 @@ Frank Tompa and Martin Suda},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="GNRS:lfmtpmlpa:11" type="proceedings" xml:id="bib.bib16">
+      <bibentry key="GNRS:lfmtpmlpa:11" type="proceedings" xml:id="bib.bib17">
         <bib-title>LFMTP 2011 - MLPA 2011 Informal Proceedings</bib-title>
         <bib-date role="publication">2011</bib-date>
         <bib-note role="annotation">see <ref class="ltx_url" font="typewriter" href="http://kwarc.info/frabe/events/mlpa-11/index.html">http://kwarc.info/frabe/events/mlpa-11/index.html</ref></bib-note>
@@ -656,7 +678,7 @@ Frank Tompa and Martin Suda},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="RS:mlpa:10" type="proceedings" xml:id="bib.bib17">
+      <bibentry key="RS:mlpa:10" type="proceedings" xml:id="bib.bib18">
         <bib-title>MLPA ’10: Proceedings of the 2nd Workshop on Modules and Libraries for Proof Assistants</bib-title>
         <bib-date role="publication">2010</bib-date>
         <bib-note role="annotation">see <ref class="ltx_url" font="typewriter" href="http://kwarc.info/frabe/events/mlpa-10.html">http://kwarc.info/frabe/events/mlpa-10.html</ref></bib-note>
@@ -677,7 +699,7 @@ Frank Tompa and Martin Suda},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="RS:mlpa:09" type="proceedings" xml:id="bib.bib18">
+      <bibentry key="RS:mlpa:09" type="proceedings" xml:id="bib.bib19">
         <bib-title>MLPA ’09: Proceedings of the 1st Workshop on Modules and Libraries for Proof Assistants</bib-title>
         <bib-date role="publication">2009</bib-date>
         <bib-name role="editor">
@@ -702,7 +724,7 @@ Frank Tompa and Martin Suda},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="IJCAI03-KR" type="proceedings" xml:id="bib.bib19">
+      <bibentry key="IJCAI03-KR" type="proceedings" xml:id="bib.bib20">
         <bib-title>Proceedings of the IJCAI 03 workshop on knowledge representation and automated reasoning for e-learning systems</bib-title>
         <bib-date role="publication">2003</bib-date>
         <bib-name role="editor">
@@ -734,7 +756,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE15-WS-PSMAD" type="proceedings" xml:id="bib.bib20">
+      <bibentry key="CADE15-WS-PSMAD" type="proceedings" xml:id="bib.bib21">
         <bib-date role="publication">1998</bib-date>
         <bib-name role="editor">
           <surname>Baumgartner</surname>
@@ -775,7 +797,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM11" type="proceedings" xml:id="bib.bib21">
+      <bibentry key="CICM11" type="proceedings" xml:id="bib.bib22">
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-key>CICM11</bib-key>
         <bib-date role="publication">2011</bib-date>
@@ -819,7 +841,7 @@ Frank Tompa and Martin Suda},
  acceptanceratecomment = {Calculemus: 9/15, MKM: 9/22, Systems and Projects: 12/14}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM11WIP" type="proceedings" xml:id="bib.bib22">
+      <bibentry key="CICM11WIP" type="proceedings" xml:id="bib.bib23">
         <bib-title>Intelligent computer mathematics – work in progress papers</bib-title>
         <bib-key>CICM11WIP</bib-key>
         <bib-date role="publication">2011</bib-date>
@@ -849,7 +871,7 @@ Frank Tompa and Martin Suda},
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICOS00" type="proceedings" xml:id="bib.bib23">
+<!--  %**** String Line 25 **** -->      <bibentry key="ICOS00" type="proceedings" xml:id="bib.bib24">
         <bib-title>ICoS-2. inference in computational semantics. workshop proceedings</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -873,7 +895,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 25 **** -->      <bibentry key="BosKoh:ICOS2-LJIGPL04" type="proceedings" xml:id="bib.bib24">
+      <bibentry key="BosKoh:ICOS2-LJIGPL04" type="proceedings" xml:id="bib.bib25">
         <bib-name role="editor">
           <surname>Bos</surname>
           <givenname>Johan</givenname>
@@ -900,7 +922,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="ICOS01" type="proceedings" xml:id="bib.bib25">
+      <bibentry key="ICOS01" type="proceedings" xml:id="bib.bib26">
         <bib-title>ICoS-3. inference in computational semantics. workshop proceedings</bib-title>
         <bib-date role="publication">2001</bib-date>
         <bib-name role="editor">
@@ -922,7 +944,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KI06" type="proceedings" xml:id="bib.bib26">
+      <bibentry key="KI06" type="proceedings" xml:id="bib.bib27">
         <bib-title>Proceedings of the 29.th annual german conference on artificial intelligence KI’06</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -956,7 +978,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="CADE15-WS-AI" type="proceedings" xml:id="bib.bib27">
+      <bibentry key="CADE15-WS-AI" type="proceedings" xml:id="bib.bib28">
         <bib-title>CADE-15 workshop “using AI methods in deduction”</bib-title>
         <bib-date role="publication">1998</bib-date>
         <bib-name role="editor">
@@ -980,7 +1002,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="CALCULEMUS00" type="proceedings" xml:id="bib.bib28">
+      <bibentry key="CALCULEMUS00" type="proceedings" xml:id="bib.bib29">
         <bib-title>CALCULEMUS-2000, systems for integrated computation and deduction</bib-title>
         <bib-date role="publication">2000</bib-date>
         <bib-name role="editor">
@@ -1007,7 +1029,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="MKM05" type="proceedings" xml:id="bib.bib29">
+      <bibentry key="MKM05" type="proceedings" xml:id="bib.bib30">
         <bib-title>Mathematical knowledge management, MKM’05</bib-title>
         <bib-date role="publication">2006</bib-date>
         <bib-name role="editor">
@@ -1031,7 +1053,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="ORES2010" type="proceedings" xml:id="bib.bib30">
+      <bibentry key="ORES2010" type="proceedings" xml:id="bib.bib31">
         <bib-date role="publication">2010</bib-date>
         <bib-name role="editor">
           <surname>d’Aquin</surname>
@@ -1073,7 +1095,7 @@ Frank Tompa and Martin Suda},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="OCAS2011" type="proceedings" xml:id="bib.bib31">
+      <bibentry key="OCAS2011" type="proceedings" xml:id="bib.bib32">
         <bib-date role="publication">2011</bib-date>
         <bib-name role="editor">
           <surname>García Castro</surname>
@@ -1119,7 +1141,7 @@ Frank Tompa and Martin Suda},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="SemWiki10" type="proceedings" xml:id="bib.bib32">
+      <bibentry key="SemWiki10" type="proceedings" xml:id="bib.bib33">
         <bib-date role="publication">2010</bib-date>
         <bib-name role="editor">
           <surname>Lange</surname>
@@ -1161,7 +1183,7 @@ Frank Tompa and Martin Suda},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="SemWiki09" type="proceedings" xml:id="bib.bib33">
+      <bibentry key="SemWiki09" type="proceedings" xml:id="bib.bib34">
         <bib-date role="publication">2009</bib-date>
         <bib-name role="editor">
           <surname>Lange</surname>
@@ -1203,7 +1225,7 @@ Frank Tompa and Martin Suda},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="SemWiki08" type="proceedings" xml:id="bib.bib34">
+      <bibentry key="SemWiki08" type="proceedings" xml:id="bib.bib35">
         <bib-date role="publication">2008</bib-date>
         <bib-name role="editor">
           <surname>Lange</surname>
@@ -1245,7 +1267,7 @@ Frank Tompa and Martin Suda},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM-WS-WiP2013" type="proceedings" xml:id="bib.bib35">
+      <bibentry key="CICM-WS-WiP2013" type="proceedings" xml:id="bib.bib36">
         <bib-title>Joint proceedings of the MathUI, OpenMath, PLMMS, and ThEdu workshops and work in progress at the conference on intelligent computer mathematics 2013</bib-title>
         <bib-date role="publication">2013</bib-date>
         <bib-name role="editor">
@@ -1319,7 +1341,7 @@ Frank Tompa and Martin Suda},
  eventdate = {2013-07-08/2013-07-12}}
 </bib-data>
       </bibentry>
-      <bibentry key="CICM-WS-WiP2014" type="proceedings" xml:id="bib.bib36">
+      <bibentry key="CICM-WS-WiP2014" type="proceedings" xml:id="bib.bib37">
         <bib-title>Joint proceedings of the MathUI, OpenMath, PLMMS, and ThEdu workshops and work in progress at the conference on intelligent computer mathematics 2014</bib-title>
         <bib-date role="publication">2014</bib-date>
         <bib-name role="editor">
@@ -1392,7 +1414,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  eventdate = {2013-07-07/2013-07-12}}
 </bib-data>
       </bibentry>
-      <bibentry key="OpenMathUIWiP2012" type="proceedings" xml:id="bib.bib37">
+      <bibentry key="OpenMathUIWiP2012" type="proceedings" xml:id="bib.bib38">
         <bib-title>Joint proceedings of the 24<sup>th</sup> OpenMath workshop, the 7<sup>th</sup> workshop on mathematical user interfaces (MathUI), and the work in progress section of the conference on intelligent computer mathematics</bib-title>
         <bib-date role="publication">2012</bib-date>
         <bib-name role="editor">
@@ -1432,7 +1454,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  eventdate = {2012-07-09/2012-07-13}}
 </bib-data>
       </bibentry>
-      <bibentry key="OM10" type="proceedings" xml:id="bib.bib38">
+      <bibentry key="OM10" type="proceedings" xml:id="bib.bib39">
         <bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -1454,7 +1476,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
      month = {July}}
 </bib-data>
       </bibentry>
-      <bibentry key="OpenJEM07" type="proceedings" xml:id="bib.bib39">
+      <bibentry key="OpenJEM07" type="proceedings" xml:id="bib.bib40">
         <bib-name role="editor">
           <surname>Caprotti</surname>
           <givenname>Olga</givenname>
@@ -1484,7 +1506,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="FGWM09:plain" type="proceedings" xml:id="bib.bib40">
+      <bibentry key="FGWM09:plain" type="proceedings" xml:id="bib.bib41">
         <bib-name role="editor">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -1510,7 +1532,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="FGWM09" type="proceedings" xml:id="bib.bib41">
+      <bibentry key="FGWM09" type="proceedings" xml:id="bib.bib42">
         <bib-name role="editor">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -1534,7 +1556,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="FGWM13" type="proceedings" xml:id="bib.bib42">
+      <bibentry key="FGWM13" type="proceedings" xml:id="bib.bib43">
         <bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -1558,7 +1580,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {akohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="JEM08" type="proceedings" xml:id="bib.bib43">
+      <bibentry key="JEM08" type="proceedings" xml:id="bib.bib44">
         <bib-title>3<sup>rd</sup> JEM workshop – joining educational mathematics</bib-title>
         <bib-date role="publication">2008</bib-date>
         <bib-name role="editor">
@@ -1592,7 +1614,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="MathWiki11" type="proceedings" xml:id="bib.bib44">
+      <bibentry key="MathWiki11" type="proceedings" xml:id="bib.bib45">
         <bib-date role="publication">2011</bib-date>
         <bib-name role="editor">
           <surname>Lange</surname>
@@ -1626,7 +1648,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="SEPUBLICA14" type="proceedings" xml:id="bib.bib45">
+      <bibentry key="SEPUBLICA14" type="proceedings" xml:id="bib.bib46">
         <bib-title>Proceedings of the 4<sup>th</sup> workshop on semantic publishing (sepublica)</bib-title>
         <bib-date role="publication">2014</bib-date>
         <bib-name role="editor">
@@ -1666,7 +1688,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  eventdate = {2014-05-25}}
 </bib-data>
       </bibentry>
-      <bibentry key="SEPUBLICA13" type="proceedings" xml:id="bib.bib46">
+      <bibentry key="SEPUBLICA13" type="proceedings" xml:id="bib.bib47">
         <bib-date role="publication">2013</bib-date>
         <bib-name role="editor">
           <surname>García Castro</surname>
@@ -1708,7 +1730,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="SEPUBLICA12" type="proceedings" xml:id="bib.bib47">
+      <bibentry key="SEPUBLICA12" type="proceedings" xml:id="bib.bib48">
         <bib-date role="publication">2012</bib-date>
         <bib-name role="editor">
           <surname>Good</surname>
@@ -1758,7 +1780,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-      <bibentry key="SEPUBLICA11" type="proceedings" xml:id="bib.bib48">
+<!--  %**** String Line 50 **** -->      <bibentry key="SEPUBLICA11" type="proceedings" xml:id="bib.bib49">
         <bib-date role="publication">2011</bib-date>
         <bib-name role="editor">
           <surname>García Castro</surname>
@@ -1800,7 +1822,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {clange}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 50 **** -->      <bibentry key="Kohlhase:OMDoc1.2" type="book" xml:id="bib.bib49">
+      <bibentry key="Kohlhase:OMDoc1.2" type="book" xml:id="bib.bib50">
         <bib-title>OMDoc – an open markup format for mathematical documents [version 1.2]</bib-title>
         <bib-data role="booktitle">{OMDoc} – An open markup format for mathematical documents [Version 1.2]</bib-data>
         <bib-publisher>Springer Verlag</bib-publisher>
@@ -1827,7 +1849,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       pubs = {mkohlhase,projects/omdocbiblio}}
 </bib-data>
       </bibentry>
-      <bibentry key="DML12" type="proceedings" xml:id="bib.bib50">
+      <bibentry key="DML12" type="proceedings" xml:id="bib.bib51">
         <bib-title>DML and MIR 2012</bib-title>
         <bib-date role="publication">2012</bib-date>
         <bib-name role="editor">

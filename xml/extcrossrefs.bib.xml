@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?latexml searchpaths="/home/travis/build/KWARC/bibs,/home/travis/build/KWARC/bibs/src/ltxml,/home/travis/build/KWARC/bibs"?>
+<?latexml searchpaths="/home/runner/work/bibs/bibs,/home/runner/work/bibs/bibs/src/ltxml,/home/runner/work/bibs/bibs"?>
 <?latexml package="src/ltxml/kwarcbibs.sty.ltxml"?>
 <?latexml RelaxNGSchema="LaTeXML"?>
 <document xmlns="http://dlmf.nist.gov/LaTeXML">
