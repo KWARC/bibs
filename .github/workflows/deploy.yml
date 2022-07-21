@@ -35,6 +35,8 @@ jobs:
           git add kwarc.bib
           git commit --allow-empty -m "[skip ci] Auto-generated kwarc.bib for commit $SHA"
           git push
+
+          cd ../..
       - name: Install website generation dependencies
         run: |
           sudo apt-get update -qq
@@ -63,3 +65,5 @@ jobs:
           git add --all
           git commit --allow-empty -m "Auto-generated website for commit $SHA"
           git push
+
+          cd ../..
