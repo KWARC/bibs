@@ -50,7 +50,7 @@ jobs:
           cpanm --notest --sudo LaTeXML
       - name: Generating 'deploy/pub'
         run: |
-          make xml pubs
+          make -j10 xml pubs
       - name: Deploy 'deploy/pub' files
         run: |
           SHA=$(git rev-parse --short HEAD)
