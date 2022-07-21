@@ -18,17 +18,11 @@ jobs:
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Check if a build is required
-        id: check
-        run: |
-          (git diff --quiet --exit-code "HEAD" "HEAD^" .github src/ Makefile preamble.bib kwarcpubs.bib extpubs.bib kwarccrossrefs.bib extcrossrefs.bib && echo "::set-output name=NEEDS_BUILD::0") ||  echo "::set-output name=NEEDS_BUILD::1"
       - name: Build kwarc.bib
-        if: steps.check.outputs.NEEDS_BUILD == 1
         run: |
           make clean
           make bib
       - name: Commit 'kwarc.bib' back into repo
-        if: steps.check.outputs.NEEDS_BUILD == 1
         run: |
           SHA=$(git rev-parse --short HEAD)
           REMOTE=$(git ls-remote --get-url)
@@ -41,7 +35,6 @@ jobs:
           git commit --allow-empty -m "[skip ci] Auto-generated kwarc.bib for commit $SHA"
           git push
       - name: Install website generation dependencies
-        if: steps.check.outputs.NEEDS_BUILD == 1
         run: |
           sudo apt-get update -qq
           sudo apt-get install -qq cpanminus xsltproc
@@ -53,11 +46,9 @@ jobs:
             texlive-latex-base imagemagick libimage-magick-perl
           cpanm --notest --sudo LaTeXML
       - name: Generating 'deploy/pub'
-        if: steps.check.outputs.NEEDS_BUILD == 1
         run: |
           make xml pubs
       - name: Deploy 'deploy/pub' files
-        if: steps.check.outputs.NEEDS_BUILD == 1
         run: |
           SHA=$(git rev-parse --short HEAD)
           REMOTE=$(git ls-remote --get-url)
