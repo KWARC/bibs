@@ -370,7 +370,7 @@
       pubs = {mwagner}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:wids22" type="inproceedings" xml:id="bib.bib19">
+      <bibentry key="Kohlhase:wids22" type="incollection" xml:id="bib.bib19">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -398,18 +398,18 @@
     number = {284},
       pubs = {mkohlhase}}
 </bib-data></bib-related>
-        <bib-part role="pages">156–170</bib-part>
+        <bib-part role="pages">155–170</bib-part>
         <bib-data role="pubs">mkohlhase</bib-data>
-        <bib-related role="host" type="proceedings">
+        <bib-related role="host" type="book">
           <bib-publisher>Duncker &amp; Humblot, Berlin</bib-publisher>
         </bib-related>
         <bib-date role="publication">2022</bib-date>
-        <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase:wids22,
+        <bib-data role="self" type="BibTeX">@incollection{Kohlhase:wids22,
     author = {Michael Kohlhase},
      title = {Wann ist ein juristischer Text strukturiert? Die Sicht der Informatik und der Künstlichen Intelligenz},
        url = {https://kwarc.info/kohlhase/papers/wids22.pdf},
   crossref = {AdrEveKohZwi:dzr22},
-     pages = {156–170},
+     pages = {155–170},
       pubs = {mkohlhase},
  publisher = {Duncker \&amp; Humblot, Berlin},
       year = {2022}}
