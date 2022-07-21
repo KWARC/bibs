@@ -116,7 +116,7 @@ To add a person to the publication pages
 1. update the `bib.people` or `bib.projects` variable in the top-level `Makefile` and add the username of the person or project to add
 2. update the `<xsl:choose>` statement in `src/pubs/publist.xsl` to set the real name of
 the person or project to be added.
-GitHub actions will re-build the web page (takes about 30 min), but you should probably test by
+GitHub actions will re-build the web page (takes about 20 min), but you should probably test by
 building locally first. 
  
 ## Building locally
