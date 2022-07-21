@@ -7,6 +7,7 @@ jobs:
   deploy:
     name: Update 'kwarc.bib' and website
     runs-on: ubuntu-latest
+    concurrency: kwarc-bib
     steps:
       - uses: actions/checkout@v2
         with:
