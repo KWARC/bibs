@@ -37,6 +37,7 @@ jobs:
           cp -v kwarc.bib deploy/bib/kwarc.bib
           cd deploy/bib
           
+          git add kwarc.bib
           git commit -m "Auto-generated kwarc.bib for commit $SHA"
-          git push origin master
+          git push
       
