@@ -50,7 +50,7 @@ jobs:
           cpanm --notest --sudo LaTeXML
       - name: Generating 'deploy/pub'
         run: |
-          make -j10 xml
+          make xml
           make pubs
       - name: Deploy 'deploy/pub' files
         run: |
