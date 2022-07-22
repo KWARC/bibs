@@ -47,6 +47,16 @@
 	      select="//ltx:bibentry[contains(ltx:bib-data[@role='pubs'],$pubs) and
 		      (@type='inbook' or @type='incollection')]"/>
 	</xsl:when>
+	<xsl:when test="$type='mscproject'">
+	  <xsl:apply-templates
+	      select="//ltx:bibentry[contains(ltx:bib-data[@role='pubs'],$pubs) and
+		      contains(ltx:bib-data[@role='pubs'],'mscproject')]"/>
+	</xsl:when>
+	<xsl:when test="$type='bscproject'">
+	  <xsl:apply-templates
+	      select="//ltx:bibentry[contains(ltx:bib-data[@role='pubs'],$pubs) and
+		      contains(ltx:bib-data[@role='pubs'],'bscproject')]"/>
+	</xsl:when>
 	<xsl:otherwise>
 	  <xsl:apply-templates
 	      select="//ltx:bibentry[contains(ltx:bib-data[@role='pubs'],$pubs) and

@@ -13,7 +13,6 @@ SRC="$1"
 DIST="$2"
 KWARC="$3"
 
-PARALLELISM=11
 
 echo "Generating html from $SRC into $DIST"
 
@@ -34,7 +33,9 @@ function convert_types() {
 }
 
 ## now we extract all the HTML from kcr.bib
-TYPES='article incollection conference workshop thesis report unpublished misc wproceedings cproceedings cbook'
+TYPES='article incollection conference workshop thesis report unpublished misc wproceedings cproceedings cbook mscproject bscproject'
+PARALLELISM=($TYPES)
+PARALLELISM=${#PARALLELISM[@]}
 (
   for i in $KWARC; do
       for j in $TYPES; do
