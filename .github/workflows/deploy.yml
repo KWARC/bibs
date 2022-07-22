@@ -51,7 +51,7 @@ jobs:
       - name: Generating 'deploy/pub'
         run: |
           make -j10 xml
-          make -j10 pubs
+          make pubs
       - name: Deploy 'deploy/pub' files
         run: |
           SHA=$(git rev-parse --short HEAD)
