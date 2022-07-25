@@ -17,14 +17,14 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-related bibrefs="CICM22" role="host"/>
+        <bib-related bibrefs="TUG22" role="host"/>
         <bib-part role="pages"/>
         <bib-url href="https://kwarc.info/people/dmueller/pubs/tug22.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,sTeX,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{MueKo:stextug22,
      title = {sTeX3 – A {\LaTeX}-based Ecosystem for Semantic/Active Mathematical Documents},
     author = {Dennis M{\"u}ller and Michael Kohlhase},
-  crossref = {CICM22},
+  crossref = {TUG22},
      pages = {},
        url = {https://kwarc.info/people/dmueller/pubs/tug22.pdf},
       pubs = {mkohlhase,dmueller,sTeX,voll-ki}}
@@ -33,12 +33,12 @@
       <bibentry key="MueKo:sdstex22" type="inproceedings" xml:id="bib.bib2">
         <bib-title>System description: stex3 – a LaTeX-based ecosystem for semantic/active mathematical documents</bib-title>
         <bib-name role="author">
-          <surname>Müller</surname>
-          <givenname>Dennis</givenname>
-        </bib-name>
-        <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Müller</surname>
+          <givenname>Dennis</givenname>
         </bib-name>
         <bib-related bibrefs="CICM22" role="host"/>
         <bib-part role="pages"/>
@@ -47,7 +47,7 @@
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{MueKo:sdstex22,
      title = {System Description: sTeX3 – A {\LaTeX}-based Ecosystem for Semantic/Active Mathematical Documents},
-    author = {Dennis M{\"u}ller and Michael Kohlhase},
+    author = {Michael Kohlhase and Dennis M{\"u}ller},
   crossref = {CICM22},
      pages = {},
        url = {https://kwarc.info/people/dmueller/pubs/cicm22stexsd.pdf},
