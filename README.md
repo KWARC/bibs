@@ -1,9 +1,11 @@
-# The KWARC.bib repository [![Build Status](https://app.travis-ci.com/KWARC/bibs.svg?branch=master)](https://app.travis-ci.com/KWARC/bibs)
+# The KWARC.bib repository 
+
+[![CI](https://github.com/KWARC/bibs/actions/workflows/deploy.yml/badge.svg)](https://github.com/KWARC/bibs/actions/workflows/deploy.yml)
 
 The repository contains the bib resources of the KWARC group, most notably the
 citation database ```kwarc.bib```. It is generated automatically by concatenating
-several source files via a [Travis CI](https://travis-ci.com/) build job. 
-We additionally use the Travis job to generate  
+several source files via a [GitHub Action](https://github.com/features/actions) workflow. 
+We additionally use the Workflow to generate  
 [publication websites](https://kwarc.github.io/bibs/) with the help of 
 [LaTeXML](http://dlmf.nist.gov/LaTeXML/)  - see (far below).
 
@@ -91,7 +93,7 @@ common fields, not suitable for citation
 
 # Publication Pages
 
-We use the Travis job to generate  
+We use the GitHub workflow to generate  
 [publication websites](https://kwarc.github.io/bibs/) with the help of
 [LaTeXML](http://dlmf.nist.gov/LaTeXML/).  Additionally, we generate
 specific publication pages for [KWARC members](http://kwarc.info/people/), 
@@ -114,12 +116,12 @@ To add a person to the publication pages
 1. update the `bib.people` or `bib.projects` variable in the top-level `Makefile` and add the username of the person or project to add
 2. update the `<xsl:choose>` statement in `src/pubs/publist.xsl` to set the real name of
 the person or project to be added.
-Travis will re-build the web page (takes about 30 min), but you should probably test by
+GitHub actions will re-build the web page (takes about 20 min), but you should probably test by
 building locally first. 
  
 ## Building locally
 The website and concatenated files are generated and pushed automatically via
-TRAVIS. For building locally we use a ```Makefile```. It has the following 
+GitHub Actions. For building locally we use a ```Makefile```. It has the following 
 targets: 
 
 * ```all = dist```

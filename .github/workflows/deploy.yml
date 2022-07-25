@@ -1,0 +1,70 @@
+name: CI
+on:
+    push:
+        branches:
+            - master
+jobs:
+  deploy:
+    name: Update 'kwarc.bib' and website
+    runs-on: ubuntu-latest
+    concurrency: kwarc-bib
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Configure Git Client
+        run: |
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --global user.name "GitHub Action"
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build kwarc.bib
+        run: |
+          make clean
+          make bib
+      - name: Commit 'kwarc.bib' back into repo
+        run: |
+          SHA=$(git rev-parse --short HEAD)
+          REMOTE=$(git ls-remote --get-url)
+          git clone $REMOTE deploy/bib --depth 1
+
+          cp -v kwarc.bib deploy/bib/kwarc.bib
+          cd deploy/bib
+          
+          git add kwarc.bib
+          git commit --allow-empty -m "[skip ci] Auto-generated kwarc.bib for commit $SHA"
+          git push
+
+          cd ../..
+      - name: Install website generation dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -qq cpanminus xsltproc
+          sudo apt-get install   \
+            libarchive-zip-perl libfile-which-perl libimage-size-perl  \
+            libio-string-perl libjson-xs-perl libtext-unidecode-perl \
+            libparse-recdescent-perl liburi-perl libuuid-tiny-perl libwww-perl \
+            libxml2 libxml-libxml-perl libxslt1.1 libxml-libxslt-perl  \
+            texlive-latex-base imagemagick libimage-magick-perl
+          cpanm --notest --sudo LaTeXML
+      - name: Generating 'deploy/pub'
+        run: |
+          make -j10 xml
+          make pubs
+      - name: Deploy 'deploy/pub' files
+        run: |
+          SHA=$(git rev-parse --short HEAD)
+          REMOTE=$(git ls-remote --get-url)
+          git clone $REMOTE deploy/pub --branch gh-pages --depth 1
+
+          cp -rv dist/pubs/* deploy/pub
+          mkdir -p deploy/pub/xml
+          cp -v dist/ltxml/*.xml deploy/pub/xml
+          cd deploy/pub
+
+          git add --all
+          git commit --allow-empty -m "Auto-generated website for commit $SHA"
+          git push
+
+          cd ../..
