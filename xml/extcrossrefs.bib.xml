@@ -12482,6 +12482,148 @@ Daniela Zaharie},
       year = {2018}}
 </bib-data>
       </bibentry>
+      <bibentry key="casanovas-2008-proceed-works" type="proceedings" xml:id="bib.bib481">
+        <bib-data role="bibsource">dblp computer science bibliography,
+                  https://dblp.org</bib-data>
+        <bib-data role="biburl">https://dblp.org/rec/conf/icail/2007loait.bib</bib-data>
+        <bib-name role="editor">
+          <surname>Casanovas</surname>
+          <givenname>Pompeu</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Biasiotti</surname>
+          <givenname>Maria Angela</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Francesconi</surname>
+          <givenname>Enrico</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Sagri</surname>
+          <givenname>Maria-Teresa</givenname>
+        </bib-name>
+        <bib-publisher>CEUR-WS.org</bib-publisher>
+        <bib-part role="series">CEUR Workshop Proceedings</bib-part>
+        <bib-data role="timestamp">Tue, 17 May 2022 19:03:10 +0200</bib-data>
+        <bib-title>Proceedings of the 2nd workshop on legal ontologies and artificial intelligence techniques june 4th, 2007, stanford university, stanford, ca, USA</bib-title>
+        <bib-url href="http://ceur-ws.org/Vol-321">Link</bib-url>
+        <bib-data role="urn">urn:nbn:de:0074-321-1</bib-data>
+        <bib-part role="volume">321</bib-part>
+        <bib-date role="publication">2008</bib-date>
+        <bib-data role="self" type="BibTeX">@proceedings{casanovas-2008-proceed-works,
+ bibsource = {dblp computer science bibliography,
+                  https://dblp.org},
+    biburl = {https://dblp.org/rec/conf/icail/2007loait.bib},
+    editor = {Pompeu Casanovas and Maria Angela Biasiotti and
+                  Enrico Francesconi and Maria{-}Teresa Sagri},
+ publisher = {CEUR-WS.org},
+    series = {{CEUR} Workshop Proceedings},
+ timestamp = {Tue, 17 May 2022 19:03:10 +0200},
+     title = {Proceedings of the 2nd Workshop on Legal Ontologies
+                  and Artificial Intelligence Techniques June 4th,
+                  2007, Stanford University, Stanford, CA, {USA}},
+       url = {http://ceur-ws.org/Vol-321},
+       urn = {urn:nbn:de:0074-321-1},
+    volume = {321},
+      year = {2008}}
+</bib-data>
+      </bibentry>
+      <bibentry key="palmirani-2018-legal-knowl" type="proceedings" xml:id="bib.bib482">
+        <bib-data role="bibsource">dblp computer science bibliography,
+                  https://dblp.org</bib-data>
+        <bib-data role="biburl">https://dblp.org/rec/conf/jurix/2018.bib</bib-data>
+        <bib-name role="editor">
+          <surname>Palmirani</surname>
+          <givenname>Monica</givenname>
+        </bib-name>
+        <bib-identifier id="978-1-61499-934-8" scheme="isbn">ISBN 978-1-61499-934-8</bib-identifier>
+        <bib-publisher>IOS Press</bib-publisher>
+        <bib-part role="series">Frontiers in Artificial Intelligence and
+Applications</bib-part>
+        <bib-data role="timestamp">Tue, 17 May 2022 20:59:49 +0200</bib-data>
+        <bib-title>Legal knowledge and information systems - JURIX 2018: the thirty-first annual conference, groningen, the netherlands, 12-14 december 2018</bib-title>
+        <bib-part role="volume">313</bib-part>
+        <bib-date role="publication">2018</bib-date>
+        <bib-data role="self" type="BibTeX">@proceedings{palmirani-2018-legal-knowl,
+ bibsource = {dblp computer science bibliography,
+                  https://dblp.org},
+    biburl = {https://dblp.org/rec/conf/jurix/2018.bib},
+    editor = {Monica Palmirani},
+      isbn = {978-1-61499-934-8},
+ publisher = {{IOS} Press},
+    series = {Frontiers in Artificial Intelligence and
+                  Applications},
+ timestamp = {Tue, 17 May 2022 20:59:49 +0200},
+     title = {Legal Knowledge and Information Systems - {JURIX}
+                  2018: The Thirty-first Annual Conference, Groningen,
+                  The Netherlands, 12-14 December 2018},
+    volume = {313},
+      year = {2018}}
+</bib-data>
+      </bibentry>
+      <bibentry key="raedt-2012-ecai-europ" type="proceedings" xml:id="bib.bib483">
+        <bib-data role="bibsource">dblp computer science bibliography,
+                  https://dblp.org</bib-data>
+        <bib-data role="biburl">https://dblp.org/rec/conf/ecai/2012.bib</bib-data>
+        <bib-name role="editor">
+          <surname>Raedt</surname>
+          <givenname>Luc De</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Bessiere</surname>
+          <givenname>Christian</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Dubois</surname>
+          <givenname>Didier</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Doherty</surname>
+          <givenname>Patrick</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Frasconi</surname>
+          <givenname>Paolo</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Heintz</surname>
+          <givenname>Fredrik</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Lucas</surname>
+          <givenname>Peter J. F.</givenname>
+        </bib-name>
+        <bib-identifier id="978-1-61499-097-0" scheme="isbn">ISBN 978-1-61499-097-0</bib-identifier>
+        <bib-publisher>IOS Press</bib-publisher>
+        <bib-part role="series">Frontiers in Artificial Intelligence and
+Applications</bib-part>
+        <bib-data role="timestamp">Tue, 17 May 2022 21:09:50 +0200</bib-data>
+        <bib-title>ECAI 2012 - 20th european conference on artificial intelligence. including prestigious applications of artificial intelligence (PAIS-2012) system demonstrations track, montpellier, france, august 27-31 , 2012</bib-title>
+        <bib-url href="http://www.booksonline.iospress.nl/Content/View.aspx?piid=31572">Link</bib-url>
+        <bib-part role="volume">242</bib-part>
+        <bib-date role="publication">2012</bib-date>
+        <bib-data role="self" type="BibTeX">@proceedings{raedt-2012-ecai-europ,
+ bibsource = {dblp computer science bibliography,
+                  https://dblp.org},
+    biburl = {https://dblp.org/rec/conf/ecai/2012.bib},
+    editor = {Luc De Raedt and Christian Bessiere and Didier
+                  Dubois and Patrick Doherty and Paolo Frasconi and
+                  Fredrik Heintz and Peter J. F. Lucas},
+      isbn = {978-1-61499-097-0},
+ publisher = {{IOS} Press},
+    series = {Frontiers in Artificial Intelligence and
+                  Applications},
+ timestamp = {Tue, 17 May 2022 21:09:50 +0200},
+     title = {{ECAI} 2012 - 20th European Conference on Artificial
+                  Intelligence.  Including Prestigious Applications of
+                  Artificial Intelligence {(PAIS-2012)} System
+                  Demonstrations Track, Montpellier, France, August
+                  27-31 , 2012},
+       url = {http://www.booksonline.iospress.nl/Content/View.aspx?piid=31572},
+    volume = {242},
+      year = {2012}}
+</bib-data>
+      </bibentry>
     </biblist>
   </bibliography>
 </document>
