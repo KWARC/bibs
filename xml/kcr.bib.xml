@@ -4,10 +4,26 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="title" type="unpublished" xml:id="bib.bib1">
-        <bib-data>The {Y Model} – Formalization of Computer-Science Tasks in the Context of Intelligent Tutoring Systems</bib-data>
+      <bibentry key="BerKohLohMue:ymodel22" type="unpublished" xml:id="bib.bib1">
+        <bib-name role="author">
+          <surname>Berges</surname>
+          <givenname>Marc</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Lohr</surname>
+          <givenname>Dominik</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Müller</surname>
+          <givenname>Dennis</givenname>
+        </bib-name>
+        <bib-title>The Y Model – formalization of computer-science tasks in the context of intelligent tutoring systems</bib-title>
         <bib-date role="publication">2022</bib-date>
-        <bib-identifier scheme="isbn">ISBN </bib-identifier>
+        <bib-data role="soonisbn"/>
         <bib-data role="soonpublisher">Association for Computing Machinery</bib-data>
         <bib-data role="soonaddress">New York, NY, USA</bib-data>
         <bib-url href="https://kwarc.info/kohlhase/submit/kali22.pdf">Link</bib-url>
@@ -19,10 +35,11 @@
         <bib-data role="soonlocation">Koli, Finland</bib-data>
         <bib-data role="soonseries">Koli Calling '22</bib-data>
         <bib-data role="pubs">mkohlhase,dmueller,voll-ki</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{title,
-           = {The {Y Model} – Formalization of Computer-Science Tasks in the Context of Intelligent Tutoring Systems},
+        <bib-data role="self" type="BibTeX">@unpublished{BerKohLohMue:ymodel22,
+    author = {Marc Berges and Michael Kohlhase and Dominik Lohr and Dennis M{\"u}ller},
+     title = {The {Y Model} – Formalization of Computer-Science Tasks in the Context of Intelligent Tutoring Systems},
       year = {2022},
-      isbn = {},
+  soonisbn = {},
  soonpublisher = {Association for Computing Machinery},
  soonaddress = {New York, NY, USA},
        url = {https://kwarc.info/kohlhase/submit/kali22.pdf},
