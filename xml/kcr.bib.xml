@@ -23,6 +23,7 @@
         </bib-name>
         <bib-title>The Y Model – formalization of computer-science tasks in the context of intelligent tutoring systems</bib-title>
         <bib-date role="publication">2022</bib-date>
+        <bib-note role="annotation">submitted</bib-note>
         <bib-data role="soonisbn"/>
         <bib-data role="soonpublisher">Association for Computing Machinery</bib-data>
         <bib-data role="soonaddress">New York, NY, USA</bib-data>
@@ -39,6 +40,7 @@
     author = {Marc Berges and Michael Kohlhase and Dominik Lohr and Dennis M{\"u}ller},
      title = {The {Y Model} – Formalization of Computer-Science Tasks in the Context of Intelligent Tutoring Systems},
       year = {2022},
+      note = {submitted},
   soonisbn = {},
  soonpublisher = {Association for Computing Machinery},
  soonaddress = {New York, NY, USA},
