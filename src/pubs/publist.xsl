@@ -470,27 +470,27 @@
 							</xsl:for-each>
 						</xsl:when>
 						<xsl:when test="$id='theses'">
-							<h2>Ph.D. Theses</h2>
+							<h4>Ph.D. Theses</h4>
 							<xsl:for-each select="document('phdthesis-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
 								<xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]" />
 								<xsl:copy-of select="." />
 							</xsl:for-each>
-							<h2>Masters Theses</h2>
+							<h4>Masters Theses</h4>
 							<xsl:for-each select="document('mscthesis-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
 								<xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]" />
 								<xsl:copy-of select="." />
 							</xsl:for-each>
-							<h2>Masters Project Reports</h2>
+							<h4>Masters Project Reports</h4>
 							<xsl:for-each select="document('mscproject-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
 								<xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]" />
 								<xsl:copy-of select="." />
 							</xsl:for-each>
-							<h2>Bachelors Theses</h2>
+							<h4>Bachelors Theses</h4>
 							<xsl:for-each select="document('bscthesis-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
 								<xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]" />
 								<xsl:copy-of select="." />
 							</xsl:for-each>
-							<h2>Bachelors Project Reports</h2>
+							<h4>Bachelors Project Reports</h4>
 							<xsl:for-each select="document('bscproject-thesis.html')//x:ul[@class='ltx_biblist']/x:li">
 								<xsl:sort order="descending" select="x:span/x:span[contains(@class,'ltx_bib_year')]" />
 								<xsl:copy-of select="." />
@@ -502,33 +502,33 @@
 								<div class="col s12">
 									<!-- important -->
 									<xsl:if test="$article!='' or $incollection!='' or $conference!='' or $book!='' or $cproceedings!=''">
-										<h2 id="archival">Archival Literature</h2>
+										<h3 id="archival">Archival Literature</h3>
 										<xsl:if test="$article!=''">
-											<h3 id="article">Articles in Journals</h3>
+											<h4 id="article">Articles in Journals</h4>
 											<ol class="ltx_biblist">
 												<xsl:copy-of select="$article" />
 											</ol>
 										</xsl:if>
 										<xsl:if test="$incollection!=''">
-											<h3 id="incollection">Articles in Collections</h3>
+											<h4 id="incollection">Articles in Collections</h4>
 											<ol class="ltx_biblist">
 												<xsl:copy-of select="$incollection" />
 											</ol>
 										</xsl:if>
 										<xsl:if test="$conference!=''">
-											<h3 id="conference">Papers at International, Peer-Reviewed Conferences</h3>
+											<h4 id="conference">Papers at International, Peer-Reviewed Conferences</h4>
 											<ol class="ltx_biblist">
 												<xsl:copy-of select="$conference" />
 											</ol>
 										</xsl:if>
 										<xsl:if test="$book!=''">
-											<h3 id="book">Monographs</h3>
+											<h4 id="book">Monographs</h4>
 											<ol class="ltx_biblist">
 												<xsl:copy-of select="$book" />
 											</ol>
 										</xsl:if>
 										<xsl:if test="$cproceedings!=''">
-											<h3 id="cproceedings">Conference Proceedings Edited</h3>
+											<h4 id="cproceedings">Conference Proceedings Edited</h4>
 											<ol class="ltx_biblist">
 												<xsl:copy-of select="$cproceedings" />
 											</ol>
@@ -536,13 +536,13 @@
 									</xsl:if>
 									<!-- important, but not archival -->
 									<xsl:if test="$thesis!=''">
-										<h2 id="thesis">Theses</h2>
+										<h3 id="thesis">Theses</h3>
 										<ol class="ltx_biblist">
 											<xsl:copy-of select="$thesis" />
 										</ol>
 									</xsl:if>
 									<xsl:if test="$bscproject!='' or $mscproject!=''">
-										<h2 id="project">Bachelors/Masters Project Reports</h2>
+										<h3 id="project">Bachelors/Masters Project Reports</h3>
 										<ol class="ltx_biblist">
 											<xsl:copy-of select="$mscproject" />
 											<xsl:copy-of select="$bscproject" />
@@ -550,21 +550,21 @@
 									</xsl:if>
 									<!-- the gray literature -->
 									<xsl:if test="$wproceedings!='' or $workshop!='' or $report!=''">
-										<h2 id="gray">Gray Literature</h2>
+										<h3 id="gray">Gray Literature</h3>
 										<xsl:if test="$wproceedings!=''">
-											<h3 id="wproceedings">Worskhop Proceedings Edited</h3>
+											<h4 id="wproceedings">Worskhop Proceedings Edited</h4>
 											<ol class="ltx_biblist">
 												<xsl:copy-of select="$wproceedings" />
 											</ol>
 										</xsl:if>
 										<xsl:if test="$workshop!=''">
-											<h3 id="workshop">Papers at Peer-Reviewed Workshops</h3>
+											<h4 id="workshop">Papers at Peer-Reviewed Workshops</h4>
 											<ol class="ltx_biblist">
 												<xsl:copy-of select="$workshop" />
 											</ol>
 										</xsl:if>
 										<xsl:if test="$report!=''">
-											<h3 id="report">Technical Reports</h3>
+											<h4 id="report">Technical Reports</h4>
 											<ol class="ltx_biblist">
 												<xsl:copy-of select="$report" />
 											</ol>
@@ -572,13 +572,13 @@
 									</xsl:if>
 									<!-- not even published -->
 									<xsl:if test="$unpublished!=''">
-										<h2 id="unpublished">Unpublished</h2>
+										<h3 id="unpublished">Unpublished</h3>
 										<ol class="ltx_biblist">
 											<xsl:copy-of select="$unpublished" />
 										</ol>
 									</xsl:if>
 									<xsl:if test="$misc!=''">
-										<h2 id="misc">Miscellaneous</h2>
+										<h3 id="misc">Miscellaneous</h3>
 										<ol class="ltx_biblist">
 											<xsl:copy-of select="$misc" />
 										</ol>
