@@ -666,13 +666,14 @@
         </bib-name><bib-name role="editor">
           <surname>Zwickel</surname>
           <givenname>Martin</givenname>
-        </bib-name><bib-title>Digitalisierung von zivilprozess und rechtsdurchsetzung</bib-title><bib-publisher>Duncker &amp; Humblot, Berlin</bib-publisher><bib-date role="publication">2022</bib-date><bib-part role="series">Schriften zum Prozessrecht</bib-part><bib-part role="number">284</bib-part><bib-data role="pubs">mkohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{AdrEveKohZwi:dzr22,
+        </bib-name><bib-title>Digitalisierung von zivilprozess und rechtsdurchsetzung</bib-title><bib-publisher>Duncker &amp; Humblot, Berlin</bib-publisher><bib-date role="publication">2022</bib-date><bib-part role="series">Schriften zum Prozessrecht</bib-part><bib-part role="number">284</bib-part><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">mkohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{AdrEveKohZwi:dzr22,
     editor = {Axel Adrian and Stephanie Evert and Michael Kohlhase Kohlhase and Martin Zwickel},
      title = {Digitalisierung von Zivilprozess und Rechtsdurchsetzung},
  publisher = {Duncker \&amp; Humblot, Berlin},
       year = {2022},
     series = {Schriften zum Prozessrecht},
     number = {284},
+  keywords = {conference},
       pubs = {mkohlhase}}
 </bib-data></bib-related>
         <bib-part role="pages">155–170</bib-part>
@@ -34720,6 +34721,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-date role="publication">2022</bib-date>
         <bib-part role="series">Schriften zum Prozessrecht</bib-part>
         <bib-part role="number">284</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{AdrEveKohZwi:dzr22,
     editor = {Axel Adrian and Stephanie Evert and Michael Kohlhase Kohlhase and Martin Zwickel},
@@ -34728,6 +34730,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2022},
     series = {Schriften zum Prozessrecht},
     number = {284},
+  keywords = {conference},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>

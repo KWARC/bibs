@@ -29,6 +29,7 @@
         <bib-date role="publication">2022</bib-date>
         <bib-part role="series">Schriften zum Prozessrecht</bib-part>
         <bib-part role="number">284</bib-part>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{AdrEveKohZwi:dzr22,
     editor = {Axel Adrian and Stephanie Evert and Michael Kohlhase Kohlhase and Martin Zwickel},
@@ -37,6 +38,7 @@
       year = {2022},
     series = {Schriften zum Prozessrecht},
     number = {284},
+  keywords = {conference},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
