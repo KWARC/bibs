@@ -52,6 +52,7 @@
         </bib-related>
         <bib-identifier href="https://dx.doi.org/10.1080/0161956X.2015.1068082" id="10.1080/0161956X.2015.1068082" scheme="doi">Document</bib-identifier>
         <bib-data role="file">Bender, Hubwieser et al. 2015 - Towards a Competency Model:Attachments/Bender, Hubwieser et al. 2015 - Towards a Competency Model.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@article{Bender.2015,
   abstract = {To address the special challenges of teaching computer science, adequate development of teachers? competencies during their education is extremely important. In particular, pedagogical content knowledge and teachers? beliefs and motivational orientations play an important role in effective teaching. This research field has been sparsely investigated up to now and there exists no consistent competency model for teaching computer science in Germany. Therefore, this paper describes the development of competency in the areas of pedagogical content knowledge, teachers? beliefs, and motivational orientations with regard to computer science. Competency-relevant factors for teaching computer science are theoretically derived and concretely formulated with the help of expert interviews conducted according to the critical incident technique and analyzed using techniques of qualitative content analysis.},
@@ -65,6 +66,7 @@
    journal = {Peabody Journal of Education},
        doi = {10.1080/0161956X.2015.1068082},
       file = {Bender, Hubwieser et al. 2015 - Towards a Competency Model:Attachments/Bender, Hubwieser et al. 2015 - Towards a Competency Model.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -78,7 +80,7 @@
           <givenname>Peter</givenname>
         </bib-name>
         <bib-title>Concept specification maps: displaying content structures</bib-title>
-        <bib-extract role="keywords">concept structures;CS1;graphical representation;semi-automatic analysis;textbooks</bib-extract>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-part role="pages">291–296</bib-part>
         <bib-related role="host" type="proceedings">
           <bib-publisher>ACM Press</bib-publisher>
@@ -93,7 +95,7 @@
         <bib-data role="self" type="BibTeX">@inproceedings{Berges.2013,
     author = {Berges, Marc and Hubwieser, Peter},
      title = {Concept Specification Maps: Displaying Content Structures},
-  keywords = {concept structures;CS1;graphical representation;semi-automatic analysis;textbooks},
+  keywords = {conference},
      pages = {291–296},
  publisher = {{ACM Press}},
       isbn = {978-1-4503-2078-8},
@@ -123,6 +125,7 @@
         <bib-date role="publication">2015</bib-date>
         <bib-place>New York</bib-place>
         <bib-data role="file">Berges, Hubwieser 2015 - Evaluation of Source Code:Attachments/Berges, Hubwieser 2015 - Evaluation of Source Code.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Berges.2015,
     author = {Berges, Marc and Hubwieser, Peter},
@@ -133,6 +136,7 @@
       year = {2015},
    address = {New York},
       file = {Berges, Hubwieser 2015 - Evaluation of Source Code:Attachments/Berges, Hubwieser 2015 - Evaluation of Source Code.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -159,6 +163,7 @@
         <bib-date role="publication">2015</bib-date>
         <bib-place>Las Vegas, NV, United States</bib-place>
         <bib-data role="file">Berges 2015 - Investigating Novice Programming Abilities:Attachments/Berges 2015 - Investigating Novice Programming Abilities.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Berges.2015b,
   abstract = {In 2008, a working group in the computer science department at Technische Universit{\"a}t M{\"u}nchen School of Education piloted an optional 2 {\textonehalf} day experience that took place just before the first undergraduate lecture in computer science. This experimental project was a unique attempt to assess prior knowledge and programming skills for new CS students.  The research team used item response theory on source code for 21 fundamental coding concepts in an attempt to assess novice programming skills. The responses were transferred to a Rasch Model which allows personal parameters to be assessed.  Now that a metric has been validated for the coding ability, we are seeking to further our work by attempting to evaluate other core programming competencies. Originally, the complexity of the programming task was of central interest, we are seeking to further our work by creating a multidimensional assessment of problem solving abilities as well as coding abilities represents the different facets of},
@@ -171,6 +176,7 @@
       year = {2015},
    address = {Las Vegas, NV, United States},
       file = {Berges 2015 - Investigating Novice Programming Abilities:Attachments/Berges 2015 - Investigating Novice Programming Abilities.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -204,6 +210,7 @@
         <bib-date role="publication">2016</bib-date>
         <bib-place>Los Alamitos</bib-place>
         <bib-data role="file">Berges, Striewe et al. 2016 - Towards Deriving Programming Competencies:Attachments/Berges, Striewe et al. 2016 - Towards Deriving Programming Competencies.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Berges.2016,
     author = {Berges, Marc and Striewe, Michael and Shah, Philipp and Goedicke, Michael and Hubwieser, Peter},
@@ -214,6 +221,7 @@
       year = {2016},
    address = {Los Alamitos},
       file = {Berges, Striewe et al. 2016 - Towards Deriving Programming Competencies:Attachments/Berges, Striewe et al. 2016 - Towards Deriving Programming Competencies.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -253,7 +261,6 @@
         </bib-name>
         <bib-title>Pedagogical content knowledge for computer science in german teacher education curricula</bib-title>
         <bib-url href="http://doi.acm.org/10.1145/2532748.2532753">Link</bib-url>
-        <bib-extract role="keywords">curricula;empirical validation;literature survey;Pedagogical Content Knowledge;teacher education</bib-extract>
         <bib-part role="pages">95–103</bib-part>
         <bib-related role="host" type="proceedings">
           <bib-publisher>ACM</bib-publisher>
@@ -264,13 +271,13 @@
         <bib-place>New York</bib-place>
         <bib-identifier href="https://dx.doi.org/10.1145/2532748.2532753" id="10.1145/2532748.2532753" scheme="doi">Document</bib-identifier>
         <bib-data role="file">Hubwieser, Berges et al. 2013 - Pedagogical Content Knowledge for Computer:Attachments/Hubwieser, Berges et al. 2013 - Pedagogical Content Knowledge for Computer.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Hubwieser.2013c,
   abstract = {In the framework of a cooperation project that aims to identify the competencies required for teaching computer science in schools, we are developing a conceptualization of PCK currently. Up to now, we have derived a category system from literature and evaluated several interviews with teaching persons. In this paper, we describe the category system and the most important steps of its derivation. Further, we present the results of a survey that had investigated all curricula for CS teacher education that we had found in Germany, looking for the implementation of those categories. Furthermore, we are preparing interviews among experts about PCK, applying the Critical Incident Technique.},
     author = {Hubwieser, Peter and Berges, Marc and Magenheim, Johannes and Schaper, Niclas and Br{\"o}ker, Kathrin and Margaritis, Melanie and Schubert, Sigrid and Ohrndorf, Laura},
      title = {Pedagogical Content Knowledge for Computer Science in German Teacher Education Curricula},
        url = {http://doi.acm.org/10.1145/2532748.2532753},
-  keywords = {curricula;empirical validation;literature survey;Pedagogical Content Knowledge;teacher education},
      pages = {95–103},
  publisher = {ACM},
       isbn = {978-1-4503-2455-7},
@@ -279,6 +286,7 @@
    address = {New York},
        doi = {10.1145/2532748.2532753},
       file = {Hubwieser, Berges et al. 2013 - Pedagogical Content Knowledge for Computer:Attachments/Hubwieser, Berges et al. 2013 - Pedagogical Content Knowledge for Computer.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -310,6 +318,7 @@
         <bib-date role="publication">2017</bib-date>
         <bib-identifier href="https://dx.doi.org/10.1109/EDUCON.2017.7942896" id="10.1109/EDUCON.2017.7942896" scheme="doi">Document</bib-identifier>
         <bib-data role="file">Hubwieser, Berges et al. 2017 - Towards competency based testing:Attachments/Hubwieser, Berges et al. 2017 - Towards competency based testing.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Hubwieser.2017,
     author = {Hubwieser, Peter and Berges, Marc and Striewe, Michael and Goedicke, Michael},
@@ -322,6 +331,7 @@
       year = {2017},
        doi = {10.1109/EDUCON.2017.7942896},
       file = {Hubwieser, Berges et al. 2017 - Towards competency based testing:Attachments/Hubwieser, Berges et al. 2017 - Towards competency based testing.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -352,7 +362,6 @@
           <givenname>Sigrid</givenname>
         </bib-name>
         <bib-title>Development of a competency model for computer science teachers at secondary school level</bib-title>
-        <bib-extract role="keywords">competency measurement;Competency Model;Computational modeling;Computer science;computer science education;education;Interviews;Object oriented modeling;Planning;Standards</bib-extract>
         <bib-part role="pages">211–220</bib-part>
         <bib-related role="host" type="proceedings">
           <bib-publisher>IEEE Press</bib-publisher>
@@ -362,12 +371,12 @@
         <bib-place>Los Alamitos</bib-place>
         <bib-identifier href="https://dx.doi.org/10.1109/EDUCON.2015.7095973" id="10.1109/EDUCON.2015.7095973" scheme="doi">Document</bib-identifier>
         <bib-data role="file">Margaritis, Magenheim et al. 2015 - Development of a competency model:Attachments/Margaritis, Magenheim et al. 2015 - Development of a competency model.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Margaritis.2015,
   abstract = {In order to identify important competencies required for teaching computer science in schools, the research project KUI (Competencies for Teaching Computer Science) granted by the Ministry of Education and Research (BMBF) was founded. At this point in time, there is no consistent competency model for training computer science pre-service teachers in Germany. The development of an adequate model is an important step to establish outcome-oriented guidelines and curricula recommendations. The first framework of a competency model is structured into the dimensions of subject matter knowledge (CK), pedagogical content knowledge (PCK) and non-cognitive competencies (NCC). This article concentrates on the development of the PCK and NCC competency model. It describes our methodological approach, our results of expert interviews to refine the model, and shows an overview of the first competency definitions.},
     author = {Margaritis, Melanie and Magenheim, Johannes and Hubwieser, Peter and Berges, Marc and Ohrndorf, Laura and Schubert, Sigrid},
      title = {Development of a competency model for computer science teachers at secondary school level},
-  keywords = {competency measurement;Competency Model;Computational modeling;Computer science;computer science education;education;Interviews;Object oriented modeling;Planning;Standards},
      pages = {211–220},
  publisher = {{IEEE Press}},
  booktitle = {IEEE Global Engineering Education Conference},
@@ -375,6 +384,7 @@
    address = {Los Alamitos},
        doi = {10.1109/EDUCON.2015.7095973},
       file = {Margaritis, Magenheim et al. 2015 - Development of a competency model:Attachments/Margaritis, Magenheim et al. 2015 - Development of a competency model.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -393,7 +403,6 @@
           <givenname>Peter</givenname>
         </bib-name>
         <bib-title>Types of assignments for novice programmers</bib-title>
-        <bib-extract role="keywords">computer science education;Novice programmers;task types;types of assignments</bib-extract>
         <bib-part role="pages">43–44</bib-part>
         <bib-related role="host" type="proceedings">
           <bib-publisher>ACM</bib-publisher>
@@ -404,12 +413,12 @@
         <bib-place>New York</bib-place>
         <bib-identifier href="https://dx.doi.org/10.1145/2532748.2532777" id="10.1145/2532748.2532777" scheme="doi">Document</bib-identifier>
         <bib-data role="file">Ruf, Berges et al. 2013 - Types of Assignments for Novice:Attachments/Ruf, Berges et al. 2013 - Types of Assignments for Novice.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Ruf.2013,
   abstract = {This paper deals with the classification of assignments according to their type. In contrast to other assignment types not deductively, but extract them empirically from different sources. Our main research question is: What types of programming assignments are actually given to novice programmers? In addition, we compare our empirically found assignment types to the deductively derived ones from the literature. This is driven by the following research questions: Are there types of assignments that are mentioned in literature, which however are not or rarely found in actual assignments given to novice programmers? Can assignment types be found that cannot or only poorly be matched with the category types described in the literature?},
     author = {Ruf, Alexander and Berges, Marc and Hubwieser, Peter},
      title = {Types of Assignments for Novice Programmers},
-  keywords = {computer science education;Novice programmers;task types;types of assignments},
      pages = {43–44},
  publisher = {ACM},
       isbn = {978-1-4503-2455-7},
@@ -418,6 +427,7 @@
    address = {New York},
        doi = {10.1145/2532748.2532777},
       file = {Ruf, Berges et al. 2013 - Types of Assignments for Novice:Attachments/Ruf, Berges et al. 2013 - Types of Assignments for Novice.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -436,7 +446,6 @@
           <givenname>Peter</givenname>
         </bib-name>
         <bib-title>Classification of programming tasks according to required skills and knowledge representation</bib-title>
-        <bib-extract role="keywords">task task type programming task programming novice programmer classification knowledge knowledge representation representation mode cognitive process skill cognitive psychology computer science education</bib-extract>
         <bib-part role="pages">57–68</bib-part>
         <bib-related role="host" type="proceedings">
           <bib-publisher>Springer</bib-publisher>
@@ -455,12 +464,12 @@
         <bib-date role="publication">2015</bib-date>
         <bib-place>Heidelberg</bib-place>
         <bib-data role="file">Ruf, Berges et al. 2015 - Classification of Programming Tasks According:Attachments/Ruf, Berges et al. 2015 - Classification of Programming Tasks According.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Ruf.2015,
   abstract = {Tasks represent a central part of computer science lessons, and aim to practice programming skills or to concrete abstract concepts for example. We have investigated, which types of tasks are given to novice programmers, typically. For that purpose, we have analyzed and generalized tasks from textbooks and exercise sheets. The result is a list of twelve task types classified according to required skills and knowledge representation. In addition, we found that the task types differ very much regarding their incidence. Finally, we tried to relate the three found forms of knowledge representation to concepts of cognitive psychology.},
     author = {Ruf, Alexander and Berges, Marc and Hubwieser, Peter},
      title = {Classification of Programming Tasks According to Required Skills and Knowledge Representation},
-  keywords = {task task type programming task programming novice programmer classification knowledge knowledge representation representation mode cognitive process skill cognitive psychology computer science education},
      pages = {57–68},
  publisher = {Springer},
       isbn = {978-3-319-25395-4},
@@ -470,6 +479,7 @@
       year = {2015},
    address = {Heidelberg},
       file = {Ruf, Berges et al. 2015 - Classification of Programming Tasks According:Attachments/Ruf, Berges et al. 2015 - Classification of Programming Tasks According.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
@@ -497,6 +507,7 @@
         <bib-place>New York</bib-place>
         <bib-identifier href="https://dx.doi.org/10.1145/1235" id="10.1145/1235" scheme="doi">Document</bib-identifier>
         <bib-data role="file">Shah, Berges et al. 2017 - Qualitative Content Analysis of Programming:Attachments/Shah, Berges et al. 2017 - Qualitative Content Analysis of Programming.pdf:application/pdf</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Shah.2017,
     author = {Shah, Philipp and Berges, Marc and Hubwieser, Peter},
@@ -509,6 +520,7 @@
    address = {New York},
        doi = {10.1145/1235},
       file = {Shah, Berges et al. 2017 - Qualitative Content Analysis of Programming:Attachments/Shah, Berges et al. 2017 - Qualitative Content Analysis of Programming.pdf:application/pdf},
+  keywords = {conference},
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
