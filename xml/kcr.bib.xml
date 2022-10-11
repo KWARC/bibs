@@ -3301,7 +3301,7 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-title>(Deep) fair mathematics</bib-title>
+        <bib-title>(Deep) FAIR Mathematics</bib-title>
         <bib-related role="host" type="journal">
           <bib-title>it - Information Technology</bib-title>
         </bib-related>
@@ -3313,7 +3313,7 @@
         <bib-url href="https://www.degruyter.com/view/journals/itit/62/1/article-p7.xml">Link</bib-url>
         <bib-data role="self" type="BibTeX">@article{DeepFAIRmathematics,
     author = {Katja Berčič and Michael Kohlhase and Florian Rabe},
-     title = {(Deep) FAIR mathematics},
+     title = {{(Deep) FAIR Mathematics}},
    journal = {it - Information Technology},
       year = {2020},
  publisher = {De Gruyter Oldenbourg},
