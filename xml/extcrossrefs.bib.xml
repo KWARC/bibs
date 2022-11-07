@@ -12674,6 +12674,48 @@ Applications</bib-part>
       year = {2012}}
 </bib-data>
       </bibentry>
+      <bibentry key="boella-2007-normat-multi" type="proceedings" xml:id="bib.bib486">
+        <bib-data role="bibsource">dblp computer science bibliography,
+                  https://dblp.org</bib-data>
+        <bib-data role="biburl">https://dblp.org/rec/conf/dagstuhl/2007P7122.bib</bib-data>
+        <bib-name role="editor">
+          <surname>Boella</surname>
+          <givenname>Guido</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>van der Torre</surname>
+          <givenname>Leendert W. N.</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Verhagen</surname>
+          <givenname>Harko</givenname>
+        </bib-name>
+        <bib-publisher>Internationales Begegnungs- und Forschungszentrum
+für Informatik (IBFI), Schloss Dagstuhl,
+Germany</bib-publisher>
+        <bib-part role="series">Dagstuhl Seminar Proceedings</bib-part>
+        <bib-data role="timestamp">Wed, 19 Oct 2022 11:50:08 +0200</bib-data>
+        <bib-title>Normative multi-agent systems, 18.03. - 23.03.2007</bib-title>
+        <bib-url href="http://drops.dagstuhl.de/portals/07122/">Link</bib-url>
+        <bib-part role="volume">07122</bib-part>
+        <bib-date role="publication">2007</bib-date>
+        <bib-data role="self" type="BibTeX">@proceedings{boella-2007-normat-multi,
+ bibsource = {dblp computer science bibliography,
+                  https://dblp.org},
+    biburl = {https://dblp.org/rec/conf/dagstuhl/2007P7122.bib},
+    editor = {Guido Boella and Leendert W. N. van der Torre and
+                  Harko Verhagen},
+ publisher = {Internationales Begegnungs- und Forschungszentrum
+                  f{\"{u}}r Informatik (IBFI), Schloss Dagstuhl,
+                  Germany},
+    series = {Dagstuhl Seminar Proceedings},
+ timestamp = {Wed, 19 Oct 2022 11:50:08 +0200},
+     title = {Normative Multi-agent Systems, 18.03. - 23.03.2007},
+       url = {http://drops.dagstuhl.de/portals/07122/},
+    volume = {07122},
+      year = {2007}}
+</bib-data>
+      </bibentry>
     </biblist>
   </bibliography>
 </document>
