@@ -573,7 +573,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="MueKo:stextug22" type="inproceedings" xml:id="bib.bib13">
-        <bib-title>STeX3 – a LaTeX-based ecosystem for semantic/active mathemapubtical documents</bib-title>
+        <bib-title>STeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathemapubtical documents</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -611,7 +611,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="MueKo:sdstex22" type="inproceedings" xml:id="bib.bib14">
-        <bib-title>System description: stex3 – a LaTeX-based ecosystem for semantic/active mathematical documents</bib-title>
+        <bib-title>System description: stex3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -972,7 +972,7 @@
       <bibentry key="stexCTAN:on" type="website" xml:id="bib.bib27">
         <bib-data role="label">ST</bib-data>
         <bib-title>STeX – an infrastructure for semantic preloading of latex documents</bib-title>
-        <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="https://ctan.org/pkg/stex">Link</bib-url>
         <bib-data role="urldate">2022-04-22</bib-data>
         <bib-data role="self" type="BibTeX">@online{stexCTAN:on,
@@ -2268,7 +2268,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="Jucovschi:msc10" type="thesis" xml:id="bib.bib88">
-        <bib-title>Editing knowledge in large mathematical corpora. a case study with semantic LaTeX (sTeX)</bib-title>
+        <bib-title>Editing knowledge in large mathematical corpora. a case study with semantic <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> (sTeX)</bib-title>
         <bib-name role="author">
           <surname>Jucovschi</surname>
           <givenname>Constantin</givenname>
@@ -4616,7 +4616,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
       <bibentry key="moi.sty:on" type="website" xml:id="bib.bib165">
         <bib-data role="label">MOI</bib-data>
         <bib-url href="https://gitlab.com/IMKT/MOI/tree/master/sty">Link</bib-url>
-        <bib-title>The LaTeX package moi</bib-title>
+        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package moi</bib-title>
         <bib-data role="urldate">2018-07-20</bib-data>
         <bib-data role="self" type="BibTeX">@online{moi.sty:on,
      label = {MOI},
@@ -5636,7 +5636,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
 </bib-data>
       </bibentry>
       <bibentry key="ed:on" type="website" xml:id="bib.bib198">
-        <bib-title>Ed – editorial notes for LaTeX documents</bib-title>
+        <bib-title>Ed – editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> documents</bib-title>
         <bib-data role="label">ED</bib-data>
         <bib-data role="urldate">2017-06-23</bib-data>
         <bib-url href="https://www.ctan.org/pkg/ed">Link</bib-url>
@@ -12972,7 +12972,7 @@ Rudnicki and Josef Urban},
 </bib-data>
       </bibentry>
       <bibentry key="GinMil:latexmlCICM13" type="inproceedings" xml:id="bib.bib403">
-        <bib-title>LaTeXml 2012 - a year of LaTeXml</bib-title>
+        <bib-title><text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ml 2012 - a year of <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ml</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -13054,7 +13054,7 @@ Rudnicki and Josef Urban},
 </bib-data>
       </bibentry>
       <bibentry key="GinMilOpr:latexml:14" type="inproceedings" xml:id="bib.bib405">
-        <bib-title>E-books and graphics with LaTeXml</bib-title>
+        <bib-title>E-books and graphics with <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ml</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -13119,7 +13119,7 @@ Rudnicki and Josef Urban},
 </bib-data>
       </bibentry>
       <bibentry key="GinStaKoh:latexmldaemon11" type="inproceedings" xml:id="bib.bib406">
-        <bib-title>The LaTeXML daemon: editable math on the collaborative web</bib-title>
+        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ML daemon: editable math on the collaborative web</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -14615,7 +14615,7 @@ Rudnicki and Josef Urban},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Conversion d’articles en LaTeX vers XML avec MathML : une étude comparative</bib-title>
+        <bib-title>Conversion d’articles en <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> vers XML avec MathML : une étude comparative</bib-title>
         <bib-related role="host" type="journal">
           <bib-title>Cahiers GUTenberg</bib-title>
         </bib-related>
@@ -14640,7 +14640,7 @@ Rudnicki and Josef Urban},
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
         </bib-name>
-        <bib-title>An architecture for recovering meaning in a LaTeX to OMDoc conversion</bib-title>
+        <bib-title>An architecture for recovering meaning in a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> to OMDoc conversion</bib-title>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2009</bib-date>
         <bib-type>Bachelor’s Thesis</bib-type>
@@ -15012,7 +15012,7 @@ Rudnicki and Josef Urban},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>MathML-aware article conversion from LaTeX, a comparison study</bib-title>
+        <bib-title>MathML-aware article conversion from <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>, a comparison study</bib-title>
         <bib-related role="host" type="proceedings"><bib-title>Towards digital mathematics library, dml 2009 workshop</bib-title><bib-date role="publication">2009</bib-date><bib-name role="editor">
           <surname>Sojka</surname>
           <givenname>Petr</givenname>
@@ -15069,7 +15069,7 @@ Rudnicki and Josef Urban},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>A comparison study of MathML-aware LaTeX converters</bib-title>
+        <bib-title>A comparison study of MathML-aware <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> converters</bib-title>
         <bib-type>KWARC Report</bib-type>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2009</bib-date>
@@ -19073,7 +19073,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="sLaTeX:github:base" type="misc" xml:id="bib.bib573">
-        <bib-title>sLaTeX: an ecosystem for semantically enhanced LaTeX</bib-title>
+        <bib-title>sLaTeX: an ecosystem for semantically enhanced <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
         <bib-url href="https://github.com/sLaTeX">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{sLaTeX:github:base,
      title = {{sLaTeX}: An Ecosystem for Semantically Enhanced {\LaTeX}},
@@ -23449,7 +23449,7 @@ Deduktionssysteme”</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>STeX: a LaTeX-based workflow for OMDoc</bib-title>
+        <bib-title>S<text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text>: a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based workflow for OMDoc</bib-title>
         <bib-part role="chapter">26.15</bib-part>
         <bib-related role="host" type="book"><bib-title>OMDoc – an open markup format for mathematical documents [version 1.2]</bib-title><bib-data role="booktitle">{OMDoc} – An open markup format for mathematical documents [Version 1.2]</bib-data><bib-publisher>Springer Verlag</bib-publisher><bib-date role="publication">2006-08</bib-date><bib-data role="month">August</bib-data><bib-name role="author">
           <surname>Kohlhase</surname>
@@ -28571,7 +28571,7 @@ e-Learning</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Semantic markup for TeX/LaTeX</bib-title>
+        <bib-title>Semantic markup for <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text>/<text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
         <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Libbrecht</surname>
           <givenname>Paul</givenname>
@@ -28621,7 +28621,7 @@ e-Learning</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Creating OMDoc representations from LaTeX</bib-title>
+        <bib-title>Creating OMDoc representations from <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
         <bib-type>Internet Draft</bib-type>
         <bib-url href="http://omdoc.org/pubs">Link</bib-url>
         <bib-date role="publication">2000</bib-date>
@@ -28902,7 +28902,7 @@ AISC’2000</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Using LaTeX as a semantic markup format</bib-title>
+        <bib-title>Using <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> as a semantic markup format</bib-title>
         <bib-related role="host" type="journal">
           <bib-title>Mathematics in Computer Science</bib-title>
         </bib-related>
@@ -29927,7 +29927,7 @@ Education Systems</bib-title>
         <bib-data role="label">LP</bib-data>
         <bib-url href="http://github.com/KWARC/LaTeX-proposal/">Link</bib-url>
         <bib-data role="urldate">2017-09-13</bib-data>
-        <bib-title>LaTeX-proposal: a set of LaTeX classes for preparing grant proposals</bib-title>
+        <bib-title>LaTeX-proposal: a set of <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> classes for preparing grant proposals</bib-title>
         <bib-data role="self" type="BibTeX">@online{LaTeX-proposal:git,
      label = {LP},
        url = {http://github.com/KWARC/LaTeX-proposal/},
@@ -29937,14 +29937,14 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:pplp:ctan" type="report" xml:id="bib.bib946">
         
-        <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/base/proposal.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing proposals in LaTeX with <text font="typewriter">proposal.cls</text></bib-title>
+        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
         <bib-date role="publication">2022</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:ctan,
@@ -29964,7 +29964,7 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing proposals in LaTeX with <text font="typewriter">proposal.cls</text></bib-title>
+        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
         <bib-date role="publication">2022</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:git,
@@ -29980,8 +29980,8 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing proposals in LaTeX with <text font="typewriter">proposal.cls</text></bib-title>
-        <bib-type>Self-documenting LaTeX package</bib-type>
+        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
+        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
         <bib-date role="publication">2022</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:base,
     author = {Michael Kohlhase},
@@ -29992,14 +29992,14 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:pdrp:ctan" type="report" xml:id="bib.bib949">
         
-        <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/dfg/dfgproposal.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing dfg proposals and reports in LaTeX with <text font="typewriter">dfgproposal.cls</text></bib-title>
+        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
         <bib-date role="publication">2022</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:ctan,
@@ -30019,7 +30019,7 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing dfg proposals and reports in LaTeX with <text font="typewriter">dfgproposal.cls</text></bib-title>
+        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
         <bib-date role="publication">2022</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:git,
@@ -30035,8 +30035,8 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing dfg proposals and reports in LaTeX with <text font="typewriter">dfgproposal.cls</text></bib-title>
-        <bib-type>Self-documenting LaTeX package</bib-type>
+        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
+        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
         <bib-date role="publication">2022</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:base,
     author = {Michael Kohlhase},
@@ -30047,14 +30047,14 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:pfepr:ctan" type="report" xml:id="bib.bib952">
         
-        <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/eu/euproposal.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing fp7 eu proposals and reports in LaTeX with <text font="typewriter">euproposal.cls</text></bib-title>
+        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
         <bib-date role="publication">2022</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:ctan,
@@ -30074,7 +30074,7 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing fp7 eu proposals and reports in LaTeX with <text font="typewriter">euproposal.cls</text></bib-title>
+        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
         <bib-date role="publication">2022</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:git,
@@ -30090,8 +30090,8 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing fp7 eu proposals and reports in LaTeX with <text font="typewriter">euproposal.cls</text></bib-title>
-        <bib-type>Self-documenting LaTeX package</bib-type>
+        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
+        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
         <bib-date role="publication">2022</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:base,
     author = {Michael Kohlhase},
@@ -30102,14 +30102,14 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:ed:ctan" type="report" xml:id="bib.bib955">
         
-        <bib-organization>Comprehensive TeX Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="https://ctan.org/tex-archive/macros/latex/contrib/ed/ed.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Editorial notes for LaTeX</bib-title>
+        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
         <bib-date role="publication">2022</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:ctan,
@@ -30129,7 +30129,7 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Editorial notes for LaTeX</bib-title>
+        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
         <bib-date role="publication">2022</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:git,
@@ -30145,8 +30145,8 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Editorial notes for LaTeX</bib-title>
-        <bib-type>Self-documenting LaTeX package</bib-type>
+        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
+        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
         <bib-date role="publication">2022</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:base,
     author = {Michael Kohlhase},
@@ -32109,7 +32109,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
         </bib-name>
-        <bib-title>The LaTeXML daemon: editable math for the collaborative web</bib-title>
+        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ML daemon: editable math for the collaborative web</bib-title>
         <bib-url href="http://latexml.mathweb.org">Link</bib-url>
         <bib-data role="urldate">2012-03-31</bib-data>
         <bib-data role="pubs">dginev,comma</bib-data>
@@ -32126,7 +32126,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
         </bib-name>
-        <bib-title>The LaTeXML web showcase</bib-title>
+        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ML web showcase</bib-title>
         <bib-url href="http://latexml.mathweb.org/editor">Link</bib-url>
         <bib-data role="urldate">2013-03-12</bib-data>
         <bib-data role="pubs">dginev,arXMLiv</bib-data>
@@ -33102,7 +33102,7 @@ Sandro Wartzack},
 </bib-data>
       </bibentry>
       <bibentry key="KohKoh:sdsaloc14" type="inproceedings" xml:id="bib.bib1076">
-        <bib-title>System description: a semantics-aware LaTeX-to-office converter</bib-title>
+        <bib-title>System description: a semantics-aware <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-to-office converter</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Lukas</givenname>
