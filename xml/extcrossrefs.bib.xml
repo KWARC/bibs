@@ -41,20 +41,22 @@
       </bibentry>
       <bibentry key="TUG22" type="proceedings" xml:id="bib.bib2">
         <bib-data role="label">TUGboat</bib-data>
+        <bib-name role="editor">
+          <surname>Berry</surname>
+          <givenname>Karl</givenname>
+        </bib-name>
         <bib-title>TeX users group conference (tug)</bib-title>
-        <bib-part role="volume"/>
+        <bib-part role="volume">43</bib-part>
+        <bib-part role="number">2</bib-part>
         <bib-date role="publication">2022</bib-date>
-        <bib-identifier scheme="isbn">ISBN </bib-identifier>
-        <bib-note role="annotation">to appear</bib-note>
         <bib-data role="self" type="BibTeX">@proceedings{TUG22,
      label = {TUGboat},
-    editor = {},
+    editor = {Karl Berry},
      title = {TeX Users Group Conference (TUG)},
- booktitle = {TUGboat},
-    volume = {},
-      year = {2022},
-      isbn = {},
-      note = {to appear}}
+ booktitle = {TUGboat; TUG 2022 Conference Proceedings},
+    volume = {43},
+    number = {2},
+      year = {2022}}
 </bib-data>
       </bibentry>
       <bibentry key="IRIS21" type="proceedings" xml:id="bib.bib3">

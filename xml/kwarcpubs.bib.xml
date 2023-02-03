@@ -575,7 +575,7 @@
       pubs = {mkohlhase,dmueller,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueKo:stextug22" type="inproceedings" xml:id="bib.bib13">
+      <bibentry key="MueKo:stextug22" type="article" xml:id="bib.bib13">
         <bib-title>STeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathemapubtical documents</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -586,14 +586,14 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-related bibrefs="TUG22" role="host"/>
-        <bib-part role="pages"/>
+        <bib-part role="pages">197–201</bib-part>
         <bib-url href="https://kwarc.info/people/dmueller/pubs/tug22.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,sTeX,voll-ki</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceedings{MueKo:stextug22,
+        <bib-data role="self" type="BibTeX">@article{MueKo:stextug22,
      title = {sTeX3 – A {\LaTeX}-based Ecosystem for Semantic/Active Mathemapubtical Documents},
     author = {Dennis M{\"u}ller and Michael Kohlhase},
   crossref = {TUG22},
-     pages = {},
+     pages = {197–201},
        url = {https://kwarc.info/people/dmueller/pubs/tug22.pdf},
       pubs = {mkohlhase,dmueller,sTeX,voll-ki}}
 </bib-data>

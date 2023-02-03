@@ -572,7 +572,7 @@
       pubs = {mkohlhase,dmueller,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueKo:stextug22" type="inproceedings" xml:id="bib.bib13">
+      <bibentry key="MueKo:stextug22" type="article" xml:id="bib.bib13">
         <bib-title>STeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathemapubtical documents</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -582,31 +582,29 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">TUGboat</bib-data><bib-title>TeX users group conference (tug)</bib-title><bib-part role="volume"/><bib-date role="publication">2022</bib-date><bib-identifier scheme="isbn">ISBN </bib-identifier><bib-note role="annotation">to appear</bib-note><bib-data role="self" type="BibTeX">@proceedings{TUG22,
+        <bib-related role="host" type="proceedings"><bib-data role="label">TUGboat</bib-data><bib-name role="editor">
+          <surname>Berry</surname>
+          <givenname>Karl</givenname>
+        </bib-name><bib-title>TeX users group conference (tug)</bib-title><bib-part role="volume">43</bib-part><bib-part role="number">2</bib-part><bib-date role="publication">2022</bib-date><bib-data role="self" type="BibTeX">@proceedings{TUG22,
      label = {TUGboat},
-    editor = {},
+    editor = {Karl Berry},
      title = {TeX Users Group Conference (TUG)},
- booktitle = {TUGboat},
-    volume = {},
-      year = {2022},
-      isbn = {},
-      note = {to appear}}
+ booktitle = {TUGboat; TUG 2022 Conference Proceedings},
+    volume = {43},
+    number = {2},
+      year = {2022}}
 </bib-data></bib-related>
-        <bib-part role="pages"/>
+        <bib-part role="pages">197–201</bib-part>
         <bib-url href="https://kwarc.info/people/dmueller/pubs/tug22.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,sTeX,voll-ki</bib-data>
-        <bib-related role="host" type="proceedings">
-          <bib-title>TUGboat</bib-title>
-        </bib-related>
         <bib-date role="publication">2022</bib-date>
-        <bib-data role="self" type="BibTeX">@inproceedings{MueKo:stextug22,
+        <bib-data role="self" type="BibTeX">@article{MueKo:stextug22,
      title = {sTeX3 – A {\LaTeX}-based Ecosystem for Semantic/Active Mathemapubtical Documents},
     author = {Dennis M{\"u}ller and Michael Kohlhase},
   crossref = {TUG22},
-     pages = {},
+     pages = {197–201},
        url = {https://kwarc.info/people/dmueller/pubs/tug22.pdf},
       pubs = {mkohlhase,dmueller,sTeX,voll-ki},
- booktitle = {TUGboat},
       year = {2022}}
 </bib-data>
       </bibentry>
@@ -37118,20 +37116,22 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       </bibentry>
       <bibentry key="TUG22" type="proceedings" xml:id="bib.bib1187">
         <bib-data role="label">TUGboat</bib-data>
+        <bib-name role="editor">
+          <surname>Berry</surname>
+          <givenname>Karl</givenname>
+        </bib-name>
         <bib-title>TeX users group conference (tug)</bib-title>
-        <bib-part role="volume"/>
+        <bib-part role="volume">43</bib-part>
+        <bib-part role="number">2</bib-part>
         <bib-date role="publication">2022</bib-date>
-        <bib-identifier scheme="isbn">ISBN </bib-identifier>
-        <bib-note role="annotation">to appear</bib-note>
         <bib-data role="self" type="BibTeX">@proceedings{TUG22,
      label = {TUGboat},
-    editor = {},
+    editor = {Karl Berry},
      title = {TeX Users Group Conference (TUG)},
- booktitle = {TUGboat},
-    volume = {},
-      year = {2022},
-      isbn = {},
-      note = {to appear}}
+ booktitle = {TUGboat; TUG 2022 Conference Proceedings},
+    volume = {43},
+    number = {2},
+      year = {2022}}
 </bib-data>
       </bibentry>
       <bibentry key="IRIS21" type="proceedings" xml:id="bib.bib1188">
