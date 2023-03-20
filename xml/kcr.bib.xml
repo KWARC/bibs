@@ -2678,7 +2678,7 @@
   keywords = {conference}}
 </bib-data></bib-related>
         <bib-part role="pages">39–54</bib-part>
-        <bib-data role="pubs">kbercic,mkohlhase,frabe</bib-data>
+        <bib-data role="pubs">kbercic,mkohlhase,frabe,mws</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2020</bib-title>
@@ -2691,7 +2691,7 @@
        url = {https://kwarc.info/kohlhase/papers/cicm20-search.pdf},
   crossref = {CICM20},
      pages = {39–54},
-      pubs = {kbercic,mkohlhase,frabe},
+      pubs = {kbercic,mkohlhase,frabe,mws},
   keywords = {conference},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2020},
  publisher = {Springer}}
@@ -2714,7 +2714,7 @@
         <bib-title>Towards a heterogeneous query language for mathematical knowledge – extended report</bib-title>
         <bib-url href="https://kwarc.info/kohlhase/papers/tetrasearch.pdf">Link</bib-url>
         <bib-type>Living Whitepaper</bib-type>
-        <bib-data role="pubs">mkohlhase,frabe,kbercic,mathhub,mmt</bib-data>
+        <bib-data role="pubs">mkohlhase,frabe,kbercic,mathhub,mmt,mws</bib-data>
         <bib-data role="urldate">2020-03-27</bib-data>
         <bib-data role="self" type="BibTeX">@online{BerKohRab:thqlmker20,
     author = {Katja Ber{\v c}i{\v c} and Michael Kohlhase and Florian Rabe},
@@ -2722,7 +2722,7 @@
      title = {Towards a Heterogeneous Query Language for Mathematical Knowledge – Extended Report},
        url = {https://kwarc.info/kohlhase/papers/tetrasearch.pdf},
       type = {Living Whitepaper},
-      pubs = {mkohlhase,frabe,kbercic,mathhub,mmt},
+      pubs = {mkohlhase,frabe,kbercic,mathhub,mmt,mws},
    urldate = {2020-03-27}}
 </bib-data>
       </bibentry>
