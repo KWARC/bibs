@@ -1567,13 +1567,13 @@
         <bib-title>Mathematical information retrieval</bib-title>
         <bib-part role="pages">169–185</bib-part>
         <bib-related bibrefs="NTCIR:eirat20" role="host"/>
-        <bib-data role="pubs">mkohlhase</bib-data>
+        <bib-data role="pubs">mkohlhase,mws</bib-data>
         <bib-data role="self" type="BibTeX">@incollection{AizKoh:mir20,
     author = {Aizawa, Akiko and Kohlhase, Michael},
      title = {Mathematical Information Retrieval},
      pages = {169–185},
   crossref = {NTCIR:eirat20},
-      pubs = {mkohlhase}}
+      pubs = {mkohlhase,mws}}
 </bib-data>
       </bibentry>
       <bibentry key="Betzendahl:jkid20" type="website" xml:id="bib.bib58">

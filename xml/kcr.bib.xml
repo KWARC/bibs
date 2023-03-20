@@ -1684,7 +1684,7 @@
        url = {https://www.springer.com/gp/book/9789811555534},
       year = {2020}}
 </bib-data></bib-related>
-        <bib-data role="pubs">mkohlhase</bib-data>
+        <bib-data role="pubs">mkohlhase,mws</bib-data>
         <bib-related role="host" type="book">
           <bib-title>Evaluating Information Retrieval and Access Tasks – NTCIR’s Legacy of Research Impact</bib-title>
           <bib-publisher>Springer</bib-publisher>
@@ -1695,7 +1695,7 @@
      title = {Mathematical Information Retrieval},
      pages = {169–185},
   crossref = {NTCIR:eirat20},
-      pubs = {mkohlhase},
+      pubs = {mkohlhase,mws},
  booktitle = {Evaluating Information Retrieval and Access Tasks – {NTCIR}'s Legacy of Research Impact},
  publisher = {Springer},
       year = {2020}}
