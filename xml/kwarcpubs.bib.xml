@@ -23029,7 +23029,7 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:ctan,
   crossref = {Kohlhase:pplp:base},
@@ -23038,7 +23038,7 @@ Education Systems</bib-title>
       pubs = {mkohlhase},
     author = {Michael Kohlhase},
      title = {Preparing Proposals in {\LaTeX} with {\tt{proposal.cls}}},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:pplp:git" type="report" xml:id="bib.bib951">
@@ -23049,14 +23049,14 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:git,
   crossref = {Kohlhase:pplp:base},
        url = {http://github.com/KWARC/LaTeX-proposal/base/proposal.pdf},
     author = {Michael Kohlhase},
      title = {Preparing Proposals in {\LaTeX} with {\tt{proposal.cls}}},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:pplp:base" type="report" xml:id="bib.bib952">
@@ -23066,12 +23066,12 @@ Education Systems</bib-title>
         </bib-name>
         <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
         <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:base,
     author = {Michael Kohlhase},
      title = {Preparing Proposals in {\LaTeX} with {\tt{proposal.cls}}},
       type = {Self-documenting {\LaTeX} package},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:pdrp:ctan" type="report" xml:id="bib.bib953">
@@ -23084,7 +23084,7 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:ctan,
   crossref = {Kohlhase:pdrp:base},
@@ -23093,7 +23093,7 @@ Education Systems</bib-title>
       pubs = {mkohlhase},
     author = {Michael Kohlhase},
      title = {Preparing DFG Proposals and Reports in {\LaTeX} with {\texttt{dfgproposal.cls}}},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:pdrp:git" type="report" xml:id="bib.bib954">
@@ -23104,14 +23104,14 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:git,
   crossref = {Kohlhase:pdrp:base},
        url = {http://github.com/KWARC/LaTeX-proposal/dfg/dfgproposal.pdf},
     author = {Michael Kohlhase},
      title = {Preparing DFG Proposals and Reports in {\LaTeX} with {\texttt{dfgproposal.cls}}},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:pdrp:base" type="report" xml:id="bib.bib955">
@@ -23121,12 +23121,12 @@ Education Systems</bib-title>
         </bib-name>
         <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
         <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:base,
     author = {Michael Kohlhase},
      title = {Preparing DFG Proposals and Reports in {\LaTeX} with {\texttt{dfgproposal.cls}}},
       type = {Self-documenting {\LaTeX} package},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:pfepr:ctan" type="report" xml:id="bib.bib956">
@@ -23139,7 +23139,7 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:ctan,
   crossref = {Kohlhase:pfepr:base},
@@ -23148,7 +23148,7 @@ Education Systems</bib-title>
       pubs = {mkohlhase},
     author = {Michael Kohlhase},
      title = {Preparing FP7 EU Proposals and Reports in {\LaTeX} with {\texttt{euproposal.cls}}},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:pfepr:git" type="report" xml:id="bib.bib957">
@@ -23159,14 +23159,14 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:git,
   crossref = {Kohlhase:pfepr:base},
        url = {http://github.com/KWARC/LaTeX-proposal/eu/euproposal.pdf},
     author = {Michael Kohlhase},
      title = {Preparing FP7 EU Proposals and Reports in {\LaTeX} with {\texttt{euproposal.cls}}},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:pfepr:base" type="report" xml:id="bib.bib958">
@@ -23176,12 +23176,12 @@ Education Systems</bib-title>
         </bib-name>
         <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
         <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:base,
     author = {Michael Kohlhase},
      title = {Preparing FP7 EU Proposals and Reports in {\LaTeX} with {\texttt{euproposal.cls}}},
       type = {Self-documenting {\LaTeX} package},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:ed:ctan" type="report" xml:id="bib.bib959">
@@ -23194,7 +23194,7 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:ctan,
   crossref = {Kohlhase:ed:base},
@@ -23203,7 +23203,7 @@ Education Systems</bib-title>
       pubs = {mkohlhase},
     author = {Michael Kohlhase},
      title = {Editorial Notes for {\LaTeX}},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:ed:git" type="report" xml:id="bib.bib960">
@@ -23214,14 +23214,14 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:git,
   crossref = {Kohlhase:ed:base},
        url = {https://gl.kwarc.info/kwarc/macros/ed/ed.pdf},
     author = {Michael Kohlhase},
      title = {Editorial Notes for {\LaTeX}},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:ed:base" type="report" xml:id="bib.bib961">
@@ -23231,12 +23231,12 @@ Education Systems</bib-title>
         </bib-name>
         <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
         <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
-        <bib-date role="publication">2022</bib-date>
+        <bib-date role="publication">2023</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:base,
     author = {Michael Kohlhase},
      title = {Editorial Notes for {\LaTeX}},
       type = {Self-documenting {\LaTeX} package},
-      year = {2022}}
+      year = {2023}}
 </bib-data>
       </bibentry>
       <bibentry key="Kohlhase:atpm98chapter" type="inbook" xml:id="bib.bib962">
