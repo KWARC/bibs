@@ -971,14 +971,14 @@
           <givenname>Dennis</givenname>
         </bib-name>
         <bib-url href="https://github.com/slatex/sTeX/blob/main/doc/stex-manual.pdf">Link</bib-url>
-        <bib-data role="urldate">2022-04-24</bib-data>
+        <bib-data role="urldate">2023-06-06</bib-data>
         <bib-data role="pubs">mkohlhase,dmueller,sTeX,voll-ki</bib-data>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{stexMan:on,
      title = {The {sTeX3} Manual},
     author = {Michael Kohlhase and Dennis M{\"u}ller},
        url = {https://github.com/slatex/sTeX/blob/main/doc/stex-manual.pdf},
-   urldate = {2022-04-24},
+   urldate = {2023-06-06},
       pubs = {mkohlhase,dmueller,sTeX,voll-ki}}
 </bib-data>
       </bibentry>
