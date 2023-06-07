@@ -1007,7 +1007,7 @@
       year = {2022}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:cdetefl21" type="inproceeding" xml:id="bib.bib29">
+      <bibentry key="KohKoh:cdetefl21" type="inproceedings" xml:id="bib.bib29">
         <bib-title>A conceptual design for an eye-tracking experiment on formula linebreaking</bib-title>
         <bib-name role="author">
           <surname>Andrea Kohlhase</surname>
@@ -1025,12 +1025,16 @@
       year = {2022}}
 </bib-data></bib-related>
         <bib-data role="pubs">akohlhase,mkohlhase</bib-data>
+        <bib-related role="host" type="proceedings">
+          <bib-title>MathUI 2021: The 13th Workshop on Mathematical User Interfaces</bib-title>
+        </bib-related>
         <bib-date role="publication">2022</bib-date>
-        <bib-data role="self" type="BibTeX">@inproceeding{KohKoh:cdetefl21,
+        <bib-data role="self" type="BibTeX">@inproceedings{KohKoh:cdetefl21,
      title = {A Conceptual Design for an Eye-Tracking Experiment on Formula Linebreaking},
     author = {Andrea Kohlhase, Michael Kohlhase},
   crossref = {MathUI21},
       pubs = {akohlhase,mkohlhase},
+ booktitle = {MathUI 2021: The 13th Workshop on Mathematical User Interfaces},
       year = {2022}}
 </bib-data>
       </bibentry>
@@ -3738,13 +3742,14 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
         </bib-name><bib-name role="editor">
           <surname>Kovács</surname>
           <givenname>Zoltán</givenname>
-        </bib-name><bib-data role="pubs">mkohlhase,akohlhase,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18WIP,
+        </bib-name><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">mkohlhase,akohlhase,frabe</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM18WIP,
      title = {Workshop Papers at 11th Conference on Intelligent Computer Mathematics CICM 2018},
  booktitle = {Workshop Papers at 11th Conference on Intelligent Computer Mathematics CICM 2018},
        key = {CICM18WIP},
       year = {2018},
        url = {http://ceur-ws.org/Vol-2307/},
     editor = {Osman Hasan and Abdou Youssef and Adam Naumowicz and William Farmer and Cezary Kaliszyk and Diane Gallois-Wong and Florian Rabe and Gabriel Dos Reis and Grant Passmore and James Davenport and Markus Pfeiffer and Michael Kohlhase and Serge Autexier and Sofiene Tahar and Thomas Koprucki and Umair Siddique and Walther Neuper and Wolfgang Windsteiger and Wolfgang Schreiner and Wolfram Sperber and Zoltán Kovács},
+  keywords = {conference},
       pubs = {mkohlhase,akohlhase,frabe}}
 </bib-data></bib-related>
         <bib-note role="annotation">CICM Work in Progress Paper</bib-note>
@@ -35469,6 +35474,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <surname>Kovács</surname>
           <givenname>Zoltán</givenname>
         </bib-name>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,akohlhase,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM18WIP,
      title = {Workshop Papers at 11th Conference on Intelligent Computer Mathematics CICM 2018},
@@ -35477,6 +35483,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2018},
        url = {http://ceur-ws.org/Vol-2307/},
     editor = {Osman Hasan and Abdou Youssef and Adam Naumowicz and William Farmer and Cezary Kaliszyk and Diane Gallois-Wong and Florian Rabe and Gabriel Dos Reis and Grant Passmore and James Davenport and Markus Pfeiffer and Michael Kohlhase and Serge Autexier and Sofiene Tahar and Thomas Koprucki and Umair Siddique and Walther Neuper and Wolfgang Windsteiger and Wolfgang Schreiner and Wolfram Sperber and Zoltán Kovács},
+  keywords = {conference},
       pubs = {mkohlhase,akohlhase,frabe}}
 </bib-data>
       </bibentry>
@@ -35521,6 +35528,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <surname>Coen</surname>
           <givenname>Claudio Sacerdoti</givenname>
         </bib-name>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,akohlhase,dmueller</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM21WIP,
      title = {Workshop Papers at 14th Conference on Intelligent Computer Mathematics CICM 2021},
@@ -35529,6 +35537,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2021},
        url = {http://ceur-ws.org/Vol-3377/},
     editor = {Jasmin Blanchette and James Davenport and Peter Koepke and Andrea Kohlhase and Michael Kohlhase and Adam Naumowicz and Dennis Müller and Yasmine Sharoda and Claudio Sacerdoti Coen},
+  keywords = {conference},
       pubs = {mkohlhase,akohlhase,dmueller}}
 </bib-data>
       </bibentry>

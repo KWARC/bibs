@@ -945,7 +945,7 @@
       year = {2022}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:cdetefl21" type="inproceeding" xml:id="bib.bib29">
+      <bibentry key="KohKoh:cdetefl21" type="inproceedings" xml:id="bib.bib29">
         <bib-title>A conceptual design for an eye-tracking experiment on formula linebreaking</bib-title>
         <bib-name role="author">
           <surname>Andrea Kohlhase</surname>
@@ -953,7 +953,7 @@
         </bib-name>
         <bib-related bibrefs="MathUI21" role="host"/>
         <bib-data role="pubs">akohlhase,mkohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@inproceeding{KohKoh:cdetefl21,
+        <bib-data role="self" type="BibTeX">@inproceedings{KohKoh:cdetefl21,
      title = {A Conceptual Design for an Eye-Tracking Experiment on Formula Linebreaking},
     author = {Andrea Kohlhase, Michael Kohlhase},
   crossref = {MathUI21},

@@ -131,6 +131,7 @@
           <surname>Kovács</surname>
           <givenname>Zoltán</givenname>
         </bib-name>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,akohlhase,frabe</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM18WIP,
      title = {Workshop Papers at 11th Conference on Intelligent Computer Mathematics CICM 2018},
@@ -139,6 +140,7 @@
       year = {2018},
        url = {http://ceur-ws.org/Vol-2307/},
     editor = {Osman Hasan and Abdou Youssef and Adam Naumowicz and William Farmer and Cezary Kaliszyk and Diane Gallois-Wong and Florian Rabe and Gabriel Dos Reis and Grant Passmore and James Davenport and Markus Pfeiffer and Michael Kohlhase and Serge Autexier and Sofiene Tahar and Thomas Koprucki and Umair Siddique and Walther Neuper and Wolfgang Windsteiger and Wolfgang Schreiner and Wolfram Sperber and Zoltán Kovács},
+  keywords = {conference},
       pubs = {mkohlhase,akohlhase,frabe}}
 </bib-data>
       </bibentry>
@@ -183,6 +185,7 @@
           <surname>Coen</surname>
           <givenname>Claudio Sacerdoti</givenname>
         </bib-name>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,akohlhase,dmueller</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM21WIP,
      title = {Workshop Papers at 14th Conference on Intelligent Computer Mathematics CICM 2021},
@@ -191,6 +194,7 @@
       year = {2021},
        url = {http://ceur-ws.org/Vol-3377/},
     editor = {Jasmin Blanchette and James Davenport and Peter Koepke and Andrea Kohlhase and Michael Kohlhase and Adam Naumowicz and Dennis Müller and Yasmine Sharoda and Claudio Sacerdoti Coen},
+  keywords = {conference},
       pubs = {mkohlhase,akohlhase,dmueller}}
 </bib-data>
       </bibentry>
