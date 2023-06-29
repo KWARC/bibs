@@ -31,7 +31,7 @@
           <surname>Rapp</surname>
           <givenname>Max</givenname>
         </bib-name>
-        <bib-title>The y model – formalization of computer-science tasks in the context of adaptive learning systems</bib-title>
+        <bib-title>The Y Model – formalization of computer-science tasks in the context of adaptive learning systems</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,dmueller,mrapp,dlohr,mberges</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{LohBerKoh:ymodel23,
@@ -39,7 +39,7 @@
       year = {2023},
  publisher = {{IEEE}},
     author = {Dominic Lohr and Marc Berges and Michael Kohlhase and Dennis M{\"u}ller and Max Rapp},
-     title = {The Y Model – Formalization of Computer-Science Tasks in the Context of Adaptive Learning Systems},
+     title = {{The Y Model} – Formalization of Computer-Science Tasks in the Context of Adaptive Learning Systems},
  booktitle = {GECON'23. German Education Conference},
   keywords = {conference},
       pubs = {mkohlhase,dmueller,mrapp,dlohr,mberges}}
