@@ -55,7 +55,7 @@
         </bib-name>
         <bib-title>The Y Model – formalization of computer-science tasks in the context of adaptive learning systems</bib-title>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">mkohlhase,dmueller,mrapp,dlohr,mberges</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,mrapp,dlohr,mberges,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{LohBerKoh:ymodel23,
        url = {https://url.mathhub.info/23GeCon},
       year = {2023},
@@ -64,7 +64,7 @@
      title = {{The Y Model} – Formalization of Computer-Science Tasks in the Context of Adaptive Learning Systems},
  booktitle = {GECON'23. German Education Conference},
   keywords = {conference},
-      pubs = {mkohlhase,dmueller,mrapp,dlohr,mberges}}
+      pubs = {mkohlhase,dmueller,mrapp,dlohr,mberges,voll-ki}}
 </bib-data>
       </bibentry>
       <bibentry key="BerBetChu:lssmkm23" type="inproceedings" xml:id="bib.bib3">
