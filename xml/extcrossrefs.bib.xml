@@ -56,7 +56,6 @@
 </bib-data>
       </bibentry>
       <bibentry key="CICM23" type="proceedings" xml:id="bib.bib3">
-        <bib-data role="label">CICM</bib-data>
         <bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
@@ -67,7 +66,6 @@
         <bib-note role="annotation">in press</bib-note>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM23,
-     label = {CICM},
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2023},

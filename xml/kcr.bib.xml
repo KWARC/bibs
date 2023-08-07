@@ -5,20 +5,24 @@
     <title/>
     <biblist>
       <bibentry key="ALeA:courses" type="website" xml:id="bib.bib1">
+        <bib-data role="label">VKC</bib-data>
         <bib-title>VoLL-KI based courses at FAU</bib-title>
         <bib-url href="https://courses.voll-ki.fau.de">Link</bib-url>
         <bib-data role="urldate">2023-07-21</bib-data>
         <bib-data role="self" type="BibTeX">@online{ALeA:courses,
+     label = {VKC},
      title = {{VoLL-KI} based Courses at {FAU}},
        url = {https://courses.voll-ki.fau.de},
    urldate = {2023-07-21}}
 </bib-data>
       </bibentry>
       <bibentry key="ALeA:experiments" type="website" xml:id="bib.bib2">
+        <bib-data role="label">VKE</bib-data>
         <bib-title>VoLL-KI Experiments</bib-title>
         <bib-url href="https://courses.voll-ki.fau.de/en/exp">Link</bib-url>
         <bib-data role="urldate">2023-08-05</bib-data>
         <bib-data role="self" type="BibTeX">@online{ALeA:experiments,
+     label = {VKE},
      title = {{VoLL-KI Experiments}},
        url = {https://courses.voll-ki.fau.de/en/exp},
    urldate = {2023-08-05}}
@@ -123,8 +127,7 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Towards an annotation standard for stem documents – datasets, benchmarks, and spotters</bib-title>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-date role="publication">2023</bib-date><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM23,
-     label = {CICM},
+        <bib-related role="host" type="proceedings"><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-date role="publication">2023</bib-date><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM23,
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2023},
@@ -251,8 +254,7 @@
         </bib-name>
         <bib-title>Learning support systems based on mathematical knowledge managment</bib-title>
         <bib-url href="https://url.mathhub.info/CICM23ALEA">Link</bib-url>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-date role="publication">2023</bib-date><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM23,
-     label = {CICM},
+        <bib-related role="host" type="proceedings"><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-date role="publication">2023</bib-date><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM23,
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2023},
@@ -37550,7 +37552,6 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
 </bib-data>
       </bibentry>
       <bibentry key="CICM23" type="proceedings" xml:id="bib.bib1202">
-        <bib-data role="label">CICM</bib-data>
         <bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
@@ -37561,7 +37562,6 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-note role="annotation">in press</bib-note>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM23,
-     label = {CICM},
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2023},
