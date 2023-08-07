@@ -124,7 +124,38 @@
       pubs = {jfschaefer,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="LohBerKoh:ymodel23" type="inproceedings" xml:id="bib.bib6">
+      <bibentry key="BerKohLohMue:ymodel22" type="unpublished" xml:id="bib.bib6">
+        <bib-related bibrefs="lohberkoh:ymodel23" role="host"/>
+        <bib-name role="author">
+          <surname>Lohr</surname>
+          <givenname>Dominic</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Berges</surname>
+          <givenname>Marc</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Müller</surname>
+          <givenname>Dennis</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Rapp</surname>
+          <givenname>Max</givenname>
+        </bib-name>
+        <bib-title>The Y Model – formalization of computer-science tasks in the context of adaptive learning systems</bib-title>
+        <bib-date role="publication">2023</bib-date>
+        <bib-data role="self" type="BibTeX">@unpublished{BerKohLohMue:ymodel22,
+  crossref = {lohberkoh:ymodel23},
+    author = {Dominic Lohr and Marc Berges and Michael Kohlhase and Dennis M{\"u}ller and Max Rapp},
+     title = {{The Y Model} – Formalization of Computer-Science Tasks in the Context of Adaptive Learning Systems},
+      year = {2023}}
+</bib-data>
+      </bibentry>
+      <bibentry key="LohBerKoh:ymodel23" type="inproceedings" xml:id="bib.bib7">
         <bib-url href="https://url.mathhub.info/23GeCon">Link</bib-url>
         <bib-date role="publication">2023</bib-date>
         <bib-related role="host" type="proceedings">
@@ -165,7 +196,7 @@
       pubs = {mkohlhase,dmueller,mrapp,dlohr,mberges,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="BerBetChu:lssmkm23" type="inproceedings" xml:id="bib.bib7">
+      <bibentry key="BerBetChu:lssmkm23" type="inproceedings" xml:id="bib.bib8">
         <bib-name role="author">
           <surname>Berges</surname>
           <givenname>Marc</givenname>
@@ -204,7 +235,7 @@
       pubs = {voll-ki,mkohlhase,dmueller,jbetzendahl,achugh}}
 </bib-data>
       </bibentry>
-      <bibentry key="tintemann:lovivo22" type="thesis" xml:id="bib.bib8">
+      <bibentry key="tintemann:lovivo22" type="thesis" xml:id="bib.bib9">
         <bib-title>LoViWo extended. facilitating further content additions for an existing knowledge based physics simulation prototype</bib-title>
         <bib-name role="author">
           <surname>Tintemann</surname>
@@ -225,7 +256,7 @@
       pubs = {bscthesis,frameit}}
 </bib-data>
       </bibentry>
-      <bibentry key="Schoener:ufiuf23" type="thesis" xml:id="bib.bib9">
+      <bibentry key="Schoener:ufiuf23" type="thesis" xml:id="bib.bib10">
         <bib-title>User-fact interaction in the UFrameIT framework</bib-title>
         <bib-name role="author">
           <surname>Schöner</surname>
@@ -246,7 +277,7 @@
       pubs = {bscthesis,frameit}}
 </bib-data>
       </bibentry>
-      <bibentry key="hutterer:msc23" type="thesis" xml:id="bib.bib10">
+      <bibentry key="hutterer:msc23" type="thesis" xml:id="bib.bib11">
         <bib-title>Integrating automated semantic annotation using machine learning into authoring workflows for flexiformal documents</bib-title>
         <bib-name role="author">
           <surname>Hutterer</surname>
@@ -267,7 +298,7 @@
       pubs = {mscthesis,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="ar5iv" type="website" xml:id="bib.bib11">
+      <bibentry key="ar5iv" type="website" xml:id="bib.bib12">
         <bib-title>Ar5iv – articles from <text font="typewriter">arXiv.org</text> as responsive html5 web pages</bib-title>
         <bib-note role="annotation">project home page</bib-note>
         <bib-url href="https://ar5iv.org">Link</bib-url>
@@ -277,7 +308,7 @@
        url = {https://ar5iv.org}}
 </bib-data>
       </bibentry>
-      <bibentry key="ginev-miller-2020-scientific" type="inproceedings" xml:id="bib.bib12">
+      <bibentry key="ginev-miller-2020-scientific" type="inproceedings" xml:id="bib.bib13">
         <bib-title>Scientific statement classification over arXiv.org</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
@@ -314,7 +345,7 @@
       isbn = {979-10-95546-34-4}}
 </bib-data>
       </bibentry>
-      <bibentry key="Bender.2015" type="article" xml:id="bib.bib13">
+      <bibentry key="Bender.2015" type="article" xml:id="bib.bib14">
         <bib-extract role="abstract">To address the special challenges of teaching computer science, adequate development of teachers? competencies during their education is extremely important. In particular, pedagogical content knowledge and teachers? beliefs and motivational orientations play an important role in effective teaching. This research field has been sparsely investigated up to now and there exists no consistent competency model for teaching computer science in Germany. Therefore, this paper describes the development of competency in the areas of pedagogical content knowledge, teachers? beliefs, and motivational orientations with regard to computer science. Competency-relevant factors for teaching computer science are theoretically derived and concretely formulated with the help of expert interviews conducted according to the critical incident technique and analyzed using techniques of qualitative content analysis.</bib-extract>
         <bib-name role="author">
           <surname>Bender</surname>
@@ -377,7 +408,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Berges.2013" type="inproceedings" xml:id="bib.bib14">
+      <bibentry key="Berges.2013" type="inproceedings" xml:id="bib.bib15">
         <bib-name role="author">
           <surname>Berges</surname>
           <givenname>Marc</givenname>
@@ -414,7 +445,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Berges.2015" type="inproceedings" xml:id="bib.bib15">
+      <bibentry key="Berges.2015" type="inproceedings" xml:id="bib.bib16">
         <bib-name role="author">
           <surname>Berges</surname>
           <givenname>Marc</givenname>
@@ -447,7 +478,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Berges.2015b" type="inproceedings" xml:id="bib.bib16">
+      <bibentry key="Berges.2015b" type="inproceedings" xml:id="bib.bib17">
         <bib-extract role="abstract">In 2008, a working group in the computer science department at Technische Universität München School of Education piloted an optional 2 ½ day experience that took place just before the first undergraduate lecture in computer science. This experimental project was a unique attempt to assess prior knowledge and programming skills for new CS students. The research team used item response theory on source code for 21 fundamental coding concepts in an attempt to assess novice programming skills. The responses were transferred to a Rasch Model which allows personal parameters to be assessed. Now that a metric has been validated for the coding ability, we are seeking to further our work by attempting to evaluate other core programming competencies. Originally, the complexity of the programming task was of central interest, we are seeking to further our work by creating a multidimensional assessment of problem solving abilities as well as coding abilities represents the different facets of</bib-extract>
         <bib-name role="author">
           <surname>Berges</surname>
@@ -487,7 +518,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Berges.2016" type="inproceedings" xml:id="bib.bib17">
+      <bibentry key="Berges.2016" type="inproceedings" xml:id="bib.bib18">
         <bib-name role="author">
           <surname>Berges</surname>
           <givenname>Marc</givenname>
@@ -532,7 +563,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Hubwieser.2013c" type="inproceedings" xml:id="bib.bib18">
+      <bibentry key="Hubwieser.2013c" type="inproceedings" xml:id="bib.bib19">
         <bib-extract role="abstract">In the framework of a cooperation project that aims to identify the competencies required for teaching computer science in schools, we are developing a conceptualization of PCK currently. Up to now, we have derived a category system from literature and evaluated several interviews with teaching persons. In this paper, we describe the category system and the most important steps of its derivation. Further, we present the results of a survey that had investigated all curricula for CS teacher education that we had found in Germany, looking for the implementation of those categories. Furthermore, we are preparing interviews among experts about PCK, applying the Critical Incident Technique.</bib-extract>
         <bib-name role="author">
           <surname>Hubwieser</surname>
@@ -597,7 +628,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Hubwieser.2017" type="inproceedings" xml:id="bib.bib19">
+      <bibentry key="Hubwieser.2017" type="inproceedings" xml:id="bib.bib20">
         <bib-name role="author">
           <surname>Hubwieser</surname>
           <givenname>Peter</givenname>
@@ -642,7 +673,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Margaritis.2015" type="inproceedings" xml:id="bib.bib20">
+      <bibentry key="Margaritis.2015" type="inproceedings" xml:id="bib.bib21">
         <bib-extract role="abstract">In order to identify important competencies required for teaching computer science in schools, the research project KUI (Competencies for Teaching Computer Science) granted by the Ministry of Education and Research (BMBF) was founded. At this point in time, there is no consistent competency model for training computer science pre-service teachers in Germany. The development of an adequate model is an important step to establish outcome-oriented guidelines and curricula recommendations. The first framework of a competency model is structured into the dimensions of subject matter knowledge (CK), pedagogical content knowledge (PCK) and non-cognitive competencies (NCC). This article concentrates on the development of the PCK and NCC competency model. It describes our methodological approach, our results of expert interviews to refine the model, and shows an overview of the first competency definitions.</bib-extract>
         <bib-name role="author">
           <surname>Margaritis</surname>
@@ -695,7 +726,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Ruf.2013" type="inproceedings" xml:id="bib.bib21">
+      <bibentry key="Ruf.2013" type="inproceedings" xml:id="bib.bib22">
         <bib-extract role="abstract">This paper deals with the classification of assignments according to their type. In contrast to other assignment types not deductively, but extract them empirically from different sources. Our main research question is: What types of programming assignments are actually given to novice programmers? In addition, we compare our empirically found assignment types to the deductively derived ones from the literature. This is driven by the following research questions: Are there types of assignments that are mentioned in literature, which however are not or rarely found in actual assignments given to novice programmers? Can assignment types be found that cannot or only poorly be matched with the category types described in the literature?</bib-extract>
         <bib-name role="author">
           <surname>Ruf</surname>
@@ -738,7 +769,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Ruf.2015" type="inproceedings" xml:id="bib.bib22">
+      <bibentry key="Ruf.2015" type="inproceedings" xml:id="bib.bib23">
         <bib-extract role="abstract">Tasks represent a central part of computer science lessons, and aim to practice programming skills or to concrete abstract concepts for example. We have investigated, which types of tasks are given to novice programmers, typically. For that purpose, we have analyzed and generalized tasks from textbooks and exercise sheets. The result is a list of twelve task types classified according to required skills and knowledge representation. In addition, we found that the task types differ very much regarding their incidence. Finally, we tried to relate the three found forms of knowledge representation to concepts of cognitive psychology.</bib-extract>
         <bib-name role="author">
           <surname>Ruf</surname>
@@ -790,7 +821,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Shah.2017" type="inproceedings" xml:id="bib.bib23">
+<!--  %**** String Line 25 **** -->      <bibentry key="Shah.2017" type="inproceedings" xml:id="bib.bib24">
         <bib-name role="author">
           <surname>Shah</surname>
           <givenname>Philipp</givenname>
@@ -829,57 +860,6 @@
       file = {Shah, Berges et al. 2017 - Qualitative Content Analysis of Programming:Attachments/Shah, Berges et al. 2017 - Qualitative Content Analysis of Programming.pdf:application/pdf},
   keywords = {conference},
       pubs = {voll-ki}}
-</bib-data>
-      </bibentry>
-<!--  %**** String Line 25 **** -->      <bibentry key="BerKohLohMue:ymodel22" type="unpublished" xml:id="bib.bib24">
-        <bib-name role="author">
-          <surname>Berges</surname>
-          <givenname>Marc</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Lohr</surname>
-          <givenname>Dominik</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Müller</surname>
-          <givenname>Dennis</givenname>
-        </bib-name>
-        <bib-title>The Y Model – formalization of computer-science tasks in the context of intelligent tutoring systems</bib-title>
-        <bib-date role="publication">2022</bib-date>
-        <bib-note role="annotation">submitted</bib-note>
-        <bib-data role="soonisbn"></bib-data>
-        <bib-data role="soonpublisher">Association for Computing Machinery</bib-data>
-        <bib-data role="soonaddress">New York, NY, USA</bib-data>
-        <bib-url href="https://kwarc.info/kohlhase/submit/kali22.pdf">Link</bib-url>
-        <bib-data role="soondoi"></bib-data>
-        <bib-extract role="abstract">Tasks are central elements in computer-science classes irrespective of the mode of delivery – online or classic face-to-face teaching. They appear in different roles; as learning objects that help acquire competencies, assessment instruments for measuring learning success, or practicing specific skills. However, as with any educational technology, proper handling and well-planned selection are crucial for successful teaching. Correspondingly, the requirements that tasks have to fulfill are wide-ranging: they should promote specific learning outcomes, be appropriate to address desired cognitive dimensions and be tailored to the student to keep motivation and learning success high. To enable an on-demand, outcome-oriented, and individualized selection of tasks in intelligent tutoring systems, we need to formalize tasks in all dimensions. A detailed review of different models for cognitive processes, knowledge dimensions in education, tasks, and errors leads to the Y-model, a model for formalizing tasks in computer science and forms the basis for an individual, competence-oriented integration of tasks in Intelligent Tutoring Systems.</bib-extract>
-        <bib-data role="soonbooktitle">Koli Calling '22: Proceedings of the 22th Koli Calling International Conference on Computing Education Research</bib-data>
-        <bib-data role="numpages">15</bib-data>
-        <bib-extract role="keywords">y-model, computer-science tasks, intelligent tutoring systems, semantic annotation, task formalization, task selection, task modeling</bib-extract>
-        <bib-data role="soonlocation">Koli, Finland</bib-data>
-        <bib-data role="soonseries">Koli Calling '22</bib-data>
-        <bib-data role="pubs">mkohlhase,dmueller,voll-ki</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{BerKohLohMue:ymodel22,
-    author = {Marc Berges and Michael Kohlhase and Dominik Lohr and Dennis M{\"u}ller},
-     title = {The {Y Model} – Formalization of Computer-Science Tasks in the Context of Intelligent Tutoring Systems},
-      year = {2022},
-      note = {submitted},
-  soonisbn = {},
- soonpublisher = {Association for Computing Machinery},
- soonaddress = {New York, NY, USA},
-       url = {https://kwarc.info/kohlhase/submit/kali22.pdf},
-   soondoi = {},
-  abstract = {Tasks are central elements in computer-science classes irrespective of the mode of delivery – online or classic face-to-face teaching. They appear in different roles; as learning objects that help acquire competencies, assessment instruments for measuring learning success, or practicing specific skills. However, as with any educational technology, proper handling and well-planned selection are crucial for successful teaching. Correspondingly, the requirements that tasks have to fulfill are wide-ranging: they should promote specific learning outcomes, be appropriate to address desired cognitive dimensions and be tailored to the student to keep motivation and learning success high. To enable an on-demand, outcome-oriented, and individualized selection of tasks in intelligent tutoring systems, we need to formalize tasks in all dimensions. A detailed review of different models for cognitive processes, knowledge dimensions in education, tasks, and errors leads to the Y-model, a model for formalizing tasks in computer science and forms the basis for an individual, competence-oriented integration of tasks in Intelligent Tutoring Systems.},
- soonbooktitle = {Koli Calling '22: Proceedings of the 22th Koli Calling International Conference on Computing Education Research},
-  numpages = {15},
-  keywords = {y-model, computer-science tasks, intelligent tutoring systems, semantic annotation, task formalization, task selection, task modeling},
- soonlocation = {Koli, Finland},
- soonseries = {Koli Calling '22},
-      pubs = {mkohlhase,dmueller,voll-ki}}
 </bib-data>
       </bibentry>
       <bibentry key="MueKo:stextug22" type="article" xml:id="bib.bib25">

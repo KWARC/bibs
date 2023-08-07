@@ -81,7 +81,6 @@
 </bib-data>
       </bibentry>
       <bibentry key="TUG22" type="proceedings" xml:id="bib.bib4">
-        <bib-data role="label">TUGboat</bib-data>
         <bib-name role="editor">
           <surname>Berry</surname>
           <givenname>Karl</givenname>
@@ -91,7 +90,6 @@
         <bib-part role="number">2</bib-part>
         <bib-date role="publication">2022</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{TUG22,
-     label = {TUGboat},
     editor = {Karl Berry},
      title = {TeX Users Group Conference (TUG)},
  booktitle = {TUGboat; TUG 2022 Conference Proceedings},
