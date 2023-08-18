@@ -189,6 +189,7 @@
         </bib-related>
         <bib-place>Aachen, Germany</bib-place>
         <bib-extract role="keywords">conference</bib-extract>
+        <bib-url href="https://kwarc.info/kohlhase/submit/HDI23-answerclasses.pdf">Link</bib-url>
         <bib-note role="annotation">Accepted</bib-note>
         <bib-data role="pubs">mkohlhase, frabe, voll-ki, dlohr, mberges</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{LoBeKoRa23,
@@ -199,6 +200,7 @@
  booktitle = {Proceedings of the 10th Symposium on Computer Science in Higher Education {HDI23}},
    address = {Aachen, Germany},
   keywords = {conference},
+       url = {https://kwarc.info/kohlhase/submit/HDI23-answerclasses.pdf},
       note = {Accepted},
       pubs = {mkohlhase, frabe, voll-ki, dlohr, mberges}}
 </bib-data>
