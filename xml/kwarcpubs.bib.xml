@@ -988,7 +988,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="MueKo:stextug22" type="article" xml:id="bib.bib28">
-        <bib-title>STeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
+        <bib-title>sTeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -1002,7 +1002,7 @@
         <bib-url href="https://kwarc.info/people/dmueller/pubs/tug22.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,sTeX,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@article{MueKo:stextug22,
-     title = {sTeX3 – A {\LaTeX}-based Ecosystem for Semantic/Active Mathematical Documents},
+     title = {{sTeX3} – A {\LaTeX}-based Ecosystem for Semantic/Active Mathematical Documents},
     author = {Dennis M{\"u}ller and Michael Kohlhase},
   crossref = {TUG22},
      pages = {197–201},
@@ -1011,7 +1011,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="MueKo:sdstex22" type="inproceedings" xml:id="bib.bib29">
-        <bib-title>System description: stex3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
+        <bib-title>System description: sTeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -1026,7 +1026,7 @@
         <bib-data role="pubs">mkohlhase,dmueller,sTeX,voll-ki</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{MueKo:sdstex22,
-     title = {System Description: sTeX3 – A {\LaTeX}-based Ecosystem for Semantic/Active Mathematical Documents},
+     title = {System Description: {sTeX3} – A {\LaTeX}-based Ecosystem for Semantic/Active Mathematical Documents},
     author = {Michael Kohlhase and Dennis M{\"u}ller},
   crossref = {CICM22},
      pages = {184–188},
@@ -14527,13 +14527,13 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       </bibentry>
       <bibentry key="RusTeX:on" type="website" xml:id="bib.bib583">
         <bib-data role="label">RT</bib-data>
-        <bib-title>SLaTeX/rustex</bib-title>
+        <bib-title>RusTeX</bib-title>
         <bib-url href="https://github.com/sLaTeX/RusTeX">Link</bib-url>
         <bib-data role="urldate">2022-04-22</bib-data>
         <bib-data role="pubs">dmueller,sTeX</bib-data>
         <bib-data role="self" type="BibTeX">@online{RusTeX:on,
      label = {RT},
-     title = {sLaTeX/RusTeX},
+     title = {{RusTeX}},
        url = {https://github.com/sLaTeX/RusTeX},
    urldate = {2022-04-22},
       pubs = {dmueller,sTeX}}
