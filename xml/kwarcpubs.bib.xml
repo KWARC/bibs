@@ -62,12 +62,14 @@
         </bib-related>
         <bib-date role="publication">2023</bib-date>
         <bib-note role="annotation">accepted</bib-note>
+        <bib-data role="pubs">mberges,mkohlhase,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@article{KohBer:PV23,
      title = {Project {VoLL-KI} – Learning from Learners},
     author = {Michael Kohlhase and Marc Berges and Jens Grubert and Andreas Henrich and Dieter Landes and Jochen L.~Leidner and Florian Mittag and Daniela Nicklas and  Ute Schmid and Yvonne Sedlmaier and Achim Ulbrich-vom Ende and Diedrich Wolter},
    journal = {K{\"u}nstliche Intellienz},
       year = {2023},
-      note = {accepted}}
+      note = {accepted},
+      pubs = {mberges,mkohlhase,voll-ki}}
 </bib-data>
       </bibentry>
       <bibentry key="KohKoh:MIA23" type="unpublished" xml:id="bib.bib2">
