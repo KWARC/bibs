@@ -201,6 +201,7 @@
         <bib-title>Learning with alea: tailored experiences through annotated course material</bib-title>
         <bib-date role="publication">2023</bib-date>
         <bib-related bibrefs="KIBildung23" role="host"/>
+        <bib-url href="https://kwarc.info/people/dmueller/pubs/ws_alea_voll-ki.pdf">Link</bib-url>
         <bib-data role="pubs">voll-ki, tkruse, mberges, jbetzendahl, mkohlhase, dlohr, dmueller</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{LwA.Tetacm23,
@@ -208,6 +209,7 @@
      title = {Learning with ALeA: Tailored experiences through annotated course material},
       year = {2023},
   crossref = {KIBildung23},
+       url = {https://kwarc.info/people/dmueller/pubs/ws_alea_voll-ki.pdf},
       pubs = {voll-ki, tkruse, mberges, jbetzendahl, mkohlhase, dlohr, dmueller},
   keywords = {conference}}
 </bib-data>

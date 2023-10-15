@@ -205,6 +205,7 @@
       note = {in press},
   keywords = {conference}}
 </bib-data></bib-related>
+        <bib-url href="https://kwarc.info/people/dmueller/pubs/ws_alea_voll-ki.pdf">Link</bib-url>
         <bib-data role="pubs">voll-ki, tkruse, mberges, jbetzendahl, mkohlhase, dlohr, dmueller</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-related role="host" type="proceedings">
@@ -215,6 +216,7 @@
      title = {Learning with ALeA: Tailored experiences through annotated course material},
       year = {2023},
   crossref = {KIBildung23},
+       url = {https://kwarc.info/people/dmueller/pubs/ws_alea_voll-ki.pdf},
       pubs = {voll-ki, tkruse, mberges, jbetzendahl, mkohlhase, dlohr, dmueller},
   keywords = {conference},
  publisher = {Gesellschaft für Informatik e.V. (GI)}}
