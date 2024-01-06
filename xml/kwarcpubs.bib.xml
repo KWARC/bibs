@@ -3544,7 +3544,6 @@
           <bib-title>it – Information Technology</bib-title>
         </bib-related>
         <bib-date role="publication">2020</bib-date>
-        <bib-publisher>De Gruyter Oldenbourg</bib-publisher>
         <bib-part role="volume">62</bib-part>
         <bib-part role="number">1</bib-part>
         <bib-part role="pages">7–17</bib-part>
@@ -3557,7 +3556,6 @@
      title = {(Deep) FAIR Mathematics},
    journal = {it – Information Technology},
       year = {2020},
- publisher = {De Gruyter Oldenbourg},
     volume = {62},
     number = {1},
      pages = {7–17},
