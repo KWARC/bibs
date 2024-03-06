@@ -728,7 +728,7 @@ Frank Tompa and Martin Suda},
       <bibentry key="GNRS:lfmtpmlpa:11" type="proceedings" xml:id="bib.bib19">
         <bib-title>LFMTP 2011 - MLPA 2011 Informal Proceedings</bib-title>
         <bib-date role="publication">2011</bib-date>
-        <bib-note role="annotation">see <ref class="ltx_url" font="typewriter" href="http://kwarc.info/frabe/events/mlpa-11/index.html">http://kwarc.info/frabe/events/mlpa-11/index.html</ref></bib-note>
+        <bib-note role="annotation">see <ref class="ltx_nolink ltx_url" font="typewriter" href="http://kwarc.info/frabe/events/mlpa-11/index.html">http://kwarc.info/frabe/events/mlpa-11/index.html</ref></bib-note>
         <bib-name role="editor">
           <surname>Geuvers</surname>
           <givenname>Herman</givenname>
@@ -757,7 +757,7 @@ Frank Tompa and Martin Suda},
       <bibentry key="RS:mlpa:10" type="proceedings" xml:id="bib.bib20">
         <bib-title>MLPA ’10: Proceedings of the 2nd Workshop on Modules and Libraries for Proof Assistants</bib-title>
         <bib-date role="publication">2010</bib-date>
-        <bib-note role="annotation">see <ref class="ltx_url" font="typewriter" href="http://kwarc.info/frabe/events/mlpa-10.html">http://kwarc.info/frabe/events/mlpa-10.html</ref></bib-note>
+        <bib-note role="annotation">see <ref class="ltx_nolink ltx_url" font="typewriter" href="http://kwarc.info/frabe/events/mlpa-10.html">http://kwarc.info/frabe/events/mlpa-10.html</ref></bib-note>
         <bib-name role="editor">
           <surname>Rabe</surname>
           <givenname>F.</givenname>
@@ -873,7 +873,7 @@ Frank Tompa and Martin Suda},
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 25 **** -->      <bibentry key="CICM11" type="proceedings" xml:id="bib.bib24">
+      <bibentry key="CICM11" type="proceedings" xml:id="bib.bib24">
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-key>CICM11</bib-key>
         <bib-date role="publication">2011</bib-date>
@@ -1566,7 +1566,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
           <givenname>Paul</givenname>
         </bib-name>
         <bib-title>OpenMath/JEM workshop 2007</bib-title>
-        <bib-note role="publication">online at <ref class="ltx_url" font="typewriter" href="http://www.openmath.org/meetings/linz2007/">http://www.openmath.org/meetings/linz2007/</ref></bib-note>
+        <bib-note role="publication">online at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://www.openmath.org/meetings/linz2007/">http://www.openmath.org/meetings/linz2007/</ref></bib-note>
         <bib-url href="http://www.openmath.org/meetings/linz2007/">Link</bib-url>
         <bib-date role="publication">2007-06</bib-date>
         <bib-data role="month">June</bib-data>
@@ -1764,7 +1764,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  eventdate = {2014-05-25}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 50 **** -->      <bibentry key="SEPUBLICA13" type="proceedings" xml:id="bib.bib49">
+      <bibentry key="SEPUBLICA13" type="proceedings" xml:id="bib.bib49">
         <bib-date role="publication">2013</bib-date>
         <bib-name role="editor">
           <surname>García Castro</surname>

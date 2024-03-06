@@ -776,7 +776,7 @@
       pubs = {voll-ki}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 25 **** -->      <bibentry key="Hubwieser.2017" type="inproceedings" xml:id="bib.bib24">
+      <bibentry key="Hubwieser.2017" type="inproceedings" xml:id="bib.bib24">
         <bib-name role="author">
           <surname>Hubwieser</surname>
           <givenname>Peter</givenname>
@@ -1011,7 +1011,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="Mue:rustextug23" type="article" xml:id="bib.bib29">
-        <bib-title>An html/css schema for <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> primitives – generating high-quality responsive html from generic <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text></bib-title>
+        <bib-title>An html/css schema for <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text> primitives – generating high-quality responsive html from generic <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text></bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -1030,7 +1030,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="MueKo:stextug22" type="article" xml:id="bib.bib30">
-        <bib-title>sTeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
+        <bib-title>sTeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -1053,7 +1053,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="MueKo:sdstex22" type="inproceedings" xml:id="bib.bib31">
-        <bib-title>System description: sTeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
+        <bib-title>System description: sTeX3 – a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>-based ecosystem for semantic/active mathematical documents</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -1453,7 +1453,7 @@
       pubs = {mkohlhase,dmueller,sTeX,voll-ki}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 50 **** -->      <bibentry key="stexDoc:on" type="website" xml:id="bib.bib49">
+      <bibentry key="stexDoc:on" type="website" xml:id="bib.bib49">
         <bib-title>The sTeX3 package collection</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1477,7 +1477,7 @@
       <bibentry key="stexCTAN:on" type="website" xml:id="bib.bib50">
         <bib-data role="label">ST</bib-data>
         <bib-title>STeX – an infrastructure for semantic preloading of latex documents</bib-title>
-        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="https://ctan.org/pkg/stex">Link</bib-url>
         <bib-data role="urldate">2022-04-22</bib-data>
         <bib-data role="self" type="BibTeX">@online{stexCTAN:on,
@@ -1699,7 +1699,7 @@
         <bib-date role="publication">2021</bib-date>
         <bib-publisher>GitHub</bib-publisher>
         <bib-data role="journal">GitHub repository</bib-data>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://github.com/UniFormal/IntelliJ-MMT">https://github.com/UniFormal/IntelliJ-MMT</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/UniFormal/IntelliJ-MMT">https://github.com/UniFormal/IntelliJ-MMT</ref></bib-note>
         <bib-data role="commit">43cc997f338aeba323f80639ef02c3b6802aad6d</bib-data>
         <bib-data role="pubs">dmueller,nroux</bib-data>
         <bib-data role="self" type="BibTeX">@online{mmt:intellij,
@@ -2016,7 +2016,7 @@
       pubs = {bscthesis}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 75 **** -->      <bibentry key="Dreier:projc22" type="thesis" xml:id="bib.bib74">
+      <bibentry key="Dreier:projc22" type="thesis" xml:id="bib.bib74">
         <bib-title>Projektarbeit: erweiterung der mmt-wissensbasis für volumenbasierte mathematik-aufgaben in uframeit</bib-title>
         <bib-name role="author">
           <surname>Dreier</surname>
@@ -2326,7 +2326,7 @@
       </bibentry>
       <bibentry key="popovhayashi:url" type="misc" xml:id="bib.bib88">
         <bib-related bibrefs="popovhayashi:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://gl.mathhub.info/jlogic/pvh">https://gl.mathhub.info/jlogic/pvh</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://gl.mathhub.info/jlogic/pvh">https://gl.mathhub.info/jlogic/pvh</ref></bib-note>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@misc{popovhayashi:url,
   crossref = {popovhayashi:base},
@@ -2359,7 +2359,7 @@
       <bibentry key="jlogic:url" type="misc" xml:id="bib.bib91">
         <bib-related bibrefs="jlogic:base" role="host"/>
         <bib-key>PvH</bib-key>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://gl.mathhub.info/jlogic/course">https://gl.mathhub.info/jlogic/course</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://gl.mathhub.info/jlogic/course">https://gl.mathhub.info/jlogic/course</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{jlogic:url,
   crossref = {jlogic:base},
        key = {PvH},
@@ -2479,7 +2479,7 @@
       pubs = {mscthesis}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 100 **** -->      <bibentry key="Scheja:msc93" type="thesis" xml:id="bib.bib99">
+      <bibentry key="Scheja:msc93" type="thesis" xml:id="bib.bib99">
         <bib-name role="author">
           <surname>Scheja</surname>
           <givenname>Ortwin</givenname>
@@ -2743,7 +2743,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="Jucovschi:msc10" type="thesis" xml:id="bib.bib112">
-        <bib-title>Editing knowledge in large mathematical corpora. a case study with semantic <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> (sTeX)</bib-title>
+        <bib-title>Editing knowledge in large mathematical corpora. a case study with semantic <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> (sTeX)</bib-title>
         <bib-name role="author">
           <surname>Jucovschi</surname>
           <givenname>Constantin</givenname>
@@ -3090,7 +3090,7 @@
       pubs = {frameit}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 125 **** -->      <bibentry key="Bercic:LWDA19" type="inproceedings" xml:id="bib.bib124">
+      <bibentry key="Bercic:LWDA19" type="inproceedings" xml:id="bib.bib124">
         <bib-related bibrefs="LWDA19" role="host"/>
         <bib-name role="author">
           <surname>Bercic</surname>
@@ -3440,7 +3440,7 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-title>The space of mathematical software systems – a survey of paradigmatic systems</bib-title>
-        <bib-note role="annotation">preprint; <ref class="ltx_url" font="typewriter" href="http://arxiv.org/abs/2002.04955">http://arxiv.org/abs/2002.04955</ref></bib-note>
+        <bib-note role="annotation">preprint; <ref class="ltx_nolink ltx_url" font="typewriter" href="http://arxiv.org/abs/2002.04955">http://arxiv.org/abs/2002.04955</ref></bib-note>
         <bib-data role="pubs">mkohlhase,kbercic,dmueller,frabe</bib-data>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{CarFarSharBerKohMueRab:somss20,
@@ -3694,7 +3694,7 @@
       pubs = {mscthesis,odk,mathhub}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 150 **** -->      <bibentry key="Rupprecht:msc" type="thesis" xml:id="bib.bib149">
+      <bibentry key="Rupprecht:msc" type="thesis" xml:id="bib.bib149">
         <bib-name role="author">
           <surname>Rupprecht</surname>
           <givenname>Marcel</givenname>
@@ -4233,7 +4233,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
       </bibentry>
       <bibentry key="Bercic:cmo:wiki:url" type="misc" xml:id="bib.bib171">
         <bib-related bibrefs="Bercic:cmo:wiki:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://github.com/MathHubInfo/Documentation/wiki/Math-Databases">https://github.com/MathHubInfo/Documentation/wiki/Math-Databases</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/MathHubInfo/Documentation/wiki/Math-Databases">https://github.com/MathHubInfo/Documentation/wiki/Math-Databases</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{Bercic:cmo:wiki:url,
   crossref = {Bercic:cmo:wiki:base},
  howpublished = {\url{https://github.com/MathHubInfo/Documentation/wiki/Math-Databases}}}
@@ -4274,7 +4274,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
       pubs = {kbercic}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 175 **** -->      <bibentry key="BerGha:4AT2pq:17" type="article" xml:id="bib.bib174">
+      <bibentry key="BerGha:4AT2pq:17" type="article" xml:id="bib.bib174">
         <bib-name role="author">
           <surname>Berčič</surname>
           <givenname>Katja</givenname>
@@ -4646,7 +4646,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
       </bibentry>
       <bibentry key="URL:openmathjson:github" type="misc" xml:id="bib.bib188">
         <bib-key>openmathjson</bib-key>
-        <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/tkw1536/OpenMath-JSON">https://github.com/tkw1536/OpenMath-JSON</ref></bib-note>
+        <bib-note role="publication">GitHub repository at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/tkw1536/OpenMath-JSON">https://github.com/tkw1536/OpenMath-JSON</ref></bib-note>
         <bib-note role="annotation">accessed 2018-10-14</bib-note>
         <bib-title>tkw1536/OpenMath-JSON</bib-title>
         <bib-url href="https://github.com/tkw1536/OpenMath-JSON">Link</bib-url>
@@ -4673,7 +4673,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
       <bibentry key="moi.sty:on" type="website" xml:id="bib.bib190">
         <bib-data role="label">MOI</bib-data>
         <bib-url href="https://gitlab.com/IMKT/MOI/tree/master/sty">Link</bib-url>
-        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package moi</bib-title>
+        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> package moi</bib-title>
         <bib-data role="urldate">2018-07-20</bib-data>
         <bib-data role="self" type="BibTeX">@online{moi.sty:on,
      label = {MOI},
@@ -4858,7 +4858,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
       pubs = {mkohlhase,tpollinger,MaMoReD,mmt,odk}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 200 **** -->      <bibentry key="Rabe:mmtsys:18" type="unpublished" xml:id="bib.bib199">
+      <bibentry key="Rabe:mmtsys:18" type="unpublished" xml:id="bib.bib199">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -5006,7 +5006,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
         <bib-related bibrefs="KohMue:mtm17:base" role="host"/>
         <bib-key>OMT</bib-key>
         <bib-date role="publication">2017</bib-date>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://gl.mathhub.info/Tutorials/Mathematicians/blob/master/tutorial/mmt-math-tutorial.pdf">https://gl.mathhub.info/Tutorials/Mathematicians/blob/master/tutorial/mmt-math-tutorial.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://gl.mathhub.info/Tutorials/Mathematicians/blob/master/tutorial/mmt-math-tutorial.pdf">https://gl.mathhub.info/Tutorials/Mathematicians/blob/master/tutorial/mmt-math-tutorial.pdf</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{KohMue:mtm17:url,
   crossref = {KohMue:mtm17:base},
        key = {OMT},
@@ -5342,7 +5342,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
 </bib-data>
       </bibentry>
       <bibentry key="ed:on" type="website" xml:id="bib.bib223">
-        <bib-title>Ed – editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> documents</bib-title>
+        <bib-title>Ed – editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> documents</bib-title>
         <bib-data role="label">ED</bib-data>
         <bib-data role="urldate">2017-06-23</bib-data>
         <bib-url href="https://www.ctan.org/pkg/ed">Link</bib-url>
@@ -5353,7 +5353,7 @@ Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP 2019</bib-titl
        url = {https://www.ctan.org/pkg/ed}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 225 **** -->      <bibentry key="KBibs:on" type="website" xml:id="bib.bib224">
+      <bibentry key="KBibs:on" type="website" xml:id="bib.bib224">
         <bib-title>The joint bibliography of the KWARC group</bib-title>
         <bib-data role="label">KB</bib-data>
         <bib-data role="urldate">2017-06-23</bib-data>
@@ -5845,7 +5845,7 @@ Interface Theories},
    urldate = {2016-09-04}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 250 **** -->      <bibentry key="py-scscp:on" type="website" xml:id="bib.bib249">
+      <bibentry key="py-scscp:on" type="website" xml:id="bib.bib249">
         <bib-data role="label">POM</bib-data>
         <bib-title>An SCSCP module for Python</bib-title>
         <bib-url href="https://github.com/OpenMath/py-scscp">Link</bib-url>
@@ -6014,7 +6014,7 @@ Interface Theories},
       <bibentry key="uniformal:URL" type="misc" xml:id="bib.bib258">
         <bib-related bibrefs="uniformal:base" role="host"/>
         <bib-key>MMT</bib-key>
-        <bib-note role="publication">Project web site at <ref class="ltx_url" font="typewriter" href="https://uniformal.github.io/">https://uniformal.github.io/</ref></bib-note>
+        <bib-note role="publication">Project web site at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://uniformal.github.io/">https://uniformal.github.io/</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{uniformal:URL,
   crossref = {uniformal:base},
        key = {MMT},
@@ -6385,7 +6385,7 @@ Interface Theories},
   crossref = {CICM16WIP}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 275 **** -->      <bibentry key="KalKohMue:samc16" type="inproceedings" xml:id="bib.bib274">
+      <bibentry key="KalKohMue:samc16" type="inproceedings" xml:id="bib.bib274">
         <bib-title>A standard for aligning mathematical concepts</bib-title>
         <bib-name role="author">
           <surname>Kaliszyk</surname>
@@ -6796,7 +6796,7 @@ Interface Theories},
       <bibentry key="flatsearch-demo" type="misc" xml:id="bib.bib290">
         <bib-related bibrefs="flatsearch-demo:base" role="host"/>
         <bib-key>FS</bib-key>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://cds.omdoc.org:8181/search.html">http://cds.omdoc.org:8181/search.html</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://cds.omdoc.org:8181/search.html">http://cds.omdoc.org:8181/search.html</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{flatsearch-demo,
   crossref = {flatsearch-demo:base},
        key = {FS},
@@ -6973,7 +6973,7 @@ Interface Theories},
       pubs = {akohlhase,mathsearch,mws}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 300 **** -->      <bibentry key="Kohlhase:eprpo14" type="inproceedings" xml:id="bib.bib299">
+      <bibentry key="Kohlhase:eprpo14" type="inproceedings" xml:id="bib.bib299">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -7790,7 +7790,7 @@ Language Data Processing</bib-title>
       pubs = {clange,ontoiop}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 325 **** -->      <bibentry key="formare" type="website" xml:id="bib.bib324">
+      <bibentry key="formare" type="website" xml:id="bib.bib324">
         <bib-name role="author">
           <surname>Kerber</surname>
           <givenname>Manfred</givenname>
@@ -8149,7 +8149,7 @@ Language Data Processing</bib-title>
       </bibentry>
       <bibentry key="sissi:URL" type="misc" xml:id="bib.bib338">
         <bib-related bibrefs="sissi:base" role="host"/>
-        <bib-note role="publication">Project home page at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/sissi/">http://trac.kwarc.info/sissi/</ref></bib-note>
+        <bib-note role="publication">Project home page at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://trac.kwarc.info/sissi/">http://trac.kwarc.info/sissi/</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{sissi:URL,
   crossref = {sissi:base},
  howpublished = {Project home page at \url{http://trac.kwarc.info/sissi/}}}
@@ -8488,7 +8488,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
       pubs = {clange,ontoiop}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 350 **** -->      <bibentry key="DavJucKoh:safusa12" type="inproceedings" xml:id="bib.bib349">
+      <bibentry key="DavJucKoh:safusa12" type="inproceedings" xml:id="bib.bib349">
         <bib-title><text font="typewriter">Semantic Alliance</text>: a framework for semantic allies</bib-title>
         <bib-name role="author">
           <surname>David</surname>
@@ -9131,7 +9131,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
         <bib-date role="publication">2011</bib-date>
         <bib-type>KWARC Report</bib-type>
         <bib-url href="http://uniformal.github.io/doc/applications/LATIN/docs/Mizar2OMDoc-Report.pdf">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://uniformal.github.io/doc/applications/LATIN/docs/Mizar2OMDoc-Report.pdf">http://uniformal.github.io/doc/applications/LATIN/docs/Mizar2OMDoc-Report.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://uniformal.github.io/doc/applications/LATIN/docs/Mizar2OMDoc-Report.pdf">http://uniformal.github.io/doc/applications/LATIN/docs/Mizar2OMDoc-Report.pdf</ref></bib-note>
         <bib-data role="pubs">mkohlhase,frabe,miancu,latin,mmt,omdoc</bib-data>
         <bib-data role="self" type="BibTeX">@techreport{IanKohRab:tmmlof11,
     author = {Mihnea Iancu and Michael Kohlhase and Florian Rabe},
@@ -9144,7 +9144,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
       pubs = {mkohlhase,frabe,miancu,latin,mmt,omdoc}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 375 **** -->      <bibentry key="IanKohRabUrb:tmmliotaa13" type="article" xml:id="bib.bib374">
+      <bibentry key="IanKohRabUrb:tmmliotaa13" type="article" xml:id="bib.bib374">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -9572,7 +9572,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
       year = {2013}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 400 **** -->      <bibentry key="Kohlhase:eco13" type="unpublished" xml:id="bib.bib399">
+      <bibentry key="Kohlhase:eco13" type="unpublished" xml:id="bib.bib399">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -10472,7 +10472,7 @@ Digital Math Libraries want to be Semantic — Position paper for WDML 2012},
       pubs = {akohlhase,cjucovschi}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 425 **** -->      <bibentry key="Lange:KrextorSystem11" type="inproceedings" xml:id="bib.bib424">
+      <bibentry key="Lange:KrextorSystem11" type="inproceedings" xml:id="bib.bib424">
         <bib-title>Krextor – an extensible framework for contributing content math to the web of data</bib-title>
         <bib-name role="author">
           <surname>Lange</surname>
@@ -10610,7 +10610,7 @@ Rudnicki and Josef Urban},
 </bib-data>
       </bibentry>
       <bibentry key="GinMil:latexmlCICM13" type="inproceedings" xml:id="bib.bib428">
-        <bib-title><text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ml 2012 - a year of <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ml</bib-title>
+        <bib-title><text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>ml 2012 - a year of <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>ml</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -10652,7 +10652,7 @@ Rudnicki and Josef Urban},
 </bib-data>
       </bibentry>
       <bibentry key="GinMilOpr:latexml:14" type="inproceedings" xml:id="bib.bib430">
-        <bib-title>E-books and graphics with <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ml</bib-title>
+        <bib-title>E-books and graphics with <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>ml</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -10679,7 +10679,7 @@ Rudnicki and Josef Urban},
 </bib-data>
       </bibentry>
       <bibentry key="GinStaKoh:latexmldaemon11" type="inproceedings" xml:id="bib.bib431">
-        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ML daemon: editable math on the collaborative web</bib-title>
+        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>ML daemon: editable math on the collaborative web</bib-title>
         <bib-name role="author">
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
@@ -10939,7 +10939,7 @@ Rudnicki and Josef Urban},
           <givenname>Claudio</givenname>
         </bib-name>
         <bib-title>A foundational view on integration problems</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/kohlhase/papers/cicm11-integration.pdf">https://kwarc.info/kohlhase/papers/cicm11-integration.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/kohlhase/papers/cicm11-integration.pdf">https://kwarc.info/kohlhase/papers/cicm11-integration.pdf</ref></bib-note>
         <bib-url href="https://kwarc.info/kohlhase/papers/cicm11-integration.pdf">Link</bib-url>
         <bib-part role="pages">107–122</bib-part>
         <bib-related bibrefs="CICM11" role="host"/>
@@ -11205,7 +11205,7 @@ Rudnicki and Josef Urban},
       pubs = {clange,swim}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 450 **** -->      <bibentry key="Lange:PhD:book" type="book" xml:id="bib.bib449">
+      <bibentry key="Lange:PhD:book" type="book" xml:id="bib.bib449">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -11292,7 +11292,7 @@ Rudnicki and Josef Urban},
           <givenname>Florian</givenname>
         </bib-name>
         <bib-title>A [insert xml format] database for [insert cool application] (extended version)</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/vzholudev/pubs/XMLPrague_long.pdf">https://kwarc.info/vzholudev/pubs/XMLPrague_long.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/vzholudev/pubs/XMLPrague_long.pdf">https://kwarc.info/vzholudev/pubs/XMLPrague_long.pdf</ref></bib-note>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2010</bib-date>
         <bib-url href="https://kwarc.info/vzholudev/pubs/XMLPrague_long.pdf">Link</bib-url>
@@ -11518,7 +11518,7 @@ Rudnicki and Josef Urban},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Conversion d’articles en <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> vers XML avec MathML : une étude comparative</bib-title>
+        <bib-title>Conversion d’articles en <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> vers XML avec MathML : une étude comparative</bib-title>
         <bib-related role="host" type="journal">
           <bib-title>Cahiers GUTenberg</bib-title>
         </bib-related>
@@ -11543,7 +11543,7 @@ Rudnicki and Josef Urban},
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
         </bib-name>
-        <bib-title>An architecture for recovering meaning in a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> to OMDoc conversion</bib-title>
+        <bib-title>An architecture for recovering meaning in a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> to OMDoc conversion</bib-title>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2009</bib-date>
         <bib-type>Bachelor’s Thesis</bib-type>
@@ -11830,7 +11830,7 @@ Rudnicki and Josef Urban},
         <bib-type>Master’s Thesis</bib-type>
         <bib-data role="month">August</bib-data>
         <bib-url href="https://kwarc.info/people/dginev/publications/DeyanGinev_Mastersthesis.pdf">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/people/dginev/publications/DeyanGinev_MScThesis.pdf">https://kwarc.info/people/dginev/publications/DeyanGinev_MScThesis.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/people/dginev/publications/DeyanGinev_MScThesis.pdf">https://kwarc.info/people/dginev/publications/DeyanGinev_MScThesis.pdf</ref></bib-note>
         <bib-data role="pubs">dginev,omdoc,openmath</bib-data>
         <bib-extract role="keywords">lamapunbibs,mscthesis</bib-extract>
         <bib-date role="publication">2011-08</bib-date>
@@ -11898,7 +11898,7 @@ Rudnicki and Josef Urban},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>MathML-aware article conversion from <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>, a comparison study</bib-title>
+        <bib-title>MathML-aware article conversion from <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>, a comparison study</bib-title>
         <bib-related bibrefs="DML09" role="host"/>
         <bib-part role="pages">109–120</bib-part>
         <bib-date role="publication">2009</bib-date>
@@ -11915,7 +11915,7 @@ Rudnicki and Josef Urban},
       pubs = {mkohlhase,dginev,cdavid,arXMLiv}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 475 **** -->      <bibentry key="StaGinDav:acsmlcl09" type="report" xml:id="bib.bib474">
+      <bibentry key="StaGinDav:acsmlcl09" type="report" xml:id="bib.bib474">
         <bib-name role="author">
           <surname>Stamerjohanns</surname>
           <givenname>Heinrich</givenname>
@@ -11940,7 +11940,7 @@ Rudnicki and Josef Urban},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>A comparison study of MathML-aware <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> converters</bib-title>
+        <bib-title>A comparison study of MathML-aware <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> converters</bib-title>
         <bib-type>KWARC Report</bib-type>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-date role="publication">2009</bib-date>
@@ -12019,7 +12019,7 @@ Rudnicki and Josef Urban},
         <bib-title>TNTBase: a versioned storage for XML</bib-title>
         <bib-related bibrefs="BALISAGE09" role="host"/>
         <bib-url href="https://kwarc.info/vzholudev/pubs/balisage.pdf">Link</bib-url>
-        <bib-note role="annotation">available at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/vzholudev/pubs/balisage.pdf">https://kwarc.info/vzholudev/pubs/balisage.pdf</ref></bib-note>
+        <bib-note role="annotation">available at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/vzholudev/pubs/balisage.pdf">https://kwarc.info/vzholudev/pubs/balisage.pdf</ref></bib-note>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">vzholudev,mkohlhase,tntbase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{ZhoKoh:tvsx09,
@@ -12082,7 +12082,7 @@ Rudnicki and Josef Urban},
         <bib-title>Scripting documents with xquery: virtual documents in TNTBase</bib-title>
         <bib-related bibrefs="BALISAGE10" role="host"/>
         <bib-url href="http://www.balisage.net/Proceedings/vol3/html/Zholudev01/BalisageVol3-Zholudev01.html">Link</bib-url>
-        <bib-note role="annotation">available at <ref class="ltx_url" font="typewriter" href="http://www.balisage.net/Proceedings/vol3/html/Zholudev01/BalisageVol3-Zholudev01.html">http://www.balisage.net/Proceedings/vol3/html/Zholudev01/BalisageVol3-Zholudev01.html</ref></bib-note>
+        <bib-note role="annotation">available at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://www.balisage.net/Proceedings/vol3/html/Zholudev01/BalisageVol3-Zholudev01.html">http://www.balisage.net/Proceedings/vol3/html/Zholudev01/BalisageVol3-Zholudev01.html</ref></bib-note>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">vzholudev,mkohlhase,tntbase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{ZhoKoh:sdxvdt10,
@@ -12386,7 +12386,7 @@ Rudnicki and Josef Urban},
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://opus.bath.ac.uk/13079">http://opus.bath.ac.uk/13079</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://opus.bath.ac.uk/13079">http://opus.bath.ac.uk/13079</ref></bib-note>
         <bib-url href="http://opus.bath.ac.uk/13079">Link</bib-url>
         <bib-date role="publication">2009</bib-date>
         <bib-data role="pubs">mkohlhase,omdoc,openmath</bib-data>
@@ -12420,7 +12420,7 @@ Rudnicki and Josef Urban},
       pubs = {mkohlhase,omdoc,openmath}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 500 **** -->      <bibentry key="RabKoh:abrsom09" type="inproceedings" xml:id="bib.bib499">
+      <bibentry key="RabKoh:abrsom09" type="inproceedings" xml:id="bib.bib499">
         <bib-title>A better role system for OpenMath</bib-title>
         <bib-name role="author">
           <surname>Rabe</surname>
@@ -13007,7 +13007,7 @@ International Workshop on the Implementation of Logics</bib-title>
         <bib-date role="publication">2009-02</bib-date>
         <bib-data role="month">February</bib-data>
         <bib-url href="https://kwarc.info/publications/papers/KLMMR_NfAD.pdf">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/publications/papers/KLMMR_NfAD.pdf">https://kwarc.info/publications/papers/KLMMR_NfAD.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/publications/papers/KLMMR_NfAD.pdf">https://kwarc.info/publications/papers/KLMMR_NfAD.pdf</ref></bib-note>
         <bib-extract role="keywords">clange-phd</bib-extract>
         <bib-data role="pubs">mkohlhase,clange,cmueller,nmueller,frabe,kwarc-report,omdoc,mmt</bib-data>
         <bib-data role="self" type="BibTeX">@techreport{TR:KLMMR:NfAD,
@@ -13032,7 +13032,7 @@ International Workshop on the Implementation of Logics</bib-title>
         </bib-name>
         <bib-date role="publication">2009</bib-date>
         <bib-url href="https://kwarc.info/nmueller/papers/doceng09.pdf">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/nmueller/papers/doceng09.pdf">https://kwarc.info/nmueller/papers/doceng09.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/nmueller/papers/doceng09.pdf">https://kwarc.info/nmueller/papers/doceng09.pdf</ref></bib-note>
         <bib-data role="pubs">nmueller,omoc</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{NM:CMoSSD,
      title = {Change Management on Semi-Structured Documents},
@@ -13136,7 +13136,7 @@ International Workshop on the Implementation of Logics</bib-title>
        url = {http://ceur-ws.org/Vol-405/paper4.pdf}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 525 **** -->      <bibentry key="HuKeKo:gcccp94" type="inproceedings" xml:id="bib.bib524">
+      <bibentry key="HuKeKo:gcccp94" type="inproceedings" xml:id="bib.bib524">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -13350,7 +13350,7 @@ International Workshop on the Implementation of Logics</bib-title>
       </bibentry>
       <bibentry key="Zholudev:TNTBaseRESTful:web" type="misc" xml:id="bib.bib533">
         <bib-related bibrefs="Zholudev:TNTBaseRESTful:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://tntbase.org/wiki/restful">http://tntbase.org/wiki/restful</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://tntbase.org/wiki/restful">http://tntbase.org/wiki/restful</ref></bib-note>
         <bib-data role="pubs">vzholudev,tntbase</bib-data>
         <bib-date role="publication">2010</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Zholudev:TNTBaseRESTful:web,
@@ -13704,7 +13704,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
         <bib-title>Fine-Granular Version Control &amp; Redundancy Resolution</bib-title>
         <bib-related bibrefs="LWA08" role="host"/>
         <bib-url href="http://www.kwarc.info/nmueller/papers/lwa08-fst.pdf">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://www.kwarc.info/nmueller/papers/lwa08-fst.pdf">http://www.kwarc.info/nmueller/papers/lwa08-fst.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://www.kwarc.info/nmueller/papers/lwa08-fst.pdf">http://www.kwarc.info/nmueller/papers/lwa08-fst.pdf</ref></bib-note>
         <bib-data role="pubs">nmueller,mkohlhase,omoc</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{NRM08:fst,
     author = {Normen M{\"u}ller and Michael Kohlhase},
@@ -13742,7 +13742,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       pubs = {akohlhase,mkohlhase,sissi}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 550 **** -->      <bibentry key="KohKoh:SACHSCoverage10" type="inproceedings" xml:id="bib.bib549">
+      <bibentry key="KohKoh:SACHSCoverage10" type="inproceedings" xml:id="bib.bib549">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -13859,7 +13859,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
         </bib-name>
         <bib-title>Towards distributed mathematical knowledge management</bib-title>
         <bib-date role="publication">2008</bib-date>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/vzholudev/pubs/proposal.pdf">https://kwarc.info/vzholudev/pubs/proposal.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/vzholudev/pubs/proposal.pdf">https://kwarc.info/vzholudev/pubs/proposal.pdf</ref></bib-note>
         <bib-organization>Jacobs University of Bremen</bib-organization>
         <bib-url href="https://kwarc.info/vzholudev/pubs/proposal.pdf">Link</bib-url>
         <bib-data role="pubs">vzholudev,tntbase</bib-data>
@@ -14194,7 +14194,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       </bibentry>
       <bibentry key="CarlisleEd:MathML3" type="report" xml:id="bib.bib568">
         <bib-related bibrefs="CarlisleEd:MathML3:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://www.w3.org/TR/MathML3">http://www.w3.org/TR/MathML3</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://www.w3.org/TR/MathML3">http://www.w3.org/TR/MathML3</ref></bib-note>
         <bib-name role="author">
           <surname>Ausbrooks</surname>
           <givenname>Ron</givenname>
@@ -14481,7 +14481,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
         </bib-name>
         <bib-title>Towards an Ontology-Driven Management of Change – Research proposal for a Ph.D. thesis</bib-title>
         <bib-date role="publication">2006</bib-date>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/nmueller/papers/resprop.pdf">https://kwarc.info/nmueller/papers/resprop.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/nmueller/papers/resprop.pdf">https://kwarc.info/nmueller/papers/resprop.pdf</ref></bib-note>
         <bib-organization>International University Bremen</bib-organization>
         <bib-url href="https://kwarc.info/nmueller/papers/resprop.pdf">Link</bib-url>
         <bib-data role="pubs">omoc,docOnto,nmueller</bib-data>
@@ -14496,7 +14496,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       pubs = {omoc,docOnto,nmueller}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 575 **** -->      <bibentry key="NRM:wp1:07" type="unpublished" xml:id="bib.bib574">
+      <bibentry key="NRM:wp1:07" type="unpublished" xml:id="bib.bib574">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Normen</givenname>
@@ -14525,7 +14525,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       </bibentry>
       <bibentry key="panta:URL" type="misc" xml:id="bib.bib576">
         <bib-related bibrefs="panta:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/panta">http://trac.kwarc.info/panta</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://trac.kwarc.info/panta">http://trac.kwarc.info/panta</ref></bib-note>
         <bib-note role="annotation">seen January 2010</bib-note>
         <bib-data role="self" type="BibTeX">@misc{panta:URL,
   crossref = {panta:base},
@@ -14548,7 +14548,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="janta:URL" type="misc" xml:id="bib.bib578">
         <bib-key>janta</bib-key>
         <bib-title>Janta: The RESTFul Web Service of panta rhei</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/janta">http://trac.kwarc.info/janta</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://trac.kwarc.info/janta">http://trac.kwarc.info/janta</ref></bib-note>
         <bib-url href="http://trac.kwarc.info/janta">Link</bib-url>
         <bib-note role="annotation">seen March 2009</bib-note>
         <bib-data role="self" type="BibTeX">@misc{janta:URL,
@@ -14592,7 +14592,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="Panta:demo" type="misc" xml:id="bib.bib582">
         <bib-key>Panta Rei</bib-key>
         <bib-title>The panta rhei demo</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/panta-rhei/demo/htdocs/">https://kwarc.info/panta-rhei/demo/htdocs/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/panta-rhei/demo/htdocs/">https://kwarc.info/panta-rhei/demo/htdocs/</ref></bib-note>
         <bib-url href="https://kwarc.info/panta-rhei/demo/htdocs/">Link</bib-url>
         <bib-date role="publication">2007</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Panta:demo,
@@ -14606,7 +14606,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="Panta:gencs" type="misc" xml:id="bib.bib583">
         <bib-key>panta rei</bib-key>
         <bib-title>The GenCS project</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://panta-rhei.kwarc.info/">http://panta-rhei.kwarc.info/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://panta-rhei.kwarc.info/">http://panta-rhei.kwarc.info/</ref></bib-note>
         <bib-url href="http://panta-rhei.kwarc.info/">Link</bib-url>
         <bib-date role="publication">2008</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Panta:gencs,
@@ -14649,7 +14649,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       </bibentry>
       <bibentry key="Panta:cs:precourse" type="misc" xml:id="bib.bib586">
         <bib-key>panta rhei</bib-key>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://cs-precourse.kwarc.info/">http://cs-precourse.kwarc.info/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://cs-precourse.kwarc.info/">http://cs-precourse.kwarc.info/</ref></bib-note>
         <bib-related bibrefs="Panta:cs:precourse:base" role="host"/>
         <bib-date role="publication">2008</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Panta:cs:precourse,
@@ -14691,7 +14691,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="URL:SWiM" type="misc" xml:id="bib.bib589">
         <bib-related bibrefs="SWiM:base" role="host"/>
         <bib-key>SWiM</bib-key>
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://old.kwarc.info/swim/">http://old.kwarc.info/swim/</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://old.kwarc.info/swim/">http://old.kwarc.info/swim/</ref></bib-note>
         <bib-note role="annotation">seen October 2008</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:SWiM,
   crossref = {SWiM:base},
@@ -14740,7 +14740,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="URL:sTeX:github" type="misc" xml:id="bib.bib593">
         <bib-related bibrefs="sTeX:github:base" role="host"/>
         <bib-key>sTeX</bib-key>
-        <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/sLaTeX/sTeX">https://github.com/sLaTeX/sTeX</ref></bib-note>
+        <bib-note role="publication">GitHub repository at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/sLaTeX/sTeX">https://github.com/sLaTeX/sTeX</ref></bib-note>
         <bib-note role="annotation">accessed 11. 5. 2020</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:sTeX:github,
   crossref = {sTeX:github:base},
@@ -14770,7 +14770,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="URL:sLaTeX:github" type="misc" xml:id="bib.bib596">
         <bib-related bibrefs="sLaTeX:github:base" role="host"/>
         <bib-key>sLX</bib-key>
-        <bib-note role="publication">GitHub organization at <ref class="ltx_url" font="typewriter" href="https://github.com/sLaTeX">https://github.com/sLaTeX</ref></bib-note>
+        <bib-note role="publication">GitHub organization at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/sLaTeX">https://github.com/sLaTeX</ref></bib-note>
         <bib-note role="annotation">accessed 11. 3. 2021</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:sLaTeX:github,
   crossref = {sLaTeX:github:base},
@@ -14790,17 +14790,17 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="sLaTeX:github:base" type="misc" xml:id="bib.bib598">
-        <bib-title>sLaTeX: an ecosystem for semantically enhanced <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
+        <bib-title>sLaTeX: an ecosystem for semantically enhanced <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text></bib-title>
         <bib-url href="https://github.com/sLaTeX">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{sLaTeX:github:base,
      title = {{sLaTeX}: An Ecosystem for Semantically Enhanced {\LaTeX}},
        url = {https://github.com/sLaTeX}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 600 **** -->      <bibentry key="URL:lmhtools:github" type="misc" xml:id="bib.bib599">
+      <bibentry key="URL:lmhtools:github" type="misc" xml:id="bib.bib599">
         <bib-related bibrefs="lmhtools:github:base" role="host"/>
         <bib-key>LMH</bib-key>
-        <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/sLaTeX/lmhtools">https://github.com/sLaTeX/lmhtools</ref></bib-note>
+        <bib-note role="publication">GitHub repository at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/sLaTeX/lmhtools">https://github.com/sLaTeX/lmhtools</ref></bib-note>
         <bib-note role="annotation">accessed 15. 11. 2019</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:lmhtools:github,
   crossref = {lmhtools:github:base},
@@ -14830,7 +14830,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       <bibentry key="URL:lmh:github" type="misc" xml:id="bib.bib602">
         <bib-related bibrefs="lmh:github:base" role="host"/>
         <bib-key>lmh</bib-key>
-        <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/KWARC/lmh">https://github.com/KWARC/lmh</ref></bib-note>
+        <bib-note role="publication">GitHub repository at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/KWARC/lmh">https://github.com/KWARC/lmh</ref></bib-note>
         <bib-note role="annotation">accessed 15. 5. 2015</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:lmh:github,
   crossref = {lmh:github:base},
@@ -14859,7 +14859,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       </bibentry>
       <bibentry key="URL:LaTeX2Office:github" type="misc" xml:id="bib.bib605">
         <bib-key>L2O</bib-key>
-        <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/KWARC/LaTeXML-Plugin-Doc">https://github.com/KWARC/LaTeXML-Plugin-Doc</ref></bib-note>
+        <bib-note role="publication">GitHub repository at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/KWARC/LaTeXML-Plugin-Doc">https://github.com/KWARC/LaTeXML-Plugin-Doc</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:LaTeX2Office:github,
        key = {L2O},
  howpublished = {GitHub repository at \url{https://github.com/KWARC/LaTeXML-Plugin-Doc}}}
@@ -14877,7 +14877,7 @@ Technologies and Information Systems for the Knowledge Society</bib-title>
       </bibentry>
       <bibentry key="URL:LaTeXMLsTeX:github" type="misc" xml:id="bib.bib607">
         <bib-key>L2O</bib-key>
-        <bib-note role="publication">GitHub repository at <ref class="ltx_url" font="typewriter" href="https://github.com/KWARC/LaTeXML-Plugin-sTeX">https://github.com/KWARC/LaTeXML-Plugin-sTeX</ref></bib-note>
+        <bib-note role="publication">GitHub repository at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://github.com/KWARC/LaTeXML-Plugin-sTeX">https://github.com/KWARC/LaTeXML-Plugin-sTeX</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:LaTeXMLsTeX:github,
        key = {L2O},
  howpublished = {GitHub repository at \url{https://github.com/KWARC/LaTeXML-Plugin-sTeX}}}
@@ -14907,7 +14907,7 @@ und Adaptivität) conference proceedings</bib-title>
         <bib-organization>Universität Hildesheim</bib-organization>
         <bib-part role="pages">186–193</bib-part>
         <bib-url href="https://kwarc.info/nmueller/papers/lwa06.pdf">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/nmueller/papers/lwa06.pdf">https://kwarc.info/nmueller/papers/lwa06.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/nmueller/papers/lwa06.pdf">https://kwarc.info/nmueller/papers/lwa06.pdf</ref></bib-note>
         <bib-data role="pubs">omoc,docOnto,nmueller</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{NRM:lwa06,
     author = {Normen M{\"u}ller},
@@ -14934,7 +14934,7 @@ und Adaptivität) conference proceedings</bib-title>
         <bib-title>Towards Improving Interactive Mathematical Authoring by Ontology-driven Management of Change</bib-title>
         <bib-date role="publication">2007</bib-date>
         <bib-url href="https://kwarc.info/nmueller/papers/lwa07.pdf">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/nmueller/papers/lwa07.pdf">https://kwarc.info/nmueller/papers/lwa07.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/nmueller/papers/lwa07.pdf">https://kwarc.info/nmueller/papers/lwa07.pdf</ref></bib-note>
         <bib-part role="pages">289–295</bib-part>
         <bib-related bibrefs="LWA07" role="host"/>
         <bib-data role="pubs">omoc,nmueller</bib-data>
@@ -14962,7 +14962,7 @@ und Adaptivität) conference proceedings</bib-title>
         <bib-part role="volume">1</bib-part>
         <bib-part role="pages">61</bib-part>
         <bib-url href="http://www.kuenstliche-intelligenz.de/index.php?id=7754">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://www.kuenstliche-intelligenz.de/index.php?id=7754">http://www.kuenstliche-intelligenz.de/index.php?id=7754</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://www.kuenstliche-intelligenz.de/index.php?id=7754">http://www.kuenstliche-intelligenz.de/index.php?id=7754</ref></bib-note>
         <bib-data role="pubs">nmueller</bib-data>
         <bib-data role="self" type="BibTeX">@article{NRM:kij07,
     author = {Normen M{\"u}ller},
@@ -15075,7 +15075,7 @@ und Adaptivität) conference proceedings</bib-title>
         <bib-title>Towards a Semantic Wiki for Science</bib-title>
         <bib-data role="month">February</bib-data>
         <bib-date role="publication">2007-02</bib-date>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/swim/pubs/swimplus-resprop.pdf">https://kwarc.info/swim/pubs/swimplus-resprop.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/swim/pubs/swimplus-resprop.pdf">https://kwarc.info/swim/pubs/swimplus-resprop.pdf</ref></bib-note>
         <bib-organization>Jacobs University Bremen</bib-organization>
         <bib-note role="annotation">Research proposal for a Ph. D. thesis</bib-note>
         <bib-url href="https://kwarc.info/swim/pubs/swimplus-resprop.pdf">Link</bib-url>
@@ -15102,7 +15102,7 @@ und Adaptivität) conference proceedings</bib-title>
           <surname>others</surname>
         </bib-name>
         <bib-title>OMDoc (from Wikipedia, the free encyclopedia)</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://en.wikipedia.org/w/index.php?title=OMDoc&amp;oldid=112340133">http://en.wikipedia.org/w/index.php?title=OMDoc&amp;oldid=112340133</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://en.wikipedia.org/w/index.php?title=OMDoc&amp;oldid=112340133">http://en.wikipedia.org/w/index.php?title=OMDoc&amp;oldid=112340133</ref></bib-note>
         <bib-data role="month">March</bib-data>
         <bib-date role="publication">2007-03</bib-date>
         <bib-related bibrefs="wikipedia" role="host"/>
@@ -15127,7 +15127,7 @@ und Adaptivität) conference proceedings</bib-title>
           <givenname>Christine</givenname>
         </bib-name>
         <bib-title>Panta Rhei: Case Study Fall2007</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/panta-rhei/papers/cs_Fall2007.pdf">https://kwarc.info/panta-rhei/papers/cs_Fall2007.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/panta-rhei/papers/cs_Fall2007.pdf">https://kwarc.info/panta-rhei/papers/cs_Fall2007.pdf</ref></bib-note>
         <bib-url href="https://kwarc.info/panta-rhei/papers/cs_Fall2007.pdf">Link</bib-url>
         <bib-data role="pubs">cmueller,jem</bib-data>
         <bib-date role="publication">2007</bib-date>
@@ -15272,7 +15272,7 @@ und Adaptivität) conference proceedings</bib-title>
       pubs = {bscthesis}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 625 **** -->      <bibentry key="AceKoh:OMMI14" type="inproceedings" xml:id="bib.bib624">
+      <bibentry key="AceKoh:OMMI14" type="inproceedings" xml:id="bib.bib624">
         <bib-name role="author">
           <surname>Acevedo</surname>
           <givenname>Carmela</givenname>
@@ -15879,7 +15879,7 @@ und Adaptivität) conference proceedings</bib-title>
       pubs = {frabe,mmt}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 650 **** -->      <bibentry key="Mance:bsc" type="thesis" xml:id="bib.bib649">
+      <bibentry key="Mance:bsc" type="thesis" xml:id="bib.bib649">
         <bib-name role="author">
           <surname>Mance</surname>
           <givenname>Felix</givenname>
@@ -16644,7 +16644,7 @@ und Adaptivität) conference proceedings</bib-title>
       pubs = {frabe,mmt}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 675 **** -->      <bibentry key="rabe:graphs:07" type="inproceedings" xml:id="bib.bib674">
+      <bibentry key="rabe:graphs:07" type="inproceedings" xml:id="bib.bib674">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -16752,13 +16752,7 @@ und Adaptivität) conference proceedings</bib-title>
           <surname>Schmitt</surname>
           <givenname>P.</givenname>
         </bib-name>
-        <bib-title>A Sequent Calculus for a First-order Dynamic Logic with Trace Modalities for Promela<Math mode="inline" tex="{}^{+}" text="^+" xml:id="bib.bib678.m1">
-            <XMath>
-              <XMApp role="FLOATSUPERSCRIPT" scriptpos="1">
-                <XMTok fontsize="70%" meaning="plus" role="ADDOP">+</XMTok>
-              </XMApp>
-            </XMath>
-          </Math></bib-title>
+        <bib-title>A Sequent Calculus for a First-order Dynamic Logic with Trace Modalities for Promela<sup>+</sup></bib-title>
         <bib-related role="host" type="proceedings">
           <bib-title>Short Paper Proceedings of the International Conference on Logic for Programming, Artificial Intelligence, and Reasoning</bib-title>
           <bib-name role="editor">
@@ -16966,7 +16960,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="LATIN:url" type="misc" xml:id="bib.bib687">
         <bib-related bibrefs="LATIN:base" role="host"/>
         <bib-key>LATIN</bib-key>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://latin.omdoc.org">http://latin.omdoc.org</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://latin.omdoc.org">http://latin.omdoc.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{LATIN:url,
   crossref = {LATIN:base},
        key = {LATIN},
@@ -17009,7 +17003,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="LATIN2:url" type="misc" xml:id="bib.bib690">
         <bib-related bibrefs="LATIN2:base" role="host"/>
         <bib-key>LATIN2</bib-key>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://latin.omdoc.org">http://latin.omdoc.org</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://latin.omdoc.org">http://latin.omdoc.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{LATIN2:url,
   crossref = {LATIN2:base},
        key = {LATIN2},
@@ -17038,7 +17032,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="TetraPod:url" type="misc" xml:id="bib.bib693">
         <bib-related bibrefs="TetraPod:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://trac.mathweb.org/tetrapod/">https://trac.mathweb.org/tetrapod/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://trac.mathweb.org/tetrapod/">https://trac.mathweb.org/tetrapod/</ref></bib-note>
         <bib-key>TP</bib-key>
         <bib-data role="self" type="BibTeX">@misc{TetraPod:url,
   crossref = {TetraPod:base},
@@ -17069,7 +17063,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="OMDoc:URL" type="misc" xml:id="bib.bib696">
         <bib-related bibrefs="OMDoc:base" role="host"/>
         <bib-key>OMDoc</bib-key>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://omdoc.org">http://omdoc.org</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://omdoc.org">http://omdoc.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{OMDoc:URL,
   crossref = {OMDoc:base},
        key = {OMDoc},
@@ -17094,13 +17088,13 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
   crossref = {JOMDoc:base}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 700 **** -->      <bibentry key="JOMDoc:web" type="misc" xml:id="bib.bib699">
+      <bibentry key="JOMDoc:web" type="misc" xml:id="bib.bib699">
         <bib-data role="label">JOMDoc</bib-data>
         <bib-key>JOMDoc</bib-key>
         <bib-related bibrefs="JOMDoc:base" role="host"/>
         <bib-note role="annotation">seen Feb.</bib-note>
         <bib-date role="publication">2010</bib-date>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://jomdoc.omdoc.org">http://jomdoc.omdoc.org</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://jomdoc.omdoc.org">http://jomdoc.omdoc.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{JOMDoc:web,
      label = {JOMDoc},
        key = {JOMDoc},
@@ -17123,7 +17117,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="PhysML:web" type="misc" xml:id="bib.bib701">
         <bib-key>PhysML</bib-key>
         <bib-title>PhysML – Capturing the Content of Physics</bib-title>
-        <bib-note role="publication">available at <ref class="ltx_url" font="typewriter" href="http://www.omdoc.org/physml/">http://www.omdoc.org/physml/</ref></bib-note>
+        <bib-note role="publication">available at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://www.omdoc.org/physml/">http://www.omdoc.org/physml/</ref></bib-note>
         <bib-url href="http://www.omdoc.org/physml/">Link</bib-url>
         <bib-note role="annotation">seen February 2008</bib-note>
         <bib-data role="self" type="BibTeX">@misc{PhysML:web,
@@ -17149,7 +17143,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="OMBase:web" type="misc" xml:id="bib.bib703">
         <bib-key>OMBase</bib-key>
         <bib-title>OMBase Project</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/ombase/">https://kwarc.info/ombase/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/ombase/">https://kwarc.info/ombase/</ref></bib-note>
         <bib-url href="https://kwarc.info/ombase/">Link</bib-url>
         <bib-note role="annotation">seen Dec. 2008</bib-note>
         <bib-data role="self" type="BibTeX">@misc{OMBase:web,
@@ -17182,7 +17176,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="locutor:trac" type="misc" xml:id="bib.bib706">
         <bib-title>The <emph font="typewriter italic">locutor</emph> project</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://locutor.kwarc.info">https://locutor.kwarc.info</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://locutor.kwarc.info">https://locutor.kwarc.info</ref></bib-note>
         <bib-date role="publication">2008</bib-date>
         <bib-related bibrefs="locutor:base" role="host"/>
         <bib-data role="self" type="BibTeX">@misc{locutor:trac,
@@ -17194,7 +17188,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="locutor:web" type="misc" xml:id="bib.bib707">
         <bib-related bibrefs="locutor:base" role="host"/>
-        <bib-note role="publication">system homepage at <ref class="ltx_url" font="typewriter" href="https://locutor.kwarc.info">https://locutor.kwarc.info</ref></bib-note>
+        <bib-note role="publication">system homepage at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://locutor.kwarc.info">https://locutor.kwarc.info</ref></bib-note>
         <bib-url href="https://locutor.kwarc.info">Link</bib-url>
         <bib-note role="annotation">seen June 2007</bib-note>
         <bib-data role="self" type="BibTeX">@misc{locutor:web,
@@ -17237,7 +17231,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="OMDocDocOnto:web" type="misc" xml:id="bib.bib711">
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://old.kwarc.info/docOnto/omdoc.html">http://old.kwarc.info/docOnto/omdoc.html</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://old.kwarc.info/docOnto/omdoc.html">http://old.kwarc.info/docOnto/omdoc.html</ref></bib-note>
         <bib-note role="annotation">seen 2/2012</bib-note>
         <bib-related bibrefs="OMDocDocOnto:base" role="host"/>
         <bib-data role="self" type="BibTeX">@misc{OMDocDocOnto:web,
@@ -17262,7 +17256,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="KWARC:web" type="misc" xml:id="bib.bib713">
         <bib-key>KW</bib-key>
         <bib-related bibrefs="KWARC:base" role="host"/>
-        <bib-note role="publication">Webpage at<ref class="ltx_url" font="typewriter" href="https://kwarc.info/">https://kwarc.info/</ref></bib-note>
+        <bib-note role="publication">Webpage at<ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/">https://kwarc.info/</ref></bib-note>
         <bib-note role="annotation">seen June 2008</bib-note>
         <bib-data role="self" type="BibTeX">@misc{KWARC:web,
        key = {{KW}},
@@ -17340,7 +17334,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
 </bib-data>
       </bibentry>
       <bibentry key="JOBAD:web" type="misc" xml:id="bib.bib721">
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://jomdoc.omdoc.org/wiki/JOBAD">http://jomdoc.omdoc.org/wiki/JOBAD</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://jomdoc.omdoc.org/wiki/JOBAD">http://jomdoc.omdoc.org/wiki/JOBAD</ref></bib-note>
         <bib-date role="publication">2008</bib-date>
         <bib-related bibrefs="JOBAD:base" role="host"/>
         <bib-data role="self" type="BibTeX">@misc{JOBAD:web,
@@ -17369,7 +17363,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
        url = {https://github.com/KWARC/JOBAD}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 725 **** -->      <bibentry key="docOnto:web" type="misc" xml:id="bib.bib724">
+      <bibentry key="docOnto:web" type="misc" xml:id="bib.bib724">
         <bib-name role="author">
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
@@ -17406,7 +17400,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:GenCSI:url" type="misc" xml:id="bib.bib726">
         <bib-related bibrefs="Kohlhase:GenCSI:base" role="host"/>
-        <bib-note role="publication">Online course notes at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS1/notes.pdf">https://kwarc.info/teaching/GenCS1/notes.pdf</ref></bib-note>
+        <bib-note role="publication">Online course notes at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS1/notes.pdf">https://kwarc.info/teaching/GenCS1/notes.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Kohlhase:GenCSI:url,
   crossref = {Kohlhase:GenCSI:base},
@@ -17447,7 +17441,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:GenCSIproblems:url" type="misc" xml:id="bib.bib729">
         <bib-related bibrefs="Kohlhase:GenCSIproblems:base" role="host"/>
-        <bib-note role="publication">Online practice problems at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS1/problems.pdf">https://kwarc.info/teaching/GenCS1/problems.pdf</ref></bib-note>
+        <bib-note role="publication">Online practice problems at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS1/problems.pdf">https://kwarc.info/teaching/GenCS1/problems.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Kohlhase:GenCSIproblems:url,
   crossref = {Kohlhase:GenCSIproblems:base},
@@ -17488,7 +17482,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:GenCSIsolutions:url" type="misc" xml:id="bib.bib732">
         <bib-related bibrefs="Kohlhase:GenCSIsolutions:base" role="host"/>
-        <bib-note role="publication">Online practice problems with solutions at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS1/solutions.pdf">https://kwarc.info/teaching/GenCS1/solutions.pdf</ref></bib-note>
+        <bib-note role="publication">Online practice problems with solutions at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS1/solutions.pdf">https://kwarc.info/teaching/GenCS1/solutions.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Kohlhase:GenCSIsolutions:url,
   crossref = {Kohlhase:GenCSIsolutions:base},
@@ -17531,7 +17525,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:GenCSII:url" type="misc" xml:id="bib.bib735">
         <bib-related bibrefs="Kohlhase:GenCSII:base" role="host"/>
-        <bib-note role="publication">Online course notes at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS2/notes.pdf">https://kwarc.info/teaching/GenCS2/notes.pdf</ref></bib-note>
+        <bib-note role="publication">Online course notes at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS2/notes.pdf">https://kwarc.info/teaching/GenCS2/notes.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Kohlhase:GenCSII:url,
   crossref = {Kohlhase:GenCSII:base},
@@ -17572,7 +17566,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:GenCSIIproblems:url" type="misc" xml:id="bib.bib738">
         <bib-related bibrefs="Kohlhase:GenCSIIproblems:base" role="host"/>
-        <bib-note role="publication">Online practice problems at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS2/problems.pdf">https://kwarc.info/teaching/GenCS2/problems.pdf</ref></bib-note>
+        <bib-note role="publication">Online practice problems at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS2/problems.pdf">https://kwarc.info/teaching/GenCS2/problems.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Kohlhase:GenCSIIproblems:url,
   crossref = {Kohlhase:GenCSIIproblems:base},
@@ -17613,7 +17607,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:GenCSIIsolutions:url" type="misc" xml:id="bib.bib741">
         <bib-related bibrefs="Kohlhase:GenCSII:base" role="host"/>
-        <bib-note role="publication">Online practice problems with solutions at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS2/solutions.pdf">https://kwarc.info/teaching/GenCS2/solutions.pdf</ref></bib-note>
+        <bib-note role="publication">Online practice problems with solutions at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/teaching/GenCS2/solutions.pdf">https://kwarc.info/teaching/GenCS2/solutions.pdf</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Kohlhase:GenCSIIsolutions:url,
   crossref = {Kohlhase:GenCSII:base},
@@ -17655,7 +17649,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="Kohlhase:LBS:url" type="misc" xml:id="bib.bib744">
         <bib-related bibrefs="Kohlhase:LBS:base" role="host"/>
         <bib-key>LBS</bib-key>
-        <bib-note role="publication">Online course notes at <ref class="ltx_url" font="typewriter" href="https://kwarc.info/teaching/LBS/notes.pdf">https://kwarc.info/teaching/LBS/notes.pdf</ref></bib-note>
+        <bib-note role="publication">Online course notes at <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/teaching/LBS/notes.pdf">https://kwarc.info/teaching/LBS/notes.pdf</ref></bib-note>
         <bib-date role="publication">2020</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Kohlhase:LBS:url,
   crossref = {Kohlhase:LBS:base},
@@ -17748,10 +17742,10 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
      label = {arXMLiv}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 750 **** -->      <bibentry key="arXMLiv-buildsys:URL" type="misc" xml:id="bib.bib749">
+      <bibentry key="arXMLiv-buildsys:URL" type="misc" xml:id="bib.bib749">
         <bib-related bibrefs="arXMLiv-buildsys:base" role="host"/>
         <bib-note role="annotation">seen May 2010</bib-note>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://arxmliv.kwarc.info">http://arxmliv.kwarc.info</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://arxmliv.kwarc.info">http://arxmliv.kwarc.info</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{arXMLiv-buildsys:URL,
   crossref = {arXMLiv-buildsys:base},
       note = {seen  May 2010},
@@ -17781,7 +17775,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       <bibentry key="arXMLiv-frontend:URL" type="misc" xml:id="bib.bib752">
         <bib-related bibrefs="arXMLiv-frontend:base" role="host"/>
         <bib-note role="annotation">seen Sept. 2010</bib-note>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://arxivdemo.mathweb.org">http://arxivdemo.mathweb.org</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://arxivdemo.mathweb.org">http://arxivdemo.mathweb.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{arXMLiv-frontend:URL,
   crossref = {arXMLiv-frontend:base},
       note = {seen  Sept.      2010},
@@ -17808,7 +17802,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="URL:arXMLiv" type="misc" xml:id="bib.bib755">
         <bib-related bibrefs="arXMLiv:base" role="host"/>
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/">http://trac.kwarc.info/arXMLiv/</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/">http://trac.kwarc.info/arXMLiv/</ref></bib-note>
         <bib-note role="annotation">seen April 2010</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:arXMLiv,
   crossref = {arXMLiv:base},
@@ -17838,7 +17832,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="URL:demo:arXMLiv" type="misc" xml:id="bib.bib758">
         <bib-related bibrefs="arXMLiv:demo:base" role="host"/>
-        <bib-note role="publication">Webpage at<ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/wiki/Demo">http://trac.kwarc.info/arXMLiv/wiki/Demo</ref></bib-note>
+        <bib-note role="publication">Webpage at<ref class="ltx_nolink ltx_url" font="typewriter" href="http://trac.kwarc.info/arXMLiv/wiki/Demo">http://trac.kwarc.info/arXMLiv/wiki/Demo</ref></bib-note>
         <bib-note role="annotation">seen March 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:demo:arXMLiv,
   crossref = {arXMLiv:demo:base},
@@ -17868,7 +17862,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="URL:sTeXIDE" type="misc" xml:id="bib.bib761">
         <bib-related bibrefs="sTeXIDE:base" role="host"/>
-        <bib-note role="publication">Project page at <ref class="ltx_url" font="typewriter" href="http://stexide.googlecode.com/">http://stexide.googlecode.com/</ref></bib-note>
+        <bib-note role="publication">Project page at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://stexide.googlecode.com/">http://stexide.googlecode.com/</ref></bib-note>
         <bib-note role="annotation">seen April 2010</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:sTeXIDE,
   crossref = {sTeXIDE:base},
@@ -18308,7 +18302,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 775 **** -->      <bibentry key="HuKe94b" type="inproceedings" xml:id="bib.bib774">
+      <bibentry key="HuKe94b" type="inproceedings" xml:id="bib.bib774">
         <bib-name role="author">
           <surname>Huang</surname>
           <givenname>Xiaorong</givenname>
@@ -18391,7 +18385,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>S<text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text>: a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-based workflow for OMDoc</bib-title>
+        <bib-title>S<text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text>: a <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>-based workflow for OMDoc</bib-title>
         <bib-part role="chapter">26.15</bib-part>
         <bib-related bibrefs="Kohlhase:OMDoc1.2" role="host"/>
         <bib-data role="pubs">mkohlhase,omdoc</bib-data>
@@ -18850,7 +18844,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 800 **** -->      <bibentry key="KohSut:amcas02" type="inproceedings" xml:id="bib.bib799">
+      <bibentry key="KohSut:amcas02" type="inproceedings" xml:id="bib.bib799">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -19066,7 +19060,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
           <givenname>Vyacheslav</givenname>
         </bib-name>
         <bib-title>Sandbox for Balisage 2010 – Virtual Documents</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://tntbase.org/wiki/balisage2010">http://tntbase.org/wiki/balisage2010</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://tntbase.org/wiki/balisage2010">http://tntbase.org/wiki/balisage2010</ref></bib-note>
         <bib-url href="http://tntbase.org/wiki/balisage2010">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{TNTVDUseCases:URL,
        key = {TNTVDUseCases},
@@ -19116,7 +19110,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>The OMDoc RelaxNG schema</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://omdoc.org/rnc/omdoc.rnc">http://omdoc.org/rnc/omdoc.rnc</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://omdoc.org/rnc/omdoc.rnc">http://omdoc.org/rnc/omdoc.rnc</ref></bib-note>
         <bib-url href="http://omdoc.org/rnc/omdoc.rnc">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{OMDocRNC:URL,
        key = {OMDocRNC},
@@ -19133,7 +19127,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>The OMDoc XML schema</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://omdoc.org/rnc/omdoc.xsd">http://omdoc.org/rnc/omdoc.xsd</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://omdoc.org/rnc/omdoc.xsd">http://omdoc.org/rnc/omdoc.xsd</ref></bib-note>
         <bib-url href="http://omdoc.org/rnc/omdoc.xsd">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{OMDocXSD:URL,
        key = {OMDocXSD},
@@ -19150,7 +19144,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>XSL style sheets for OMDoc</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://omdoc.org/xsl/">http://omdoc.org/xsl/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://omdoc.org/xsl/">http://omdoc.org/xsl/</ref></bib-note>
         <bib-url href="http://omdoc.org/xsl/">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{OMDocXSL:URL,
        key = {OMDocXSL},
@@ -19168,7 +19162,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
         </bib-name>
         <bib-title>OMDoc mailing lists</bib-title>
         <bib-note role="annotation">seen May 2008</bib-note>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://omdoc.org/resources/mailing-lists.html">http://omdoc.org/resources/mailing-lists.html</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://omdoc.org/resources/mailing-lists.html">http://omdoc.org/resources/mailing-lists.html</ref></bib-note>
         <bib-url href="http://omdoc.org/resources/mailing-lists.html">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{OMDoc-mailinglists:URL,
        key = {OMDoc Mailing Lists},
@@ -19413,7 +19407,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
         </bib-name>
         <bib-title>The OMDoc Document Type Definition</bib-title>
         <bib-url href="http://omdoc.org/dtd/omdoc.dtd">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://omdoc.org/dtd/omdoc.dtd">http://omdoc.org/dtd/omdoc.dtd</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://omdoc.org/dtd/omdoc.dtd">http://omdoc.org/dtd/omdoc.dtd</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{OMDocDTD:URL,
        key = {OMDocDTD},
     author = {Michael Kohlhase},
@@ -19422,7 +19416,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
  howpublished = {\url{http://omdoc.org/dtd/omdoc.dtd}}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 825 **** -->      <bibentry key="FormalSafeProposal" type="unpublished" xml:id="bib.bib824">
+      <bibentry key="FormalSafeProposal" type="unpublished" xml:id="bib.bib824">
         <bib-name role="author">
           <surname>Krieg-Brückner</surname>
           <givenname>Bernd</givenname>
@@ -19473,7 +19467,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       </bibentry>
       <bibentry key="MWSProj:url" type="misc" xml:id="bib.bib826">
         <bib-related bibrefs="MWSProj:base" role="host"/>
-        <bib-note role="publication">Project page at <ref class="ltx_url" font="typewriter" href="http://search.mathweb.org">http://search.mathweb.org</ref></bib-note>
+        <bib-note role="publication">Project page at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://search.mathweb.org">http://search.mathweb.org</ref></bib-note>
         <bib-data role="self" type="BibTeX">@misc{MWSProj:url,
   crossref = {MWSProj:base},
  howpublished = {Project page at \url{http://search.mathweb.org}}}
@@ -20196,7 +20190,7 @@ Integration of Computer Algebra and Deduction Systems</bib-title>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 850 **** -->      <bibentry key="BenKohBro:hose03" type="report" xml:id="bib.bib849">
+      <bibentry key="BenKohBro:hose03" type="report" xml:id="bib.bib849">
         <bib-name role="author">
           <surname>Benzmüller</surname>
           <givenname>Christoph</givenname>
@@ -20961,7 +20955,7 @@ Linguistics</bib-title>
       pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 875 **** -->      <bibentry key="GarKohLeu:cahou96" type="inproceedings" xml:id="bib.bib874">
+      <bibentry key="GarKohLeu:cahou96" type="inproceedings" xml:id="bib.bib874">
         <bib-name role="author">
           <surname>Gardent</surname>
           <givenname>Claire</givenname>
@@ -21738,7 +21732,7 @@ International Conference SITE 2006</bib-title>
       pubs = {akohlhase,cpoint}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 900 **** -->      <bibentry key="JesKohSei:DMV04" type="article" xml:id="bib.bib899">
+      <bibentry key="JesKohSei:DMV04" type="article" xml:id="bib.bib899">
         <bib-title>eLearning-, eTeaching- &amp; eResearch-technologien – Chancen und Potentiale für die Mathematik</bib-title>
         <bib-name role="author">
           <surname>Jeschke</surname>
@@ -22272,7 +22266,7 @@ e-Learning</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Semantic markup for <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text>/<text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
+        <bib-title>Semantic markup for <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text>/<text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text></bib-title>
         <bib-related bibrefs="MathUI04" role="host"/>
         <bib-data role="pubs">mkohlhase,sTeX</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{Kohlhase04:stex,
@@ -22306,7 +22300,7 @@ e-Learning</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Creating OMDoc representations from <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
+        <bib-title>Creating OMDoc representations from <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text></bib-title>
         <bib-type>Internet Draft</bib-type>
         <bib-url href="http://omdoc.org/pubs">Link</bib-url>
         <bib-date role="publication">2000</bib-date>
@@ -22318,7 +22312,7 @@ e-Learning</bib-title>
       year = {2000}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 925 **** -->      <bibentry key="Kohlhase:ftga13" type="website" xml:id="bib.bib924">
+      <bibentry key="Kohlhase:ftga13" type="website" xml:id="bib.bib924">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -22564,7 +22558,7 @@ e-Learning</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Using <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> as a semantic markup format</bib-title>
+        <bib-title>Using <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> as a semantic markup format</bib-title>
         <bib-related role="host" type="journal">
           <bib-title>Mathematics in Computer Science</bib-title>
         </bib-related>
@@ -22988,7 +22982,7 @@ ILPS’93</bib-title>
       pubs = {mkohlhase,comma}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 950 **** -->      <bibentry key="KohSch99:homvr" type="article" xml:id="bib.bib949">
+      <bibentry key="KohSch99:homvr" type="article" xml:id="bib.bib949">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -23457,7 +23451,7 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="planetmathredux" type="misc" xml:id="bib.bib961">
         <bib-related bibrefs="planetmathredux:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://planetmath.mathweb.org">http://planetmath.mathweb.org</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://planetmath.mathweb.org">http://planetmath.mathweb.org</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{planetmathredux,
   crossref = {planetmathredux:base},
@@ -23487,7 +23481,7 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="pantarheiredux" type="misc" xml:id="bib.bib964">
         <bib-related bibrefs="pantarheiredux:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://planetary.mathweb.org/wiki/PantaRheiRedux">http://planetary.mathweb.org/wiki/PantaRheiRedux</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://planetary.mathweb.org/wiki/PantaRheiRedux">http://planetary.mathweb.org/wiki/PantaRheiRedux</ref></bib-note>
         <bib-note role="annotation">seen September 2010</bib-note>
         <bib-data role="self" type="BibTeX">@misc{pantarheiredux,
   crossref = {pantarheiredux:base},
@@ -23511,7 +23505,7 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="MathWebSearch:Web" type="misc" xml:id="bib.bib966">
         <bib-related bibrefs="URL:MathWebSearch:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://trac.mathweb.org/MWS/">https://trac.mathweb.org/MWS/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://trac.mathweb.org/MWS/">https://trac.mathweb.org/MWS/</ref></bib-note>
         <bib-note role="annotation">seen Jan. 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{MathWebSearch:Web,
   crossref = {URL:MathWebSearch:base},
@@ -23529,7 +23523,7 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="URL:MathWebSearch" type="misc" xml:id="bib.bib968">
         <bib-related bibrefs="URL:MathWebSearch:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://trac.mathweb.org/MWS/">https://trac.mathweb.org/MWS/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://trac.mathweb.org/MWS/">https://trac.mathweb.org/MWS/</ref></bib-note>
         <bib-note role="annotation">seen Jan. 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{URL:MathWebSearch,
   crossref = {URL:MathWebSearch:base},
@@ -23553,7 +23547,7 @@ Education Systems</bib-title>
         <bib-data role="label">LP</bib-data>
         <bib-url href="http://github.com/KWARC/LaTeX-proposal/">Link</bib-url>
         <bib-data role="urldate">2017-09-13</bib-data>
-        <bib-title>LaTeX-proposal: a set of <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> classes for preparing grant proposals</bib-title>
+        <bib-title>LaTeX-proposal: a set of <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> classes for preparing grant proposals</bib-title>
         <bib-data role="self" type="BibTeX">@online{LaTeX-proposal:git,
      label = {LP},
        url = {http://github.com/KWARC/LaTeX-proposal/},
@@ -23563,14 +23557,14 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:pplp:ctan" type="report" xml:id="bib.bib971">
         <bib-related bibrefs="Kohlhase:pplp:base" role="host"/>
-        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/base/proposal.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
+        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
         <bib-date role="publication">2024</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:ctan,
@@ -23590,7 +23584,7 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
+        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
         <bib-date role="publication">2024</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:git,
@@ -23606,8 +23600,8 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
-        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
+        <bib-title>Preparing proposals in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">proposal.cls</text></bib-title>
+        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> package</bib-type>
         <bib-date role="publication">2024</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pplp:base,
     author = {Michael Kohlhase},
@@ -23616,16 +23610,16 @@ Education Systems</bib-title>
       year = {2024}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 975 **** -->      <bibentry key="Kohlhase:pdrp:ctan" type="report" xml:id="bib.bib974">
+      <bibentry key="Kohlhase:pdrp:ctan" type="report" xml:id="bib.bib974">
         <bib-related bibrefs="Kohlhase:pdrp:base" role="host"/>
-        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/dfg/dfgproposal.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
+        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
         <bib-date role="publication">2024</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:ctan,
@@ -23645,7 +23639,7 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
+        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
         <bib-date role="publication">2024</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:git,
@@ -23661,8 +23655,8 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
-        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
+        <bib-title>Preparing dfg proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">dfgproposal.cls</text></bib-title>
+        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> package</bib-type>
         <bib-date role="publication">2024</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pdrp:base,
     author = {Michael Kohlhase},
@@ -23673,14 +23667,14 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:pfepr:ctan" type="report" xml:id="bib.bib977">
         <bib-related bibrefs="Kohlhase:pfepr:base" role="host"/>
-        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="http://mirror.ctan.org/macros/latex/contrib/proposal/eu/euproposal.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
+        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
         <bib-date role="publication">2024</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:ctan,
@@ -23700,7 +23694,7 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
+        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
         <bib-date role="publication">2024</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:git,
@@ -23716,8 +23710,8 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
-        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
+        <bib-title>Preparing fp7 eu proposals and reports in <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> with <text font="typewriter">euproposal.cls</text></bib-title>
+        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> package</bib-type>
         <bib-date role="publication">2024</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:pfepr:base,
     author = {Michael Kohlhase},
@@ -23728,14 +23722,14 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:ed:ctan" type="report" xml:id="bib.bib980">
         <bib-related bibrefs="Kohlhase:ed:base" role="host"/>
-        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text yoffset="-0.4ex">E</text>X</text> Archive Network (CTAN)</bib-organization>
+        <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="https://ctan.org/tex-archive/macros/latex/contrib/ed/ed.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase</bib-data>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
+        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text></bib-title>
         <bib-date role="publication">2024</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:ctan,
@@ -23755,7 +23749,7 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
+        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text></bib-title>
         <bib-date role="publication">2024</bib-date>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:git,
@@ -23771,8 +23765,8 @@ Education Systems</bib-title>
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text></bib-title>
-        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text> package</bib-type>
+        <bib-title>Editorial notes for <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text></bib-title>
+        <bib-type>Self-documenting <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text> package</bib-type>
         <bib-date role="publication">2024</bib-date>
         <bib-data role="self" type="BibTeX">@techreport{Kohlhase:ed:base,
     author = {Michael Kohlhase},
@@ -24023,7 +24017,7 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="krextor" type="misc" xml:id="bib.bib995">
         <bib-related bibrefs="krextor:base" role="host"/>
-        <bib-note role="publication">Webpage at<ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/krextor/">http://trac.kwarc.info/krextor/</ref></bib-note>
+        <bib-note role="publication">Webpage at<ref class="ltx_nolink ltx_url" font="typewriter" href="http://trac.kwarc.info/krextor/">http://trac.kwarc.info/krextor/</ref></bib-note>
         <bib-data role="month">January</bib-data>
         <bib-date role="publication">2013-01</bib-date>
         <bib-data role="self" type="BibTeX">@misc{krextor,
@@ -24093,7 +24087,7 @@ Education Systems</bib-title>
      title = {{OpenMath} Wiki}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1000 **** -->      <bibentry key="RDFaHostLanguages" type="website" xml:id="bib.bib999">
+      <bibentry key="RDFaHostLanguages" type="website" xml:id="bib.bib999">
         <bib-name role="author">
           <surname>Inkster</surname>
           <givenname>Toby A.</givenname>
@@ -24166,7 +24160,7 @@ Education Systems</bib-title>
           <givenname>Sean</givenname>
         </bib-name>
         <bib-title>The Flyspeck wiki case study</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://mathweb.org/wiki/Flyspeck">http://mathweb.org/wiki/Flyspeck</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://mathweb.org/wiki/Flyspeck">http://mathweb.org/wiki/Flyspeck</ref></bib-note>
         <bib-url href="http://mathweb.org/wiki/Flyspeck">Link</bib-url>
         <bib-note role="annotation">seen November 2007</bib-note>
         <bib-data role="self" type="BibTeX">@misc{flyspeck-wiki:web,
@@ -24188,7 +24182,7 @@ Education Systems</bib-title>
         <bib-name role="author">
           <surname>others</surname>
         </bib-name>
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/swim/">http://trac.kwarc.info/swim/</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://trac.kwarc.info/swim/">http://trac.kwarc.info/swim/</ref></bib-note>
         <bib-url href="http://trac.kwarc.info/swim/">Link</bib-url>
         <bib-note role="annotation">seen September 2007</bib-note>
         <bib-data role="self" type="BibTeX">@misc{swim-bugzilla,
@@ -24206,7 +24200,7 @@ Education Systems</bib-title>
           <surname>Lange</surname>
           <givenname>Christoph</givenname>
         </bib-name>
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://trac.kwarc.info/swim/roadmap/">http://trac.kwarc.info/swim/roadmap/</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://trac.kwarc.info/swim/roadmap/">http://trac.kwarc.info/swim/roadmap/</ref></bib-note>
         <bib-url href="http://trac.kwarc.info/swim/roadmap/">Link</bib-url>
         <bib-note role="annotation">seen November 2007</bib-note>
         <bib-data role="self" type="BibTeX">@misc{swim-roadmap,
@@ -24405,7 +24399,7 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="Kohlhase:PlanetGenCS:url" type="misc" xml:id="bib.bib1020">
         <bib-related bibrefs="Kohlhase:PlanetGenCS:base" role="host"/>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://panta.kwarc.info/GenCS">http://panta.kwarc.info/GenCS</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://panta.kwarc.info/GenCS">http://panta.kwarc.info/GenCS</ref></bib-note>
         <bib-date role="publication">2011</bib-date>
         <bib-data role="self" type="BibTeX">@misc{Kohlhase:PlanetGenCS:url,
   crossref = {Kohlhase:PlanetGenCS:base},
@@ -24460,9 +24454,9 @@ Education Systems</bib-title>
      label = {PR}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1025 **** -->      <bibentry key="PlanetGenCS:URL" type="misc" xml:id="bib.bib1024">
+      <bibentry key="PlanetGenCS:URL" type="misc" xml:id="bib.bib1024">
         <bib-related bibrefs="PantaRhei:base" role="host"/>
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://panta.kwarc.info">http://panta.kwarc.info</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://panta.kwarc.info">http://panta.kwarc.info</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{PlanetGenCS:URL,
   crossref = {PantaRhei:base},
@@ -24490,7 +24484,7 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="PlanetLATIN:URL" type="misc" xml:id="bib.bib1027">
         <bib-related bibrefs="PlanetLATIN:base" role="host"/>
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="logicatlas.omdoc.org">logicatlas.omdoc.org</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="logicatlas.omdoc.org">logicatlas.omdoc.org</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{PlanetLATIN:URL,
   crossref = {PlanetLATIN:base},
@@ -24516,7 +24510,7 @@ Education Systems</bib-title>
       </bibentry>
       <bibentry key="PlanetBox:URL" type="misc" xml:id="bib.bib1030">
         <bib-related bibrefs="PlanetBox:base" role="host"/>
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://planetbox.kwarc.info">http://planetbox.kwarc.info</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://planetbox.kwarc.info">http://planetbox.kwarc.info</ref></bib-note>
         <bib-note role="annotation">seen January 2011</bib-note>
         <bib-data role="self" type="BibTeX">@misc{PlanetBox:URL,
   crossref = {PlanetBox:base},
@@ -25025,7 +25019,7 @@ Education Systems</bib-title>
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1050 **** -->      <bibentry key="KohKoh:tcmff10" type="unpublished" xml:id="bib.bib1049">
+      <bibentry key="KohKoh:tcmff10" type="unpublished" xml:id="bib.bib1049">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -25145,7 +25139,7 @@ Education Systems</bib-title>
                   Knowledge</bib-data>
         <bib-date role="publication">2009</bib-date>
         <bib-url href="https://kwarc.info/publications/papers/KLMMR_NfAD.pdf">Link</bib-url>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/publications/papers/KLMMR_NfAD.pdf">https://kwarc.info/publications/papers/KLMMR_NfAD.pdf</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/publications/papers/KLMMR_NfAD.pdf">https://kwarc.info/publications/papers/KLMMR_NfAD.pdf</ref></bib-note>
         <bib-data role="self" type="BibTeX">@unpublished{KLMMR:NfAD,
      title = {Notations for Active Mathematical Documents},
     author = {Michael Kohlhase and Christoph Lange and Christine M{\"u}ller and Normen M{\"u}ller and Florian Rabe},
@@ -25194,7 +25188,7 @@ Education Systems</bib-title>
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>XSLT Stylesheet for converting OMDoc documents into XHTML.</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="https://kwarc.info/xslt">https://kwarc.info/xslt</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/xslt">https://kwarc.info/xslt</ref></bib-note>
         <bib-url href="https://kwarc.info/xslt">Link</bib-url>
         <bib-note role="annotation">seen January 2008</bib-note>
         <bib-data role="self" type="BibTeX">@misc{xslt:web,
@@ -25359,7 +25353,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       <bibentry key="OMDoc:wiki" type="misc" xml:id="bib.bib1064">
         <bib-key>OMDoc Wiki</bib-key>
         <bib-title>The OMDoc wiki</bib-title>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://www.mathweb.org/omdoc/wiki/">http://www.mathweb.org/omdoc/wiki/</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://www.mathweb.org/omdoc/wiki/">http://www.mathweb.org/omdoc/wiki/</ref></bib-note>
         <bib-url href="http://www.mathweb.org/omdoc/wiki/">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{OMDoc:wiki,
        key = {OMDoc Wiki},
@@ -25371,7 +25365,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       <bibentry key="OMDocUG:web" type="misc" xml:id="bib.bib1065">
         <bib-key>OMDoc</bib-key>
         <bib-title>People involved with the OMDoc project</bib-title>
-        <bib-note role="publication">Webpage at <ref class="ltx_url" font="typewriter" href="http://omdoc.org/people.html">http://omdoc.org/people.html</ref></bib-note>
+        <bib-note role="publication">Webpage at <ref class="ltx_nolink ltx_url" font="typewriter" href="http://omdoc.org/people.html">http://omdoc.org/people.html</ref></bib-note>
         <bib-url href="http://omdoc.org/people.html">Link</bib-url>
         <bib-note role="annotation">seen July 2005</bib-note>
         <bib-data role="self" type="BibTeX">@misc{OMDocUG:web,
@@ -25412,7 +25406,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
         </bib-name>
-        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ML daemon: editable math for the collaborative web</bib-title>
+        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>ML daemon: editable math for the collaborative web</bib-title>
         <bib-url href="http://latexml.mathweb.org">Link</bib-url>
         <bib-data role="urldate">2012-03-31</bib-data>
         <bib-data role="pubs">dginev,comma</bib-data>
@@ -25429,7 +25423,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
           <surname>Ginev</surname>
           <givenname>Deyan</givenname>
         </bib-name>
-        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>ML web showcase</bib-title>
+        <bib-title>The <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>ML web showcase</bib-title>
         <bib-url href="http://latexml.mathweb.org/editor">Link</bib-url>
         <bib-data role="urldate">2013-03-12</bib-data>
         <bib-data role="pubs">dginev,arXMLiv</bib-data>
@@ -25529,7 +25523,7 @@ Special Issue dedicated to Bernd Krieg-Brückner on the Occasion of his 60th Bir
       pubs = {clange,ontoiop}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1075 **** -->      <bibentry key="Ontohub" type="website" xml:id="bib.bib1074">
+      <bibentry key="Ontohub" type="website" xml:id="bib.bib1074">
         <bib-name role="author">
           <surname>Couto Vale</surname>
           <givenname>Daniel</givenname>
@@ -25882,7 +25876,7 @@ Sandro Wartzack},
       </bibentry>
       <bibentry key="BreiCodJuc:ssedp13" type="unpublished" xml:id="bib.bib1089">
         <bib-related bibrefs="BreiCodJuc:ssedp13:biblatex" role="host"/>
-        <bib-note role="annotation">see <ref class="ltx_url" font="typewriter" href="https://kwarc.info/kohlhase/papers/fm13.pdf">https://kwarc.info/kohlhase/papers/fm13.pdf</ref></bib-note>
+        <bib-note role="annotation">see <ref class="ltx_nolink ltx_url" font="typewriter" href="https://kwarc.info/kohlhase/papers/fm13.pdf">https://kwarc.info/kohlhase/papers/fm13.pdf</ref></bib-note>
         <bib-name role="author">
           <surname>Breitsprecher</surname>
           <givenname>Thilo</givenname>
@@ -26027,7 +26021,7 @@ Sandro Wartzack},
       <bibentry key="SMGloM:URL" type="misc" xml:id="bib.bib1097">
         <bib-related bibrefs="SMGloM:base" role="host"/>
         <bib-key>SMG</bib-key>
-        <bib-note role="publication"><ref class="ltx_url" font="typewriter" href="http://smglom.mathhub.info">http://smglom.mathhub.info</ref></bib-note>
+        <bib-note role="publication"><ref class="ltx_nolink ltx_url" font="typewriter" href="http://smglom.mathhub.info">http://smglom.mathhub.info</ref></bib-note>
         <bib-note role="annotation">System home page seen 2014-04-21</bib-note>
         <bib-data role="self" type="BibTeX">@misc{SMGloM:URL,
   crossref = {SMGloM:base},
@@ -26046,7 +26040,7 @@ Sandro Wartzack},
    urldate = {2014-04-21}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1100 **** -->      <bibentry key="SMGloM:base" type="misc" xml:id="bib.bib1099">
+      <bibentry key="SMGloM:base" type="misc" xml:id="bib.bib1099">
         <bib-title>SMGloM: a semantic, multilingual terminology for mathematics</bib-title>
         <bib-url href="http://smglom.mathhub.info">Link</bib-url>
         <bib-data role="self" type="BibTeX">@misc{SMGloM:base,
@@ -26067,7 +26061,7 @@ Sandro Wartzack},
 </bib-data>
       </bibentry>
       <bibentry key="KohKoh:sdsaloc14" type="inproceedings" xml:id="bib.bib1101">
-        <bib-title>System description: a semantics-aware <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">L<text fontsize="80%" yoffset="0.4ex">A</text>T<text yoffset="-0.4ex">E</text>X</text>-to-office converter</bib-title>
+        <bib-title>System description: a semantics-aware <text class="ltx_LaTeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.1em">L<text cssstyle="font-variant:small-caps;" yoffset="0.4ex">a</text>T<text cssstyle="font-variant:small-caps;font-size:120%" yoffset="-0.2ex">e</text>X</text>-to-office converter</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Lukas</givenname>
@@ -26592,7 +26586,7 @@ Sandro Wartzack},
       year = {2015}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1125 **** -->      <bibentry key="ODK-D3.3" type="report" xml:id="bib.bib1124">
+      <bibentry key="ODK-D3.3" type="report" xml:id="bib.bib1124">
         <bib-name role="author">
           <surname>Luca De Feo</surname>
           <givenname>Steve Linton</givenname>
@@ -27257,7 +27251,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-name>
         <bib-title>Universality of Proofs (Dagstuhl Seminar 16421)</bib-title>
         <bib-date role="publication">2017</bib-date>
-        <bib-note role="annotation">see <ref class="ltx_url" font="typewriter" href="http://drops.dagstuhl.de/opus/volltexte/2017/6951/">http://drops.dagstuhl.de/opus/volltexte/2017/6951/</ref></bib-note>
+        <bib-note role="annotation">see <ref class="ltx_nolink ltx_url" font="typewriter" href="http://drops.dagstuhl.de/opus/volltexte/2017/6951/">http://drops.dagstuhl.de/opus/volltexte/2017/6951/</ref></bib-note>
         <bib-part role="pages">75–98</bib-part>
         <bib-related role="host" type="journal">
           <bib-title>Dagstuhl Reports by Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik</bib-title>
@@ -27426,7 +27420,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-<!--  %**** String Line 1150 **** -->      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib1149">
+      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib1149">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
