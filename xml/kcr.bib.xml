@@ -13,6 +13,7 @@
         <bib-type>Bachelor Project Report</bib-type>
         <bib-organization>Computer Science, FAU Erlangen-Nürnberg</bib-organization>
         <bib-date role="publication">2024</bib-date>
+        <bib-url href="https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2024/Adrian_Aurelius.pdf">Link</bib-url>
         <bib-data role="pubs">bscproject,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@masterthesis{Adrian:BATSAW24,
      title = {Building an Annotation Tool for {sTeX}-Like Annotations in Word - {WOIDE}},
@@ -20,6 +21,7 @@
       type = {Bachelor Project Report},
     school = {Computer Science, FAU Erlangen-Nürnberg},
       date = {2024},
+       url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2024/Adrian_Aurelius.pdf},
       pubs = {bscproject,voll-ki}}
 </bib-data>
       </bibentry>
@@ -332,17 +334,21 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Towards an annotation standard for stem documents – datasets, benchmarks, and spotters</bib-title>
-        <bib-related role="host" type="proceedings"><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-date role="publication">2023</bib-date><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM23,
- sooneditor = {Buzzard, Kevin and Kutsia, Temur},
+        <bib-related role="host" type="proceedings"><bib-name role="editor">
+          <surname>Dubois</surname>
+          <givenname>Catherine</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Kerber</surname>
+          <givenname>Manfred</givenname>
+        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">14101</bib-data><bib-date role="publication">2023</bib-date><bib-identifier href="https://dx.doi.org/978-3-031-42753-4" id="978-3-031-42753-4" scheme="doi">Document</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{CICM23,
+    editor = {Catherine Dubois and Manfred Kerber},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2023},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {13467},
+ soonvolume = {14101},
       year = {2023},
-  soonisbn = {978-3-031-16680-8},
-      note = {in press},
-  keywords = {conference}}
+       doi = {978-3-031-42753-4}}
 </bib-data></bib-related>
         <bib-data role="pubs">jfschaefer,mkohlhase</bib-data>
         <bib-related role="host" type="proceedings">
@@ -459,17 +465,21 @@
         </bib-name>
         <bib-title>Learning support systems based on mathematical knowledge managment</bib-title>
         <bib-url href="https://url.mathhub.info/CICM23ALEA">Link</bib-url>
-        <bib-related role="host" type="proceedings"><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-date role="publication">2023</bib-date><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM23,
- sooneditor = {Buzzard, Kevin and Kutsia, Temur},
+        <bib-related role="host" type="proceedings"><bib-name role="editor">
+          <surname>Dubois</surname>
+          <givenname>Catherine</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Kerber</surname>
+          <givenname>Manfred</givenname>
+        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">14101</bib-data><bib-date role="publication">2023</bib-date><bib-identifier href="https://dx.doi.org/978-3-031-42753-4" id="978-3-031-42753-4" scheme="doi">Document</bib-identifier><bib-data role="self" type="BibTeX">@proceedings{CICM23,
+    editor = {Catherine Dubois and Manfred Kerber},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2023},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {13467},
+ soonvolume = {14101},
       year = {2023},
-  soonisbn = {978-3-031-16680-8},
-      note = {in press},
-  keywords = {conference}}
+       doi = {978-3-031-42753-4}}
 </bib-data></bib-related>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">voll-ki,mkohlhase,dmueller,jbetzendahl,achugh</bib-data>
@@ -37956,26 +37966,29 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
 </bib-data>
       </bibentry>
       <bibentry key="CICM23" type="proceedings" xml:id="bib.bib1216">
-        <bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data>
+        <bib-name role="editor">
+          <surname>Dubois</surname>
+          <givenname>Catherine</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Kerber</surname>
+          <givenname>Manfred</givenname>
+        </bib-name>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
-        <bib-data role="soonvolume">13467</bib-data>
+        <bib-data role="soonvolume">14101</bib-data>
         <bib-date role="publication">2023</bib-date>
-        <bib-data role="soonisbn">978-3-031-16680-8</bib-data>
-        <bib-note role="annotation">in press</bib-note>
-        <bib-extract role="keywords">conference</bib-extract>
+        <bib-identifier href="https://dx.doi.org/978-3-031-42753-4" id="978-3-031-42753-4" scheme="doi">Document</bib-identifier>
         <bib-data role="self" type="BibTeX">@proceedings{CICM23,
- sooneditor = {Buzzard, Kevin and Kutsia, Temur},
+    editor = {Catherine Dubois and Manfred Kerber},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2023},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {13467},
+ soonvolume = {14101},
       year = {2023},
-  soonisbn = {978-3-031-16680-8},
-      note = {in press},
-  keywords = {conference}}
+       doi = {978-3-031-42753-4}}
 </bib-data>
       </bibentry>
       <bibentry key="TUG23" type="proceedings" xml:id="bib.bib1217">

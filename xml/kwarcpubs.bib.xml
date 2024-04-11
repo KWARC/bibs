@@ -16,6 +16,7 @@
         <bib-type>Bachelor Project Report</bib-type>
         <bib-organization>Computer Science, FAU Erlangen-Nürnberg</bib-organization>
         <bib-date role="publication">2024</bib-date>
+        <bib-url href="https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2024/Adrian_Aurelius.pdf">Link</bib-url>
         <bib-data role="pubs">bscproject,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@masterthesis{Adrian:BATSAW24,
      title = {Building an Annotation Tool for {sTeX}-Like Annotations in Word - {WOIDE}},
@@ -23,6 +24,7 @@
       type = {Bachelor Project Report},
     school = {Computer Science, FAU Erlangen-Nürnberg},
       date = {2024},
+       url = {https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2024/Adrian_Aurelius.pdf},
       pubs = {bscproject,voll-ki}}
 </bib-data>
       </bibentry>
