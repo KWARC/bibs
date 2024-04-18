@@ -59,7 +59,7 @@
 				<xsl:text>Theresa Pollinger</xsl:text>
 			</xsl:when>
 			<xsl:when test="$id='mschuetz'">
-				<xsl:text>Theresa Pollinger</xsl:text>
+				<xsl:text>Marcel Schütz</xsl:text>
 			</xsl:when>
 			<xsl:when test="$id='mrapp'">
 				<xsl:text>Max Rapp</xsl:text>
