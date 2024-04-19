@@ -70,6 +70,7 @@
         <bib-data role="soonvolume">14101</bib-data>
         <bib-date role="publication">2023</bib-date>
         <bib-identifier href="https://dx.doi.org/978-3-031-42753-4" id="978-3-031-42753-4" scheme="doi">Document</bib-identifier>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM23,
     editor = {Catherine Dubois and Manfred Kerber},
      title = {Intelligent Computer Mathematics},
@@ -78,7 +79,8 @@
     series = {LNAI},
  soonvolume = {14101},
       year = {2023},
-       doi = {978-3-031-42753-4}}
+       doi = {978-3-031-42753-4},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="TUG23" type="proceedings" xml:id="bib.bib4">
