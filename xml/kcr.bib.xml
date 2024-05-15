@@ -151,7 +151,7 @@
       pubs = {mscthesis,comma}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohBer:PV23" type="article" xml:id="bib.bib8">
+      <bibentry key="KohBer:PV24" type="article" xml:id="bib.bib8">
         <bib-title>Project VoLL-KI – learning from learners</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -204,16 +204,16 @@
         <bib-related role="host" type="journal">
           <bib-title>Künstliche Intellienz</bib-title>
         </bib-related>
-        <bib-date role="publication">2023</bib-date>
-        <bib-note role="annotation">accepted</bib-note>
+        <bib-date role="publication">2024</bib-date>
         <bib-data role="pubs">mberges,mkohlhase,voll-ki</bib-data>
-        <bib-data role="self" type="BibTeX">@article{KohBer:PV23,
+        <bib-identifier href="https://dx.doi.org/0.1007/s13218-024-00846-9" id="0.1007/s13218-024-00846-9" scheme="doi">Document</bib-identifier>
+        <bib-data role="self" type="BibTeX">@article{KohBer:PV24,
      title = {Project {VoLL-KI} – Learning from Learners},
     author = {Michael Kohlhase and Marc Berges and Jens Grubert and Andreas Henrich and Dieter Landes and Jochen L.~Leidner and Florian Mittag and Daniela Nicklas and  Ute Schmid and Yvonne Sedlmaier and Achim Ulbrich-vom Ende and Diedrich Wolter},
    journal = {K{\"u}nstliche Intellienz},
-      year = {2023},
-      note = {accepted},
-      pubs = {mberges,mkohlhase,voll-ki}}
+      year = {2024},
+      pubs = {mberges,mkohlhase,voll-ki},
+       doi = {0.1007/s13218-024-00846-9}}
 </bib-data>
       </bibentry>
       <bibentry key="KohKoh:MIA23" type="inproceedings" xml:id="bib.bib9">
