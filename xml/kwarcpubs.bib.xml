@@ -7,43 +7,7 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="CimFraKohSte:RAM24" type="proceedings" xml:id="bib.bib1">
-        <bib-date role="publication">2024</bib-date>
-        <bib-name role="editor">
-          <surname>Cimiano</surname>
-          <givenname>Philipp</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Frank</surname>
-          <givenname>Anette</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
-        </bib-name>
-        <bib-name role="editor">
-          <surname>Stein</surname>
-          <givenname>Benno</givenname>
-        </bib-name>
-        <bib-title>Robust argumentation machines – first international conference, ratio 2024, bielefeld, germany, june 5–7, 2024, proceedings</bib-title>
-        <bib-part role="series">LNAI</bib-part>
-        <bib-part role="number">14638</bib-part>
-        <bib-publisher>Springer-Verlag Berlin Heidelberg</bib-publisher>
-        <bib-extract role="keywords">conference</bib-extract>
-        <bib-data role="pubs">mkohlhase</bib-data>
-        <bib-data role="self" type="BibTeX">@proceedings{CimFraKohSte:RAM24,
-      year = {2024},
-    editor = {Philipp Cimiano and Anette Frank and Michael Kohlhase and Benno Stein},
-     title = {Robust Argumentation Machines – First International Conference, RATIO 2024, Bielefeld, Germany, June 5–7, 2024, Proceedings},
- booktitle = {Robust Argumentation Machines – First International Conference, RATIO 2024, Bielefeld, Germany, June 5–7, 2024, Proceedings},
-    series = {LNAI},
-    number = {14638},
- publisher = {Springer-Verlag Berlin Heidelberg},
-  keywords = {conference},
-      pubs = {mkohlhase}}
-</bib-data>
-      </bibentry>
-      <bibentry key="Schuetz:proposal:24" type="website" xml:id="bib.bib2">
+      <bibentry key="Schuetz:proposal:24" type="website" xml:id="bib.bib1">
         <bib-name role="author">
           <surname>Schütz</surname>
           <givenname>Marcel</givenname>
@@ -62,7 +26,7 @@
       pubs = {mschuetz}}
 </bib-data>
       </bibentry>
-      <bibentry key="Betzendahl:proposal:20" type="website" xml:id="bib.bib3">
+      <bibentry key="Betzendahl:proposal:20" type="website" xml:id="bib.bib2">
         <bib-name role="author">
           <surname>Betzendahl</surname>
           <givenname>Jonas</givenname>
@@ -81,7 +45,7 @@
       pubs = {jbetzendahl}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSch:rlotm24b" type="unpublished" xml:id="bib.bib4">
+      <bibentry key="KohSch:rlotm24b" type="unpublished" xml:id="bib.bib3">
         <bib-title>Reusing learning objects via theory morphisms</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -106,7 +70,7 @@
       pubs = {mkohlhase,mschuetz,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Adrian:BATSAW24" type="masterthesis" xml:id="bib.bib5">
+      <bibentry key="Adrian:BATSAW24" type="masterthesis" xml:id="bib.bib4">
         <bib-title>Building an annotation tool for sTeX-like annotations in word - WOIDE</bib-title>
         <bib-name role="author">
           <surname>Adrian</surname>
@@ -127,7 +91,7 @@
       pubs = {bscproject,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Heublein:kbadmsg23S" type="masterthesis" xml:id="bib.bib6">
+      <bibentry key="Heublein:kbadmsg23S" type="masterthesis" xml:id="bib.bib5">
         <bib-title>Knowledge based approach for dynamic movement in “serious games”</bib-title>
         <bib-name role="author">
           <surname>Heublein</surname>
@@ -148,7 +112,7 @@
       pubs = {mscthesis,frameit}}
 </bib-data>
       </bibentry>
-      <bibentry key="Panzer:afgpatsd23" type="masterthesis" xml:id="bib.bib7">
+      <bibentry key="Panzer:afgpatsd23" type="masterthesis" xml:id="bib.bib6">
         <bib-title>AnnoTize: a flexible general purpose annotation tool for stem documents</bib-title>
         <bib-name role="author">
           <surname>Panzer</surname>
@@ -169,7 +133,7 @@
       pubs = {mscthesis,comma}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kielburger:sqetd23" type="masterthesis" xml:id="bib.bib8">
+      <bibentry key="Kielburger:sqetd23" type="masterthesis" xml:id="bib.bib7">
         <bib-title>Spotting quantity expressions in technical documents</bib-title>
         <bib-name role="author">
           <surname>Kielburger</surname>
@@ -190,7 +154,7 @@
       pubs = {mscthesis,comma}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohBer:PV24" type="article" xml:id="bib.bib9">
+      <bibentry key="KohBer:PV24" type="article" xml:id="bib.bib8">
         <bib-title>Project VoLL-KI – learning from learners</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -255,7 +219,7 @@
        doi = {0.1007/s13218-024-00846-9}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohKoh:MIA23" type="inproceedings" xml:id="bib.bib10">
+      <bibentry key="KohKoh:MIA23" type="inproceedings" xml:id="bib.bib9">
         <bib-title>More interactions in ALeA – towards new added-value services based on semantic markup</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -278,7 +242,7 @@
       pubs = {mkohlhase,akohlhase,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="PanzerSchaefer:AnnoTize23" type="inproceedings" xml:id="bib.bib11">
+      <bibentry key="PanzerSchaefer:AnnoTize23" type="inproceedings" xml:id="bib.bib10">
         <bib-title>AnnoTize: a flexible annotation tool for documents with mathematical formulae</bib-title>
         <bib-name role="author">
           <surname>Panzer</surname>
@@ -301,7 +265,7 @@
       pubs = {jfschaefer}}
 </bib-data>
       </bibentry>
-      <bibentry key="ChuKohMue:pada23" type="inproceedings" xml:id="bib.bib12">
+      <bibentry key="ChuKohMue:pada23" type="inproceedings" xml:id="bib.bib11">
         <bib-title>Presentation of active documents in ALeA</bib-title>
         <bib-name role="author">
           <surname>Chugh</surname>
@@ -330,16 +294,28 @@
       pubs = {mkohlhase,achugh,dmueller,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="ALeA:courses" type="website" xml:id="bib.bib13">
+      <bibentry key="ALeA:courses" type="website" xml:id="bib.bib12">
         <bib-data role="label">VKC</bib-data>
         <bib-title>VoLL-KI based courses at FAU</bib-title>
-        <bib-url href="https://courses.voll-ki.fau.de">Link</bib-url>
-        <bib-data role="urldate">2023-07-21</bib-data>
+        <bib-url href="http://alea.courses">Link</bib-url>
+        <bib-data role="urldate">2024-07-16</bib-data>
         <bib-data role="self" type="BibTeX">@online{ALeA:courses,
      label = {VKC},
      title = {{VoLL-KI} based Courses at {FAU}},
-       url = {https://courses.voll-ki.fau.de},
-   urldate = {2023-07-21}}
+       url = {http://alea.courses},
+   urldate = {2024-07-16}}
+</bib-data>
+      </bibentry>
+      <bibentry key="ALeA:online" type="website" xml:id="bib.bib13">
+        <bib-data role="label">ALeA</bib-data>
+        <bib-title>ALeA: adaptive learning assistant</bib-title>
+        <bib-url href="http://alea.education">Link</bib-url>
+        <bib-data role="urldate">2024-07-16</bib-data>
+        <bib-data role="self" type="BibTeX">@online{ALeA:online,
+     label = {ALeA},
+     title = {{ALeA}: Adaptive Learning Assistant},
+       url = {http://alea.education},
+   urldate = {2024-07-16}}
 </bib-data>
       </bibentry>
       <bibentry key="ALeA:experiments" type="website" xml:id="bib.bib14">
