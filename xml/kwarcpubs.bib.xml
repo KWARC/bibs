@@ -608,12 +608,12 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Towards an annotation standard for stem documents – datasets, benchmarks, and spotters</bib-title>
+        <bib-title>Towards an annotation standard for STEM documents – datasets, benchmarks, and spotters</bib-title>
         <bib-related bibrefs="CICM23" role="host"/>
         <bib-data role="pubs">jfschaefer,mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{SchKoh:sb23,
     author = {Jan Frederik Schaefer and Michael Kohlhase},
-     title = {Towards an Annotation Standard for STEM Documents – Datasets, Benchmarks, and Spotters},
+     title = {Towards an Annotation Standard for {STEM} Documents – Datasets, Benchmarks, and Spotters},
   crossref = {CICM23},
       pubs = {jfschaefer,mkohlhase}}
 </bib-data>
