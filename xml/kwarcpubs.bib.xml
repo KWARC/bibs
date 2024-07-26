@@ -254,6 +254,7 @@
         </bib-name>
         <bib-note role="annotation">accepted</bib-note>
         <bib-related bibrefs="MathUI23" role="host"/>
+        <bib-url href="https://kwarc.info/people/jfschaefer/pubs/2023-annotize-mathui.pdf">Link</bib-url>
         <bib-date role="publication">2023</bib-date>
         <bib-data role="pubs">jfschaefer</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{PanzerSchaefer:AnnoTize23,
@@ -261,6 +262,7 @@
     author = {Lukas Panzer and Jan Frederik Schaefer},
       note = {accepted},
   crossref = {MathUI23},
+       url = {https://kwarc.info/people/jfschaefer/pubs/2023-annotize-mathui.pdf},
       year = {2023},
       pubs = {jfschaefer}}
 </bib-data>
@@ -610,11 +612,15 @@
         </bib-name>
         <bib-title>Towards an annotation standard for STEM documents – datasets, benchmarks, and spotters</bib-title>
         <bib-related bibrefs="CICM23" role="host"/>
+        <bib-part role="pages">190–205</bib-part>
+        <bib-url href="https://kwarc.info/people/jfschaefer/pubs/2023-spotterbase-cicm.pdf">Link</bib-url>
         <bib-data role="pubs">jfschaefer,mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{SchKoh:sb23,
     author = {Jan Frederik Schaefer and Michael Kohlhase},
      title = {Towards an Annotation Standard for {STEM} Documents – Datasets, Benchmarks, and Spotters},
   crossref = {CICM23},
+     pages = {190–205},
+       url = {https://kwarc.info/people/jfschaefer/pubs/2023-spotterbase-cicm.pdf},
       pubs = {jfschaefer,mkohlhase}}
 </bib-data>
       </bibentry>

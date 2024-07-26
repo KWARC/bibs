@@ -275,6 +275,7 @@
       pubs = {akohlhase},
       year = {2023}}
 </bib-data></bib-related>
+        <bib-url href="https://kwarc.info/people/jfschaefer/pubs/2023-annotize-mathui.pdf">Link</bib-url>
         <bib-date role="publication">2023</bib-date>
         <bib-data role="pubs">jfschaefer</bib-data>
         <bib-related role="host" type="proceedings">
@@ -285,6 +286,7 @@
     author = {Lukas Panzer and Jan Frederik Schaefer},
       note = {accepted},
   crossref = {MathUI23},
+       url = {https://kwarc.info/people/jfschaefer/pubs/2023-annotize-mathui.pdf},
       year = {2023},
       pubs = {jfschaefer},
  booktitle = {MathUI 2023: The 14th Workshop on Mathematical User Interfaces}}
@@ -676,6 +678,8 @@
        doi = {978-3-031-42753-4},
   keywords = {conference}}
 </bib-data></bib-related>
+        <bib-part role="pages">190–205</bib-part>
+        <bib-url href="https://kwarc.info/people/jfschaefer/pubs/2023-spotterbase-cicm.pdf">Link</bib-url>
         <bib-data role="pubs">jfschaefer,mkohlhase</bib-data>
         <bib-related role="host" type="proceedings">
           <bib-title>Intelligent Computer Mathematics (CICM) 2023</bib-title>
@@ -686,6 +690,8 @@
     author = {Jan Frederik Schaefer and Michael Kohlhase},
      title = {Towards an Annotation Standard for {STEM} Documents – Datasets, Benchmarks, and Spotters},
   crossref = {CICM23},
+     pages = {190–205},
+       url = {https://kwarc.info/people/jfschaefer/pubs/2023-spotterbase-cicm.pdf},
       pubs = {jfschaefer,mkohlhase},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2023},
  publisher = {Springer},
