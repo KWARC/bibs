@@ -33,8 +33,7 @@
         <bib-url href="https://kwarc.info/kohlhase/papers/mathui24-woide.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{KohKoh:woide24,
-     title = {{WOIDE}: Semantic Annotation in  {MS Word} — Scaling Mathematical User
-  Interfaces beyond {LaTeX}},
+     title = {{WOIDE}: Semantic Annotation in  {MS Word} — Scaling Mathematical User Interfaces beyond {LaTeX}},
     author = {Aurelius Adrian and Michael Kohlhase},
   crossref = {MathUI24},
        url = {https://kwarc.info/kohlhase/papers/mathui24-woide.pdf},

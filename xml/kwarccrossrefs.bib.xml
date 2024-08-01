@@ -29,6 +29,9 @@
         <bib-part role="series">LNAI</bib-part>
         <bib-part role="number">14638</bib-part>
         <bib-identifier href="https://dx.doi.org/10.1007/978-3-031-63536-6" id="10.1007/978-3-031-63536-6" scheme="doi">Document</bib-identifier>
+        <bib-publisher>Springer-Verlag Berlin Heidelberg</bib-publisher>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-data role="pubs">mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{RATIO24,
       year = {2024},
     editor = {Philipp Cimiano and Anette Frank and Michael Kohlhase and Benno Stein},
@@ -36,7 +39,10 @@
  booktitle = {Robust Argumentation Machines – First International Conference, RATIO 2024, Bielefeld, Germany, June 5–7, 2024, Proceedings},
     series = {LNAI},
     number = {14638},
-       doi = {10.1007/978-3-031-63536-6}}
+       doi = {10.1007/978-3-031-63536-6},
+ publisher = {Springer-Verlag Berlin Heidelberg},
+  keywords = {conference},
+      pubs = {mkohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="AdrEveKohZwi:dzr22" type="proceedings" xml:id="bib.bib2">
