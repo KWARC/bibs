@@ -109,16 +109,16 @@
           <surname>Schütz</surname>
           <givenname>Marcel</givenname>
         </bib-name>
-        <bib-note role="annotation">submitted</bib-note>
         <bib-date role="publication">2024</bib-date>
+        <bib-related bibrefs="CICM24" role="host"/>
         <bib-url href="https://kwarc.info/people/mkohlhase/submit/cicm24-recontextualization.pdf">Link</bib-url>
         <bib-data role="soonurl">https://url.mathhub.info/relocalization/</bib-data>
         <bib-data role="pubs">mkohlhase,mschuetz,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohSch:rlotm24b,
      title = {Reusing Learning Objects via Theory Morphisms},
     author = {Michael Kohlhase and Marcel Sch{\"u}tz},
-      note = {submitted},
       year = {2024},
+  crossref = {CICM24},
        url = {https://kwarc.info/people/mkohlhase/submit/cicm24-recontextualization.pdf},
    soonurl = {https://url.mathhub.info/relocalization/},
       pubs = {mkohlhase,mschuetz,voll-ki}}
