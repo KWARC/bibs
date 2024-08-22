@@ -165,14 +165,14 @@
       pubs = {akohlhase}}
 </bib-data></bib-related>
         <bib-url href="https://url.mathhub.info/relocalization/">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,mschuetz,voll-ki</bib-data>
+        <bib-data role="p">pubs</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohSch:rlotm24,
      title = {Reusing Learning Objects via Theory Morphisms},
     author = {Michael Kohlhase and Marcel Sch{\"u}tz},
       year = {2024},
   crossref = {CICM24},
        url = {https://url.mathhub.info/relocalization/},
-      pubs = {mkohlhase,mschuetz,voll-ki}}
+         p = {pubs}}
 </bib-data>
       </bibentry>
       <bibentry key="Adrian:BATSAW24" type="masterthesis" xml:id="bib.bib7">
