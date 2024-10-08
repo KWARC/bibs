@@ -154,14 +154,14 @@
         <bib-date role="publication">2024</bib-date>
         <bib-related bibrefs="CICM24" role="host"/>
         <bib-url href="https://url.mathhub.info/relocalization/">Link</bib-url>
-        <bib-data role="p">pubs</bib-data>
+        <bib-data role="pubs">mkohlhase,mschuetz,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohSch:rlotm24,
      title = {Reusing Learning Objects via Theory Morphisms},
     author = {Michael Kohlhase and Marcel Sch{\"u}tz},
       year = {2024},
   crossref = {CICM24},
        url = {https://url.mathhub.info/relocalization/},
-         p = {pubs}}
+      pubs = {mkohlhase,mschuetz,voll-ki}}
 </bib-data>
       </bibentry>
       <bibentry key="Adrian:BATSAW24" type="masterthesis" xml:id="bib.bib9">
