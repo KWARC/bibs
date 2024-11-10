@@ -31,11 +31,13 @@
 </bib-data>
       </bibentry>
       <bibentry key="sTeX-IDE:git" type="website" xml:id="bib.bib2">
+        <bib-data role="label">sIDE</bib-data>
         <bib-url href="https://github.com/slatex/sTeX-IDE">Link</bib-url>
         <bib-note role="annotation">Git repository</bib-note>
         <bib-data role="urldate">2024-08-01</bib-data>
         <bib-title>sTeX Plugin for VSCode</bib-title>
         <bib-data role="self" type="BibTeX">@online{sTeX-IDE:git,
+     label = {sIDE},
        url = {https://github.com/slatex/sTeX-IDE},
       note = {Git repository},
    urldate = {2024-08-01},
