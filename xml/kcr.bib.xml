@@ -215,7 +215,7 @@
       pubs = {jbetzendahl}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSch:rlotm24" type="unpublished" xml:id="bib.bib10">
+      <bibentry key="KohSch:rlotm24" type="inproceedings" xml:id="bib.bib10">
         <bib-title>Reusing learning objects via theory morphisms</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -232,28 +232,39 @@
         </bib-name><bib-name role="editor">
           <surname>Kovacz</surname>
           <givenname>Laura</givenname>
-        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume"/><bib-date role="publication">2024</bib-date><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM24,
+        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-part role="volume">14960</bib-part><bib-date role="publication">2024</bib-date><bib-identifier id="978-3-031-66996-5" scheme="isbn">ISBN 978-3-031-66996-5</bib-identifier><bib-identifier href="https://dx.doi.org/10.1007/978-3-031-66997-2" id="10.1007/978-3-031-66997-2" scheme="doi">Document</bib-identifier><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM24,
      label = {CICM},
     editor = {Andrea Kohlhase and Laura Kovacz},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2024},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {},
+    volume = {14960},
       year = {2024},
-  soonisbn = {978-3-031-16680-8},
+      isbn = {978-3-031-66996-5},
+       doi = {10.1007/978-3-031-66997-2},
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data></bib-related>
+        <bib-part role="pages">165–182</bib-part>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-031-66997-2%5F10" id="10.1007/978-3-031-66997-2_10" scheme="doi">Document</bib-identifier>
         <bib-url href="https://url.mathhub.info/relocalization/">Link</bib-url>
         <bib-data role="pubs">mkohlhase,mschuetz,voll-ki</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohSch:rlotm24,
+        <bib-related role="host" type="proceedings">
+          <bib-title>Intelligent Computer Mathematics (CICM) 2024</bib-title>
+          <bib-publisher>Springer</bib-publisher>
+        </bib-related>
+        <bib-data role="self" type="BibTeX">@inproceedings{KohSch:rlotm24,
      title = {Reusing Learning Objects via Theory Morphisms},
     author = {Michael Kohlhase and Marcel Sch{\"u}tz},
       year = {2024},
   crossref = {CICM24},
+     pages = {165–182},
+       doi = {10.1007/978-3-031-66997-2_10},
        url = {https://url.mathhub.info/relocalization/},
-      pubs = {mkohlhase,mschuetz,voll-ki}}
+      pubs = {mkohlhase,mschuetz,voll-ki},
+ booktitle = {Intelligent Computer Mathematics ({CICM}) 2024},
+ publisher = {Springer}}
 </bib-data>
       </bibentry>
       <bibentry key="Adrian:BATSAW24" type="masterthesis" xml:id="bib.bib11">
@@ -36510,9 +36521,10 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
-        <bib-data role="soonvolume"/>
+        <bib-part role="volume">14960</bib-part>
         <bib-date role="publication">2024</bib-date>
-        <bib-data role="soonisbn">978-3-031-16680-8</bib-data>
+        <bib-identifier id="978-3-031-66996-5" scheme="isbn">ISBN 978-3-031-66996-5</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-031-66997-2" id="10.1007/978-3-031-66997-2" scheme="doi">Document</bib-identifier>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM24,
@@ -36522,9 +36534,10 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2024},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {},
+    volume = {14960},
       year = {2024},
-  soonisbn = {978-3-031-16680-8},
+      isbn = {978-3-031-66996-5},
+       doi = {10.1007/978-3-031-66997-2},
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data>

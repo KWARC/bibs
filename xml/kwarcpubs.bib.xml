@@ -180,7 +180,7 @@
       pubs = {jbetzendahl}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSch:rlotm24" type="unpublished" xml:id="bib.bib10">
+      <bibentry key="KohSch:rlotm24" type="inproceedings" xml:id="bib.bib10">
         <bib-title>Reusing learning objects via theory morphisms</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -192,13 +192,17 @@
         </bib-name>
         <bib-date role="publication">2024</bib-date>
         <bib-related bibrefs="CICM24" role="host"/>
+        <bib-part role="pages">165–182</bib-part>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-031-66997-2%5F10" id="10.1007/978-3-031-66997-2_10" scheme="doi">Document</bib-identifier>
         <bib-url href="https://url.mathhub.info/relocalization/">Link</bib-url>
         <bib-data role="pubs">mkohlhase,mschuetz,voll-ki</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohSch:rlotm24,
+        <bib-data role="self" type="BibTeX">@inproceedings{KohSch:rlotm24,
      title = {Reusing Learning Objects via Theory Morphisms},
     author = {Michael Kohlhase and Marcel Sch{\"u}tz},
       year = {2024},
   crossref = {CICM24},
+     pages = {165–182},
+       doi = {10.1007/978-3-031-66997-2_10},
        url = {https://url.mathhub.info/relocalization/},
       pubs = {mkohlhase,mschuetz,voll-ki}}
 </bib-data>

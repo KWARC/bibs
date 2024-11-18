@@ -20,9 +20,10 @@
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
-        <bib-data role="soonvolume"></bib-data>
+        <bib-part role="volume">14960</bib-part>
         <bib-date role="publication">2024</bib-date>
-        <bib-data role="soonisbn">978-3-031-16680-8</bib-data>
+        <bib-identifier id="978-3-031-66996-5" scheme="isbn">ISBN 978-3-031-66996-5</bib-identifier>
+        <bib-identifier href="https://dx.doi.org/10.1007/978-3-031-66997-2" id="10.1007/978-3-031-66997-2" scheme="doi">Document</bib-identifier>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM24,
@@ -32,9 +33,10 @@
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2024},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {},
+    volume = {14960},
       year = {2024},
-  soonisbn = {978-3-031-16680-8},
+      isbn = {978-3-031-66996-5},
+       doi = {10.1007/978-3-031-66997-2},
   keywords = {conference},
       pubs = {akohlhase}}
 </bib-data>
