@@ -688,14 +688,13 @@
           <givenname>Marcel</givenname>
         </bib-name>
         <bib-date role="publication">2024</bib-date>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-name role="editor">
+        <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
         </bib-name><bib-name role="editor">
           <surname>Kovacz</surname>
           <givenname>Laura</givenname>
         </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-part role="volume">14960</bib-part><bib-date role="publication">2024</bib-date><bib-identifier id="978-3-031-66996-5" scheme="isbn">ISBN 978-3-031-66996-5</bib-identifier><bib-identifier href="https://dx.doi.org/10.1007/978-3-031-66997-2" id="10.1007/978-3-031-66997-2" scheme="doi">Document</bib-identifier><bib-extract role="keywords">conference</bib-extract><bib-data role="pubs">akohlhase</bib-data><bib-data role="self" type="BibTeX">@proceedings{CICM24,
-     label = {CICM},
     editor = {Andrea Kohlhase and Laura Kovacz},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2024},
@@ -37019,7 +37018,6 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
 </bib-data>
       </bibentry>
       <bibentry key="CICM24" type="proceedings" xml:id="bib.bib1191">
-        <bib-data role="label">CICM</bib-data>
         <bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -37038,7 +37036,6 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM24,
-     label = {CICM},
     editor = {Andrea Kohlhase and Laura Kovacz},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2024},

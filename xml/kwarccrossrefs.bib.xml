@@ -8,7 +8,6 @@
     <title/>
     <biblist>
       <bibentry key="CICM24" type="proceedings" xml:id="bib.bib1">
-        <bib-data role="label">CICM</bib-data>
         <bib-name role="editor">
           <surname>Kohlhase</surname>
           <givenname>Andrea</givenname>
@@ -27,7 +26,6 @@
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">akohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@proceedings{CICM24,
-     label = {CICM},
     editor = {Andrea Kohlhase and Laura Kovacz},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2024},
