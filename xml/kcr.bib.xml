@@ -33,6 +33,7 @@
         </bib-related>
         <bib-part role="volume">41</bib-part>
         <bib-part role="number">1</bib-part>
+        <bib-data role="pubs">dlohr,mberges,achugh,mkohlhase,dmueller,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@article{LohBerChu:lllmgcsalo24,
       year = {2024},
      title = {Leveraging Large Language Models to Generate Course-Specific Semantically Annotated Learning Objects},
@@ -40,7 +41,8 @@
        doi = {10.1111/jcal.13101},
    journal = {Journal of Computer Assisted Learning},
     volume = {41},
-    number = {1}}
+    number = {1},
+      pubs = {dlohr,mberges,achugh,mkohlhase,dmueller,voll-ki}}
 </bib-data>
       </bibentry>
       <bibentry key="KruLohBer:tefdm24" type="inproceedings" xml:id="bib.bib2">
