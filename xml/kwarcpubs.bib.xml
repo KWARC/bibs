@@ -242,26 +242,11 @@
           <givenname>F.</givenname>
         </bib-name>
         <bib-title>A Logical Framework Perspective on Conservativity</bib-title>
-        <bib-date role="publication">2024</bib-date>
-        <bib-related role="host" type="proceedings">
-          <bib-title>Intelligent Computer Mathematics</bib-title>
-          <bib-name role="editor">
-            <surname>Kohlhase</surname>
-            <givenname>A.</givenname>
-          </bib-name>
-          <bib-name role="editor">
-            <surname>Kovacs</surname>
-            <givenname>L.</givenname>
-          </bib-name>
-          <bib-publisher>Springer</bib-publisher>
-        </bib-related>
+        <bib-related bibrefs="CICM24" role="host"/>
         <bib-data role="self" type="BibTeX">@inproceedings{rabe:cons:24,
     author = {F. Rabe},
      title = {{A Logical Framework Perspective on Conservativity}},
-      year = {2024},
- booktitle = {Intelligent Computer Mathematics},
-    editor = {A. Kohlhase and L. Kovacs},
- publisher = {Springer}}
+  crossref = {CICM24}}
 </bib-data>
       </bibentry>
       <bibentry key="RW:aldor:23" type="inproceedings" xml:id="bib.bib8">
