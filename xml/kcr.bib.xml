@@ -5,15 +5,15 @@
     <title/>
     <biblist>
       <bibentry key="flams:on" type="website" xml:id="bib.bib1">
-        <bib-title>𝖥𝖫<Math mode="inline" tex="\forall" text="for-all" xml:id="bib.bib1.m1">
+        <bib-title>FL<Math mode="inline" tex="\forall" text="for-all" xml:id="bib.bib1.m1">
             <XMath>
               <XMTok meaning="for-all" name="forall" role="BIGOP">∀</XMTok>
             </XMath>
-          </Math>𝖬<Math mode="inline" tex="\int" text="integral" xml:id="bib.bib1.m2">
+          </Math>m<Math mode="inline" tex="\int" text="integral" xml:id="bib.bib1.m2">
             <XMath>
               <XMTok mathstyle="text" meaning="integral" name="int" role="INTOP">∫</XMTok>
             </XMath>
-          </Math> - flexiformal annotation management system</bib-title>
+          </Math> – flexiformal annotation management system</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -21,7 +21,7 @@
         <bib-url href="https://github.com/KWARC/FLAMS">Link</bib-url>
         <bib-data role="urldate">2025-05-08</bib-data>
         <bib-data role="self" type="BibTeX">@online{flams:on,
-     title = {𝖥𝖫$\forall$𝖬$\int$ - Flexiformal Annotation Management System},
+     title = {FL$\forall$M$\int$ – Flexiformal Annotation Management System},
     author = {Dennis Müller},
        url = {https://github.com/KWARC/FLAMS},
    urldate = {2025-05-08}}
