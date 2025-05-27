@@ -97,8 +97,31 @@
       </bibentry>
       <bibentry key="KelKohSchSch:rbmfm25" type="unpublished" xml:id="bib.bib5">
         <bib-title>Reaping the benefits of modularization in flexiformal mathematics by gf-based ast transformations</bib-title>
+        <bib-name role="author">
+          <surname>Kelber</surname>
+          <givenname>Josefin</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Schaefer</surname>
+          <givenname>Jan Frederik</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Schütz</surname>
+          <givenname>Marcel</givenname>
+        </bib-name>
+        <bib-related bibrefs="CICM25" role="host"/>
+        <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-ling.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase,jfschaefer,mschuetz</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KelKohSchSch:rbmfm25,
-     title = {Reaping the Benefits of Modularization in Flexiformal Mathematics by GF-based AST Transformations}}
+     title = {Reaping the Benefits of Modularization in Flexiformal Mathematics by GF-based AST Transformations},
+    author = {Josefin Kelber and Michael Kohlhase and Jan Frederik Schaefer and Marcel Schütz},
+  crossref = {CICM25},
+       url = {https://kwarc.info/kohlhase/submit/cicm25-ling.pdf},
+      pubs = {mkohlhase,jfschaefer,mschuetz}}
 </bib-data>
       </bibentry>
       <bibentry key="ftml-viewer:npm:on" type="website" xml:id="bib.bib6">

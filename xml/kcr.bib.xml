@@ -114,8 +114,36 @@
       </bibentry>
       <bibentry key="KelKohSchSch:rbmfm25" type="unpublished" xml:id="bib.bib5">
         <bib-title>Reaping the benefits of modularization in flexiformal mathematics by gf-based ast transformations</bib-title>
+        <bib-name role="author">
+          <surname>Kelber</surname>
+          <givenname>Josefin</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Kohlhase</surname>
+          <givenname>Michael</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Schaefer</surname>
+          <givenname>Jan Frederik</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Schütz</surname>
+          <givenname>Marcel</givenname>
+        </bib-name>
+        <bib-related role="host" type="proceedings"><bib-note role="annotation">submitted</bib-note><bib-date role="publication">2025</bib-date><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+      note = {submitted},
+      year = {2025}}
+</bib-data></bib-related>
+        <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-ling.pdf">Link</bib-url>
+        <bib-data role="pubs">mkohlhase,jfschaefer,mschuetz</bib-data>
+        <bib-date role="publication">2025</bib-date>
         <bib-data role="self" type="BibTeX">@unpublished{KelKohSchSch:rbmfm25,
-     title = {Reaping the Benefits of Modularization in Flexiformal Mathematics by GF-based AST Transformations}}
+     title = {Reaping the Benefits of Modularization in Flexiformal Mathematics by GF-based AST Transformations},
+    author = {Josefin Kelber and Michael Kohlhase and Jan Frederik Schaefer and Marcel Schütz},
+  crossref = {CICM25},
+       url = {https://kwarc.info/kohlhase/submit/cicm25-ling.pdf},
+      pubs = {mkohlhase,jfschaefer,mschuetz},
+      year = {2025}}
 </bib-data>
       </bibentry>
       <bibentry key="ftml-viewer:npm:on" type="website" xml:id="bib.bib6">
@@ -898,11 +926,10 @@
         </bib-name><bib-name role="editor">
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
-        </bib-name><bib-title>MathUI 2024: the 15th workshop on mathematical user interfaces</bib-title><bib-data role="soonurl">http://ceur-ws.org/Vol-????/</bib-data><bib-data role="pubs">jfschaefer</bib-data><bib-date role="publication">2024</bib-date><bib-data role="self" type="BibTeX">@proceedings{MathUI24,
+        </bib-name><bib-title>MathUI 2024: the 15th workshop on mathematical user interfaces</bib-title><bib-data role="pubs">jfschaefer</bib-data><bib-date role="publication">2024</bib-date><bib-data role="self" type="BibTeX">@proceedings{MathUI24,
     editor = {Kazuhisa Nakasho and Schaefer, Jan Frederik},
      title = {MathUI 2024: The 15th Workshop on Mathematical User Interfaces},
  booktitle = {MathUI 2024: The 15th Workshop on Mathematical User Interfaces},
-   soonurl = {http://ceur-ws.org/Vol-????/},
       pubs = {jfschaefer},
       year = {2024}}
 </bib-data></bib-related>
@@ -938,11 +965,10 @@
         </bib-name><bib-name role="editor">
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
-        </bib-name><bib-title>MathUI 2024: the 15th workshop on mathematical user interfaces</bib-title><bib-data role="soonurl">http://ceur-ws.org/Vol-????/</bib-data><bib-data role="pubs">jfschaefer</bib-data><bib-date role="publication">2024</bib-date><bib-data role="self" type="BibTeX">@proceedings{MathUI24,
+        </bib-name><bib-title>MathUI 2024: the 15th workshop on mathematical user interfaces</bib-title><bib-data role="pubs">jfschaefer</bib-data><bib-date role="publication">2024</bib-date><bib-data role="self" type="BibTeX">@proceedings{MathUI24,
     editor = {Kazuhisa Nakasho and Schaefer, Jan Frederik},
      title = {MathUI 2024: The 15th Workshop on Mathematical User Interfaces},
  booktitle = {MathUI 2024: The 15th Workshop on Mathematical User Interfaces},
-   soonurl = {http://ceur-ws.org/Vol-????/},
       pubs = {jfschaefer},
       year = {2024}}
 </bib-data></bib-related>
@@ -37783,14 +37809,12 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
           <givenname>Jan Frederik</givenname>
         </bib-name>
         <bib-title>MathUI 2024: the 15th workshop on mathematical user interfaces</bib-title>
-        <bib-data role="soonurl">http://ceur-ws.org/Vol-????/</bib-data>
         <bib-data role="pubs">jfschaefer</bib-data>
         <bib-date role="publication">2024</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI24,
     editor = {Kazuhisa Nakasho and Schaefer, Jan Frederik},
      title = {MathUI 2024: The 15th Workshop on Mathematical User Interfaces},
  booktitle = {MathUI 2024: The 15th Workshop on Mathematical User Interfaces},
-   soonurl = {http://ceur-ws.org/Vol-????/},
       pubs = {jfschaefer},
       year = {2024}}
 </bib-data>

@@ -410,14 +410,12 @@
           <givenname>Jan Frederik</givenname>
         </bib-name>
         <bib-title>MathUI 2024: the 15th workshop on mathematical user interfaces</bib-title>
-        <bib-data role="soonurl">http://ceur-ws.org/Vol-????/</bib-data>
         <bib-data role="pubs">jfschaefer</bib-data>
         <bib-date role="publication">2024</bib-date>
         <bib-data role="self" type="BibTeX">@proceedings{MathUI24,
     editor = {Kazuhisa Nakasho and Schaefer, Jan Frederik},
      title = {MathUI 2024: The 15th Workshop on Mathematical User Interfaces},
  booktitle = {MathUI 2024: The 15th Workshop on Mathematical User Interfaces},
-   soonurl = {http://ceur-ws.org/Vol-????/},
       pubs = {jfschaefer},
       year = {2024}}
 </bib-data>
