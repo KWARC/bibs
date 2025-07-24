@@ -13502,12 +13502,12 @@ AISC’2006</bib-title>
         <bib-data role="label">SMG</bib-data>
         <bib-title>SMGloM: a semantic multilingual glossary resource for mathematics</bib-title>
         <bib-url href="http://gl.mathhub.info/smglom">Link</bib-url>
-        <bib-data role="urldate">2019-07-10</bib-data>
+        <bib-data role="urldate">2025-07-24</bib-data>
         <bib-data role="self" type="BibTeX">@online{SMGloM:git,
      label = {SMG},
      title = {{SMGloM}: A Semantic Multilingual Glossary Resource for Mathematics},
        url = {http://gl.mathhub.info/smglom},
-   urldate = {2019-07-10}}
+   urldate = {2025-07-24}}
 </bib-data>
       </bibentry>
       <bibentry key="mmtlfx:git" type="website" xml:id="bib.bib432">
