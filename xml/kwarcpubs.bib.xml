@@ -7,7 +7,7 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="Rabe:grlc25" type="unpublished" xml:id="bib.bib1">
+      <bibentry key="Rabe:grlc25" type="inproceedings" xml:id="bib.bib1">
         <bib-title>Global, regional, and local contexts</bib-title>
         <bib-name role="author">
           <surname>Rabe</surname>
@@ -16,7 +16,7 @@
         <bib-related bibrefs="CICM25" role="host"/>
         <bib-url href="https://github.com/UniFormal/UPL/blob/main/doc/levels.pdf">Link</bib-url>
         <bib-data role="pubs">frabe</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{Rabe:grlc25,
+        <bib-data role="self" type="BibTeX">@inproceedings{Rabe:grlc25,
      title = {Global, Regional, and Local Contexts},
     author = {Florian Rabe},
   crossref = {CICM25},
@@ -24,7 +24,7 @@
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSch:safc25" type="unpublished" xml:id="bib.bib2">
+      <bibentry key="KohSch:safc25" type="inproceedings" xml:id="bib.bib2">
         <bib-title>Semantic authoring in a flexiformal context – bulk annotation of rigorous documents</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -36,16 +36,16 @@
         </bib-name>
         <bib-related bibrefs="CICM25" role="host"/>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-snify.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,jfschaefer</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohSch:safc25,
+        <bib-data role="pubs">mkohlhase,jfschaefer,voll-ki</bib-data>
+        <bib-data role="self" type="BibTeX">@inproceedings{KohSch:safc25,
      title = {Semantic authoring in a flexiformal context – Bulk annotation of rigorous documents},
     author = {Michael Kohlhase and Jan Frederik Schaefer},
   crossref = {CICM25},
        url = {https://kwarc.info/kohlhase/submit/cicm25-snify.pdf},
-      pubs = {mkohlhase,jfschaefer}}
+      pubs = {mkohlhase,jfschaefer,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohRabSch:lr25" type="unpublished" xml:id="bib.bib3">
+      <bibentry key="KohRabSch:lr25" type="inproceedings" xml:id="bib.bib3">
         <bib-title>Lightweight realms</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -61,13 +61,13 @@
         </bib-name>
         <bib-related bibrefs="CICM25" role="host"/>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-realms.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,frabe,mschuetz</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KohRabSch:lr25,
+        <bib-data role="pubs">mkohlhase,frabe,mschuetz,voll-ki</bib-data>
+        <bib-data role="self" type="BibTeX">@inproceedings{KohRabSch:lr25,
      title = {Lightweight Realms},
     author = {Michael Kohlhase and Florian Rabe and Marcel Schütz},
   crossref = {CICM25},
        url = {https://kwarc.info/kohlhase/submit/cicm25-realms.pdf},
-      pubs = {mkohlhase,frabe,mschuetz}}
+      pubs = {mkohlhase,frabe,mschuetz,voll-ki}}
 </bib-data>
       </bibentry>
       <bibentry key="KosKohMue:osm25" type="unpublished" xml:id="bib.bib4">
@@ -84,18 +84,16 @@
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
         </bib-name>
-        <bib-related bibrefs="CICM25" role="host"/>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-OMM2.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KosKohMue:osm25,
      title = {OpenMathMap 2 – The Shape of Mathematics},
     author = {Pavel Kostarev and Michael Kohlhase and Dennis Müller},
-  crossref = {CICM25},
        url = {https://kwarc.info/kohlhase/submit/cicm25-OMM2.pdf},
       pubs = {mkohlhase,dmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="KelKohSchSch:rbmfm25" type="unpublished" xml:id="bib.bib5">
+      <bibentry key="KelKohSchSch:rbmfm25" type="inproceedings" xml:id="bib.bib5">
         <bib-title>Reaping the benefits of modularization in flexiformal mathematics by gf-based ast transformations</bib-title>
         <bib-name role="author">
           <surname>Kelber</surname>
@@ -115,13 +113,13 @@
         </bib-name>
         <bib-related bibrefs="CICM25" role="host"/>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-ling.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,jfschaefer,mschuetz</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{KelKohSchSch:rbmfm25,
+        <bib-data role="pubs">mkohlhase,jfschaefer,mschuetz,voll-ki</bib-data>
+        <bib-data role="self" type="BibTeX">@inproceedings{KelKohSchSch:rbmfm25,
      title = {Reaping the Benefits of Modularization in Flexiformal Mathematics by GF-based AST Transformations},
     author = {Josefin Kelber and Michael Kohlhase and Jan Frederik Schaefer and Marcel Schütz},
   crossref = {CICM25},
        url = {https://kwarc.info/kohlhase/submit/cicm25-ling.pdf},
-      pubs = {mkohlhase,jfschaefer,mschuetz}}
+      pubs = {mkohlhase,jfschaefer,mschuetz,voll-ki}}
 </bib-data>
       </bibentry>
       <bibentry key="ftml-viewer:npm:on" type="website" xml:id="bib.bib6">
