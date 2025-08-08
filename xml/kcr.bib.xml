@@ -10,7 +10,7 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
      title = {Intelligent Computer Mathematics},
@@ -20,7 +20,8 @@
  soonvolume = {13467},
   soonisbn = {978-3-031-16680-8},
       note = {accepted at CICM 2025},
-      year = {2025}}
+      year = {2025},
+  keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="https://github.com/UniFormal/UPL/blob/main/doc/levels.pdf">Link</bib-url>
         <bib-data role="pubs">frabe</bib-data>
@@ -50,7 +51,7 @@
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
      title = {Intelligent Computer Mathematics},
@@ -60,7 +61,8 @@
  soonvolume = {13467},
   soonisbn = {978-3-031-16680-8},
       note = {accepted at CICM 2025},
-      year = {2025}}
+      year = {2025},
+  keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-snify.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,jfschaefer,voll-ki</bib-data>
@@ -94,7 +96,7 @@
           <surname>Schütz</surname>
           <givenname>Marcel</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
      title = {Intelligent Computer Mathematics},
@@ -104,7 +106,8 @@
  soonvolume = {13467},
   soonisbn = {978-3-031-16680-8},
       note = {accepted at CICM 2025},
-      year = {2025}}
+      year = {2025},
+  keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-realms.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,mschuetz,voll-ki</bib-data>
@@ -165,7 +168,7 @@
           <surname>Schütz</surname>
           <givenname>Marcel</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
      title = {Intelligent Computer Mathematics},
@@ -175,7 +178,8 @@
  soonvolume = {13467},
   soonisbn = {978-3-031-16680-8},
       note = {accepted at CICM 2025},
-      year = {2025}}
+      year = {2025},
+  keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm25-ling.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,jfschaefer,mschuetz,voll-ki</bib-data>
@@ -39565,6 +39569,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-data role="soonisbn">978-3-031-16680-8</bib-data>
         <bib-note role="annotation">accepted at CICM 2025</bib-note>
         <bib-date role="publication">2025</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
@@ -39575,7 +39580,8 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  soonvolume = {13467},
   soonisbn = {978-3-031-16680-8},
       note = {accepted at CICM 2025},
-      year = {2025}}
+      year = {2025},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM23" type="proceedings" xml:id="bib.bib1267">

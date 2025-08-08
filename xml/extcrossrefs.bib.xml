@@ -85,6 +85,7 @@
         <bib-data role="soonisbn">978-3-031-16680-8</bib-data>
         <bib-note role="annotation">accepted at CICM 2025</bib-note>
         <bib-date role="publication">2025</bib-date>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
  sooneditor = {Buzzard, Kevin and Kutsia, Temur},
@@ -95,7 +96,8 @@
  soonvolume = {13467},
   soonisbn = {978-3-031-16680-8},
       note = {accepted at CICM 2025},
-      year = {2025}}
+      year = {2025},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM23" type="proceedings" xml:id="bib.bib6">
