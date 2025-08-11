@@ -8,7 +8,7 @@ bib.ext				= extpubs.bib $(bib.kcr)
 bib.all				= preamble.bib $(bib.ext)
 bib.people			= mkohlhase akohlhase miancu dginev cjucovschi twiesing dmueller frabe cprodescu clange cdavid vzholudev cmueller nmueller fhorozal jbetzendahl tpollinger mrapp kbercic cshi mrupprecht jfschaefer nroux rmarcus mwagner
 bib.systems			= sissi tetrapod TNTBase arXMLiv cpoint jomdoc kat krextor llamapun mathhub mmt mws omdoc openmathmap sTeX sally smglom swim
-bib.projects			= FormalCAD jem latin logosphere mathsearch oaf odk odkWP6 omoc once-cs openmath-tn MaMoReD comma almanac frameit voll-ki
+bib.projects			= FormalCAD jem latin logosphere mathsearch oaf odk odkWP6 omoc once-cs openmath-tn MaMoReD comma almanac frameit voll-ki direga
 bib.theses			= phdthesis mscthesis bscthesis mscproject bscproject theses
 bib.do				= $(bib.people) $(bib.projects) $(bib.systems) $(bib.theses)
 
