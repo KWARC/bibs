@@ -152,16 +152,21 @@
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-name role="editor">
+          <surname>de Paiva</surname>
+          <givenname>Valeria</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Koepke</surname>
+          <givenname>Peter</givenname>
+        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-part role="volume">16136</bib-part><bib-identifier id="978-3-032-07020-3" scheme="isbn">ISBN 978-3-032-07020-3</bib-identifier><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
- sooneditor = {Buzzard, Kevin and Kutsia, Temur},
+    editor = {Valeria de Paiva and Peter Koepke},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {13467},
-  soonisbn = {978-3-031-16680-8},
-      note = {accepted at CICM 2025},
+    volume = {16136},
+      isbn = {978-3-032-07020-3},
       year = {2025},
   keywords = {conference}}
 </bib-data></bib-related>
@@ -193,16 +198,21 @@
           <surname>Schaefer</surname>
           <givenname>Jan Frederik</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-name role="editor">
+          <surname>de Paiva</surname>
+          <givenname>Valeria</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Koepke</surname>
+          <givenname>Peter</givenname>
+        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-part role="volume">16136</bib-part><bib-identifier id="978-3-032-07020-3" scheme="isbn">ISBN 978-3-032-07020-3</bib-identifier><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
- sooneditor = {Buzzard, Kevin and Kutsia, Temur},
+    editor = {Valeria de Paiva and Peter Koepke},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {13467},
-  soonisbn = {978-3-031-16680-8},
-      note = {accepted at CICM 2025},
+    volume = {16136},
+      isbn = {978-3-032-07020-3},
       year = {2025},
   keywords = {conference}}
 </bib-data></bib-related>
@@ -238,16 +248,21 @@
           <surname>Schütz</surname>
           <givenname>Marcel</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-name role="editor">
+          <surname>de Paiva</surname>
+          <givenname>Valeria</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Koepke</surname>
+          <givenname>Peter</givenname>
+        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-part role="volume">16136</bib-part><bib-identifier id="978-3-032-07020-3" scheme="isbn">ISBN 978-3-032-07020-3</bib-identifier><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
- sooneditor = {Buzzard, Kevin and Kutsia, Temur},
+    editor = {Valeria de Paiva and Peter Koepke},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {13467},
-  soonisbn = {978-3-031-16680-8},
-      note = {accepted at CICM 2025},
+    volume = {16136},
+      isbn = {978-3-032-07020-3},
       year = {2025},
   keywords = {conference}}
 </bib-data></bib-related>
@@ -310,16 +325,21 @@
           <surname>Schütz</surname>
           <givenname>Marcel</givenname>
         </bib-name>
-        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">13467</bib-data><bib-data role="soonisbn">978-3-031-16680-8</bib-data><bib-note role="annotation">accepted at CICM 2025</bib-note><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
+        <bib-related role="host" type="proceedings"><bib-data role="label">CICM</bib-data><bib-name role="editor">
+          <surname>de Paiva</surname>
+          <givenname>Valeria</givenname>
+        </bib-name><bib-name role="editor">
+          <surname>Koepke</surname>
+          <givenname>Peter</givenname>
+        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-part role="volume">16136</bib-part><bib-identifier id="978-3-032-07020-3" scheme="isbn">ISBN 978-3-032-07020-3</bib-identifier><bib-date role="publication">2025</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
- sooneditor = {Buzzard, Kevin and Kutsia, Temur},
+    editor = {Valeria de Paiva and Peter Koepke},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {13467},
-  soonisbn = {978-3-031-16680-8},
-      note = {accepted at CICM 2025},
+    volume = {16136},
+      isbn = {978-3-032-07020-3},
       year = {2025},
   keywords = {conference}}
 </bib-data></bib-related>
@@ -39703,25 +39723,30 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
       </bibentry>
       <bibentry key="CICM25" type="proceedings" xml:id="bib.bib1270">
         <bib-data role="label">CICM</bib-data>
-        <bib-data role="sooneditor">Buzzard, Kevin and Kutsia, Temur</bib-data>
+        <bib-name role="editor">
+          <surname>de Paiva</surname>
+          <givenname>Valeria</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Koepke</surname>
+          <givenname>Peter</givenname>
+        </bib-name>
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
-        <bib-data role="soonvolume">13467</bib-data>
-        <bib-data role="soonisbn">978-3-031-16680-8</bib-data>
-        <bib-note role="annotation">accepted at CICM 2025</bib-note>
+        <bib-part role="volume">16136</bib-part>
+        <bib-identifier id="978-3-032-07020-3" scheme="isbn">ISBN 978-3-032-07020-3</bib-identifier>
         <bib-date role="publication">2025</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{CICM25,
      label = {CICM},
- sooneditor = {Buzzard, Kevin and Kutsia, Temur},
+    editor = {Valeria de Paiva and Peter Koepke},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {13467},
-  soonisbn = {978-3-031-16680-8},
-      note = {accepted at CICM 2025},
+    volume = {16136},
+      isbn = {978-3-032-07020-3},
       year = {2025},
   keywords = {conference}}
 </bib-data>
