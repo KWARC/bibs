@@ -37090,12 +37090,8 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       </bibentry>
       <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib1201">
         <bib-name role="author">
-          <surname>Codescu</surname>
-          <givenname>Mihai</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Mossakowski</surname>
-          <givenname>Till</givenname>
+          <surname>andTill Mossakowski</surname>
+          <givenname>Mihai Codescu</givenname>
         </bib-name>
         <bib-name role="author">
           <surname>Rabe</surname>
@@ -37118,7 +37114,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
         </bib-related>
         <bib-data role="pubs">frabe,oaf</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{CMR:colimits:16,
-    author = {Mihai Codescu and Till Mossakowski and Florian Rabe},
+    author = {Mihai Codescu andTill Mossakowski and Florian Rabe},
      title = {{Canonical Selection of Colimits}},
       year = {2017},
      pages = {170–188},
