@@ -28773,7 +28773,30 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2018}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabenstein:msc17" type="thesis" xml:id="bib.bib1201">
+      <bibentry key="dboehme:msc25" type="thesis" xml:id="bib.bib1201">
+        <bib-name role="author">
+          <surname>Böhme</surname>
+          <givenname>Dirk</givenname>
+        </bib-name>
+        <bib-title>Semantic based assessment generation</bib-title>
+        <bib-type>Master’s Thesis</bib-type>
+        <bib-organization>Informatik, FAU Erlangen-Nürnberg</bib-organization>
+        <bib-data role="month">December</bib-data>
+        <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/-/blob/master/2025/DirkBoehme.pdf">Link</bib-url>
+        <bib-data role="pubs">dboehme,mscthesis</bib-data>
+        <bib-date role="publication">2025-12</bib-date>
+        <bib-data role="self" type="BibTeX">@thesis{dboehme:msc25,
+    author = {Dirk B{\"o}hme},
+     title = {Semantic Based Assessment Generation},
+      type = {Master's Thesis},
+    school = {Informatik, FAU Erlangen-N{\"u}rnberg},
+     month = {December},
+       url = {https://gl.kwarc.info/supervision/MSc-archive/-/blob/master/2025/DirkBoehme.pdf},
+      pubs = {dboehme,mscthesis},
+      year = {2025}}
+</bib-data>
+      </bibentry>
+      <bibentry key="Rabenstein:msc17" type="thesis" xml:id="bib.bib1202">
         <bib-name role="author">
           <surname>Rabenstein</surname>
           <givenname>Ullrich</givenname>
@@ -28794,7 +28817,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       year = {2017}}
 </bib-data>
       </bibentry>
-      <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib1202">
+      <bibentry key="CMR:colimits:16" type="inproceedings" xml:id="bib.bib1203">
         <bib-name role="author">
           <surname>andTill Mossakowski</surname>
           <givenname>Mihai Codescu</givenname>
@@ -28830,7 +28853,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="CMR:selecting:16" type="inproceedings" xml:id="bib.bib1203">
+      <bibentry key="CMR:selecting:16" type="inproceedings" xml:id="bib.bib1204">
         <bib-name role="author">
           <surname>Codescu</surname>
           <givenname>M.</givenname>
@@ -28866,7 +28889,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib1204">
+      <bibentry key="rabe:maxioms:16" type="article" xml:id="bib.bib1205">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -28889,7 +28912,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib1205">
+      <bibentry key="rabe:cons:16" type="inproceedings" xml:id="bib.bib1206">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -28919,7 +28942,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="universality:16" type="article" xml:id="bib.bib1206">
+      <bibentry key="universality:16" type="article" xml:id="bib.bib1207">
         <bib-name role="author">
           <surname>Dowek</surname>
           <givenname>G.</givenname>
@@ -28958,7 +28981,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="KRS:thf1:16" type="inproceedings" xml:id="bib.bib1207">
+      <bibentry key="KRS:thf1:16" type="inproceedings" xml:id="bib.bib1208">
         <bib-name role="author">
           <surname>Kaliszyk</surname>
           <givenname>C.</givenname>
@@ -29000,7 +29023,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:standard:16" type="inproceedings" xml:id="bib.bib1208">
+      <bibentry key="rabe:mmt:standard:16" type="inproceedings" xml:id="bib.bib1209">
         <bib-name role="author">
           <surname>Kumar</surname>
           <givenname>R.</givenname>
@@ -29044,7 +29067,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib1209">
+      <bibentry key="rabe:mmt:universality:16" type="inproceedings" xml:id="bib.bib1210">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -29084,7 +29107,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib1210">
+      <bibentry key="rabe:lax:14" type="article" xml:id="bib.bib1211">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -29107,7 +29130,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib1211">
+      <bibentry key="rabe:future:15" type="article" xml:id="bib.bib1212">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -29138,7 +29161,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="HR:tptp:12" type="inproceedings" xml:id="bib.bib1212">
+      <bibentry key="HR:tptp:12" type="inproceedings" xml:id="bib.bib1213">
         <bib-name role="author">
           <surname>Horozal</surname>
           <givenname>F.</givenname>
@@ -29186,7 +29209,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib1213">
+      <bibentry key="rabe:literals:14" type="inproceedings" xml:id="bib.bib1214">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -29230,7 +29253,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,oaf,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib1214">
+      <bibentry key="rabe:mmtobjects:14" type="inproceedings" xml:id="bib.bib1215">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -29296,7 +29319,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib1215">
+      <bibentry key="IR:ui:12" type="inproceedings" xml:id="bib.bib1216">
         <bib-name role="author">
           <surname>Iancu</surname>
           <givenname>Mihnea</givenname>
@@ -29328,7 +29351,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {miancu,frabe,mmt}}
 </bib-data>
       </bibentry>
-      <bibentry key="RabMue:WADT18Abs" type="unpublished" xml:id="bib.bib1216">
+      <bibentry key="RabMue:WADT18Abs" type="unpublished" xml:id="bib.bib1217">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -29351,7 +29374,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,dmueller,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="RabMue:WADT18" type="inproceedings" xml:id="bib.bib1217">
+      <bibentry key="RabMue:WADT18" type="inproceedings" xml:id="bib.bib1218">
         <bib-name role="author">
           <surname>Rabe</surname>
           <givenname>Florian</givenname>
@@ -29376,7 +29399,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {frabe,mmt,dmueller,oaf}}
 </bib-data>
       </bibentry>
-      <bibentry key="RapAdrKoh:cglra20" type="unpublished" xml:id="bib.bib1218">
+      <bibentry key="RapAdrKoh:cglra20" type="unpublished" xml:id="bib.bib1219">
         <bib-title>Context graphs for legal reasoning and argumentation</bib-title>
         <bib-name role="author">
           <surname>Rapp</surname>
@@ -29407,7 +29430,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {mrapp,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueKal:dseid21" type="inproceedings" xml:id="bib.bib1219">
+      <bibentry key="MueKal:dseid21" type="inproceedings" xml:id="bib.bib1220">
         <bib-title>Disambiguating symbolic expressions in informal documents</bib-title>
         <bib-name role="author">
           <surname>Müller</surname>
@@ -29432,7 +29455,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {dmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="AdrianKohlhaseRapp:LegalSyllogism21" type="inproceedings" xml:id="bib.bib1220">
+      <bibentry key="AdrianKohlhaseRapp:LegalSyllogism21" type="inproceedings" xml:id="bib.bib1221">
         <bib-title>A novel understanding of legal syllogism as a starting point for better legal symbolic ai systems</bib-title>
         <bib-name role="author">
           <surname>Adrian</surname>
@@ -29459,7 +29482,7 @@ D6.3:  Design of Triform ({D/K/S}) Theories (Specification/{RNC} Schema/Examples
       pubs = {mrapp, mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="AdrianKohlhaseRapp:ContextGrahps21" type="inproceedings" xml:id="bib.bib1221">
+      <bibentry key="AdrianKohlhaseRapp:ContextGrahps21" type="inproceedings" xml:id="bib.bib1222">
         <bib-title>Context graphs for ampliative analogical legal reasoning and argumentation</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
