@@ -40,13 +40,13 @@
         <bib-title>The next step in scientific publication: embedded semantics and in-situ services</bib-title>
         <bib-note role="annotation">submitted</bib-note>
         <bib-url href="https://mathhub.info/?a=Papers/26-Scientific-Publication&amp;rp=paper.tex">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,mkohlhase</bib-data>
+        <bib-data role="pubs">mkohlhase,dmueller,voll-ki,faustairs</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{MueKoh:nssp26,
     author = {Dennis M{\"u}ller and Michael Kohlhase},
      title = {The Next Step in Scientific Publication: Embedded Semantics and In-situ Services},
       note = {submitted},
        url = {https://mathhub.info/?a=Papers/26-Scientific-Publication&amp;rp=paper.tex},
-      pubs = {mkohlhase,mkohlhase}}
+      pubs = {mkohlhase,dmueller,voll-ki,faustairs}}
 </bib-data>
       </bibentry>
       <bibentry key="DM:tfmmm26" type="inproceedings" xml:id="bib.bib3">
@@ -57,11 +57,13 @@
         <bib-title>The flexiformal manifesto made manifest</bib-title>
         <bib-url href="https://mathhub.info/?a=Papers/26-BAI-FLAMS&amp;rp=paper.tex">Link</bib-url>
         <bib-related bibrefs="BAI26" role="host"/>
+        <bib-data role="pubs">mkohlhase,dmueller,voll-ki,faustairs</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{DM:tfmmm26,
     author = {Dennis Müller},
      title = {The Flexiformal Manifesto Made Manifest},
        url = {https://mathhub.info/?a=Papers/26-BAI-FLAMS&amp;rp=paper.tex},
-  crossref = {BAI26}}
+  crossref = {BAI26},
+      pubs = {mkohlhase,dmueller,voll-ki,faustairs}}
 </bib-data>
       </bibentry>
       <bibentry key="Rap:comma26" type="unpublished" xml:id="bib.bib4">
@@ -72,13 +74,13 @@
         <bib-title>Arguments and debates as classically typed programs</bib-title>
         <bib-related bibrefs="comma26" role="host"/>
         <bib-url href="https://github.com/rappatoni/fellowship-mod/blob/main/papers/comma2026/main.pdf">Link</bib-url>
-        <bib-data role="pubs">mrapp</bib-data>
+        <bib-data role="pubs">mrapp,direga</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{Rap:comma26,
     author = {Max Rapp},
      title = {Arguments and Debates as Classically Typed Programs},
   crossref = {comma26},
        url = {https://github.com/rappatoni/fellowship-mod/blob/main/papers/comma2026/main.pdf},
-      pubs = {mrapp}}
+      pubs = {mrapp,direga}}
 </bib-data>
       </bibentry>
       <bibentry key="HeKohKudRab:sgcr26" type="unpublished" xml:id="bib.bib5">
