@@ -18,14 +18,16 @@
         </bib-name>
         <bib-title>The tetrapod model for knowledge in computer science</bib-title>
         <bib-note role="annotation">submitted</bib-note>
+        <bib-date role="publication">2026</bib-date>
         <bib-url href="https://kwarc.info/kohlhase/submit/tetrapod-cs.pdf">Link</bib-url>
-        <bib-data role="pubs">mkohlhase,frabe</bib-data>
+        <bib-data role="pubs">mkohlhase,frabe,tetrapod</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{KohRab:tmkcs26,
     author = {Michael Kohlhase and Florian Rabe},
      title = {The Tetrapod Model for Knowledge in Computer Science},
       note = {submitted},
+      year = {2026},
        url = {https://kwarc.info/kohlhase/submit/tetrapod-cs.pdf},
-      pubs = {mkohlhase,frabe}}
+      pubs = {mkohlhase,frabe,tetrapod}}
 </bib-data>
       </bibentry>
       <bibentry key="MueKoh:nssp26" type="unpublished" xml:id="bib.bib2">
@@ -39,12 +41,14 @@
         </bib-name>
         <bib-title>The next step in scientific publication: embedded semantics and in-situ services</bib-title>
         <bib-note role="annotation">submitted</bib-note>
+        <bib-date role="publication">2026</bib-date>
         <bib-url href="https://mathhub.info/?a=Papers/26-Scientific-Publication&amp;rp=paper.tex">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,voll-ki,faustairs</bib-data>
         <bib-data role="self" type="BibTeX">@unpublished{MueKoh:nssp26,
     author = {Dennis M{\"u}ller and Michael Kohlhase},
      title = {The Next Step in Scientific Publication: Embedded Semantics and In-situ Services},
       note = {submitted},
+      year = {2026},
        url = {https://mathhub.info/?a=Papers/26-Scientific-Publication&amp;rp=paper.tex},
       pubs = {mkohlhase,dmueller,voll-ki,faustairs}}
 </bib-data>
