@@ -91,6 +91,9 @@
 			<xsl:when test="$id='voll-ki'">
 				<xsl:text>Project VoLL-KI at FAU</xsl:text>
 			</xsl:when>
+			<xsl:when test="$id='faustairs'">
+				<xsl:text>Project FAUstairs at FAU</xsl:text>
+			</xsl:when>
 			<xsl:when test="$id='direga'">
 			  <xsl:text>Project DiReGa at FAU</xsl:text>
 			</xsl:when>
