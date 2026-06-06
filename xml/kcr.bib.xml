@@ -2543,7 +2543,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="LohBerKoh:ymodel23" type="inproceedings" xml:id="bib.bib81">
-        <bib-url href="https://url.mathhub.info/23GeCon">Link</bib-url>
+        <bib-url href="https://mathhub.info/?a=Papers/23-GeCon-Y-Model&amp;rp=paper.tex">Link</bib-url>
         <bib-date role="publication">2023</bib-date>
         <bib-related role="host" type="proceedings">
           <bib-publisher>IEEE</bib-publisher>
@@ -2573,7 +2573,7 @@
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="pubs">mkohlhase,dmueller,mrapp,dlohr,mberges,voll-ki</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{LohBerKoh:ymodel23,
-       url = {https://url.mathhub.info/23GeCon},
+       url = {https://mathhub.info/?a=Papers/23-GeCon-Y-Model&amp;rp=paper.tex},
       year = {2023},
  publisher = {{IEEE}},
     author = {Dominic Lohr and Marc Berges and Michael Kohlhase and Dennis M{\"u}ller and Max Rapp},
@@ -3871,13 +3871,13 @@
       </bibentry>
       <bibentry key="stexCTAN:on" type="website" xml:id="bib.bib122">
         <bib-data role="label">ST</bib-data>
-        <bib-title>STeX – an infrastructure for semantic preloading of latex documents</bib-title>
+        <bib-title>sTeX – an infrastructure for semantic preloading of latex documents</bib-title>
         <bib-organization>Comprehensive <text class="ltx_TeX_logo" cssstyle="letter-spacing:-0.2em; margin-right:0.2em">T<text cssstyle="font-variant:small-caps;font-size:120%;" yoffset="-0.2ex">e</text>X</text> Archive Network (CTAN)</bib-organization>
         <bib-url href="https://ctan.org/pkg/stex">Link</bib-url>
         <bib-data role="urldate">2022-04-22</bib-data>
         <bib-data role="self" type="BibTeX">@online{stexCTAN:on,
      label = {ST},
-     title = {sTeX – An Infrastructure for Semantic Preloading of LaTeX Documents},
+     title = {{sTeX} – An Infrastructure for Semantic Preloading of LaTeX Documents},
  institution = {Comprehensive {\TeX} Archive Network (CTAN)},
        url = {https://ctan.org/pkg/stex},
    urldate = {2022-04-22}}
