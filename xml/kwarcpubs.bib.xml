@@ -1611,7 +1611,7 @@
       pubs = {bscproject,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Heublein:kbadmsg23S" type="masterthesis" xml:id="bib.bib65">
+      <bibentry key="Heublein:kbadmsg23" type="masterthesis" xml:id="bib.bib65">
         <bib-title>Knowledge based approach for dynamic movement in “serious games”</bib-title>
         <bib-name role="author">
           <surname>Heublein</surname>
@@ -1622,7 +1622,7 @@
         <bib-date role="publication">2023</bib-date>
         <bib-url href="https://gl.kwarc.info/supervision/projectarchive/-/blob/master/2024/HeubleinLucas.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,frameit</bib-data>
-        <bib-data role="self" type="BibTeX">@masterthesis{Heublein:kbadmsg23S,
+        <bib-data role="self" type="BibTeX">@masterthesis{Heublein:kbadmsg23,
      title = {Knowledge based approach for dynamic movement in ``Serious Games''},
     author = {Lucas Heublein},
       type = {M.Sc Thesis},
@@ -3970,7 +3970,7 @@
         <bib-date role="publication">2022-10-11</bib-date>
         <bib-type>M.Sc. Project Report</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/ProjectArchive/blob/master/2022/DreierMarcel.pdf">Link</bib-url>
-        <bib-data role="pubs">bscthesis</bib-data>
+        <bib-data role="pubs">mscproject,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Dreier:projc22,
      title = {Projektarbeit: Erweiterung der MMT-Wissensbasis für volumenbasierte Mathematik-Aufgaben in UFrameIT},
     author = {Marcel Nicolas Dreier},
@@ -3978,7 +3978,7 @@
       date = {2022-10-11},
       type = {M.Sc. Project Report},
        url = {https://gl.kwarc.info/supervision/ProjectArchive/blob/master/2022/DreierMarcel.pdf},
-      pubs = {bscthesis}}
+      pubs = {mscproject,frameit}}
 </bib-data>
       </bibentry>
       <bibentry key="Schaefer:msc20" type="thesis" xml:id="bib.bib147">
