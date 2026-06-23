@@ -152,29 +152,35 @@
 </bib-data>
       </bibentry>
       <bibentry key="CICM26" type="proceedings" xml:id="bib.bib8">
-        <bib-data role="soonlabel">CICM</bib-data>
-        <bib-data role="sooneditor">Valeria de Paiva and Peter Koepke</bib-data>
-        <bib-data role="soontitle">Intelligent Computer Mathematics</bib-data>
-        <bib-data role="soonbooktitle">Intelligent Computer Mathematics ({CICM}) 2025</bib-data>
-        <bib-data role="soonpublisher">Springer</bib-data>
-        <bib-data role="soonseries">LNAI</bib-data>
+        <bib-data role="label">CICM</bib-data>
+        <bib-name role="editor">
+          <surname>de Paiva</surname>
+          <givenname>Valeria</givenname>
+        </bib-name>
+        <bib-name role="editor">
+          <surname>Koepke</surname>
+          <givenname>Peter</givenname>
+        </bib-name>
+        <bib-title>Intelligent computer mathematics</bib-title>
+        <bib-publisher>Springer</bib-publisher>
+        <bib-part role="series">LNAI</bib-part>
         <bib-data role="soonvolume">16136</bib-data>
         <bib-data role="soonisbn">978-3-032-07020-3</bib-data>
         <bib-date role="publication">2026</bib-date>
-        <bib-data role="soonkeywords">conference</bib-data>
-        <bib-note role="annotation">submitted</bib-note>
+        <bib-extract role="keywords">conference</bib-extract>
+        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@proceedings{CICM26,
- soonlabel = {CICM},
- sooneditor = {Valeria de Paiva and Peter Koepke},
- soontitle = {Intelligent Computer Mathematics},
- soonbooktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
- soonpublisher = {Springer},
- soonseries = {LNAI},
+     label = {CICM},
+    editor = {Valeria de Paiva and Peter Koepke},
+     title = {Intelligent Computer Mathematics},
+ booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
+ publisher = {Springer},
+    series = {LNAI},
  soonvolume = {16136},
   soonisbn = {978-3-032-07020-3},
       year = {2026},
- soonkeywords = {conference},
-      note = {submitted}}
+  keywords = {conference},
+      note = {in press}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM23" type="proceedings" xml:id="bib.bib9">
