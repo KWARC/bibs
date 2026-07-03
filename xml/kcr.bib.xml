@@ -152,16 +152,17 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-title>NuFrameIT: serious games via computation and reasoning</bib-title>
-        <bib-related role="host" type="proceedings"><bib-data role="soonbooktitle">Mathematical Software – ICMS 2026. 7th international conference</bib-data><bib-data role="soontitle">Mathematical Software – ICMS 2020. 7th international conference</bib-data><bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data><bib-data role="soonseries">LNCS</bib-data><bib-data role="soonvolume">12097</bib-data><bib-data role="soonpublisher">Springer</bib-data><bib-data role="soonisbn">978-3-030-52199-8</bib-data><bib-date role="publication">2026</bib-date><bib-data role="soonkeywords">conference</bib-data><bib-data role="self" type="BibTeX">@proceedings{ICMS26,
- soonbooktitle = {Mathematical Software – ICMS 2026. 7th international conference},
- soontitle = {Mathematical Software – ICMS 2020. 7th international conference},
+        <bib-related role="host" type="proceedings"><bib-title>Mathematical software – icms 2026. 10th international conference</bib-title><bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data><bib-part role="series">LNCS</bib-part><bib-data role="soonvolume">12097</bib-data><bib-data role="soonpublisher">Springer</bib-data><bib-data role="soonisbn">978-3-030-52199-8</bib-data><bib-date role="publication">2026</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{ICMS26,
+ booktitle = {Mathematical Software – ICMS 2026. 7th international conference},
+     title = {Mathematical Software – ICMS 2026. 10th international conference},
  sooneditor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
- soonseries = {LNCS},
+    series = {LNCS},
  soonvolume = {12097},
  soonpublisher = {Springer},
   soonisbn = {978-3-030-52199-8},
       year = {2026},
- soonkeywords = {conference}}
+      note = {in press},
+  keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/kohlhase/submit/icms26-nuframeit.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,frameit</bib-data>
@@ -185,16 +186,17 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Extend your math with semantics and services</bib-title>
-        <bib-related role="host" type="proceedings"><bib-data role="soonbooktitle">Mathematical Software – ICMS 2026. 7th international conference</bib-data><bib-data role="soontitle">Mathematical Software – ICMS 2020. 7th international conference</bib-data><bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data><bib-data role="soonseries">LNCS</bib-data><bib-data role="soonvolume">12097</bib-data><bib-data role="soonpublisher">Springer</bib-data><bib-data role="soonisbn">978-3-030-52199-8</bib-data><bib-date role="publication">2026</bib-date><bib-data role="soonkeywords">conference</bib-data><bib-data role="self" type="BibTeX">@proceedings{ICMS26,
- soonbooktitle = {Mathematical Software – ICMS 2026. 7th international conference},
- soontitle = {Mathematical Software – ICMS 2020. 7th international conference},
+        <bib-related role="host" type="proceedings"><bib-title>Mathematical software – icms 2026. 10th international conference</bib-title><bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data><bib-part role="series">LNCS</bib-part><bib-data role="soonvolume">12097</bib-data><bib-data role="soonpublisher">Springer</bib-data><bib-data role="soonisbn">978-3-030-52199-8</bib-data><bib-date role="publication">2026</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{ICMS26,
+ booktitle = {Mathematical Software – ICMS 2026. 7th international conference},
+     title = {Mathematical Software – ICMS 2026. 10th international conference},
  sooneditor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
- soonseries = {LNCS},
+    series = {LNCS},
  soonvolume = {12097},
  soonpublisher = {Springer},
   soonisbn = {978-3-030-52199-8},
       year = {2026},
- soonkeywords = {conference}}
+      note = {in press},
+  keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/kohlhase/submit/icms26-semantics.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,voll-ki,faustairs</bib-data>
@@ -40682,25 +40684,26 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
 </bib-data>
       </bibentry>
       <bibentry key="ICMS26" type="proceedings" xml:id="bib.bib1310">
-        <bib-data role="soonbooktitle">Mathematical Software – ICMS 2026. 7th international conference</bib-data>
-        <bib-data role="soontitle">Mathematical Software – ICMS 2020. 7th international conference</bib-data>
+        <bib-title>Mathematical software – icms 2026. 10th international conference</bib-title>
         <bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data>
-        <bib-data role="soonseries">LNCS</bib-data>
+        <bib-part role="series">LNCS</bib-part>
         <bib-data role="soonvolume">12097</bib-data>
         <bib-data role="soonpublisher">Springer</bib-data>
         <bib-data role="soonisbn">978-3-030-52199-8</bib-data>
         <bib-date role="publication">2026</bib-date>
-        <bib-data role="soonkeywords">conference</bib-data>
+        <bib-note role="annotation">in press</bib-note>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS26,
- soonbooktitle = {Mathematical Software – ICMS 2026. 7th international conference},
- soontitle = {Mathematical Software – ICMS 2020. 7th international conference},
+ booktitle = {Mathematical Software – ICMS 2026. 7th international conference},
+     title = {Mathematical Software – ICMS 2026. 10th international conference},
  sooneditor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
- soonseries = {LNCS},
+    series = {LNCS},
  soonvolume = {12097},
  soonpublisher = {Springer},
   soonisbn = {978-3-030-52199-8},
       year = {2026},
- soonkeywords = {conference}}
+      note = {in press},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="GabSieWoo:cl14" type="collection" xml:id="bib.bib1311">
