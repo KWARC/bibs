@@ -87,7 +87,7 @@
       pubs = {mrapp,direga}}
 </bib-data>
       </bibentry>
-      <bibentry key="HeKohKudRab:sgcr26" type="unpublished" xml:id="bib.bib5">
+      <bibentry key="HeKohKudRab:sgcr26" type="inproceedings" xml:id="bib.bib5">
         <bib-name role="author">
           <surname>Heim</surname>
           <givenname>Stefanie</givenname>
@@ -108,7 +108,7 @@
         <bib-related bibrefs="ICMS26" role="host"/>
         <bib-url href="https://kwarc.info/kohlhase/submit/icms26-nuframeit.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,frameit</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{HeKohKudRab:sgcr26,
+        <bib-data role="self" type="BibTeX">@inproceedings{HeKohKudRab:sgcr26,
     author = {Stefanie Heim and Michael Kohlhase and Silas Kuder and Florian Rabe},
      title = {NuFrameIT: Serious Games via Computation and Reasoning},
   crossref = {ICMS26},
@@ -116,7 +116,7 @@
       pubs = {mkohlhase,frabe,frameit}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueKoh:emss26" type="unpublished" xml:id="bib.bib6">
+      <bibentry key="MueKoh:emss26" type="inproceedings" xml:id="bib.bib6">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -129,7 +129,7 @@
         <bib-related bibrefs="ICMS26" role="host"/>
         <bib-url href="https://kwarc.info/kohlhase/submit/icms26-semantics.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,voll-ki,faustairs</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{MueKoh:emss26,
+        <bib-data role="self" type="BibTeX">@inproceedings{MueKoh:emss26,
     author = {Dennis M{\"u}ller and Michael Kohlhase},
      title = {Extend your Math with Semantics and Services},
   crossref = {ICMS26},
@@ -137,7 +137,7 @@
       pubs = {mkohlhase,dmueller,voll-ki,faustairs}}
 </bib-data>
       </bibentry>
-      <bibentry key="BetKoh:mlc26" type="unpublished" xml:id="bib.bib7">
+      <bibentry key="BetKoh:mlc26" type="inproceedings" xml:id="bib.bib7">
         <bib-name role="author">
           <surname>Betzendahl</surname>
           <givenname>Jonas</givenname>
@@ -150,7 +150,7 @@
         <bib-related bibrefs="CICM26" role="host"/>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm26-learner-model.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,jbetzendahl,voll-ki,faustairs</bib-data>
-        <bib-data role="self" type="BibTeX">@unpublished{BetKoh:mlc26,
+        <bib-data role="self" type="BibTeX">@inproceedings{BetKoh:mlc26,
     author = {Jonas Betzendahl and Michael Kohlhase},
      title = {Modelling Learner Competencies: Does MKM Have an Influence?},
   crossref = {CICM26},
