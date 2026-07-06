@@ -21,13 +21,15 @@
         <bib-date role="publication">2026</bib-date>
         <bib-data role="journal">Lecture Notes in Legal Informatics</bib-data>
         <bib-data role="pubs">mkohlhase,abasaran,voll-ki,faustairs,direga</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{BasKoh:rvi2026,
     author = {Basaran, Anil and Kohlhase, Michael},
      title = {Towards a Flexiformal Legal domain Model},
   subtitle = {Or: the Flexiformal Legal Domain Model},
       year = {2026},
    journal = {Lecture Notes in Legal Informatics},
-      pubs = {mkohlhase,abasaran,voll-ki,faustairs,direga}}
+      pubs = {mkohlhase,abasaran,voll-ki,faustairs,direga},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="AdrBasBot:mss26" type="inproceedings" xml:id="bib.bib2">
