@@ -338,7 +338,7 @@
      label = {CICM},
     editor = {Valeria de Paiva and Peter Koepke},
      title = {Intelligent Computer Mathematics},
- booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
+ booktitle = {Intelligent Computer Mathematics ({CICM}) 2026},
  publisher = {Springer},
     series = {LNAI},
  soonvolume = {16136},
@@ -350,7 +350,7 @@
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm26-learner-model.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,jbetzendahl,voll-ki,faustairs</bib-data>
         <bib-related role="host" type="proceedings">
-          <bib-title>Intelligent Computer Mathematics (CICM) 2025</bib-title>
+          <bib-title>Intelligent Computer Mathematics (CICM) 2026</bib-title>
           <bib-publisher>Springer</bib-publisher>
         </bib-related>
         <bib-date role="publication">2026</bib-date>
@@ -360,7 +360,7 @@
   crossref = {CICM26},
        url = {https://kwarc.info/kohlhase/submit/cicm26-learner-model.pdf},
       pubs = {mkohlhase,jbetzendahl,voll-ki,faustairs},
- booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
+ booktitle = {Intelligent Computer Mathematics ({CICM}) 2026},
  publisher = {Springer},
       year = {2026}}
 </bib-data>
@@ -40628,7 +40628,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
      label = {CICM},
     editor = {Valeria de Paiva and Peter Koepke},
      title = {Intelligent Computer Mathematics},
- booktitle = {Intelligent Computer Mathematics ({CICM}) 2025},
+ booktitle = {Intelligent Computer Mathematics ({CICM}) 2026},
  publisher = {Springer},
     series = {LNAI},
  soonvolume = {16136},
