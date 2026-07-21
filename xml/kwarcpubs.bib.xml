@@ -2033,12 +2033,16 @@
         <bib-date role="publication">2024</bib-date>
         <bib-related bibrefs="DiKuLe24" role="host"/>
         <bib-identifier href="https://dx.doi.org/10.14361/9783839471203-027" id="10.14361/9783839471203-027" scheme="doi">Document</bib-identifier>
+        <bib-url href="https://www.inlibra.com/document/download/pdf/uuid/6ee44eba-94ff-3176-a8ce-aaad7df0049f">Link</bib-url>
+        <bib-data role="pubs">voll-ki, jbetzendahl, dlohr, mberges, mkohlhase</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BetzLohrBergKohl.VoLlKOrN.DiKuLe24,
     author = {Jonas Betzendahl and Dominic Lohr and Marc Berges and Michael Kohlhase},
      title = {Efficient Exam Correction at Scale: Streamlining Paper-Based Assessments with the VoLl-KOrN System},
       year = {2024},
   crossref = {DiKuLe24},
-       doi = {10.14361/9783839471203-027}}
+       doi = {10.14361/9783839471203-027},
+       url = {https://www.inlibra.com/document/download/pdf/uuid/6ee44eba-94ff-3176-a8ce-aaad7df0049f},
+      pubs = {voll-ki, jbetzendahl, dlohr, mberges, mkohlhase}}
 </bib-data>
       </bibentry>
       <bibentry key="DBLP:conf/ecai/BetzendahlK023" type="inproceedings" xml:id="bib.bib80">
