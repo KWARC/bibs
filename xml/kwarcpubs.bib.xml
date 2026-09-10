@@ -58,7 +58,7 @@
           <surname>Heim</surname>
           <givenname>Stefanie</givenname>
         </bib-name>
-        <bib-title>User-fact interaction in the UFrameIT framework</bib-title>
+        <bib-title>Simplifying theories in upl by solving equation systems for frameit</bib-title>
         <bib-organization>FAU Erlangen-Nürnberg</bib-organization>
         <bib-date role="publication">2026-03</bib-date>
         <bib-data role="month">3</bib-data>
@@ -67,7 +67,7 @@
         <bib-data role="pubs">bscthesis,frameit</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Heim:bsc26,
     author = {Stefanie Heim},
-     title = {User-Fact Interaction in the {UFrameIT} Framework},
+     title = {Simplifying theories in UPL by solving equation systems for FrameIT},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2026},
      month = {3},
