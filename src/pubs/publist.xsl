@@ -82,14 +82,32 @@
 			<xsl:when test="$id='mwagner'">
 				<xsl:text>Michael Wagner</xsl:text>
 			</xsl:when>
+			<xsl:when test="$id='tdaunicht'">
+				<xsl:text>Tina-Myrica Daunicht</xsl:text>
+			</xsl:when>
+			<xsl:when test="$id='bbozorgchami'">
+				<xsl:text>Behrooz Borzorgchami</xsl:text>
+			</xsl:when>
+			<xsl:when test="$id='jimhoff'">
+				<xsl:text>Josephina Imhoff</xsl:text>
+			</xsl:when>
+			<xsl:when test="$id='jneumann'">
+				<xsl:text>Josefine Neumann</xsl:text>
+			</xsl:when>
+			<xsl:when test="$id='hpotechius'">
+				<xsl:text>Herbert Potechius</xsl:text>
+			</xsl:when>
 			<xsl:when test="$id='rmarcus'">
 				<xsl:text>Richard Marcus</xsl:text>
 			</xsl:when>
 			<xsl:when test="$id='frameit'">
 				<xsl:text>Project FrameIT</xsl:text>
 			</xsl:when>
+			<xsl:when test="$id='alea'">
+				<xsl:text>The ALeA System</xsl:text>
+			</xsl:when>
 			<xsl:when test="$id='almanac'">
-				<xsl:text>Project ALMANAC</xsl:text>
+			  <xsl:text>Project ALMANAC</xsl:text>
 			</xsl:when>
 			<xsl:when test="$id='voll-ki'">
 				<xsl:text>Project VoLL-KI at FAU</xsl:text>
