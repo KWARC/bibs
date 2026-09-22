@@ -7,7 +7,30 @@
   <bibliography citestyle="numbers" xml:id="bib">
     <title/>
     <biblist>
-      <bibentry key="Bozorgchami:msc26" type="thesis" xml:id="bib.bib1">
+      <bibentry key="SchSch:fhcenl26" type="unpublished" xml:id="bib.bib1">
+        <bib-name role="author">
+          <surname>Schaefer</surname>
+          <givenname>Jan Frederik</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Schütz</surname>
+          <givenname>Marcel</givenname>
+        </bib-name>
+        <bib-title>Formalizing how concepts are expressed in natural language</bib-title>
+        <bib-note role="annotation">accepted as work-in-progress paper at CICM2026</bib-note>
+        <bib-date role="publication">2026</bib-date>
+        <bib-url href="https://mathhub.info/?a=Papers/26-CICM-Rewriting&amp;rp=wip-paper.tex">Link</bib-url>
+        <bib-data role="pubs">jfschaefer,mschuetz,faustairs</bib-data>
+        <bib-data role="self" type="BibTeX">@unpublished{SchSch:fhcenl26,
+    author = {Jan Frederik Schaefer and Marcel Sch{\"u}tz},
+     title = {Formalizing How Concepts are Expressed in Natural Language},
+      note = {accepted as work-in-progress paper at CICM2026},
+      year = {2026},
+       url = {https://mathhub.info/?a=Papers/26-CICM-Rewriting&amp;rp=wip-paper.tex},
+      pubs = {jfschaefer,mschuetz,faustairs}}
+</bib-data>
+      </bibentry>
+      <bibentry key="Bozorgchami:msc26" type="thesis" xml:id="bib.bib2">
         <bib-name role="author">
           <surname>Imhoff</surname>
           <givenname>Josephina</givenname>
@@ -30,7 +53,7 @@
       pubs = {mscthesis,faustairs,jimhoff}}
 </bib-data>
       </bibentry>
-      <bibentry key="Bozorgchami:bsc26" type="thesis" xml:id="bib.bib2">
+      <bibentry key="Bozorgchami:bsc26" type="thesis" xml:id="bib.bib3">
         <bib-name role="author">
           <surname>Bozorgchami</surname>
           <givenname>Berooz</givenname>
@@ -53,7 +76,7 @@
       pubs = {mscthesis,faustairs,bbozorgchami}}
 </bib-data>
       </bibentry>
-      <bibentry key="Heim:bsc26" type="thesis" xml:id="bib.bib3">
+      <bibentry key="Heim:bsc26" type="thesis" xml:id="bib.bib4">
         <bib-name role="author">
           <surname>Heim</surname>
           <givenname>Stefanie</givenname>
@@ -76,7 +99,7 @@
       pubs = {bscthesis,frameit}}
 </bib-data>
       </bibentry>
-      <bibentry key="HadNeuMol:jpcm22" type="article" xml:id="bib.bib4">
+      <bibentry key="HadNeuMol:jpcm22" type="article" xml:id="bib.bib5">
         <bib-date role="publication">2022</bib-date>
         <bib-title>On the importance of electron-electron and electron-phonon scatterings and energy renormalizations during carrier relaxation in monolayer transition-metal dichalcogenides</bib-title>
         <bib-name role="author">
@@ -113,7 +136,7 @@
       pubs = {jneuhaus}}
 </bib-data>
       </bibentry>
-      <bibentry key="NeuLieMec:jpcm20" type="article" xml:id="bib.bib5">
+      <bibentry key="NeuLieMec:jpcm20" type="article" xml:id="bib.bib6">
         <bib-date role="publication">2020</bib-date>
         <bib-title>Microscopic coulomb interaction in transition-metal dichalcogenides</bib-title>
         <bib-name role="author">
@@ -154,7 +177,7 @@
       pubs = {jneuhaus}}
 </bib-data>
       </bibentry>
-      <bibentry key="StrNeuKoc:prb21" type="article" xml:id="bib.bib6">
+      <bibentry key="StrNeuKoc:prb21" type="article" xml:id="bib.bib7">
         <bib-date role="publication">2021</bib-date>
         <bib-title>Magnetic-field tuning of intraexcitonic absorption and gain in transition metal dichalcogenides</bib-title>
         <bib-name role="author">
@@ -187,7 +210,7 @@
       pubs = {jneuhaus}}
 </bib-data>
       </bibentry>
-      <bibentry key="SenLahNeu:dpg25" type="inproceedings" xml:id="bib.bib7">
+      <bibentry key="SenLahNeu:dpg25" type="inproceedings" xml:id="bib.bib8">
         <bib-name role="author">
           <surname>Senel</surname>
           <givenname>Deniz C.</givenname>
@@ -218,7 +241,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="NeuHof:gdcp24" type="inproceedings" xml:id="bib.bib8">
+      <bibentry key="NeuHof:gdcp24" type="inproceedings" xml:id="bib.bib9">
         <bib-name role="author">
           <surname>Neuhaus</surname>
           <givenname>Josefine</givenname>
@@ -253,7 +276,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="HofNeu:prpre26" type="article" xml:id="bib.bib9">
+      <bibentry key="HofNeu:prpre26" type="article" xml:id="bib.bib10">
         <bib-date role="publication">2026</bib-date>
         <bib-title>Supporting sensemaking of physics equations: an intervention study in undergraduate courses</bib-title>
         <bib-name role="author">
@@ -290,7 +313,7 @@
       pubs = {jneuhaus}}
 </bib-data>
       </bibentry>
-      <bibentry key="HofNeuKle:dpg25" type="inproceedings" xml:id="bib.bib10">
+      <bibentry key="HofNeuKle:dpg25" type="inproceedings" xml:id="bib.bib11">
         <bib-name role="author">
           <surname>Hofmann</surname>
           <givenname>Julia</givenname>
@@ -321,7 +344,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="NeuKleMue:dpg25" type="inproceedings" xml:id="bib.bib11">
+      <bibentry key="NeuKleMue:dpg25" type="inproceedings" xml:id="bib.bib12">
         <bib-name role="author">
           <surname>Neuhaus</surname>
           <givenname>Josefine</givenname>
@@ -348,7 +371,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="HadNeuMol:cleo23" type="inproceedings" xml:id="bib.bib12">
+      <bibentry key="HadNeuMol:cleo23" type="inproceedings" xml:id="bib.bib13">
         <bib-name role="author">
           <surname>Hader</surname>
           <givenname>Jörg</givenname>
@@ -379,7 +402,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="HadMolNeu:spie23" type="inproceedings" xml:id="bib.bib13">
+      <bibentry key="HadMolNeu:spie23" type="inproceedings" xml:id="bib.bib14">
         <bib-name role="author">
           <surname>Hade</surname>
           <givenname>Jörg</givenname>
@@ -412,7 +435,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="HadMolNeu:spie22" type="inproceedings" xml:id="bib.bib14">
+      <bibentry key="HadMolNeu:spie22" type="inproceedings" xml:id="bib.bib15">
         <bib-name role="author">
           <surname>Hader</surname>
           <givenname>Jörg</givenname>
@@ -449,39 +472,6 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="NeuStrKoc:pssrrl21" type="article" xml:id="bib.bib15">
-        <bib-date role="publication">2021</bib-date>
-        <bib-title>Electron-hole-induced dephasing in transition metal dichacogenides</bib-title>
-        <bib-name role="author">
-          <surname>Neuhaus</surname>
-          <givenname>Josefine</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Stroucken</surname>
-          <givenname>Tineke</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Koch</surname>
-          <givenname>Stephan W.</givenname>
-        </bib-name>
-        <bib-identifier href="https://dx.doi.org/10.1002/pssr.202100391" id="10.1002/pssr.202100391" scheme="doi">Document</bib-identifier>
-        <bib-related role="host" type="journal">
-          <bib-title>physica status solidi – Rapid Research Letters</bib-title>
-        </bib-related>
-        <bib-part role="volume">15</bib-part>
-        <bib-part role="number">11</bib-part>
-        <bib-data role="pubs">jneuhaus</bib-data>
-        <bib-data role="self" type="BibTeX">@article{NeuStrKoc:pssrrl21,
-      year = {2021},
-     title = {Electron-hole-induced dephasing in transition metal dichacogenides},
-    author = {Josefine Neuhaus and Tineke Stroucken and Stephan W. Koch},
-       doi = {10.1002/pssr.202100391},
-   journal = {physica status solidi – Rapid Research Letters},
-    volume = {15},
-    number = {11},
-      pubs = {jneuhaus}}
-</bib-data>
-      </bibentry>
       <bibentry key="NeuStrKoc:pssrrl21" type="article" xml:id="bib.bib16">
         <bib-date role="publication">2021</bib-date>
         <bib-title>Electron-hole-induced dephasing in transition metal dichacogenides</bib-title>
@@ -515,7 +505,40 @@
       pubs = {jneuhaus}}
 </bib-data>
       </bibentry>
-      <bibentry key="MeckHadHutNeu:prb20" type="article" xml:id="bib.bib17">
+      <bibentry key="NeuStrKoc:pssrrl21" type="article" xml:id="bib.bib17">
+        <bib-date role="publication">2021</bib-date>
+        <bib-title>Electron-hole-induced dephasing in transition metal dichacogenides</bib-title>
+        <bib-name role="author">
+          <surname>Neuhaus</surname>
+          <givenname>Josefine</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Stroucken</surname>
+          <givenname>Tineke</givenname>
+        </bib-name>
+        <bib-name role="author">
+          <surname>Koch</surname>
+          <givenname>Stephan W.</givenname>
+        </bib-name>
+        <bib-identifier href="https://dx.doi.org/10.1002/pssr.202100391" id="10.1002/pssr.202100391" scheme="doi">Document</bib-identifier>
+        <bib-related role="host" type="journal">
+          <bib-title>physica status solidi – Rapid Research Letters</bib-title>
+        </bib-related>
+        <bib-part role="volume">15</bib-part>
+        <bib-part role="number">11</bib-part>
+        <bib-data role="pubs">jneuhaus</bib-data>
+        <bib-data role="self" type="BibTeX">@article{NeuStrKoc:pssrrl21,
+      year = {2021},
+     title = {Electron-hole-induced dephasing in transition metal dichacogenides},
+    author = {Josefine Neuhaus and Tineke Stroucken and Stephan W. Koch},
+       doi = {10.1002/pssr.202100391},
+   journal = {physica status solidi – Rapid Research Letters},
+    volume = {15},
+    number = {11},
+      pubs = {jneuhaus}}
+</bib-data>
+      </bibentry>
+      <bibentry key="MeckHadHutNeu:prb20" type="article" xml:id="bib.bib18">
         <bib-date role="publication">2020</bib-date>
         <bib-title>Ultrafast band-gap renormalization and build-up of optical gain in monolayer mote2</bib-title>
         <bib-name role="author">
@@ -568,7 +591,7 @@
       pubs = {jneuhaus}}
 </bib-data>
       </bibentry>
-      <bibentry key="HadNeu:ol23" type="article" xml:id="bib.bib18">
+      <bibentry key="HadNeu:ol23" type="article" xml:id="bib.bib19">
         <bib-date role="publication">2023</bib-date>
         <bib-title>Coulomb enhancement of high harmonic generation in monolayer transition metal dichalcogenides</bib-title>
         <bib-name role="author">
@@ -605,7 +628,7 @@
       pubs = {jneuhaus}}
 </bib-data>
       </bibentry>
-      <bibentry key="LahNeu:prpre24" type="article" xml:id="bib.bib19">
+      <bibentry key="LahNeu:prpre24" type="article" xml:id="bib.bib20">
         <bib-date role="publication">2024</bib-date>
         <bib-title>Enrollment to exams: perceived stress dynamic among first-year physics students</bib-title>
         <bib-name role="author">
@@ -654,7 +677,7 @@
       pubs = {jneuhaus}}
 </bib-data>
       </bibentry>
-      <bibentry key="BasKoh:rvi2026" type="inproceedings" xml:id="bib.bib20">
+      <bibentry key="BasKoh:rvi2026" type="inproceedings" xml:id="bib.bib21">
         <bib-name role="author">
           <surname>Basaran</surname>
           <givenname>Anil</givenname>
@@ -679,7 +702,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="AdrBasBot:mss26" type="inproceedings" xml:id="bib.bib21">
+      <bibentry key="AdrBasBot:mss26" type="inproceedings" xml:id="bib.bib22">
         <bib-title>Herausforderungen bei der automatisierung im registerwesen mit symbolischer ki und maschinellem lernen</bib-title>
         <bib-subtitle>DIREGA und das Beispiel der Eintragung eines Nießbrauchs an einem Kommanditanteil ins Handelsregister</bib-subtitle>
         <bib-name role="author">
@@ -754,7 +777,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohRab:tmkcs26" type="unpublished" xml:id="bib.bib22">
+      <bibentry key="KohRab:tmkcs26" type="unpublished" xml:id="bib.bib23">
         <bib-name role="author">
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
@@ -777,7 +800,7 @@
       pubs = {mkohlhase,frabe,tetrapod}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueKoh:nssp26" type="unpublished" xml:id="bib.bib23">
+      <bibentry key="MueKoh:nssp26" type="unpublished" xml:id="bib.bib24">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -800,7 +823,7 @@
       pubs = {mkohlhase,dmueller,voll-ki,faustairs}}
 </bib-data>
       </bibentry>
-      <bibentry key="DM:tfmmm26" type="inproceedings" xml:id="bib.bib24">
+      <bibentry key="DM:tfmmm26" type="inproceedings" xml:id="bib.bib25">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -817,7 +840,7 @@
       pubs = {mkohlhase,dmueller,voll-ki,faustairs}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rap:comma26" type="unpublished" xml:id="bib.bib25">
+      <bibentry key="Rap:comma26" type="unpublished" xml:id="bib.bib26">
         <bib-name role="author">
           <surname>Rapp</surname>
           <givenname>Max</givenname>
@@ -834,7 +857,7 @@
       pubs = {mrapp,direga}}
 </bib-data>
       </bibentry>
-      <bibentry key="HeKohKudRab:sgcr26" type="inproceedings" xml:id="bib.bib26">
+      <bibentry key="HeKohKudRab:sgcr26" type="inproceedings" xml:id="bib.bib27">
         <bib-name role="author">
           <surname>Heim</surname>
           <givenname>Stefanie</givenname>
@@ -863,7 +886,7 @@
       pubs = {mkohlhase,frabe,frameit}}
 </bib-data>
       </bibentry>
-      <bibentry key="MueKoh:emss26" type="inproceedings" xml:id="bib.bib27">
+      <bibentry key="MueKoh:emss26" type="inproceedings" xml:id="bib.bib28">
         <bib-name role="author">
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
@@ -884,7 +907,7 @@
       pubs = {mkohlhase,dmueller,voll-ki,faustairs}}
 </bib-data>
       </bibentry>
-      <bibentry key="BetKoh:mlc26" type="inproceedings" xml:id="bib.bib28">
+      <bibentry key="BetKoh:mlc26" type="inproceedings" xml:id="bib.bib29">
         <bib-name role="author">
           <surname>Betzendahl</surname>
           <givenname>Jonas</givenname>
@@ -905,7 +928,7 @@
       pubs = {mkohlhase,jbetzendahl,voll-ki,faustairs}}
 </bib-data>
       </bibentry>
-      <bibentry key="sTeX:documentation:on" type="website" xml:id="bib.bib29">
+      <bibentry key="sTeX:documentation:on" type="website" xml:id="bib.bib30">
         <bib-title>The sTeX documentation</bib-title>
         <bib-url href="https://mathhub.info/?a=sTeX/Documentation&amp;rp=documentation.tex">Link</bib-url>
         <bib-data role="urldate">2026-04-08</bib-data>
@@ -917,7 +940,7 @@
       pubs = {sTeX,dmueller,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="AI2.alea" type="website" xml:id="bib.bib30">
+      <bibentry key="AI2.alea" type="website" xml:id="bib.bib31">
         <bib-title>AI-2 course home — alea</bib-title>
         <bib-url href="https://alea.education/FAU/ai-2/SS26">Link</bib-url>
         <bib-data role="urldate">2026-04-08</bib-data>
@@ -929,7 +952,7 @@
       pubs = {sTeX,dmueller,mkohlhase,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="AI1.alea" type="website" xml:id="bib.bib31">
+      <bibentry key="AI1.alea" type="website" xml:id="bib.bib32">
         <bib-title>AI-1 course home — alea</bib-title>
         <bib-url href="https://alea.education/FAU/ai-1/WS25-26">Link</bib-url>
         <bib-data role="urldate">2026-04-08</bib-data>
@@ -941,7 +964,7 @@
       pubs = {sTeX,dmueller,mkohlhase,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Shaikh:mscthesis25" type="thesis" xml:id="bib.bib32">
+      <bibentry key="Shaikh:mscthesis25" type="thesis" xml:id="bib.bib33">
         <bib-extract role="keywords">supervision</bib-extract>
         <bib-title>Concept spotter: extracting semantic definitions from stem publications using dependency parsing and llm-based methods</bib-title>
         <bib-name role="author">
@@ -962,7 +985,7 @@
      month = {August}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kostarev:mscthesis24" type="thesis" xml:id="bib.bib33">
+      <bibentry key="Kostarev:mscthesis24" type="thesis" xml:id="bib.bib34">
         <bib-extract role="keywords">mscthesis</bib-extract>
         <bib-title>The next generation of OpenMathMap</bib-title>
         <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/raw/master/2024/KostarevPavel.pdf">Link</bib-url>
@@ -983,7 +1006,7 @@
       type = {Master's thesis}}
 </bib-data>
       </bibentry>
-      <bibentry key="Mamdouh:mscthesis25" type="thesis" xml:id="bib.bib34">
+      <bibentry key="Mamdouh:mscthesis25" type="thesis" xml:id="bib.bib35">
         <bib-title>Guided semantic model generation: a comparative study of symbolic and learned guidance for tableau-based interpretation</bib-title>
         <bib-name role="author">
           <surname>Mamdouh</surname>
@@ -1002,7 +1025,7 @@
      month = {December}}
 </bib-data>
       </bibentry>
-      <bibentry key="Wu:mscthesis25" type="thesis" xml:id="bib.bib35">
+      <bibentry key="Wu:mscthesis25" type="thesis" xml:id="bib.bib36">
         <bib-title>Semantic identification and declaration extraction of mathematical symbols in scientific documents</bib-title>
         <bib-name role="author">
           <surname>Wu</surname>
@@ -1021,7 +1044,7 @@
      month = {December}}
 </bib-data>
       </bibentry>
-      <bibentry key="Mamdouh:mscthesis25" type="thesis" xml:id="bib.bib36">
+      <bibentry key="Mamdouh:mscthesis25" type="thesis" xml:id="bib.bib37">
         <bib-title>Guided semantic model generation: a comparative study of symbolic and learned guidance for tableau-based interpretation</bib-title>
         <bib-name role="author">
           <surname>Mamdouh</surname>
@@ -1040,7 +1063,7 @@
      month = {December}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:AI-1notes" type="website" xml:id="bib.bib37">
+      <bibentry key="Kohlhase:AI-1notes" type="website" xml:id="bib.bib38">
         <bib-title>Artificial intelligence 1 – lecture notes</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1057,7 +1080,7 @@
       pubs = {voll-ki,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:AI-2notes" type="website" xml:id="bib.bib38">
+      <bibentry key="Kohlhase:AI-2notes" type="website" xml:id="bib.bib39">
         <bib-title>Artificial intelligence 1 – lecture notes</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1074,7 +1097,7 @@
       pubs = {voll-ki,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:SMAInotes" type="website" xml:id="bib.bib39">
+      <bibentry key="Kohlhase:SMAInotes" type="website" xml:id="bib.bib40">
         <bib-title>Symbolic methods for artificial intelligence 1 – lecture notes</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1091,7 +1114,7 @@
       pubs = {voll-ki,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="Kohlhase:LBSnotes" type="website" xml:id="bib.bib40">
+      <bibentry key="Kohlhase:LBSnotes" type="website" xml:id="bib.bib41">
         <bib-title>Logic-based natural language semantics – lecture notes</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1108,7 +1131,7 @@
       pubs = {voll-ki,mkohlhase}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohMue:KRMTnotes" type="website" xml:id="bib.bib41">
+      <bibentry key="KohMue:KRMTnotes" type="website" xml:id="bib.bib42">
         <bib-title>Knowledge representation for mathematical theories – lecture notes</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1129,7 +1152,7 @@
       pubs = {voll-ki,mkohlhase,dmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="Esswein:bsc24" type="thesis" xml:id="bib.bib42">
+      <bibentry key="Esswein:bsc24" type="thesis" xml:id="bib.bib43">
         <bib-name role="author">
           <surname>Esswein</surname>
           <givenname>Björn</givenname>
@@ -1152,7 +1175,7 @@
       pubs = {bscthesis,frameit}}
 </bib-data>
       </bibentry>
-      <bibentry key="Keller:bsc25" type="thesis" xml:id="bib.bib43">
+      <bibentry key="Keller:bsc25" type="thesis" xml:id="bib.bib44">
         <bib-name role="author">
           <surname>Keller</surname>
           <givenname>Katharina</givenname>
@@ -1175,7 +1198,7 @@
       pubs = {bscthesis,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="Adrian:bsc25" type="thesis" xml:id="bib.bib44">
+      <bibentry key="Adrian:bsc25" type="thesis" xml:id="bib.bib45">
         <bib-title>Integrating semantic authoring within rich-text environments into the omdoc semantic ecosystem – woide ii</bib-title>
         <bib-name role="author">
           <surname>Adrian</surname>
@@ -1198,7 +1221,7 @@
       pubs = {bscthesis,direga}}
 </bib-data>
       </bibentry>
-      <bibentry key="Irigoien:msc25" type="thesis" xml:id="bib.bib45">
+      <bibentry key="Irigoien:msc25" type="thesis" xml:id="bib.bib46">
         <bib-title>A semantic annotation framework for legal knowledge through the extension of stex</bib-title>
         <bib-name role="author">
           <surname>Irigoien</surname>
@@ -1221,7 +1244,7 @@
       pubs = {mscthesis,direga}}
 </bib-data>
       </bibentry>
-      <bibentry key="AdrEveKoh:mss25" type="inproceedings" xml:id="bib.bib46">
+      <bibentry key="AdrEveKoh:mss25" type="inproceedings" xml:id="bib.bib47">
         <bib-title>Maschinelles schliessen mit s(casp) – anmeldung eines neuen geschäftsführers einer gmbh zum handelsregister</bib-title>
         <bib-name role="author">
           <surname>Adrian</surname>
@@ -1294,7 +1317,7 @@
   keywords = {conference}}
 </bib-data>
       </bibentry>
-      <bibentry key="AdrBasDyk:dbsgrl24" type="inproceedings" xml:id="bib.bib47">
+      <bibentry key="AdrBasDyk:dbsgrl24" type="inproceedings" xml:id="bib.bib48">
         <bib-name role="author">
           <surname>Adrian</surname>
           <givenname>Axel</givenname>
@@ -1386,7 +1409,7 @@
       pubs = {direga,mkohlhase,mrapp,abasaran}}
 </bib-data>
       </bibentry>
-      <bibentry key="Rabe:grlc25" type="inproceedings" xml:id="bib.bib48">
+      <bibentry key="Rabe:grlc25" type="inproceedings" xml:id="bib.bib49">
         <bib-title>Global, regional, and local contexts</bib-title>
         <bib-name role="author">
           <surname>Rabe</surname>
@@ -1403,7 +1426,7 @@
       pubs = {frabe}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohSch:safc25" type="inproceedings" xml:id="bib.bib49">
+      <bibentry key="KohSch:safc25" type="inproceedings" xml:id="bib.bib50">
         <bib-title>Semantic authoring in a flexiformal context – bulk annotation of rigorous documents</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1424,7 +1447,7 @@
       pubs = {mkohlhase,jfschaefer,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="KohRabSch:lr25" type="inproceedings" xml:id="bib.bib50">
+      <bibentry key="KohRabSch:lr25" type="inproceedings" xml:id="bib.bib51">
         <bib-title>Lightweight realms</bib-title>
         <bib-name role="author">
           <surname>Kohlhase</surname>
@@ -1449,7 +1472,7 @@
       pubs = {mkohlhase,frabe,mschuetz,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="KosKohMue:osm25" type="unpublished" xml:id="bib.bib51">
+      <bibentry key="KosKohMue:osm25" type="unpublished" xml:id="bib.bib52">
         <bib-title>OpenMathMap 2 – the shape of mathematics</bib-title>
         <bib-name role="author">
           <surname>Kostarev</surname>
@@ -1472,7 +1495,7 @@
       pubs = {mkohlhase,dmueller}}
 </bib-data>
       </bibentry>
-      <bibentry key="KelKohSchSch:rbmfm25" type="inproceedings" xml:id="bib.bib52">
+      <bibentry key="KelKohSchSch:rbmfm25" type="inproceedings" xml:id="bib.bib53">
         <bib-title>Reaping the benefits of modularization in flexiformal mathematics by GF-based AST transformations</bib-title>
         <bib-name role="author">
           <surname>Kelber</surname>
@@ -1501,7 +1524,7 @@
       pubs = {mkohlhase,jfschaefer,mschuetz,voll-ki}}
 </bib-data>
       </bibentry>
-      <bibentry key="ftml-viewer:npm:on" type="website" xml:id="bib.bib53">
+      <bibentry key="ftml-viewer:npm:on" type="website" xml:id="bib.bib54">
         <bib-title>FTML viewer on npm</bib-title>
         <bib-url href="https://www.npmjs.com/package/@flexiformal/ftml">Link</bib-url>
         <bib-data role="urldate">2026-04-25</bib-data>
@@ -1511,7 +1534,7 @@
    urldate = {2026-04-25}}
 </bib-data>
       </bibentry>
-      <bibentry key="ftml-react:npm:on" type="website" xml:id="bib.bib54">
+      <bibentry key="ftml-react:npm:on" type="website" xml:id="bib.bib55">
         <bib-title>React components for ftml viewer on npm</bib-title>
         <bib-url href="https://www.npmjs.com/package/@flexiformal/ftml-react">Link</bib-url>
         <bib-data role="urldate">2026-04-25</bib-data>
@@ -1521,8 +1544,8 @@
    urldate = {2026-04-25}}
 </bib-data>
       </bibentry>
-      <bibentry key="flams:doc:on" type="website" xml:id="bib.bib55">
-        <bib-title><Math mode="inline" tex="\textstyle\mathsf{F}\kern-1.00006pt\mathsf{L}\kern-3.6pt\raise 0.22995pt\hbox{%&#10;$\forall$}\kern-1.1pt\mathsf{M}\kern-5.0pt\int" text="FL * for-all@(M * integral)" xml:id="bib.bib55.m1">
+      <bibentry key="flams:doc:on" type="website" xml:id="bib.bib56">
+        <bib-title><Math mode="inline" tex="\textstyle\mathsf{F}\kern-1.00006pt\mathsf{L}\kern-3.6pt\raise 0.22995pt\hbox{%&#10;$\forall$}\kern-1.1pt\mathsf{M}\kern-5.0pt\int" text="FL * for-all@(M * integral)" xml:id="bib.bib56.m1">
             <XMath>
               <XMApp>
                 <XMTok meaning="times" role="MULOP">⁢</XMTok>
@@ -1546,7 +1569,7 @@
    urldate = {2026-04-25}}
 </bib-data>
       </bibentry>
-      <bibentry key="flams:doc:on:ftml" type="website" xml:id="bib.bib56">
+      <bibentry key="flams:doc:on:ftml" type="website" xml:id="bib.bib57">
         <bib-title>FTML documentation – ftml attributes</bib-title>
         <bib-url href="https://flexiformal.github.io/ftml/ftml_parser/enum.FtmlKey.html">Link</bib-url>
         <bib-data role="urldate">2026-04-25</bib-data>
@@ -1556,7 +1579,7 @@
    urldate = {2026-04-25}}
 </bib-data>
       </bibentry>
-      <bibentry key="flams:doc:on:rdf" type="website" xml:id="bib.bib57">
+      <bibentry key="flams:doc:on:rdf" type="website" xml:id="bib.bib58">
         <bib-title>FTML documentation – rdf ontology</bib-title>
         <bib-url href="https://flexiformal.github.io/ftml/ulo/ulo/index.html">Link</bib-url>
         <bib-data role="urldate">2026-04-25</bib-data>
@@ -1566,8 +1589,8 @@
    urldate = {2026-04-25}}
 </bib-data>
       </bibentry>
-      <bibentry key="flams:doc:on:api" type="website" xml:id="bib.bib58">
-        <bib-title><Math mode="inline" tex="\textstyle\mathsf{F}\kern-1.00006pt\mathsf{L}\kern-3.6pt\raise 0.22995pt\hbox{%&#10;$\forall$}\kern-1.1pt\mathsf{M}\kern-5.0pt\int" text="FL * for-all@(M * integral)" xml:id="bib.bib58.m1">
+      <bibentry key="flams:doc:on:api" type="website" xml:id="bib.bib59">
+        <bib-title><Math mode="inline" tex="\textstyle\mathsf{F}\kern-1.00006pt\mathsf{L}\kern-3.6pt\raise 0.22995pt\hbox{%&#10;$\forall$}\kern-1.1pt\mathsf{M}\kern-5.0pt\int" text="FL * for-all@(M * integral)" xml:id="bib.bib59.m1">
             <XMath>
               <XMApp>
                 <XMTok meaning="times" role="MULOP">⁢</XMTok>
@@ -1591,8 +1614,8 @@
    urldate = {2026-04-25}}
 </bib-data>
       </bibentry>
-      <bibentry key="flams:on" type="website" xml:id="bib.bib59">
-        <bib-title><Math mode="inline" tex="\textstyle\mathsf{F}\kern-1.00006pt\mathsf{L}\kern-3.6pt\raise 0.22995pt\hbox{%&#10;$\forall$}\kern-1.1pt\mathsf{M}\kern-5.0pt\int" text="FL * for-all@(M * integral)" xml:id="bib.bib59.m1">
+      <bibentry key="flams:on" type="website" xml:id="bib.bib60">
+        <bib-title><Math mode="inline" tex="\textstyle\mathsf{F}\kern-1.00006pt\mathsf{L}\kern-3.6pt\raise 0.22995pt\hbox{%&#10;$\forall$}\kern-1.1pt\mathsf{M}\kern-5.0pt\int" text="FL * for-all@(M * integral)" xml:id="bib.bib60.m1">
             <XMath>
               <XMApp>
                 <XMTok meaning="times" role="MULOP">⁢</XMTok>
@@ -1621,7 +1644,7 @@
    urldate = {2026-04-25}}
 </bib-data>
       </bibentry>
-      <bibentry key="twiesing:phd:25" type="thesis" xml:id="bib.bib60">
+      <bibentry key="twiesing:phd:25" type="thesis" xml:id="bib.bib61">
         <bib-name role="author">
           <surname>Wiesing</surname>
           <givenname>Tom</givenname>
@@ -1641,33 +1664,6 @@
      month = {04},
       year = {2025},
       pubs = {twiesing,phdthesis}}
-</bib-data>
-      </bibentry>
-      <bibentry key="KelKohSchSch25" type="unpublished" xml:id="bib.bib61">
-        <bib-title>Linguistic definition selection in module mathematics</bib-title>
-        <bib-name role="author">
-          <surname>Kelber</surname>
-          <givenname>Josefin</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Schaefer</surname>
-          <givenname>Jan Frederik</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Schütz</surname>
-          <givenname>Marcel</givenname>
-        </bib-name>
-        <bib-date role="publication">2025</bib-date>
-        <bib-note role="annotation">submitted</bib-note>
-        <bib-data role="self" type="BibTeX">@unpublished{KelKohSchSch25,
-     title = {Linguistic Definition Selection in Module Mathematics},
-    author = {Josefin Kelber and Michael Kohlhase and Jan Frederik Schaefer and Marcel Sch{\"u}tz},
-      year = {2025},
-      note = {submitted}}
 </bib-data>
       </bibentry>
       <bibentry key="LohBerChu:lllmgcsalo24" type="article" xml:id="bib.bib62">
