@@ -18,14 +18,14 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Max</surname>
-          <givenname>Rapp</givenname>
+          <surname>Rapp</surname>
+          <givenname>Max</givenname>
         </bib-name>
         <bib-date role="publication">2026</bib-date>
         <bib-data role="pubs">direga,mkohlhase,mrapp,abasaran</bib-data>
         <bib-data role="self" type="BibTeX">@article{BasKohRap:tlt26,
      title = {The Legal Tetrapod},
-    author = {Basaran, {Osman Anil} and Kohlhase, Michael and Max, Rapp},
+    author = {Basaran, {Osman Anil} and Kohlhase, Michael and Rapp, Max},
       year = {2026},
       pubs = {direga,mkohlhase,mrapp,abasaran}}
 </bib-data>
@@ -710,17 +710,17 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Towards a flexiformal legal domain model</bib-title>
-        <bib-subtitle>Or: the Flexiformal Legal Domain Model</bib-subtitle>
         <bib-date role="publication">2026</bib-date>
-        <bib-data role="journal">Lecture Notes in Legal Informatics</bib-data>
+        <bib-related role="host" type="proceedings">
+          <bib-part role="series">Der Moderne Staat</bib-part>
+        </bib-related>
         <bib-data role="pubs">mkohlhase,abasaran,voll-ki,faustairs,direga</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{BasKoh:rvi2026,
     author = {Basaran, Anil and Kohlhase, Michael},
      title = {Towards a Flexiformal Legal domain Model},
-  subtitle = {Or: the Flexiformal Legal Domain Model},
       year = {2026},
-   journal = {Lecture Notes in Legal Informatics},
+    series = {Der Moderne Staat},
       pubs = {mkohlhase,abasaran,voll-ki,faustairs,direga},
   keywords = {conference}}
 </bib-data>
