@@ -709,24 +709,14 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-title>Towards a flexiformal legal domain model</bib-title>
-        <bib-date role="publication">2026</bib-date>
-        <bib-related role="host" type="proceedings">
-          <bib-part role="series">Der Moderne Staat</bib-part>
-        </bib-related>
-        <bib-data role="pubs">mkohlhase,abasaran,voll-ki,faustairs,direga</bib-data>
-        <bib-extract role="keywords">conference</bib-extract>
+        <bib-data role="&lt;&lt;&lt;&lt;&lt;&lt;&lt;">head</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{BasKoh:rvi2026,
     author = {Basaran, Anil and Kohlhase, Michael},
-     title = {Towards a Flexiformal Legal domain Model},
-      year = {2026},
-    series = {Der Moderne Staat},
-      pubs = {mkohlhase,abasaran,voll-ki,faustairs,direga},
-  keywords = {conference}}
+   &lt;&lt;&lt;&lt;&lt;&lt;&lt; = {head}}
 </bib-data>
       </bibentry>
       <bibentry key="AdrBasBot:mss26" type="inproceedings" xml:id="bib.bib23">
-        <bib-title>Herausforderungen bei der automatisierung im registerwesen mit symbolischer ki und maschinellem lernen</bib-title>
+        <bib-title>Herausforderungen bei der automatisierung im registerwesen mit symbolischer KI und maschinellem lernen</bib-title>
         <bib-subtitle>DIREGA und das Beispiel der Eintragung eines Nießbrauchs an einem Kommanditanteil ins Handelsregister</bib-subtitle>
         <bib-name role="author">
           <surname>Adrian</surname>
@@ -791,7 +781,7 @@
         <bib-data role="pubs">direga,mkohlhase,mrapp,abasaran</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{AdrBasBot:mss26,
-     title = {Herausforderungen bei der Automatisierung im Registerwesen mit symbolischer KI und maschinellem Lernen},
+     title = {Herausforderungen bei der Automatisierung im Registerwesen mit symbolischer {KI} und maschinellem Lernen},
   subtitle = {DIREGA und das Beispiel der Eintragung eines Nießbrauchs an einem Kommanditanteil ins Handelsregister},
     author = {Axel Adrian and Stephanie Evert and Michael Kohlhase and Andreas Maier and Lutz Schr{\"o}der and Osman Anil Basaran and Steffen Bothe and Merlin Humml and Stephan Prettner and Max Gabriel Rapp and Michael Gritz and Verena St{\"u}rmer and Johannes Lindner and Moritz Bl{\"o}cher},
  booktitle = {IRIS 2026: Internationales Rechtsinformatik Symposion},
@@ -1268,7 +1258,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="AdrEveKoh:mss25" type="inproceedings" xml:id="bib.bib48">
-        <bib-title>Maschinelles schliessen mit s(casp) – anmeldung eines neuen geschäftsführers einer gmbh zum handelsregister</bib-title>
+        <bib-title>Maschinelles schliessen mit s(CASP) – anmeldung eines neuen geschäftsführers einer gmbh zum handelsregister</bib-title>
         <bib-name role="author">
           <surname>Adrian</surname>
           <givenname>Axel</givenname>
@@ -1332,7 +1322,7 @@
         <bib-data role="pubs">direga,mkohlhase,mrapp,abasaran</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{AdrEveKoh:mss25,
-     title = {Maschinelles Schliessen mit s(CASP) – Anmeldung eines neuen Geschäftsführers einer GmbH zum Handelsregister},
+     title = {Maschinelles Schliessen mit {s(CASP)} – Anmeldung eines neuen Geschäftsführers einer GmbH zum Handelsregister},
     author = {Axel Adrian and Stephanie Evert and Michael Kohlhase and Andreas Maier and Lutz Schr{\"o}der and Osman Anil Basaran and Steffen Bothe and Merlin Humml and Stephan Prettner and Max Gabriel Rapp and Michael Gritz and Verena St{\"u}rmer and Johannes Lindner and Moritz Bl{\"o}cher},
  booktitle = {IRIS 2025: Internationales Rechtsinformatik Symposion},
       year = {2025},
@@ -1421,7 +1411,7 @@
         <bib-data role="pubs">direga,mkohlhase,mrapp,abasaran</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{AdrBasDyk:dbsgrl24,
     author = {Axel Adrian and Osman Anil Basaran and and N. Dykes and Stephanie Evert and Michael Gritz  and Merlin Humml and Michael Kohlhase and Johannes Lindner and Andreas Maier and Stephan Prettner  and Max Gabriel Rapp  and Lutz Schr{\"o}der and Verena St{\"u}rmer},
-     title = {DIREGA. Building Decision Support for German Register Law.},
+     title = {{DIREGA}. Building Decision Support for German Register Law.},
     editor = {Savelka, J. and Harasta, J. and Novotna, T. and Misek, J.},
     series = {Frontiers in Artificial Intelligence and Applications},
  booktitle = {Legal Knowledge and Information Systems, JURIX 2024 (Brno)},
