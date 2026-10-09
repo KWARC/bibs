@@ -947,7 +947,7 @@
           <givenname>Florian</givenname>
         </bib-name>
         <bib-title>NuFrameIT: serious games via computation and reasoning</bib-title>
-        <bib-related role="host" type="proceedings"><bib-title>Mathematical software – icms 2026. 10th international conference</bib-title><bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data><bib-part role="series">LNCS</bib-part><bib-data role="soonvolume">12097</bib-data><bib-data role="soonpublisher">Springer</bib-data><bib-data role="soonisbn">978-3-030-52199-8</bib-data><bib-date role="publication">2026</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{ICMS26,
+        <bib-related role="host" type="proceedings"><bib-title>Mathematical software – icms 2026. 10th international conference</bib-title><bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data><bib-part role="series">LNCS</bib-part><bib-data role="soonvolume">12097</bib-data><bib-data role="soonpublisher">Springer</bib-data><bib-data role="soonisbn">978-3-030-52199-8</bib-data><bib-date role="publication">2026</bib-date><bib-note role="annotation">in press</bib-note><bib-url href="https://icms-conference.org/2026/papers/index.html">Link</bib-url><bib-data role="self" type="BibTeX">@proceedings{ICMS26,
  booktitle = {Mathematical Software – ICMS 2026. 7th international conference},
      title = {Mathematical Software – ICMS 2026. 10th international conference},
  sooneditor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
@@ -957,7 +957,7 @@
   soonisbn = {978-3-030-52199-8},
       year = {2026},
       note = {in press},
-  keywords = {conference}}
+       url = {https://icms-conference.org/2026/papers/index.html}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/kohlhase/submit/icms26-nuframeit.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,frabe,frameit</bib-data>
@@ -985,7 +985,7 @@
           <givenname>Michael</givenname>
         </bib-name>
         <bib-title>Extend your math with semantics and services</bib-title>
-        <bib-related role="host" type="proceedings"><bib-title>Mathematical software – icms 2026. 10th international conference</bib-title><bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data><bib-part role="series">LNCS</bib-part><bib-data role="soonvolume">12097</bib-data><bib-data role="soonpublisher">Springer</bib-data><bib-data role="soonisbn">978-3-030-52199-8</bib-data><bib-date role="publication">2026</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{ICMS26,
+        <bib-related role="host" type="proceedings"><bib-title>Mathematical software – icms 2026. 10th international conference</bib-title><bib-data role="sooneditor">Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo</bib-data><bib-part role="series">LNCS</bib-part><bib-data role="soonvolume">12097</bib-data><bib-data role="soonpublisher">Springer</bib-data><bib-data role="soonisbn">978-3-030-52199-8</bib-data><bib-date role="publication">2026</bib-date><bib-note role="annotation">in press</bib-note><bib-url href="https://icms-conference.org/2026/papers/index.html">Link</bib-url><bib-data role="self" type="BibTeX">@proceedings{ICMS26,
  booktitle = {Mathematical Software – ICMS 2026. 7th international conference},
      title = {Mathematical Software – ICMS 2026. 10th international conference},
  sooneditor = {Bigatti, Anna Maria and Carette, Jacques and Davenport, James H. and Joswig, Michael and de Wolff, Timo},
@@ -995,7 +995,7 @@
   soonisbn = {978-3-030-52199-8},
       year = {2026},
       note = {in press},
-  keywords = {conference}}
+       url = {https://icms-conference.org/2026/papers/index.html}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/kohlhase/submit/icms26-semantics.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,dmueller,voll-ki,faustairs</bib-data>
@@ -1029,18 +1029,16 @@
         </bib-name><bib-name role="editor">
           <surname>Koepke</surname>
           <givenname>Peter</givenname>
-        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-data role="soonvolume">16136</bib-data><bib-data role="soonisbn">978-3-032-07020-3</bib-data><bib-date role="publication">2026</bib-date><bib-extract role="keywords">conference</bib-extract><bib-note role="annotation">in press</bib-note><bib-data role="self" type="BibTeX">@proceedings{CICM26,
+        </bib-name><bib-title>Intelligent computer mathematics</bib-title><bib-publisher>Springer</bib-publisher><bib-part role="series">LNAI</bib-part><bib-part role="volume">16907</bib-part><bib-date role="publication">2026</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{CICM26,
      label = {CICM},
     editor = {Valeria de Paiva and Peter Koepke},
      title = {Intelligent Computer Mathematics},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2026},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {16136},
-  soonisbn = {978-3-032-07020-3},
+    volume = {16907},
       year = {2026},
-  keywords = {conference},
-      note = {in press}}
+  keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/kohlhase/submit/cicm26-learner-model.pdf">Link</bib-url>
         <bib-data role="pubs">mkohlhase,jbetzendahl,voll-ki,faustairs</bib-data>
@@ -3022,12 +3020,11 @@
         </bib-name>
         <bib-title>Learning with alea: tailored experiences through annotated course material</bib-title>
         <bib-date role="publication">2023</bib-date>
-        <bib-related role="host" type="proceedings"><bib-title>KI-bildung</bib-title><bib-publisher>Gesellschaft für Informatik e.V. (GI)</bib-publisher><bib-part role="series">Lecture Notes in Informatics</bib-part><bib-date role="publication">2023</bib-date><bib-note role="annotation">in press</bib-note><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{KIBildung23,
+        <bib-related role="host" type="proceedings"><bib-title>KI-bildung</bib-title><bib-publisher>Gesellschaft für Informatik e.V. (GI)</bib-publisher><bib-part role="series">Lecture Notes in Informatics</bib-part><bib-date role="publication">2023</bib-date><bib-extract role="keywords">conference</bib-extract><bib-data role="self" type="BibTeX">@proceedings{KIBildung23,
      title = {KI-Bildung},
  publisher = {Gesellschaft für Informatik e.V. (GI)},
     series = {Lecture Notes in Informatics},
       year = {2023},
-      note = {in press},
   keywords = {conference}}
 </bib-data></bib-related>
         <bib-url href="https://kwarc.info/people/dmueller/pubs/ws_alea_voll-ki.pdf">Link</bib-url>
@@ -41289,14 +41286,12 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-publisher>Gesellschaft für Informatik e.V. (GI)</bib-publisher>
         <bib-part role="series">Lecture Notes in Informatics</bib-part>
         <bib-date role="publication">2023</bib-date>
-        <bib-note role="annotation">in press</bib-note>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{KIBildung23,
      title = {KI-Bildung},
  publisher = {Gesellschaft für Informatik e.V. (GI)},
     series = {Lecture Notes in Informatics},
       year = {2023},
-      note = {in press},
   keywords = {conference}}
 </bib-data>
       </bibentry>
@@ -41375,11 +41370,9 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
-        <bib-data role="soonvolume">16136</bib-data>
-        <bib-data role="soonisbn">978-3-032-07020-3</bib-data>
+        <bib-part role="volume">16907</bib-part>
         <bib-date role="publication">2026</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@proceedings{CICM26,
      label = {CICM},
     editor = {Valeria de Paiva and Peter Koepke},
@@ -41387,11 +41380,9 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2026},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {16136},
-  soonisbn = {978-3-032-07020-3},
+    volume = {16907},
       year = {2026},
-  keywords = {conference},
-      note = {in press}}
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM23" type="proceedings" xml:id="bib.bib1327">
@@ -41599,7 +41590,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
         <bib-data role="soonisbn">978-3-030-52199-8</bib-data>
         <bib-date role="publication">2026</bib-date>
         <bib-note role="annotation">in press</bib-note>
-        <bib-extract role="keywords">conference</bib-extract>
+        <bib-url href="https://icms-conference.org/2026/papers/index.html">Link</bib-url>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS26,
  booktitle = {Mathematical Software – ICMS 2026. 7th international conference},
      title = {Mathematical Software – ICMS 2026. 10th international conference},
@@ -41610,7 +41601,7 @@ Petr Sojka and Josef Urban and Stephen M. Watt},
   soonisbn = {978-3-030-52199-8},
       year = {2026},
       note = {in press},
-  keywords = {conference}}
+       url = {https://icms-conference.org/2026/papers/index.html}}
 </bib-data>
       </bibentry>
       <bibentry key="GabSieWoo:cl14" type="collection" xml:id="bib.bib1336">

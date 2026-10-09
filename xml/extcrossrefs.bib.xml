@@ -118,14 +118,12 @@
         <bib-publisher>Gesellschaft für Informatik e.V. (GI)</bib-publisher>
         <bib-part role="series">Lecture Notes in Informatics</bib-part>
         <bib-date role="publication">2023</bib-date>
-        <bib-note role="annotation">in press</bib-note>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@proceedings{KIBildung23,
      title = {KI-Bildung},
  publisher = {Gesellschaft für Informatik e.V. (GI)},
     series = {Lecture Notes in Informatics},
       year = {2023},
-      note = {in press},
   keywords = {conference}}
 </bib-data>
       </bibentry>
@@ -204,11 +202,9 @@
         <bib-title>Intelligent computer mathematics</bib-title>
         <bib-publisher>Springer</bib-publisher>
         <bib-part role="series">LNAI</bib-part>
-        <bib-data role="soonvolume">16136</bib-data>
-        <bib-data role="soonisbn">978-3-032-07020-3</bib-data>
+        <bib-part role="volume">16907</bib-part>
         <bib-date role="publication">2026</bib-date>
         <bib-extract role="keywords">conference</bib-extract>
-        <bib-note role="annotation">in press</bib-note>
         <bib-data role="self" type="BibTeX">@proceedings{CICM26,
      label = {CICM},
     editor = {Valeria de Paiva and Peter Koepke},
@@ -216,11 +212,9 @@
  booktitle = {Intelligent Computer Mathematics ({CICM}) 2026},
  publisher = {Springer},
     series = {LNAI},
- soonvolume = {16136},
-  soonisbn = {978-3-032-07020-3},
+    volume = {16907},
       year = {2026},
-  keywords = {conference},
-      note = {in press}}
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="CICM23" type="proceedings" xml:id="bib.bib10">
@@ -428,7 +422,7 @@
         <bib-data role="soonisbn">978-3-030-52199-8</bib-data>
         <bib-date role="publication">2026</bib-date>
         <bib-note role="annotation">in press</bib-note>
-        <bib-extract role="keywords">conference</bib-extract>
+        <bib-url href="https://icms-conference.org/2026/papers/index.html">Link</bib-url>
         <bib-data role="self" type="BibTeX">@proceedings{ICMS26,
  booktitle = {Mathematical Software – ICMS 2026. 7th international conference},
      title = {Mathematical Software – ICMS 2026. 10th international conference},
@@ -439,7 +433,7 @@
   soonisbn = {978-3-030-52199-8},
       year = {2026},
       note = {in press},
-  keywords = {conference}}
+       url = {https://icms-conference.org/2026/papers/index.html}}
 </bib-data>
       </bibentry>
       <bibentry key="GabSieWoo:cl14" type="collection" xml:id="bib.bib19">
