@@ -706,10 +706,22 @@
           <surname>Kohlhase</surname>
           <givenname>Michael</givenname>
         </bib-name>
-        <bib-data role="&lt;&lt;&lt;&lt;&lt;&lt;&lt;">head</bib-data>
+        <bib-title>Towards a flexiformal legal domain model</bib-title>
+        <bib-subtitle>Or: the Flexiformal Legal Domain Model</bib-subtitle>
+        <bib-date role="publication">2026</bib-date>
+        <bib-related role="host" type="proceedings">
+          <bib-part role="series">Der Moderne Staat</bib-part>
+        </bib-related>
+        <bib-data role="pubs">mkohlhase,abasaran,voll-ki,faustairs,direga</bib-data>
+        <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{BasKoh:rvi2026,
     author = {Basaran, Anil and Kohlhase, Michael},
-   &lt;&lt;&lt;&lt;&lt;&lt;&lt; = {head}}
+     title = {Towards a Flexiformal Legal Domain Model},
+  subtitle = {Or: the Flexiformal Legal Domain Model},
+      year = {2026},
+    series = {Der Moderne Staat},
+      pubs = {mkohlhase,abasaran,voll-ki,faustairs,direga},
+  keywords = {conference}}
 </bib-data>
       </bibentry>
       <bibentry key="AdrBasBot:mss26" type="inproceedings" xml:id="bib.bib23">
