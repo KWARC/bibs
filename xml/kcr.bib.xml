@@ -50,21 +50,21 @@
       pubs = {jfschaefer,mschuetz,faustairs}}
 </bib-data>
       </bibentry>
-      <bibentry key="Bozorgchami:msc26" type="thesis" xml:id="bib.bib3">
+      <bibentry key="Imhoff:msc26" type="thesis" xml:id="bib.bib3">
         <bib-name role="author">
           <surname>Imhoff</surname>
           <givenname>Josephina</givenname>
         </bib-name>
-        <bib-title>Leveraging examples in adaptive learning assistants – a conceptual framework for realizing concept imates</bib-title>
+        <bib-title>Leveraging examples in adaptive learning assistants – a conceptual framework for realising concept images</bib-title>
         <bib-organization>FAU Erlangen-Nürnberg</bib-organization>
         <bib-date role="publication">2026-08</bib-date>
         <bib-data role="month">8</bib-data>
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/raw/master/2026/Imhoff_Josephina.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,faustairs,jimhoff</bib-data>
-        <bib-data role="self" type="BibTeX">@mastersthesis{Bozorgchami:msc26,
+        <bib-data role="self" type="BibTeX">@mastersthesis{Imhoff:msc26,
     author = {Josephina Imhoff},
-     title = {Leveraging Examples in Adaptive Learning Assistants – A conceptual framework for realizing Concept Imates},
+     title = {Leveraging Examples in Adaptive Learning Assistants – A conceptual framework for realising Concept Images},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2026},
      month = {8},
@@ -73,10 +73,10 @@
       pubs = {mscthesis,faustairs,jimhoff}}
 </bib-data>
       </bibentry>
-      <bibentry key="Bozorgchami:bsc26" type="thesis" xml:id="bib.bib4">
+      <bibentry key="Bozorgchami:msc26" type="thesis" xml:id="bib.bib4">
         <bib-name role="author">
           <surname>Bozorgchami</surname>
-          <givenname>Berooz</givenname>
+          <givenname>Behrooz</givenname>
         </bib-name>
         <bib-title>TripartiteRAFT</bib-title>
         <bib-organization>FAU Erlangen-Nürnberg</bib-organization>
@@ -85,8 +85,8 @@
         <bib-type>M.Sc. Thesis</bib-type>
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/raw/master/2026/Bozorgchami_Behrooz.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,faustairs,bbozorgchami</bib-data>
-        <bib-data role="self" type="BibTeX">@mastersthesis{Bozorgchami:bsc26,
-    author = {Berooz Bozorgchami},
+        <bib-data role="self" type="BibTeX">@mastersthesis{Bozorgchami:msc26,
+    author = {Behrooz Bozorgchami},
      title = {TripartiteRAFT},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2026},
