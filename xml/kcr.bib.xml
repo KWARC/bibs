@@ -60,7 +60,7 @@
         <bib-date role="publication">2026-08</bib-date>
         <bib-data role="month">8</bib-data>
         <bib-type>M.Sc. Thesis</bib-type>
-        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/raw/master/2026/Imhoff_Josephina.pdf">Link</bib-url>
+        <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/raw/master/2026/Imhoff_Josephina.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,faustairs,jimhoff</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Imhoff:msc26,
     author = {Josephina Imhoff},
@@ -69,7 +69,7 @@
       year = {2026},
      month = {8},
       type = {M.Sc. Thesis},
-       url = {https://gl.kwarc.info/supervision/BSc-archive/raw/master/2026/Imhoff_Josephina.pdf},
+       url = {https://gl.kwarc.info/supervision/MSc-archive/raw/master/2026/Imhoff_Josephina.pdf},
       pubs = {mscthesis,faustairs,jimhoff}}
 </bib-data>
       </bibentry>
@@ -83,7 +83,7 @@
         <bib-date role="publication">2026-07</bib-date>
         <bib-data role="month">7</bib-data>
         <bib-type>M.Sc. Thesis</bib-type>
-        <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/raw/master/2026/Bozorgchami_Behrooz.pdf">Link</bib-url>
+        <bib-url href="https://gl.kwarc.info/supervision/MSc-archive/raw/master/2026/Bozorgchami_Behrooz.pdf">Link</bib-url>
         <bib-data role="pubs">mscthesis,faustairs,bbozorgchami</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Bozorgchami:msc26,
     author = {Behrooz Bozorgchami},
@@ -92,7 +92,7 @@
       year = {2026},
      month = {7},
       type = {M.Sc. Thesis},
-       url = {https://gl.kwarc.info/supervision/BSc-archive/raw/master/2026/Bozorgchami_Behrooz.pdf},
+       url = {https://gl.kwarc.info/supervision/MSc-archive/raw/master/2026/Bozorgchami_Behrooz.pdf},
       pubs = {mscthesis,faustairs,bbozorgchami}}
 </bib-data>
       </bibentry>
