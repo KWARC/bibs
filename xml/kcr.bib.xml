@@ -850,7 +850,7 @@
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
         </bib-name>
-        <bib-title>The flexiformal manifesto made manifest</bib-title>
+        <bib-title>The flexiformalist manifesto made manifest</bib-title>
         <bib-url href="https://mathhub.info/?a=Papers/26-BAI-FLAMS&amp;rp=paper.tex">Link</bib-url>
         <bib-related role="host" type="proceedings"><bib-name role="editor">
           <surname>Daimi</surname>
@@ -893,7 +893,7 @@
         <bib-date role="publication">2026</bib-date>
         <bib-data role="self" type="BibTeX">@inproceedings{DM:tfmmm26,
     author = {Dennis Müller},
-     title = {The Flexiformal Manifesto Made Manifest},
+     title = {The Flexiformalist Manifesto Made Manifest},
        url = {https://mathhub.info/?a=Papers/26-BAI-FLAMS&amp;rp=paper.tex},
   crossref = {BAI26},
       pubs = {mkohlhase,dmueller,voll-ki,faustairs},

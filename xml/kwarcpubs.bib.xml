@@ -853,13 +853,13 @@
           <surname>Müller</surname>
           <givenname>Dennis</givenname>
         </bib-name>
-        <bib-title>The flexiformal manifesto made manifest</bib-title>
+        <bib-title>The flexiformalist manifesto made manifest</bib-title>
         <bib-url href="https://mathhub.info/?a=Papers/26-BAI-FLAMS&amp;rp=paper.tex">Link</bib-url>
         <bib-related bibrefs="BAI26" role="host"/>
         <bib-data role="pubs">mkohlhase,dmueller,voll-ki,faustairs</bib-data>
         <bib-data role="self" type="BibTeX">@inproceedings{DM:tfmmm26,
     author = {Dennis Müller},
-     title = {The Flexiformal Manifesto Made Manifest},
+     title = {The Flexiformalist Manifesto Made Manifest},
        url = {https://mathhub.info/?a=Papers/26-BAI-FLAMS&amp;rp=paper.tex},
   crossref = {BAI26},
       pubs = {mkohlhase,dmueller,voll-ki,faustairs}}
