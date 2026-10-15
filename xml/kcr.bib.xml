@@ -712,7 +712,7 @@
         <bib-related role="host" type="proceedings">
           <bib-part role="series">Der Moderne Staat</bib-part>
         </bib-related>
-        <bib-data role="pubs">mkohlhase,abasaran,voll-ki,faustairs,direga</bib-data>
+        <bib-data role="pubs">mkohlhase,abasaran,voll-ki,direga</bib-data>
         <bib-extract role="keywords">conference</bib-extract>
         <bib-data role="self" type="BibTeX">@inproceedings{BasKoh:rvi2026,
     author = {Basaran, Anil and Kohlhase, Michael},
@@ -720,7 +720,7 @@
   subtitle = {Or: the Flexiformal Legal Domain Model},
       year = {2026},
     series = {Der Moderne Staat},
-      pubs = {mkohlhase,abasaran,voll-ki,faustairs,direga},
+      pubs = {mkohlhase,abasaran,voll-ki,direga},
   keywords = {conference}}
 </bib-data>
       </bibentry>
