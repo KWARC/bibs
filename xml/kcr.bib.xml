@@ -30156,12 +30156,8 @@ Semantics)</bib-title>
           <givenname>Michael C.</givenname>
         </bib-name>
         <bib-name role="author">
-          <surname>Gaëtano</surname>
-          <givenname>Marc</givenname>
-        </bib-name>
-        <bib-name role="author">
-          <surname>Kohlhase</surname>
-          <givenname>Michael</givenname>
+          <surname>e Kohlhase</surname>
+          <givenname>Marc Gaẗano andMichael</givenname>
         </bib-name>
         <bib-title>The Open Math standard, version 2.0</bib-title>
         <bib-organization>The OpenMath Society</bib-organization>
@@ -30173,7 +30169,7 @@ Semantics)</bib-title>
         <bib-type>Technical report</bib-type>
         <bib-data role="self" type="BibTeX">@techreport{BusCapCar:2oms04,
     author = {Stephen Buswell and Olga Caprotti and David P. Carlisle and Michael
-    C. Dewar and Marc Ga{\"e}tano and Michael Kohlhase},
+    C. Dewar and Marc Ga{\"tano and}Michael e Kohlhase},
      title = {The {Open Math} Standard, Version 2.0},
  institution = {The OpenMath Society},
       year = {2004},
