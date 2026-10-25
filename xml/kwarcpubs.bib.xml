@@ -1319,7 +1319,7 @@
 </bib-data>
       </bibentry>
       <bibentry key="Adrian:bsc25" type="thesis" xml:id="bib.bib49">
-        <bib-title>Integrating semantic authoring within rich-text environments into the omdoc semantic ecosystem – woide ii</bib-title>
+        <bib-title>Integrating semantic authoring within rich-text environments into the OMDoc semantic ecosystem – WOIDE II</bib-title>
         <bib-name role="author">
           <surname>Adrian</surname>
           <givenname>Aurelius</givenname>
@@ -1331,7 +1331,7 @@
         <bib-url href="https://gl.kwarc.info/supervision/BSc-archive/raw/master/2025/AdrianAurelius.pdf">Link</bib-url>
         <bib-data role="pubs">bscthesis,direga</bib-data>
         <bib-data role="self" type="BibTeX">@mastersthesis{Adrian:bsc25,
-     title = {Integrating Semantic Authoring within Rich-Text Environments into the OMDoc Semantic Ecosystem – WOIDE II},
+     title = {Integrating Semantic Authoring within Rich-Text Environments into the {OMDoc} Semantic Ecosystem – {WOIDE II}},
     author = {Aurelius Adrian},
     school = {FAU Erlangen-N{\"u}rnberg},
       year = {2025},
