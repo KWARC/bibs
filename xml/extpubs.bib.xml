@@ -15,11 +15,13 @@
         </bib-name>
         <bib-title>Logical fallacies explained, searchable library &amp; archive</bib-title>
         <bib-url href="https://www.logicallyfallacious.com/fallacies">Link</bib-url>
+        <bib-data role="urldate">2026-11-12</bib-data>
         <bib-data role="self" type="BibTeX">@online{Bennet:lfe:on,
      label = {LFE},
     author = {Bo Bennet},
      title = {Logical Fallacies Explained, Searchable Library \&amp; Archive},
-       url = {https://www.logicallyfallacious.com/fallacies}}
+       url = {https://www.logicallyfallacious.com/fallacies},
+   urldate = {2026-11-12}}
 </bib-data>
       </bibentry>
       <bibentry key="LTI:on" type="website" xml:id="bib.bib2">
